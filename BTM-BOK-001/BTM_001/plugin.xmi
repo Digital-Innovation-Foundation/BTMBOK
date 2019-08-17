@@ -381,7 +381,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_eupMcMCbEemEJcXpCGj6gw" name="sector" guid="_eupMcMCbEemEJcXpCGj6gw" presentationName="Sector" categorizedElements="_Z_lGMMCkEemEJcXpCGj6gw _a71TEMCkEemEJcXpCGj6gw _b5ktsMCkEemEJcXpCGj6gw _dLoygMCkEemEJcXpCGj6gw _eMnuYMCkEemEJcXpCGj6gw">
             <methodElementProperty xmi:id="_e7iY8MCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lrxWoMCbEemEJcXpCGj6gw" name="bibliography" guid="_lrxWoMCbEemEJcXpCGj6gw" presentationName="Bibliography" categorizedElements="_nBvEAMCbEemEJcXpCGj6gw _ocB3wMCbEemEJcXpCGj6gw _qp0lAMCbEemEJcXpCGj6gw _7Aq9AMCuEemEJcXpCGj6gw _9UhO8MCuEemEJcXpCGj6gw">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lrxWoMCbEemEJcXpCGj6gw" name="bibliography" guid="_lrxWoMCbEemEJcXpCGj6gw" presentationName="Bibliography" categorizedElements="_nBvEAMCbEemEJcXpCGj6gw _ocB3wMCbEemEJcXpCGj6gw _7Aq9AMCuEemEJcXpCGj6gw">
             <methodElementProperty xmi:id="_l78goMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nBvEAMCbEemEJcXpCGj6gw" name="articles" guid="_nBvEAMCbEemEJcXpCGj6gw" presentationName="Articles">
@@ -389,9 +389,6 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ocB3wMCbEemEJcXpCGj6gw" name="books" guid="_ocB3wMCbEemEJcXpCGj6gw" presentationName="Books" briefDescription="boo">
             <methodElementProperty xmi:id="_pcG0sMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qp0lAMCbEemEJcXpCGj6gw" name="standards" guid="_qp0lAMCbEemEJcXpCGj6gw" presentationName="Standards" briefDescription="Whitepapers">
-            <methodElementProperty xmi:id="_tIHzcMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_LHxZ4MCjEemEJcXpCGj6gw" name="governance" guid="_LHxZ4MCjEemEJcXpCGj6gw" presentationName="Governance">
             <methodElementProperty xmi:id="_LX_AIMCjEemEJcXpCGj6gw" name="me_edited" value="true"/>
@@ -620,9 +617,6 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7Aq9AMCuEemEJcXpCGj6gw" name="web" guid="_7Aq9AMCuEemEJcXpCGj6gw" presentationName="Web">
             <methodElementProperty xmi:id="_7bhF8MCuEemEJcXpCGj6gw" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_9UhO8MCuEemEJcXpCGj6gw" name="tools" guid="_9UhO8MCuEemEJcXpCGj6gw" presentationName="Tools">
-            <methodElementProperty xmi:id="_-FgnAMCuEemEJcXpCGj6gw" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
