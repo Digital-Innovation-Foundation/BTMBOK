@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dXWns6vYrzz8S97qsqkyRw" name="uam_define_logical_entity,_czkLENNoEdyTfZVjf0InKw" guid="-dXWns6vYrzz8S97qsqkyRw" authors="DW Enstrom" changeDate="2014-10-23T14:09:07.676-0400" changeDescription="update for UAM" version="2.0.1">
+  <mainDescription>Logical entities are the things passed between activities or produced by activities and tasks (see: &lt;a&#xD;
+class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/whitepapers/uam_bpmn_intro_tutorial_426154F6.html&quot;&#xD;
+guid=&quot;_gYTbgN2MEdyVUKFKTmaZUA&quot;>Whitepaper: BPMN - an Introductory Tutorial&lt;/a>). They are likely persistent, but not&#xD;
+necessarily. It is important to document enough detail&amp;nbsp;of these entities at this stage of the architecture to&#xD;
+understand how they are used within business processes, and what relationships between them are required, all in the&#xD;
+support of the business processes and activities. Refinement of their definitions and structure is also done.</mainDescription>
+  <sections xmi:id="_P2aQwNNrEdyTfZVjf0InKw" name="Refine data entities" guid="_P2aQwNNrEdyTfZVjf0InKw">
+    <sectionDescription>&lt;p>&#xD;
+    This step takes the business entities, defined in the business level view of the IT architecture, and refines their&#xD;
+    definition. This is done through refinement of their attributes, refinement of their relationships, and perhaps&#xD;
+    breaking out a high-level business entity into several logical level entities (e.g. A &quot;newspaper&quot; is refined into&#xD;
+    multiple sections such as &lt;em>Main&lt;/em>, &lt;em>City&lt;/em>, &lt;em>Business&lt;/em>, &lt;em>Sports&lt;/em>, etc.).&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_VK0JoNNrEdyTfZVjf0InKw" name="Define the logical entity model" guid="_VK0JoNNrEdyTfZVjf0InKw">
+    <sectionDescription>&lt;p>&#xD;
+    The purpose of the Logical Entity Model is to provide an idealized logical view of the data and their relationships&#xD;
+    that is independent of any specific software or database implementation. In the IT architecture context the concept of&#xD;
+    normalization is &lt;em>not&lt;/em> required since we are not concerned with what the data needs to look like in a&#xD;
+    database.&amp;nbsp;Therefore this Logical Entity Model is &lt;em>&lt;strong>not&lt;/strong>&lt;/em> considered to be part of a Logical&#xD;
+    Data Model, it is a separate work product.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The model created is&amp;nbsp;a refinement of the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/workproducts/uam_business_entity_model_69088419.html&quot; guid=&quot;_x4uSUMOCEdyILM4NThxMFg&quot;>Business Entity&#xD;
+    Model&lt;/a>&amp;nbsp;(which is conceptual in nature), refining the structure, relationships and attributes based upon&#xD;
+    scenarios and the specific requirements placed on the entities by these processes and activities. Structural aspects&#xD;
+    are also defined at this level: aggregation and generalization. Candidate keys and other structured storage aspects may&#xD;
+    be added as well, but are optional.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_G6QeUN5REdyg17nU3bVmlA" name="Evaluate your results" guid="_G6QeUN5REdyg17nU3bVmlA">
+    <sectionDescription>&lt;p>&#xD;
+    Check to ensure that the model is consistent and complete. Validate logical design choices with domain experts or other&#xD;
+    sources. Architectural choices made may need to be documented and justified in Architectural Decisions (see: &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../UAM/workproducts/uam_architectural_decision_E4B96628.html&quot;&#xD;
+    guid=&quot;_WY_zYMKpEdy4DtCs1YI90Q&quot;>Architectural Decision&lt;/a>).&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    This task defines the logical entities and&amp;nbsp;their structure&amp;nbsp;within the architecture in question. Specifically&#xD;
+    to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define or refine the data involved in and supporting the logical processes;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define or refine the relationships that need to be supported between entities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define or refine the detailed attributes of these data entities.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The Logical Entity Model describes the logical structure of the persistent information managed by the system. This&#xD;
+    model&amp;nbsp;is initially created from&amp;nbsp;the set of persistent&amp;nbsp;classes in the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/workproducts/uam_business_entity_model_69088419.html&quot; guid=&quot;_x4uSUMOCEdyILM4NThxMFg&quot;>Business Entity&#xD;
+    Model&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Logical Entity Model is refined to clarify the attributes of the data and to identify the&amp;nbsp;relationships to be&#xD;
+    supported between data entities.&amp;nbsp;&amp;nbsp;At the Logical level, structure is added to the model in terms of&#xD;
+    aggregations and generalizations.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-0OGzv1XDMg3HggLxNJaPeA" name="eg_bl_lpl_lrm_analyze-info,_vzfRYK7KEeOnpNaz6NPWjg" guid="-0OGzv1XDMg3HggLxNJaPeA" changeDate="2015-11-07T14:32:45.606-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Analyze Information Process with Roles in context&quot; src=&quot;./resources/BL-Logical-LRM-Analyse-Info.png&quot; />&#xD;
+&lt;/p>ThuNorTech gathers information in support of Customer Needs from many sources, most of which are on the Internet. Raw&#xD;
+information (information not in an organized or analyzed state) and open source information (information freely available&#xD;
+on the Internet from Partners and other sources) and organizing it and making it available for analysts to do their&amp;nbsp;&#xD;
+research. Research Analysts&amp;nbsp;sift through the provided partner information and open source information based upon&#xD;
+topics defined by the Information Needs and collate this information and other information in preparation for writing&#xD;
+research reports.</problem>
+  <goals>&lt;h3>&#xD;
+    Research&amp;nbsp;Analyst Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Once Source Information of interest are found by&amp;nbsp;this role, they are analyzed, printed and perhaps distributed&#xD;
+    further. Information of interest is collated and made available for the production of a Research Report.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the Analyze Topics/Metrics, Augment Information, Analyze Information, Augment Information, Tag Source information&#xD;
+    and Queue Report Task activities.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

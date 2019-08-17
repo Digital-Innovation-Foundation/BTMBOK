@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_dNuyh-0q5vpCiIiLfbj6w" name="supporting_requirements,_BVh9cL-CEdqb7N6KIeDL8Q" guid="-_dNuyh-0q5vpCiIiLfbj6w" changeDate="2007-06-06T08:19:08.886-0400">
+  <mainDescription>&lt;p>&#xD;
+    Supporting Requirements and Use Cases, together, define the system requirements. Use Cases describe the behavioral&#xD;
+    requirements for the system, and Supporting Requirements describe system-wide requirements that are not captured within&#xD;
+    the Use-Case Specifications. Making this distinction simplifies maintenance.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Supporting Requirements may be categorized according to the FURPS+ model (Functional, Usability, Reliability,&#xD;
+    Performance, Supportability + Constraints). For more information on this classification, see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/concepts/supporting_requirements_B2C4D610.html&quot; guid=&quot;_VXZ5wO0IEdqHTdbLTmC5IQ&quot;>Concept: Supporting Requirements&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The figure that follows illustrates the relationship among the Supporting Requirements, Use-Case Specifications, and&#xD;
+    Actors.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;400&quot; alt=&quot;&quot; src=&quot;./resources/supporting_reguirements2.gif&quot; width=&quot;600&quot; />&#xD;
+&lt;/p></mainDescription>
+  <impactOfNotHaving>&lt;p>&#xD;
+    The goal of this work product is to make sure that all types of requirements are covered, which reduces the risk of not&#xD;
+    considering some important facet of the system. FURPS+ requirements are system-wide, and they influence the&#xD;
+    Architectural Mechanisms that you will create, thus guiding development of the system's foundation. These requirements&#xD;
+    are frequently the major cost item, because they determine architectural choices.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Furthermore, if you do not capture system-wide requirements in a central location, but repeat them throughout the Use&#xD;
+    Cases, the result will be more maintenance and more chance for error.&#xD;
+&lt;/p></impactOfNotHaving>
+  <representationOptions>&lt;h4>&#xD;
+&#xD;
+    Recommendation: Use the Supporting Requirements Specification Template&#xD;
+&#xD;
+&lt;/h4>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/guidances/templates/supporting_requirements_spec_4223C78.html&quot; guid=&quot;_ItYXcNa9Edqrw4BYKyYKiA&quot;>Supporting Requirements Specification&lt;/a> template provides a tool to capture,&#xD;
+&#xD;
+    structure, and organize the supporting requirements.&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    Even in a small project, a requirements management tool, a database, or a spreadsheet, are recommended for prioritizing&#xD;
+&#xD;
+    and managing requirements. If Stakeholders are comfortable with accessing requirements directly from that tool, or with&#xD;
+&#xD;
+    accessing a report automatically generated from the tool, you do not need a separate document.&#xD;
+&#xD;
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

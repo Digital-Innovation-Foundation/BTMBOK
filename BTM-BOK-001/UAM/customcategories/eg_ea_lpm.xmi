@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ar0UTYPjSLr-fStym92cgA" name="eg_ea_lpm,_AZR18cJdEeKSedlRPHdUIQ" guid="-Ar0UTYPjSLr-fStym92cgA" changeDate="2014-02-19T15:26:03.479-0500" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;Logical Process Model Root&quot; src=&quot;./resources/EA-Logical-LPM-Top.png&quot;&#xD;
+    usemap=&quot;#map1392843658604&quot; />&lt;map id=&quot;map1392843658604&quot; name=&quot;map1392843658604&quot;>&#xD;
+        &lt;area title=&quot;ThuNorTech Enterprise Logical Process Model - IT Research Business Line&quot;&#xD;
+        href=&quot;./../../UAM/customcategories/eg_ea_lpm_it-research_A616224C.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech Enterprise Logical Process Model - IT Research Business Line&quot; coords=&quot;42,1,115,68&quot;&#xD;
+        guid=&quot;_ZWqkUJmoEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;ThuNorTech Enterprise Logical Process Model - IT Solutions Business Line&quot;&#xD;
+        href=&quot;./../../UAM/customcategories/eg_ea_lpm_it-solutions_936C9D7F.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech Enterprise Logical Process Model - IT Solutions Business Line&quot; coords=&quot;231,1,301,69&quot;&#xD;
+        guid=&quot;_jfsCwJmoEeOJEracaeLisg&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot; src=&quot;./resources/Drill%20Down-33.jpg&quot;&#xD;
+    width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This diagram is the root of the EA level Logical Process Model, linking to the two &quot;Business Lines&quot; (BL) of&#xD;
+    ThuNorTech,&amp;nbsp;&quot;IT Research&quot; and &quot;IT Solutions&quot;. That is, due to the complexity and differences there are two&#xD;
+    separate Logical Process Models defined, one for each Business Line.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Click above on the desired LPM to view it.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

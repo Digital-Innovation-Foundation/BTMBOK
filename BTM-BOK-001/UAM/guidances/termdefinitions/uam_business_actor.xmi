@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-1NRs7LIy7f_jsAZUCUqKlg" name="new_term_definition,_QJqRMMIrEeKSedlRPHdUIQ" guid="-1NRs7LIy7f_jsAZUCUqKlg" changeDate="2013-05-23T09:35:20.741-0400" version="7.5.1">
+  <mainDescription>An actor &quot;specifies a role played by a user or any other system that interacts with the subject&quot; (&lt;a&#xD;
+href=&quot;http://www.uml.org/&quot;>OMG 2007&lt;/a>) or system. An actor may have one or more roles, and can be equated to the external&#xD;
+people or systems that interact with the system under study. Business Actors are high-level conceptualizations of the&#xD;
+Actors with the system; further analysis is required to fully understand and define required actors. Note that actors are&#xD;
+&lt;b>&lt;i>not&lt;/i>&lt;/b> individuals nor are they necessarily equivalent to job titles instead, they describe the behavior in the&#xD;
+enterprise and the responsibilities of the associated &quot;user&quot;. An employee of the enterprise is typically multiple actors&#xD;
+(e.g. employee, manager, analyst, etc.) and therefore has many different roles (e.g. employee-HR, budgeter, manager-HR,&#xD;
+expense claimer, etc.). The mapping from individuals to actors and roles is essentially performed by managers within the&#xD;
+enterprise when defining and staffing the positions within their organization. Also see the definition of &lt;em>&lt;a&#xD;
+class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_role_C84248F6.html&quot;&#xD;
+guid=&quot;_HAuMMMIqEeKSedlRPHdUIQ&quot;>Business Role&lt;/a>&amp;nbsp;&lt;/em>and &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_role_F41637E3.html&quot; guid=&quot;_4cjbMOPNEdy7f9KmjDtwsA&quot;>Role&lt;/a>&lt;/em>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

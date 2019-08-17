@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-39NYhXu5a822IfS9UEyQRA" name="uam_view,_sZ4pEMYJEdyDYN2-y9-AqA" guid="-39NYhXu5a822IfS9UEyQRA" changeDate="2013-05-28T10:37:58.077-0400" version="2.0.1">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman','serif'; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-CA; mso-fareast-language: EN-US; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+ size=&quot;2&quot; face=&quot;Arial&quot;>The Unified Architecture Method (UAM) defines a framework, processes, guidance, and deliverables&#xD;
+used to define IT architectures. IT is based upon the Zachman Framework and employs many industry and international&#xD;
+standards. The UAM framework and methodology prescribes a modeling methodology and analytical methods, but is tool&#xD;
+independent.&lt;/font>&lt;/span></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

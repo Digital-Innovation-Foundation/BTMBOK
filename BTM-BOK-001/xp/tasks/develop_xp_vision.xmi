@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-W67fNE0rT1c2PM-20yXbrw" name="develop_xp_vision,{A8708FFB-BB20-40AF-BEF2-7A8A814FF74D}" guid="-W67fNE0rT1c2PM-20yXbrw" changeDate="2005-12-02T11:56:23.177-0500" version="1.0.0">
+  <sections xmi:id="_oB58MGE-EdqnIZeW8YpHcA" name="Gain Agreement on the Problem Being Solved " guid="_oB58MGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Gain&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    One of the simplest ways to gain agreement on the definition of the problem is to write it down and see if everyone
+    agrees.
+&lt;/p>
+&lt;p>
+    Ask the group: What is the problem?
+&lt;/p>
+&lt;p>
+    It is very common to rush headlong into defining the solution rather than taking time to first understand the problem.
+    Write down the problem and see if you can get everyone to agree on the definition.
+&lt;/p>
+&lt;p>
+    Then ask the group again: What is the problem, really?
+&lt;/p>
+&lt;p>
+    Search for root causes or the &quot;problem behind the problem&quot;. The real problem is often hiding behind what is perceived
+    as a problem. Don't accept the first statement of a problem. Continue to ask &quot;why?&quot; to find out what the problem
+    &quot;really&quot; is. Sometimes the group can be so focused on an envisioned solution that it is hard to get them to formulate
+    the underlying problem. In such cases, it can be beneficial to explore the benefits of the solution and then try to
+    find the problems being solved by those benefits. You can then explore whether or not those problems are &quot;real&quot;
+    problems in the organization.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oB58MWE-EdqnIZeW8YpHcA" name="Identify Stakeholders " guid="_oB58MWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Identify&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;ul>
+    &lt;li>
+        Who are the users of the system?
+    &lt;/li>
+    &lt;li>
+        Who is the economic buyer for the system?
+    &lt;/li>
+    &lt;li>
+        Who else will be affected by the output that the system produces?
+    &lt;/li>
+    &lt;li>
+        Who will evaluate and bless the system when it is delivered and deployed?
+    &lt;/li>
+    &lt;li>
+        Are there any other internal or external users of the system whose needs must be addressed?
+    &lt;/li>
+    &lt;li>
+        Who will maintain the new system?
+    &lt;/li>
+    &lt;li>
+        Is there anyone else?
+    &lt;/li>
+    &lt;li>
+        Okay, is there anyone else?
+    &lt;/li>
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_oB58MmE-EdqnIZeW8YpHcA" name="Define the Primary Features of the System " guid="_oB58MmE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Define&quot; name=&quot;Step3&quot;>&lt;/a> 
+&lt;p>
+    What primary features of the system allow the stakeholders to solve their problems? This should be a list of very
+    high-level features.&lt;br />
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oB58M2E-EdqnIZeW8YpHcA" name="Communicate the Vision " guid="_oB58M2E-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Com&quot; name=&quot;Step4&quot;>&lt;/a> 
+&lt;p>
+    Once agreed upon by the stakeholders, the vision is communicated clearly to all project team members. When the project
+    starts, XP teams often write up the vision on one of the whiteboards in the team's open workspace so it can easily be
+    seen by all team members. After a short time, the team usually internalizes the vision and no longer needs the
+    reminder.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_define_vision__activity_definition&quot; name=&quot;XE_define_vision__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The Vision defines the stakeholder's view of the product being developed specified in terms of the stakeholder's&#xD;
+        key needs and features.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

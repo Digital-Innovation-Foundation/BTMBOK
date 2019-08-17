@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8BfUmTUPF-ZwVqMbqXOQcw" name="new_term_definition,_-fyNcMJLEeKSedlRPHdUIQ" guid="-8BfUmTUPF-ZwVqMbqXOQcw" changeDate="2015-02-16T12:18:16.061-0500" version="7.5.1">
+  <mainDescription>Any activity performed within a company or organization. In &lt;a href=&quot;http://www.bpmn.org/&quot; target=&quot;_blank&quot;>BPMN&lt;/a> a&#xD;
+Process is depicted as a network of Flow Objects, which are a set of other activities and the controls that sequence them&#xD;
+(&lt;a href=&quot;http://www.bpmn.org/&quot; target=&quot;_blank&quot;>OMG, BPMN&amp;nbsp;2011&lt;/a>). &#xD;
+&lt;p>&#xD;
+    Also see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspect_activity_D2963DA2.html&quot; guid=&quot;_eTntIMI5EeKSedlRPHdUIQ&quot;>Term&#xD;
+    Definition: Aspect: Activity&lt;/a>&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

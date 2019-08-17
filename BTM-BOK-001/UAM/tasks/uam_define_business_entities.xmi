@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5QMExuGTxo_fnAUGx8_dVg" name="uam_define_business_entity_view,_jveZUMN6EdyILM4NThxMFg" guid="-5QMExuGTxo_fnAUGx8_dVg" authors="DW Enstrom " changeDate="2015-02-04T10:29:04.917-0500" changeDescription="new" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    This task finds and defines the business entities involved in the architecture in question. Related, and very&#xD;
+    important, is the definition of standard vocabulary that is used to describe and discuss the business.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To find candidate business entities, consider what information each business activity and actor&amp;nbsp;works with. The&#xD;
+    information that must be queried, validated, created, or communicated is a good starting point. Only significant,&#xD;
+    persistent information should be considered as a business entity.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>The business entities identified during this task are high-level, but their definition must be very precise, and agreed by&#xD;
+stakeholders. The identification and definition of attributes is optional.</keyConsiderations>
+  <sections xmi:id="_KFZ88MN8EdyILM4NThxMFg" name="Determine entities and their responsibilities" guid="_KFZ88MN8EdyILM4NThxMFg">
+    <sectionDescription>&lt;p>&#xD;
+    To find candidate business entities, consider what information is created, read, or updated within the associated&#xD;
+    business processes.&amp;nbsp;Only significant, persistent information should be considered as a business entity. The&#xD;
+    diagram below illustrates this approach by showing the entities involved in a business process:&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Process showing Entities involved&quot; src=&quot;resources/EA-Business-Soln-Consulting-Services.png&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Define all business processes and identify where and how business entities participate. The description of the business&#xD;
+    entity should include the entity's role in the business,&amp;nbsp;and also&amp;nbsp;its lifecycle from creation to deletion as&#xD;
+    illustrated in the defined processes. Other models may also be of use in understanding the business entity (see: &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/guidelines/uam_diagrams_in_business_pers_F47177D2.html&quot;&#xD;
+    guid=&quot;_aVWS0OSYEdy7f9KmjDtwsA&quot;>Guideline: Business Perspective Views&lt;/a>).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To show how business entities&amp;nbsp;relate to each other associations are defined (see: ASSOCIATIONS). Give the&#xD;
+    associations names that help describe the relationship.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    At the business level it is not desirable to show whole-part relationships,&amp;nbsp;to&#xD;
+    define&amp;nbsp;aggregation-relationships (or other complex relationships such as generalizations). This level of analysis,&#xD;
+    for IT architecture definitions, is left to the Logical level. &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Review the workflow of each business process to ensure that business entities have been found, and to verify that the&#xD;
+    ones identified do indeed participate in the workflow.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For more information on Business Entities, see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/guidelines/uam_business_entity_8BB65862.html&quot; guid=&quot;_gVpMsORpEdy7f9KmjDtwsA&quot;>Guideline:&#xD;
+    Business Entity&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_CvDlAMN9EdyILM4NThxMFg" name="Analyze relationships" guid="_CvDlAMN9EdyILM4NThxMFg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Review all relationships (only simple associations at the Business level) between business entities. Are the purposes&#xD;
+    and semantics of these relationships clear? Determine if these relationships are really necessary to the performance of&#xD;
+    the business entity's responsibilities. Also, confirm that the business entity does indeed have all the necessary&#xD;
+    relationships required to support the business.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Relationships may be derived from examining&amp;nbsp;Process Models ... look for linkages required between entities to&#xD;
+    support the process. Business management requirements (i.e. Business Metrics) are also an important source for&#xD;
+    requirements for relationships between entities. Also see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/guidelines/uam_business_entity_8BB65862.html&quot; guid=&quot;_gVpMsORpEdy7f9KmjDtwsA&quot;>Guideline:&#xD;
+    Business Entity&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_WPiiEMN9EdyILM4NThxMFg" name="Define operations (optional)" guid="_WPiiEMN9EdyILM4NThxMFg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Decide what operations the business entity should have. Base your decisions on the operations of the business entity&#xD;
+    within each business process in which it participates. These operations implement&amp;nbsp;the required manipulations for&#xD;
+    Business Actors (and Roles) to create, access and modify the business entity. Briefly describe each operation. Explain&#xD;
+    how all operations are related, including the business entity's lifecycle if desired.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    See the discussion on operations in: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/guidelines/uam_business_entity_8BB65862.html&quot; guid=&quot;_gVpMsORpEdy7f9KmjDtwsA&quot;>Guideline:&#xD;
+    Business Entity&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_kNgRwMN9EdyILM4NThxMFg" name="Define attributes" guid="_kNgRwMN9EdyILM4NThxMFg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Identify and briefly describe the attributes of the business entity. Attributes are either properties of the business&#xD;
+    entity or any information that it requires to perform its responsibilities that is not another business entity. An item&#xD;
+    of information that needs to be determined or calculated (on-demand) must be presented in the form of an operation,&#xD;
+    rather than as an attribute of the business entity. Attributes represent persistent properties of the business entity.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    See also the discussion of attributes in: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/guidelines/uam_business_entity_8BB65862.html&quot; guid=&quot;_gVpMsORpEdy7f9KmjDtwsA&quot;>Guideline:&#xD;
+    Business Entity&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_ux9vAMN9EdyILM4NThxMFg" name="Identify business events (optional)" guid="_ux9vAMN9EdyILM4NThxMFg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Inspect the Business Entity's operations. Candidate business events include significant changes of state (for example,&#xD;
+    an Order that changes from&amp;nbsp;&lt;em>received&lt;/em> to &lt;em>process&lt;/em>, or a proposal that changes from&#xD;
+    &lt;em>proposed&lt;/em> to &lt;em>accepted&lt;/em>). Operations that trigger these changes of state might also cause these business&#xD;
+    events. Also examine what business actors or other business entities should be notified of the business event. Inspect&#xD;
+    the business entity's relationships with other business entities. Are there any important changes in these related&#xD;
+    entities of which the business entity should be notified?&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    This is an optional, but very useful aspect for the Business Entity Model. The most important thing is to capture a&#xD;
+    clear picture of the business entities, their relationships to other entities, and&amp;nbsp;optionally important attributes&#xD;
+    and operations.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_zenrYMN9EdyILM4NThxMFg" name="Evaluate your results" guid="_zenrYMN9EdyILM4NThxMFg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Review and discuss the Business Entity Model with other members of the team and appropriate stakeholders to ensure that&#xD;
+    they have a clear understanding of the business entities and agree on their descriptions and other aspects.&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN: 0in 0in 0pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-US&quot;>See also: &amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/checklists/uam_business_entity_4A9FDC47.html&quot; guid=&quot;_77G0sFrHEeSU46-vxLGKFw&quot;>Checklist:&#xD;
+    Business Entities&lt;/a>.&lt;/span>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    This task finds and defines the business entities involved in the architecture in question. Specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define or refine the entities involved in and supporting the business processes and functions;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define or refine the relationships that need to be supported between business entities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally define or refine the high-level attributes of these entities.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

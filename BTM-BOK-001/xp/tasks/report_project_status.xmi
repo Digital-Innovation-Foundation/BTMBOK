@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WOPGmKUuYbvVeVHp0sgEgw" name="report_project_status,{ED94150E-EE14-47BF-97F5-F1EC7130EEEC}" guid="-WOPGmKUuYbvVeVHp0sgEgw" version="1.0.0">
+  <sections xmi:id="_oOzvwGE-EdqnIZeW8YpHcA" name="Gather the Information " guid="_oOzvwGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    The most important information about the status of the project is the updated release plan. The release plan defines
+    the current view of the release content and availability. Metrics, such as the team's velocity, can also be provided.
+    Typically, metrics are tracked for the purpose of helping the team improve some aspects of development they are having
+    problems with. These metrics can be presented as part of project status.
+&lt;/p>
+&lt;p>
+    The velocity metric can be abused. Keep in mind that there is no valid comparison of velocities between teams. The most
+    important thing about a team's velocity is the stability of the velocity. This allows the team to predict what it can
+    accomplish.
+&lt;/p>
+&lt;p>
+    Other meaningful metrics:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Defined stories over time, overlaid with completed stories
+    &lt;/li>
+    &lt;li>
+        Defined customer tests overlaid with running customer tests
+    &lt;/li>
+    &lt;li>
+        Number of unit tests tracked over time
+    &lt;/li>
+    &lt;li>
+        Unit test coverage
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    The team's significant metrics are recorded on flip chart paper and hung in the team's open workspace.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oOzvwWE-EdqnIZeW8YpHcA" name=" Communicate the Status " guid="_oOzvwWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    Since outside stakeholders do not participate in the daily activities of the team, it is important that the status of
+    the project should be communicated to them as often as possible. It lowers significantly the risk of disconnect between
+    the development team and the stakeholders. It also provides the team with data they can use to improve their
+    development process. Stakeholders should come to the open workspace and view the project status that is recorded on the
+    walls of the open workspace. They can experience the progress being made by the team first hand.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_report_project_status__activity_definition&quot; name=&quot;XE_report_project_status__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Communicate to stakeholders the status of the project.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

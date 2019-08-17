@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_NBegzcCTEemv0a6P8REMBA" guid="_NBegzcCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_NBegz8CTEemv0a6P8REMBA" id="-Zgw7DbNnCrHLBp1eezHyKg" uri="tasks/daily_scrum.assign.xmi"/>
+    <resourceDescriptors xmi:id="_NBoRwMCTEemv0a6P8REMBA" id="-G9NUjQLg0D1UQeELbGt7Mg" uri="tasks/sprint_retrospective.assign.xmi"/>
+    <resourceDescriptors xmi:id="_NBoRwcCTEemv0a6P8REMBA" id="-FlUeU3Bc3o56XU_zPYsy4w" uri="guidances/toolmentors/redmine_toolmentor.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_0F9oACtIEeO2VIPdswWadg" name="toolmentor.remics.scrum.extend_redmine-tecnalia" guid="_0F9oACtIEeO2VIPdswWadg" changeDate="2013-10-02T06:03:21.969-0400">
+    <methodElementProperty xmi:id="_NBegwMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_NBegwcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oAStIEeO2VIPdswWadg" name="Content" guid="_0F9oAStIEeO2VIPdswWadg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oAitIEeO2VIPdswWadg" name="Categories" guid="_0F9oAitIEeO2VIPdswWadg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oAytIEeO2VIPdswWadg" name="Domains" guid="_0F9oAytIEeO2VIPdswWadg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oBCtIEeO2VIPdswWadg" name="Disciplines" guid="_0F9oBCtIEeO2VIPdswWadg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oBStIEeO2VIPdswWadg" name="RoleSets" guid="_0F9oBStIEeO2VIPdswWadg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oBitIEeO2VIPdswWadg" name="WP Types" guid="_0F9oBitIEeO2VIPdswWadg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oBytIEeO2VIPdswWadg" name="Tools" guid="_0F9oBytIEeO2VIPdswWadg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_zRlvUCtJEeO2VIPdswWadg" name="redmine.assign" guid="_zRlvUCtJEeO2VIPdswWadg" variabilityType="contributes" toolMentors="_EvJn0CtJEeO2VIPdswWadg">
+            <methodElementProperty xmi:id="_NBegwsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Tool" href="uma://__52BoEUNEeKK_ttnBPx9Rg#_vdHYICtJEeO2VIPdswWadg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oCCtIEeO2VIPdswWadg" name="StandardCategories" guid="_0F9oCCtIEeO2VIPdswWadg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oCStIEeO2VIPdswWadg" name="CustomCategories" guid="_0F9oCStIEeO2VIPdswWadg">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oCitIEeO2VIPdswWadg" name="Hidden" guid="_0F9oCitIEeO2VIPdswWadg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_0F9oCytIEeO2VIPdswWadg" name="Custom Categories" guid="_0F9oCytIEeO2VIPdswWadg"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0F9oDCtIEeO2VIPdswWadg" name="CoreContent" guid="_0F9oDCtIEeO2VIPdswWadg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4qYOYCtIEeO2VIPdswWadg" name="tool_mentors" guid="_4qYOYCtIEeO2VIPdswWadg">
+          <methodElementProperty xmi:id="_NBegw8CTEemv0a6P8REMBA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_NBegxMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4qYOYStIEeO2VIPdswWadg" name="redmine" guid="_4qYOYStIEeO2VIPdswWadg">
+            <methodElementProperty xmi:id="_NBegxcCTEemv0a6P8REMBA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_NBegxsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4qYOYitIEeO2VIPdswWadg" name="daily_scrum.assign" guid="_4qYOYitIEeO2VIPdswWadg" variabilityType="contributes" toolMentors="_EvJn0CtJEeO2VIPdswWadg">
+              <methodElementProperty xmi:id="_NBegx8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-Zgw7DbNnCrHLBp1eezHyKg" href="uma://-Zgw7DbNnCrHLBp1eezHyKg#-Zgw7DbNnCrHLBp1eezHyKg"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_Og44UP__EeKZBbwDq57ZRA#_EGOX0AAhEeOlbtFyKmDE9w"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4qYOYytIEeO2VIPdswWadg" name="sprint_retrospective.assign" guid="_4qYOYytIEeO2VIPdswWadg" variabilityType="contributes" toolMentors="_EvJn0CtJEeO2VIPdswWadg">
+              <methodElementProperty xmi:id="_NBegyMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-G9NUjQLg0D1UQeELbGt7Mg" href="uma://-G9NUjQLg0D1UQeELbGt7Mg#-G9NUjQLg0D1UQeELbGt7Mg"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_Og44UP__EeKZBbwDq57ZRA#_NEEUAAAKEeOZBbwDq57ZRA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_EvJn0CtJEeO2VIPdswWadg" name="redmine_toolmentor" guid="_EvJn0CtJEeO2VIPdswWadg" presentationName="Redmine User Guide" briefDescription="Redmine User Guide">
+              <methodElementProperty xmi:id="_NBegycCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-FlUeU3Bc3o56XU_zPYsy4w" href="uma://-FlUeU3Bc3o56XU_zPYsy4w#-FlUeU3Bc3o56XU_zPYsy4w"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NPuhwCtJEeO2VIPdswWadg" name="sprint_review.assign" guid="_NPuhwCtJEeO2VIPdswWadg" variabilityType="contributes" toolMentors="_EvJn0CtJEeO2VIPdswWadg">
+              <methodElementProperty xmi:id="_NBegysCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_Og44UP__EeKZBbwDq57ZRA#_Z_-7YAALEeOZBbwDq57ZRA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Yf7qsCtJEeO2VIPdswWadg" name="prepare_and_demo_product_backlog.assign" guid="_Yf7qsCtJEeO2VIPdswWadg" variabilityType="contributes" toolMentors="_EvJn0CtJEeO2VIPdswWadg">
+              <methodElementProperty xmi:id="_NBegy8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_Og44UP__EeKZBbwDq57ZRA#_bC04cAALEeOZBbwDq57ZRA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_a-QHQCtJEeO2VIPdswWadg" name="sprint_planning_meeting.assign" guid="_a-QHQCtJEeO2VIPdswWadg" variabilityType="contributes" toolMentors="_EvJn0CtJEeO2VIPdswWadg">
+              <methodElementProperty xmi:id="_NBegzMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_Og44UP__EeKZBbwDq57ZRA#_WDFecP__EeKZBbwDq57ZRA"/>
+            </contentElements>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0F9oDStIEeO2VIPdswWadg" name="CapabilityPatterns" guid="_0F9oDStIEeO2VIPdswWadg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0F9oDitIEeO2VIPdswWadg" name="DeliveryProcesses" guid="_0F9oDitIEeO2VIPdswWadg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0F9oDytIEeO2VIPdswWadg" name="ProcessContributions" guid="_0F9oDytIEeO2VIPdswWadg"/>
+    <bases href="uma://_Og44UP__EeKZBbwDq57ZRA#_Og44UP__EeKZBbwDq57ZRA"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

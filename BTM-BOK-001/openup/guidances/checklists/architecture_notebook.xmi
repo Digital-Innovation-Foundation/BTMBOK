@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_17Ve8Nd6EdmIm-bsRSNCgw" name="architecture_notebook,_17PYUNd6EdmIm-bsRSNCgw" guid="_17Ve8Nd6EdmIm-bsRSNCgw" authors="Chris Doyle, Mark Dickson" changeDate="2007-03-03T12:34:09.111-0500" changeDescription="(Mark Dickson) formatted &amp; applied changes from Chris Doyle |Major re-|Major re-write in line with Supporting Requirements checklist" version="1.3">
+  <mainDescription>&lt;p> The items in this checklist represent good practices for creating and communicating &#xD;
+  a robust architecture. It may not be possible to address every item, and you &#xD;
+  may be able to address some items to only a limited extent. In these cases, &#xD;
+  be sure that there are good reasons for only partially addressing an item or &#xD;
+  not addressing an item at all. &lt;/p>&#xD;
+&lt;p> Architectural revisions can occur every day. Use this checklist regularly &#xD;
+  to ensure that the results are robust, consistent, and understandable. Make &#xD;
+  the architecture good enough for the specific goals being addressed by using &#xD;
+  this checklist to identify areas that have been skipped, ignored, or not sufficiently &#xD;
+  addressed. &lt;/p></mainDescription>
+  <sections xmi:id="_LqpmkCALEduY2JH31Kkn-A" name="Is the overall structure of the architecture clear?" guid="_LqpmkCALEduY2JH31Kkn-A">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Are the key abstractions adequately defined?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Have&amp;nbsp;necessary&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/guidances/concepts/arch_mech_2932DFB6.html&quot; guid=&quot;_mzxI0A4LEduibvKwrGxWxA&quot;>Architectural Mechanism&lt;/a>s been identified and described?&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;list-style: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Is it clear when&amp;nbsp;each mechanism should be applied?&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Is there a clearly defined design pattern in place to support&amp;nbsp;each mechanism?&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Does each mechanism adequately address the requirements it is intended to meet?&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the architecture divide the system’s responsibilities into well-defined subsystems with well-defined&#xD;
+        interfaces?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the packaging approach reduce complexity and improve understanding?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is subsystem and package partitioning and layering logically consistent?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are packages defined to be highly cohesive within the package, while the packages themselves are loosely coupled?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are all of the subsystem components for the iteration identified?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Do the dependencies between subsystems and packages correspond to dependency relationships between the contained&#xD;
+        classes?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Do the classes in a subsystem support the services identified for the subsystem?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are the number and types of components reasonable?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_pWBfQMm9EduiAPR4gd-qxA" name="Have the supporting requirements been adequately addressed?" guid="_pWBfQMm9EduiAPR4gd-qxA">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Does the architecture adequately address&amp;nbsp;the global Functional requirements?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the architecture adequately address&amp;nbsp;the&amp;nbsp;Usability requirements?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the architecture adequately address&amp;nbsp;the&amp;nbsp;Reliability requirements?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the architecture adequately address&amp;nbsp;the&amp;nbsp;Performance requirements?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the architecture adequately address&amp;nbsp;the&amp;nbsp;Supportability requirements?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the architecture adequately address&amp;nbsp;the other needs identified in the&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/workproducts/supporting_requirements_spec_7D9DD47C.html&quot; guid=&quot;_BVh9cL-CEdqb7N6KIeDL8Q&quot;>Supporting Requirements Specification&lt;/a>?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_PHv_kCALEduY2JH31Kkn-A" name="Can the architecture be delivered by the team?" guid="_PHv_kCALEduY2JH31Kkn-A">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Does the component architecture provide a suitable basis for organizing the development teams?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does each team have the skills required to implement their allocated components?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are responsibilities divided well between teams?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Do all team members share the same understanding of the architecture as the one presented by the architect?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Can team members understand enough from the architecture to successfully design and code their allocated&#xD;
+        components?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_A8m2YMm7EduiAPR4gd-qxA" name="Is architecture showing appropriate stability?" guid="_A8m2YMm7EduiAPR4gd-qxA">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        If in Inception, is&amp;nbsp;a candidate&amp;nbsp;architecture emerging?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        If in Elaboration, is the architecture beginning to stabilize?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        If in Construction, is the architecture generally stable?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        If in Transition, is the architecture very stable?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_aOKkwMm8EduiAPR4gd-qxA" name="In general, does the architecture seem sensible?" guid="_aOKkwMm8EduiAPR4gd-qxA">
+    <sectionDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Is the&amp;nbsp;architecture&amp;nbsp;at an appropriate level of detail, given the objectives?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are concepts&amp;nbsp;handled in the simplest way possible?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Can the&amp;nbsp;architecture easily evolve,&amp;nbsp;so that&amp;nbsp;expected changes can be easily accommodated?&#xD;
+    &lt;/li>&#xD;
+    &#xD;
+  &lt;li> Has the&amp;nbsp;architecture been overly structured to handle unlikely change &#xD;
+    at the expense of simplicity and comprehensibility? (Hint: &quot;Yes&quot; to this question &#xD;
+    is not good.)&lt;/li>&#xD;
+    &#xD;
+  &lt;li> Are the key assumptions and decisions that the&amp;nbsp;architecture is based &#xD;
+    on documented and visible to reviewers and those who will use the architecture? &#xD;
+  &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is the architecture description current?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Have the design guidelines been followed?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are all technical risks either mitigated or addressed in a contingency plan?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pf3-WuJxQ02u0pgMhHOtnQ" name="new_term_definition,_d-vVMMIsEeKSedlRPHdUIQ" guid="-pf3-WuJxQ02u0pgMhHOtnQ" changeDate="2015-02-23T12:36:11.088-0500" version="7.5.1">
+  <mainDescription>A system stakeholder responsible for a system’s architecture (&lt;a&#xD;
+href=&quot;http://www.iso-architecture.org/ieee-1471/index.html&quot; target=&quot;_blank&quot;>ISO 42010&lt;/a> 2007). &lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

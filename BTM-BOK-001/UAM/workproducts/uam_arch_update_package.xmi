@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LdOTKxv9bvAEYV_qvz07sQ" name="uam_arch_update_package,_KtF4gGUfEeSFL7Sh0MlmKA" guid="-LdOTKxv9bvAEYV_qvz07sQ" changeDate="2014-11-05T14:11:24.509-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    In support of an Update Architecture activity the required set of documentation is gathered. The basic documentation&#xD;
+    needed are the defined IT architecture views, the sets of models to be updated. Ancillary information is also gathered&#xD;
+    such as requirements, scope, strategy and planning documents associated with the IT architecture. The root input is an&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/workproducts/uam_architectural_decision_E4B96628.html&quot;&#xD;
+    guid=&quot;_WY_zYMKpEdy4DtCs1YI90Q&quot;>Artifact: Architectural Decision&lt;/a> that defines:&#xD;
+&lt;/p>&lt;a id=&quot;XE_Package__Architecture_Update&quot; name=&quot;XE_Package__Architecture_Update&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The solution to a problem that requires an update to the IT architecture, or;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The impacts on the IT architecture of a new technology, or;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The business change that requires an update to the IT architecture.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The set of documentation gathered together (from the list below) for any given update is dependent upon the level (i.e.&#xD;
+    Business, Logical or Technical) and type of IT architecture (i.e. Complex or Simple) being updated.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

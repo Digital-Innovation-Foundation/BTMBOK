@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-An7GwUvEdxXgDf5obDFYtg" name="uam_it_architecture_in-ent,_YHA_kafREeS8vLSVufajPQ" guid="-An7GwUvEdxXgDf5obDFYtg" version="7.5.1">
+    <mainDescription>&lt;p>&#xD;
+    The deliverables from UAM include a number of models at various levels, along with a set of Architectural Decisions.&#xD;
+    These deliverables were developed to influence the direction of IT development within the enterprise in support of the&#xD;
+    business. How are these UAM models and decisions applied within an enterprise? They are applied through IT architect&#xD;
+    participation at various points in the enterprise’s processes, specifically their&amp;nbsp;IT governance and IT project&#xD;
+    processes. This section generically defines where UAM implementation (application of results) governance is applied,&#xD;
+    which requires adaptation and integration into your specific enterprise. They are outside the scope of the methodology,&#xD;
+    which focuses on how to do IT architecture, but are necessary to properly integrate UAM into the enterprise.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Three possible areas exist where UAM deliverables (and by extension the knowledge and expertise of the architects) are&#xD;
+    applied to both advance the goals of the enterprise and to apply the architecture results to the enterprise. These&#xD;
+    three areas are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Enterprise Planning&lt;/strong> – the target architecture along with a migration plan are used to help make&#xD;
+        planning decisions. What projects will benefit the enterprise in the coming year or quarter? This is obviously just&#xD;
+        one input, but an important one, into the (yearly or quarterly) enterprise business planning exercise.&#xD;
+        Recommendations are based upon the migration plan as well as new or revised Architectural Decisions. This is a&#xD;
+        strategic level planning activity.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>IT Projects&lt;/strong> – IT architecture and architectural reviews are built into the enterprise’s program&#xD;
+        management, project planning and project management processes. This is a tactical level planning activity.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>IT Evolution&lt;/strong> – the evolution of the IT environment is kept in-line with the target architecture.&#xD;
+        This is an IT project and release planning exercise, and an operational level planning activity. The state of&#xD;
+        system at each point in the migration path must be operationally viable and cost-effective.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Normally these three processes have reviews (or gates) included where input from IT architects (and others) is included&#xD;
+    as part of the process. Each gate provides for the participation of and input from IT architects and others regarding&#xD;
+    the impacts or opportunities presented by the strategies and plans. A short list of possible &lt;em>impacts&lt;/em> resulting&#xD;
+    from this review includes:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Changes to the enterprise’s (IT) strategy;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Additions or modifications to the IT architecture;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Additions, deletions or modification to standards defined in Architectural Decisions;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Follow-on impacts from the above such as skills requirements (for IT people and business people), organizational&#xD;
+        changes, etc.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    A short list of possible &lt;em>opportunities&lt;/em> includes:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Application of new or existing architectural patterns to the advantage of the enterprise and its plans;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Application of new technologies to address new (business) requirements, opportunities or directions;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Application of new technologies that will leverage plans or expand them, all to the advantage of the enterprise.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    This list is not exhaustive, but suffice it to say that there are many opportunities for IT architects to contribute to&#xD;
+    the definition of strategies and plans for the business. They are well placed to contribute due to their in-depth&#xD;
+    knowledge of the business.&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>&lt;p>&#xD;
+    There are three possible areas where UAM deliverables (and by extension the knowledge and expertise of the architects)&#xD;
+    may be applied to both advance the goals of the enterprise and to apply the architecture results within the enterprise.&#xD;
+    These three areas are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Enterprise&lt;/strong> &lt;strong>Planning&lt;/strong> - target IT architectures along with a migration&#xD;
+        plans&amp;nbsp;are used to make planning decisions. What projects will benefit the enterprise in the coming year, the&#xD;
+        coming quarter? This is obviously just one input, but an important one,&amp;nbsp;into the&amp;nbsp;enterprise business&#xD;
+        planning exercise. Recommendations are based upon the migration plan as well as new or revised Architectural&#xD;
+        Decisions,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>IT Projects&lt;/strong> - architectural reviews need to be built into the enterprise's project planning and&#xD;
+        project management processes,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>IT Evolution&lt;/strong> - the evolution (change management) of the IT environment needs to be in-line with&#xD;
+        the target IT architectures.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Each gate, or review point, defined in the figures below provides UAM input regarding the &lt;em>impacts&lt;/em> of plans or&#xD;
+    &lt;em>opportunities&lt;/em> presented by the plans. Possible &lt;em>impacts&lt;/em> include:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Changes to the enterprise's IT strategy,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Additions or modifications to the IT architectures,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Additions, deletions&amp;nbsp;or modification to standards (defined in &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../UAM/workproducts/uam_architectural_decision_E4B96628.html&quot;&#xD;
+        guid=&quot;_WY_zYMKpEdy4DtCs1YI90Q&quot;>Architectural Decision&lt;/a>s),&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Follow-on&amp;nbsp;impacts from the above such as skills requirements, etc.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Possible &lt;em>opportunities&lt;/em> include:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Application of new&amp;nbsp;or existing architectural patterns to the advantage of the enterprise and its plans,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Application of new technologies to address new requirements or directions (both technical and business),&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Application of new technologies that will leverage plans or expand them, all to the advantage of the enterprise.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></usageGuidance>
+    <purpose>Generic IT planning and management processes are used to defined where UAM deliverables and IT architects add value to&#xD;
+these processes. Specifically, the points where IT architects will improve decision makes due to their knowledge of the&#xD;
+business (and technology) as represented in the IT architecture models and documentation.</purpose>
+    <howtoStaff>There are many planning fora within any enterprise, top-level executive level meetings all the way to operations and&#xD;
+support planning. Choose the IT architect best positioned to participate; enterprise architects for executive level fora&#xD;
+and project architects for lower level fora.</howtoStaff>
+    <scope>&lt;a id=&quot;XE_Delivery__In_the_Enterprise&quot; name=&quot;XE_Delivery__In_the_Enterprise&quot;>&lt;/a>&lt;a id=&quot;XE_UAM__in_the_enterprise&quot;&#xD;
+name=&quot;XE_UAM__in_the_enterprise&quot;>&lt;/a>&lt;a id=&quot;XE_UAM__using&quot; name=&quot;XE_UAM__using&quot;>&lt;/a>IT architecture deliverables and IT&#xD;
+architects, may contribute to planning decisions (and the planning meetings that make them) at many levels within the&#xD;
+enterprise. IT architects have a lot of knowledge about the business, and how it is supported by IT. This knowledge should&#xD;
+be leveraged in support of the enterprise and its strategies and goals.</scope>
+    <usageNotes>The delivery process is defined based upon generic business management and planning processes. The important thing to&#xD;
+understand is the&amp;nbsp;definition of each defined milestone (i.e., planning meeting), that need to be adapted and included&#xD;
+in existing enterprise processes—specifically including the defined milestone activities in exiting planning meetings.</usageNotes>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-KqzmIfFD4KL05FMNXAb8rg" name="uam_gate-0,_nfG7AK8QEeSUf-NO_1Ayag" guid="-KqzmIfFD4KL05FMNXAb8rg">
+    <mainDescription>A Business Need in this context is a high-level need for addition, change or augmentation of a portion of the business. A&#xD;
+business strategy or goal is the likely driver for the definition of a business need that could be viewed as the business&#xD;
+level equivalent of a project. In other words, the business has decided that some action is needed to support agreed&#xD;
+business goals or strategy. This is described in a business need (or requirement), which may be known by some other name&#xD;
+within the organization.</mainDescription>
+    <usageGuidance>Gate 0 is the early identification of IT architecture related issues and opportunities based upon the documented Business&#xD;
+Need. IT architects review the Business Need and provide advice regarding probable impacts on the current IT architecture,&#xD;
+opportunities for leveraging current IT, or for the introduction of new IT.&lt;br />&#xD;
+&lt;a id=&quot;XE_Gate_0&quot; name=&quot;XE_Gate_0&quot;>&lt;/a></usageGuidance>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-knu3Kvvnkg3C06tnI06eOg" name="uam_business_planning,_hlHwMK8NEeSUf-NO_1Ayag" guid="-knu3Kvvnkg3C06tnI06eOg">
+    <usageGuidance>Note that in some organizations these steps, and the associated gates (Gates 0 to 2), may be combined. In other words, only&#xD;
+a Business Case is defined and reviewed, followed by a the final decision: Gate 2.&amp;nbsp;</usageGuidance>
+    <refinedDescription>There may be many processes and meetings where these business-level documents are produced. The document that is important&#xD;
+are the ones that are the input to the next step. The inputs to the definition of an action-able Business Need. The&#xD;
+identification of an outcome, along with the desire of the business to make the necessary changes, is this next step, where&#xD;
+a Business Need (or whatever label that your organization applies to it) is defined. A Business Need is the first&#xD;
+preliminary step that the organization takes towards a change to the business.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dUFvMF9AhMNquQVAIa9YSg" name=",_7ke_wK8OEeSUf-NO_1Ayag" guid="-dUFvMF9AhMNquQVAIa9YSg">
+    <usageGuidance>Note that in some organizations these steps, and the associated gates (Gates 0 to 2), may be combined. In other words, only&#xD;
+a Business Case is defined and reviewed, followed by a the final decision: Gate 2.&amp;nbsp;</usageGuidance>
+    <refinedDescription>&lt;p>&#xD;
+    A Business Need defines a specific outcome that the enterprise aims to achieve within a specific time frame. It is the&#xD;
+    result of&amp;nbsp;the analysis of&amp;nbsp;Business Objectives, Business Problems, or a Business Strategy, resulting in the&#xD;
+    definition of this desired outcome. The identification of an outcome, along with the commitment of the business to make&#xD;
+    the necessary changes, is this step ... a Business Need is defined (or whatever label that your organization applies to&#xD;
+    it).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A Business Need is the first preliminary step that the organization takes towards a change to the business. It is&#xD;
+    define in business terms and is focused on the desired business outcome. The next step is a clearer definition of this&#xD;
+    need, the definition of a Business Opportunity.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Twxmb8JIkRnslbH3f4QN6w" name="uam_bus_Opp,_2QpKwK8SEeSUf-NO_1Ayag" guid="-Twxmb8JIkRnslbH3f4QN6w">
+    <usageGuidance>Note that in some organizations these steps, and the associated gates (Gates 0 to 2), may be combined. In other words, only&#xD;
+a Business Case is defined and reviewed, followed by a the final decision: Gate 2.&amp;nbsp;</usageGuidance>
+    <refinedDescription>&lt;p>&#xD;
+    A Business Opportunity takes the Business&amp;nbsp;Need and further develops it in terms of the business solution and may&#xD;
+    include very rough costs and benefits. The objective is to understand and document the business need to the point where&#xD;
+    a go or no-go decision can be made for developing a business case. Is it worth developing a detailed Business Case or&#xD;
+    not? This step (and perhaps the Business Need step) may all be included in the Business Case activity in many&#xD;
+    organizations.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Once the Opportunity is understood and that some action is needed, a detailed Business Case is developed.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YFEskhNftZ84Gs5HCh168Q" name="uam_bus_case,_9NluwK8SEeSUf-NO_1Ayag" guid="-YFEskhNftZ84Gs5HCh168Q">
+    <usageGuidance>Note that in some organizations these steps, and the associated gates (Gates 0 to 2), may be combined. In other words, only&#xD;
+a Business Case is defined and reviewed, followed by a the final decision: Gate 2.&amp;nbsp;</usageGuidance>
+    <refinedDescription>&lt;p>&#xD;
+    A Business Case takes the Business Opportunity, and describes the opportunity (or problem), and develops the plans&#xD;
+    needed to prepare for an upcoming project. The Business Case facilitates the evaluation, comparison and prioritization&#xD;
+    of competing alternatives. The objective is to understand and document the opportunity so that a decision can be made&#xD;
+    regarding an implementation&amp;nbsp;project. Which approach is to be taken? What is the scope of the project?&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The next steps, once the Business Case is approved, is the definition of an implementation project; definition of the&#xD;
+    Project Charter. See:&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-RmWHJaBQ99OtQbCD6-g8Zg" name=",_WUq2sLBtEeSUf-NO_1Ayag" guid="-RmWHJaBQ99OtQbCD6-g8Zg">
+    <usageGuidance>The Project Charter or Requirement is typically defined by managers, typically technical managers with the help of business&#xD;
+managers.</usageGuidance>
+    <refinedDescription>&lt;p>&#xD;
+    The Project Charter defines the &quot;system&quot; to be architected and built. It outlines the roles and responsibilities of the&#xD;
+    participants, including stakeholders. It defines&amp;nbsp;the project objectives and the authorities of the project&#xD;
+    manager.&amp;nbsp;The terms of reference are usually part of the project charter. It is the project description and&amp;nbsp;is&#xD;
+    an input to many UAM based IT Architecture activities and tasks. It is created by business and other&amp;nbsp;(planning)&#xD;
+    experts within the enterprise. It includes descriptions of any issues or problems or opportunities (business &amp;amp;&#xD;
+    technical) that are to be addressed by the project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The follow-on milestone review is where IT architects ensure that the project's context and scope are clearly defined,&#xD;
+    and that it fits into the current architecture. Other aspects are also examined to ensure that the project gets off on&#xD;
+    the right foot.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-fkO_j6OMWFO3RRtchVkOqA" name="uam_gate-1,_ZMQOgK8SEeSUf-NO_1Ayag" guid="-fkO_j6OMWFO3RRtchVkOqA">
+    <mainDescription>&lt;p>&#xD;
+    Gate 1 permits the identification of IT architecture issues and opportunities based upon the documentation of a&#xD;
+    Business Opportunity (i.e., the identification of a high-level solution to the business requirement along with an&#xD;
+    analysis of the possible business solution and opportunity from a business perspective).&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        IT architects review the Business Opportunity and provide comments regarding probable impacts on the current IT&#xD;
+        architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Opportunities for leveraging current IT or for the introduction of new IT are identified and described;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identification of the preliminary objectives and scope for implementation project(s) are provided as input to the&#xD;
+        business case(s).&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>Gate 1 is the early identification of IT architecture related issues and opportunities based upon the documented Business&#xD;
+Need. IT architects review the Business Opportunity and provide advice regarding probable impacts on the current IT&#xD;
+architecture, opportunities for leveraging current IT, or for the introduction of new IT.&lt;a id=&quot;XE_Gate_1&quot;&#xD;
+name=&quot;XE_Gate_1&quot;>&lt;/a></usageGuidance>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-3QdwnKJQyl-c_dKET0ahow" name="uam_gate-2,_CD4vUK8TEeSUf-NO_1Ayag" guid="-3QdwnKJQyl-c_dKET0ahow">
+    <mainDescription>&lt;p>&#xD;
+    This is where the identification of IT architecture issues and opportunities takes place, based upon the documentation&#xD;
+    of a Business Case for an IT related project or projects. The Business Case describes, at a high level, the project(s)&#xD;
+    for implementation of a solution to the business requirement or opportunity. Costs and benefits are documented along&#xD;
+    with a way to proceed to realize the business benefit.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        IT architects review the business case and provide comments regarding probable impacts on the current IT&#xD;
+        architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Opportunities for leveraging current IT or for the introduction of new IT are identified and described;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identification of relevant existing Architectural Decisions for the project, and a list of important new required&#xD;
+        ADs;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A review of the rough cost estimates in the business case is done.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Once the Business Case has been approved, the next step is the definition of an implementation project. The IT&#xD;
+    architecture aspects are then looked after through the project life-cycle activities and milestones. See: &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/deliveryprocesses/uam_proj_planning_4E509F71.html&quot;&#xD;
+    guid=&quot;_u12GwK8KEeSUf-NO_1Ayag&quot;>Activity: Project Life-Cycle&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>Gate&amp;nbsp;2 permits the early identification of IT architecture related issues and opportunities based upon the documented&#xD;
+Business Case. IT architects review the Business Case and provide advice regarding impacts and opportunities for leveraging&#xD;
+current IT and how the proposed projects fit into the current architecture.&amp;lt;a id=&quot;XE_Gate_2&quot;&#xD;
+name=&quot;XE_Gate_2&quot;&amp;gt;&amp;lt;/a&amp;gt;</usageGuidance>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-7w4U3vvXJIJgdypSEp_JIw" name="uam_proj_planning,_u12GwK8KEeSUf-NO_1Ayag" guid="-7w4U3vvXJIJgdypSEp_JIw">
+    <mainDescription>&lt;p>&#xD;
+    Projects are implemented by application of a project development cycle within the enterprise. Normally this project&#xD;
+    process includes a number of milestones or gates. Architectural reviews built into these project management milestone&#xD;
+    or gate reviews provide the governance required for ensuring that projects both leverage existing architectural&#xD;
+    definitions and decisions, and conform to architectural and technical standards, as defined in the IT architecture&#xD;
+    models and decisions (see figure). Reviews are also excellent opportunities for architects to get feedback on the&#xD;
+    defined IT architectures and on existing Architectural Decisions.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Project Planning and Implementation Life-Cycle Milestones&quot; src=&quot;./resources/UAM-Arch-Governance_project.png&quot;&#xD;
+    width=&quot;517&quot; height=&quot;116&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The milestone reviews outlined in the figure&amp;nbsp;take place at key points within the project. IT architecture aspects&#xD;
+    may not be separate reviews, but built into these project milestone reviews (depending upon the size of the&#xD;
+    organization and the project). A review is done after the Project Charter (Requirement) is defined (Gate 3), when the&#xD;
+    solution is defined (Gate 4), then again during/after the detailed design and implementation (Gate 5). After transition&#xD;
+    to an operational state an architecture review is also done (Gate 6). These reviews are defined as discrete points&#xD;
+    within the life-cycle of a project, but the practical reality is that IT architects should be constantly working with&#xD;
+    projects to resolve issues and provide guidance and advice as required.&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>These milestones may not exist as defined with your organization. The milestones that do exits should be mapped to the ones&#xD;
+defined here, and the reviews and outcomes adapted and incorporated into your reviews.</usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Delivery__Project_Life-Cycle&quot; name=&quot;XE_Delivery__Project_Life-Cycle&quot;>&lt;/a>Generic IT planning and management&#xD;
+processes are used to defined where UAM deliverables and IT architects add value to these processes. Specifically, the&#xD;
+points where IT architects will improve decision makes due to their knowledge of the business (and technology) as&#xD;
+represented in the IT architecture models and documentation.</purpose>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-qWqpDeRAdFvHJY0dAV3syw" name="uam_ent_planning,_iTW2kK8KEeSUf-NO_1Ayag" guid="-qWqpDeRAdFvHJY0dAV3syw">
+    <mainDescription>&lt;p>&#xD;
+    Businesses have their own planning processes and need to decide the best point to have an injection of recommendations&#xD;
+    from their enterprise and domain architects (and others). Architects can provide guidance and advice regarding business&#xD;
+    plans; for example, the size and scope of new strategies or business opportunities, and their impact on the&#xD;
+    enterprise’s IT environment. They can also identify opportunities for the application of IT to the advantage of the&#xD;
+    business. A partial view of this is shown below, illustrating the various planning steps and the milestone reviews&#xD;
+    where architecture guidance and advice would be beneficial.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Pre-project Planning Activities&quot; src=&quot;./resources/UAM-Arch-Governance_pre-project.png&quot; width=&quot;400&quot;&#xD;
+    height=&quot;113&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This illustration is not prescriptive—enterprises will have their own planning processes, the point being that the&#xD;
+    proposed gates and related reviews may be applied within all enterprises where the illustrated types of reviews make&#xD;
+    sense. Many gates are shown and described. Use the ones that fit the organization’s processes, or combine them into&#xD;
+    single gates as desired. &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The steps shown in the figure refine the business requirement to the point where a good understanding of the business&#xD;
+    solution and business impacts are understood—to the point where a go or no-go decision is made whether or not to&#xD;
+    proceed. Each business artifact (or associated activity) is briefly described below, followed by the purpose for each&#xD;
+    gate and actions taken.&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>These milestones may not exist as defined with your organization. The milestones that do exits should be mapped to the ones&#xD;
+defined here, and the reviews and outcomes adapted and incorporated into your reviews. Often these activities and&#xD;
+milestones are combined, and therefore only Gate 2 may exist. That is where the IT architect's input needs to happen.</usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Delivery__Enterprise_Planning&quot; name=&quot;XE_Delivery__Enterprise_Planning&quot;>&lt;/a>Generic IT planning and management&#xD;
+processes are used to defined where UAM deliverables and IT architects add value to these processes. Specifically, the&#xD;
+points where IT architects will improve decision makes due to their knowledge of the business (and technology) as&#xD;
+represented in the IT architecture models and documentation.</purpose>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-bwXy7syES5dC_pjclLI4aw" name="uam_change_mgmt,_19zA4K8KEeSUf-NO_1Ayag" guid="-bwXy7syES5dC_pjclLI4aw">
+    <mainDescription>&lt;p>&#xD;
+    existingexistingThe evolution of the existing IT environment is managed from an IT architecture perspective (and other&#xD;
+    perspectives). Change requests define a need for change to existing systems, which is a good point to inject enterprise&#xD;
+    standards and enterprise or departmental architectural patterns into the planning for the next steps. The change&#xD;
+    management process within the enterprise needs to include an architectural review prior to the initiation of a change&#xD;
+    implementation project.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Evolution if the operational (existing) IT architecture&quot; src=&quot;resources/UAM-Arch-Governance_evolution.png&quot;&#xD;
+    width=&quot;242&quot; height=&quot;111&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The IT architecture review outlined in the figure, which may be just a portion of a larger review activity, is defined&#xD;
+    to ensure that IT systems evolve in a way that is in-line with the defined IT architecture. Architecture Decisions, and&#xD;
+    perhaps the IT architecture itself, are updated as required as a result of this review.&lt;br />&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>This milestone may not exist as defined with your organization. This is a big issue if it doesn't! The evolution of the&#xD;
+current IT environment must be managed in a logical and rational way. Wherever this management review exists, this&#xD;
+milestone and its objectives and actions need to be adapted and incorporated into your process.</usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Delivery__Change_Management&quot; name=&quot;XE_Delivery__Change_Management&quot;>&lt;/a>Generic IT planning and management&#xD;
+processes are used to defined where UAM deliverables and IT architects add value to these processes. Specifically, the&#xD;
+points where IT architects will improve decision makes due to their knowledge of the business (and technology) as&#xD;
+represented in the IT architecture models and documentation.</purpose>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-2ROaND5m53fN6BasjS916g" name=",__orJcLB4EeSgVPmVL1L5GQ" guid="-2ROaND5m53fN6BasjS916g">
+    <mainDescription>&lt;p>&#xD;
+    The evolution of existing IT systems, governed by a change management process, need architectural review. Plans are&#xD;
+    reviewed prior to implementation of changes.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        IT architects review the change request and provide comments regarding probable impacts on the current system’s IT&#xD;
+        architecture, the planned evolution of the IT architecture, and suggestions for implementation of the change.&#xD;
+        Issues are described and resolved or assigned for follow-on action;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        IT architectures and Architectural Decisions are updated as required.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Once the Change Request is approved a project implements the required change. Therefore, the project life-cycle steps&#xD;
+    and milestones take over&amp;nbsp;the monitoring of the implementation. See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/deliveryprocesses/uam_proj_planning_4E509F71.html&quot; guid=&quot;_u12GwK8KEeSUf-NO_1Ayag&quot;>Activity: Project&#xD;
+    Life-Cycle&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>Gate 7 ensures that the&amp;nbsp;Change Request's proposed&amp;nbsp;implementation fits into the current architecture, and that it&#xD;
+follows the various corporate IT standards, patterns and the IT strategy.&lt;a id=&quot;XE_Gate_7&quot; name=&quot;XE_Gate_7&quot;>&lt;/a></usageGuidance>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-3-D4fpjV-T4HcYkZCPfbpg" name="uam_gate-3,_dzlfULBtEeSUf-NO_1Ayag" guid="-3-D4fpjV-T4HcYkZCPfbpg">
+    <mainDescription>&lt;p>&#xD;
+    The Project Charter or Project Requirement defines the scope, objectives, time, and cost constraints for the project,&#xD;
+    and outlines the project objectives, the main stakeholders, and the authority of the project manager. The IT architect&#xD;
+    defines the context, scope, and perhaps a first draft Business Perspective for the project, which is reviewed in the&#xD;
+    context of the project, its objectives, and with all stakeholders.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The IT architect present the scope and Business Perspective definitions, and solicit feedback. The context of the&#xD;
+        system is included along with comments regarding probable impacts on the current IT architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A draft list of Architecture Decisions required before proceeding with the project are presented and eventually&#xD;
+        agreed;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Opportunities for leveraging current IT, or for the introduction of new IT, are identified and described.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The next steps are for the project manager to define the system design, with the aid of the project IT architect.&lt;br />&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>&lt;a id=&quot;XE_Gate_3&quot; name=&quot;XE_Gate_3&quot;>Gate&amp;nbsp;3 ensures that the project's context and scope are clearly defined, and that&#xD;
+it fits into the current architecture. Other aspects are also examined to ensure that the project gets off on the right&#xD;
+foot.&lt;/a></usageGuidance>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-ZghTU092WhqVAdbPzlg3Kw" name="uam_gate-4,_lyGOALBtEeSUf-NO_1Ayag" guid="-ZghTU092WhqVAdbPzlg3Kw">
+    <mainDescription>&lt;p>&#xD;
+    The system architecture is reviewed, which includes the completed Business, Logical, and Technical perspectives. Note&#xD;
+    that “gates” are built into the UAM methodology for reviewing the models and other deliverables before they are&#xD;
+    published and used in this milestone review. Detailed design may also be underway, but ideally not completed since&#xD;
+    there may be some changes resulting from this review.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        IT architects and other stakeholders review the architectures along with supporting Architectural Decisions and&#xD;
+        provide comments. The IT architects, along with appropriate (to the architecture level) stakeholders, ensure that&#xD;
+        the project architecture is in line with the higher level architectures in the organization. Modifications and&#xD;
+        impact on higher level architecture, if any, are recorded. Unresolved issues are described and follow-on actions&#xD;
+        assigned;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Technical level (implementation) issues are identified and resolved;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Architectural Decisions are agreed and updated as required.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>Gate&amp;nbsp;4 ensures that the project's IT architecture fits into the current architecture, and that it follows the various&#xD;
+corporate IT standards, patterns and the IT strategy.&lt;a id=&quot;XE_Gate_4&quot; name=&quot;XE_Gate_4&quot;>&lt;/a></usageGuidance>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FyDbof0fdQJgt7y9nFaNbQ" name="uam_system_design,_iM8FMLBtEeSUf-NO_1Ayag" guid="-FyDbof0fdQJgt7y9nFaNbQ">
+    <usageGuidance>Project Architects produce the system IT architecture, which is then used to define the detailed design. The detailed&#xD;
+design is developed by the Project Manager and is IT experts, with help from business experts and IT architects.</usageGuidance>
+    <refinedDescription>&lt;p>&#xD;
+    The system IT architecture, defined by Project IT architects, is the starting point for the definition of the solution.&#xD;
+    The Project Manager, and his team, are involved in this development. They then take the IT architecture and develop the&#xD;
+    detailed design from it. The size and scope define the level of effort involved in these steps. This IT architecture&#xD;
+    definition can take anywhere from days to weeks.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The follow-on milestone review is where IT architects ensure that the project architecture is in line with the higher&#xD;
+    level architectures in the organization, and fits in with existing systems, and defined IT standards.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-F3WL2euSPlwz8MMJhK2Hxg" name="uam_gate-5,_tiu4wLBtEeSUf-NO_1Ayag" guid="-F3WL2euSPlwz8MMJhK2Hxg">
+    <mainDescription>&lt;p>&#xD;
+    The implementation of the system is reviewed to ensure that it was constructed as defined by the IT architecture and&#xD;
+    the defined ADs.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        IT architects review the implementation of the system to ensure compliance with the architecture. Issues are&#xD;
+        described and resolved, or assigned for follow-on action;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The modifications required to the IT architecture (or implementation) are agreed. Unresolved issues are described&#xD;
+        and actions assigned;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Architectural Decisions are updated as required.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>Gate&amp;nbsp;5 ensures that the project's implementation fits into the current architecture, and that it follows the various&#xD;
+corporate IT standards, patterns and the IT strategy. &lt;a id=&quot;XE_Gate_5&quot; name=&quot;XE_Gate_5&quot;>&lt;/a></usageGuidance>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-0Z7QxGBGZiW9bcylZ6YhkA" name="uam_gate-6,_1ZR-QLBtEeSUf-NO_1Ayag" guid="-0Z7QxGBGZiW9bcylZ6YhkA">
+    <mainDescription>&lt;p>&#xD;
+    Before the system goes operational the architecture, implementation, and associated documentation is reviewed.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The IT architecture, implementation descriptions, training materials, and operations manuals are reviewed for&#xD;
+        accuracy and completeness. Issues are described and resolved, or assigned for follow-on action;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Documentation (including the IT architecture) and Architectural Decisions are updated as required.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Once the system goes operational, changes to it are managed through the Change Management process. See: &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/deliveryprocesses/uam_change_mgmt_D8EA8B52.html&quot;&#xD;
+    guid=&quot;_19zA4K8KEeSUf-NO_1Ayag&quot;>Activity: Change Management&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>Gate&amp;nbsp;6 ensures that the system's documentation, including the IT architecture, accurately captures the&#xD;
+&lt;em>as-built&lt;/em> result. This review may require updates to the IT architecture and/or to ADs.&lt;a id=&quot;XE_Gate_6&quot;&#xD;
+name=&quot;XE_Gate_6&quot;>&lt;/a></usageGuidance>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VspzfNJk79g14txZXejnkQ" name="Implementation,_oa3AALBtEeSUf-NO_1Ayag" guid="-VspzfNJk79g14txZXejnkQ">
+    <usageGuidance>Project Architects produce the system IT architecture, which is then used to define the detailed design. The IT&#xD;
+architecture and detailed design&amp;nbsp;are used to implement the system, and therefore&amp;nbsp;are controlled documents. A&#xD;
+Change Request is used to update these documents, and the resulting system implementation, in a controlled way.</usageGuidance>
+    <refinedDescription>&lt;p>&#xD;
+    Changes to the system IT architecture, design,&amp;nbsp;and implementation&amp;nbsp;is managed through Change Requests, until&#xD;
+    the implementation is complete. Once this milestone is reached then no more changes are accepted, and the system moves&#xD;
+    to the &quot;transition to operations&quot; phase. The architecture and design are frozen.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The follow-on milestone review is where IT architects ensure that it was constructed as defined by the IT architecture&#xD;
+    and the defined ADs.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-pNIOj-BnNZ-ljYEBF6qZRA" name="uam_tto,_wtGjALBtEeSUf-NO_1Ayag" guid="-pNIOj-BnNZ-ljYEBF6qZRA">
+    <usageGuidance>The IT architecture and detailed design&amp;nbsp;are frozen and the implementation of the system is complete. During the&#xD;
+transition to operations any required changes are documented and tracked through&amp;nbsp;Change Requests.</usageGuidance>
+    <refinedDescription>&lt;p>&#xD;
+    Changes to the system IT architecture, design, and implementation&amp;nbsp;is managed through Change Requests, until the&#xD;
+    transition to operations is complete. Once this milestone is reached then no more changes are accepted, and the system&#xD;
+    moves to the &quot;operational&quot; phase. The architecture and design are frozen.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The follow-on milestone review is where IT architects ensure that the system's documentation, including the IT&#xD;
+    architecture, accurately captures the &lt;em>as-built&lt;/em> result.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wk7wl4p-gCSpnxPCp4SOOA" name=",_9nCo4LB4EeSgVPmVL1L5GQ" guid="-wk7wl4p-gCSpnxPCp4SOOA">
+    <usageGuidance>The implementation of the system is complete and it is now in operation. Any required changes to the system are documented&#xD;
+and tracked through&amp;nbsp;Change Requests.</usageGuidance>
+    <refinedDescription>&lt;p>&#xD;
+    Changes to the system, be they to the&amp;nbsp;IT architecture, design,&amp;nbsp;or implementation, are managed through Change&#xD;
+    Requests. These Change Requests, which also document the suggested solution, are reviewed and accepted once they are&#xD;
+    produced through this task. The follow-on milestone review (Gate 7) is where IT architects ensure that the solution fit&#xD;
+    is with the current environment, and that it complies with corporate IT standards and patterns.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

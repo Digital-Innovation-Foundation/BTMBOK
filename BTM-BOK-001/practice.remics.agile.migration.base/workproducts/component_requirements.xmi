@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QcJM3ESxojfntDuE7YM8yw" name="new_artifact,_w6iSgApGEeOBM7QWB5hbCw" guid="-QcJM3ESxojfntDuE7YM8yw" changeDate="2013-08-21T07:44:04.578-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Component Requirement&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It defines the requirements for&amp;nbsp; the functional testing of the component code.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

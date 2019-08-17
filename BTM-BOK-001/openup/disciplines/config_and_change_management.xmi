@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_H9TXMLv-EdmmUvZAZjqE3g" name="change_management,_0TwXgMlgEdmt3adZL5Dmdw" guid="_H9TXMLv-EdmmUvZAZjqE3g" changeDate="2006-09-28T13:05:40.519-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The purpose of this discipline is to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Maintain a consistent set of work products as they evolve&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Maintain consistent builds of the software&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide an efficient means to adapt to changes and issues, and re-plan work accordingly&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide data for measuring progress&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    In many organizations, the term &quot;configuration management&quot; implies all of these things.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Within the context of this process, configuration management refers to the ability to maintain &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/guidances/termdefinitions/version_F3A31B17.html&quot; guid=&quot;_eX8K8ElyEducWJcS4yanqg&quot;>version&lt;/a>s of artifacts and consistent &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/guidances/termdefinitions/configuration_FE64B3D8.html&quot; guid=&quot;__Cw30ElxEducWJcS4yanqg&quot;>configuration&lt;/a>s of artifacts, addressing the first two objectives listed above.&#xD;
+    Change Management refers to the process of managing changes to configuration-controlled artifacts, addressing the&#xD;
+    latter two objectives listed above.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Although it is important to keep up-to-date versions and configurations of all work products, the primary work products&#xD;
+    of concern are the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/implementation_917CA61E.html&quot; guid=&quot;_0YoQcMlgEdmt3adZL5Dmdw&quot;>Artifact: Implementation&lt;/a> and the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/build_95D7D8FD.html&quot; guid=&quot;_0YuXEMlgEdmt3adZL5Dmdw&quot;>Artifact: Build&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Changes are managed via the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/tasks/request_change_A048C387.html&quot; guid=&quot;_0mwzEclgEdmt3adZL5Dmdw&quot;>Task: Request Change&lt;/a> and subsequent prioritization and disposition of change requests via the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/work_items_list_39D03CC8.html&quot; guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>Artifact: Work Items List&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This discipline spans the entire lifecycle. Every other discipline relies upon the configuration and change management&#xD;
+    discipline to maintain a consistent, up-to-date, set of work products -- and to prioritize and track changes to those work&#xD;
+    products -- throughout the lifecycle.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Configuration and change management is performed by everyone on the development team. Because of the importance and&#xD;
+    pervasiveness of this discipline, configuration and change management guidance is associated with tasks and work&#xD;
+    products in all other disciplines.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    It is assumed that the project has some form of configuration management system, such as CVS, to maintain version and&#xD;
+    configuration information, and to enable collaborative system development. Without this, all but the most trivial of&#xD;
+    development will be virtually impossible.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

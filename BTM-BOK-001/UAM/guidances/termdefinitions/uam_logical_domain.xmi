@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zerrROKBe3reaM67PcVotw" name="uam_logical_domain,_r4vCEEGoEeOfR_FtRm9PUg" guid="-zerrROKBe3reaM67PcVotw" changeDate="2013-10-30T17:15:29.265-0400" version="7.5.1">
+  <mainDescription>A Logical Domain defines the overarching policies, constraints, and rules that govern all aspects of the system, from laws,&#xD;
+to privacy policies, workflow, and other rules. A Logical Domain is managed by a single authority, and may contain one or&#xD;
+more sub-domains. Different sub-domains are created when security models or policies (and possibly architecture) are&#xD;
+significantly different from one domain to the other, or are conflicting. Separate Domains provide clearer separation of&#xD;
+concerns and ease policy enforcement and system management. The Domain essentially aligns with (or is larger than) the&#xD;
+scope of the system and defines the authority—the associated Logical Rules are translations of Domain policies, constraints&#xD;
+and other rules into a form usable by implementation projects. See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_domain_B5C2A3F2.html&quot; guid=&quot;_8fmioLX9EeSeNe6SxZNlbg&quot;>Term Definition:&#xD;
+Domain&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

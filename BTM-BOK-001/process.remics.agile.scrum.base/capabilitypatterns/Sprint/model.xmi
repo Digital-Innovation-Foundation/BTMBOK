@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_M8Hfo8CTEemv0a6P8REMBA" guid="_M8Hfo8CTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_M8HfpMCTEemv0a6P8REMBA" id="-faEuiMLt3GF-UIuKnJRkxQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8RQoMCTEemv0a6P8REMBA" id="-7ex20h3MG712e4hgzLAOfg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8RQocCTEemv0a6P8REMBA" id="-cK8cheOSecDIr7VOMnP7RA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8RQosCTEemv0a6P8REMBA" id="-ZUE0SPfPI3-IJW6jjdDXvQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8RQo8CTEemv0a6P8REMBA" id="-lAWPO1vDe21sJ-S97EDxBQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8bBoMCTEemv0a6P8REMBA" id="-hyVllSaf5hC9m8nbB2GfyA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8bBocCTEemv0a6P8REMBA" id="-yXp6FO_RD1AnsjHpSAx6eQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8bBosCTEemv0a6P8REMBA" id="-18JJJYqLyY7Cr1pOPrSxuA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8bBo8CTEemv0a6P8REMBA" id="-QqJitBz5jkboKDMtnKZLVQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8kLkMCTEemv0a6P8REMBA" id="-C7QuhHCPj-l_qA3w5zqNBA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8kLkcCTEemv0a6P8REMBA" id="-fcoq7wniEx7eUmXCvxO_jA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8kLksCTEemv0a6P8REMBA" id="-R6bfNl_JwS6yf8odOzQK2A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8kLk8CTEemv0a6P8REMBA" id="-4F0t3wKnYKrHmDzttvwM0g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_M8t8kMCTEemv0a6P8REMBA" id="-MyDDlLg2usYwu2WBzVnhQg" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_SwjxYAA5EeO8guHzeWZLgg" name="Sprint" guid="_SwjxYAA5EeO8guHzeWZLgg">
+    <methodElementProperty xmi:id="_M8y1EMCTEemv0a6P8REMBA" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_M8y1EcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_c1rnQAA5EeO8guHzeWZLgg" name="daily_scrum" guid="_c1rnQAA5EeO8guHzeWZLgg" presentationName="Daily Scrum" briefDescription="The Daily Scrum is a 15-minute time-boxed event for the Development Team to synchronize activities and create a plan for the next 24 hours." superActivities="_SwjxYQA5EeO8guHzeWZLgg" linkToPredecessor="_tX6DcQA5EeO8guHzeWZLgg" Task="_oSM0AOF-Edyp34pwdTOSVQ" mandatoryInput="_c1rnTQA5EeO8guHzeWZLgg _c1rnTwA5EeO8guHzeWZLgg" output="_c1rnTQA5EeO8guHzeWZLgg" performedPrimarilyBy="_c1rnRQA5EeO8guHzeWZLgg">
+      <methodElementProperty xmi:id="_M8y1EsCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-faEuiMLt3GF-UIuKnJRkxQ" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-faEuiMLt3GF-UIuKnJRkxQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_c1rnQQA5EeO8guHzeWZLgg" name="prepare_and_demo_product_backlog" guid="_c1rnQQA5EeO8guHzeWZLgg" presentationName="Prepare and Demo Product Backlog" briefDescription="Prepare and demo product backlog for requirements scrum" superActivities="_SwjxYQA5EeO8guHzeWZLgg">
+      <methodElementProperty xmi:id="_M8y1E8CTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-7ex20h3MG712e4hgzLAOfg" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-7ex20h3MG712e4hgzLAOfg"/>
+      <Task href="uma://_Og44UP__EeKZBbwDq57ZRA#_bC04cAALEeOZBbwDq57ZRA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_c1rnQgA5EeO8guHzeWZLgg" name="sprint_planning_meeting" guid="_c1rnQgA5EeO8guHzeWZLgg" presentationName="Sprint Planning Meeting" briefDescription="The Sprint Planning Meeting is where the Scrum Team and Product owner determine which features and tasks will be attempted in the upcoming sprint" superActivities="_SwjxYQA5EeO8guHzeWZLgg" linkToPredecessor="_slVXAQA5EeO8guHzeWZLgg" Task="_4gCKAOF9Edyp34pwdTOSVQ" additionallyPerformedBy="_c1rnSQA5EeO8guHzeWZLgg _c1rnSwA5EeO8guHzeWZLgg _c1rnRQA5EeO8guHzeWZLgg" mandatoryInput="_c1rnUQA5EeO8guHzeWZLgg" output="_c1rnTQA5EeO8guHzeWZLgg _c1rnTwA5EeO8guHzeWZLgg" performedPrimarilyBy="_c1rnRwA5EeO8guHzeWZLgg">
+      <methodElementProperty xmi:id="_M8y1FMCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-cK8cheOSecDIr7VOMnP7RA" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-cK8cheOSecDIr7VOMnP7RA"/>
+      <concepts href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_tprjYBCzEeGhfJHCQDJMKQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_c1rnQwA5EeO8guHzeWZLgg" name="sprint_retrospective" guid="_c1rnQwA5EeO8guHzeWZLgg" presentationName="Sprint Retrospective" briefDescription="The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint. " superActivities="_SwjxYQA5EeO8guHzeWZLgg" Task="_sKJ9AOF-Edyp34pwdTOSVQ" additionallyPerformedBy="_c1rnSQA5EeO8guHzeWZLgg _c1rnSwA5EeO8guHzeWZLgg _c1rnRQA5EeO8guHzeWZLgg" performedPrimarilyBy="_c1rnRwA5EeO8guHzeWZLgg">
+      <methodElementProperty xmi:id="_M8y1FcCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-ZUE0SPfPI3-IJW6jjdDXvQ" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-ZUE0SPfPI3-IJW6jjdDXvQ"/>
+      <concepts href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_tprjYBCzEeGhfJHCQDJMKQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_c1rnRAA5EeO8guHzeWZLgg" name="sprint_review" guid="_c1rnRAA5EeO8guHzeWZLgg" presentationName="Sprint Review" briefDescription="A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed." superActivities="_SwjxYQA5EeO8guHzeWZLgg" Task="_i_fkQOF-Edyp34pwdTOSVQ" additionallyPerformedBy="_c1rnSQA5EeO8guHzeWZLgg _c1rnSwA5EeO8guHzeWZLgg _c1rnRQA5EeO8guHzeWZLgg" mandatoryInput="_c1rnTQA5EeO8guHzeWZLgg _c1rnUwA5EeO8guHzeWZLgg _c1rnUQA5EeO8guHzeWZLgg _c1rnTwA5EeO8guHzeWZLgg" output="_c1rnUQA5EeO8guHzeWZLgg" performedPrimarilyBy="_c1rnRwA5EeO8guHzeWZLgg">
+      <methodElementProperty xmi:id="_M8y1FsCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-lAWPO1vDe21sJ-S97EDxBQ" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-lAWPO1vDe21sJ-S97EDxBQ"/>
+      <concepts href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_tprjYBCzEeGhfJHCQDJMKQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_c1rnRQA5EeO8guHzeWZLgg" name="development_team" guid="_c1rnRQA5EeO8guHzeWZLgg" presentationName="development_team" briefDescription="The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint." isPlanned="false" superActivities="_SwjxYQA5EeO8guHzeWZLgg" modifies="_c1rnTQA5EeO8guHzeWZLgg" responsibleFor="_c1rnUwA5EeO8guHzeWZLgg _c1rnTQA5EeO8guHzeWZLgg">
+      <methodElementProperty xmi:id="_M8y1F8CTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_M8y1GMCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-hyVllSaf5hC9m8nbB2GfyA" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-hyVllSaf5hC9m8nbB2GfyA"/>
+      <Role href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_EChNoBC0EeGhfJHCQDJMKQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_c1rnRwA5EeO8guHzeWZLgg" name="scrum_team" guid="_c1rnRwA5EeO8guHzeWZLgg" presentationName="scrum_team" briefDescription="The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master." isPlanned="false" superActivities="_SwjxYQA5EeO8guHzeWZLgg" Role="_O65KUOF6Edyp34pwdTOSVQ" modifies="_c1rnTQA5EeO8guHzeWZLgg _c1rnTwA5EeO8guHzeWZLgg _c1rnUQA5EeO8guHzeWZLgg" responsibleFor="_c1rnUwA5EeO8guHzeWZLgg _c1rnTwA5EeO8guHzeWZLgg _c1rnTQA5EeO8guHzeWZLgg">
+      <methodElementProperty xmi:id="_M8y1GcCTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_M8y1GsCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-yXp6FO_RD1AnsjHpSAx6eQ" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-yXp6FO_RD1AnsjHpSAx6eQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_c1rnSQA5EeO8guHzeWZLgg" name="product_owner" guid="_c1rnSQA5EeO8guHzeWZLgg" presentationName="product_owner" briefDescription="The Product Owner represents the interests of all stakeholders, defines the features of the product and manages the Product Backlog." isPlanned="false" superActivities="_SwjxYQA5EeO8guHzeWZLgg" Role="_QcnRMOF5Edyp34pwdTOSVQ" responsibleFor="_c1rnUQA5EeO8guHzeWZLgg">
+      <methodElementProperty xmi:id="_M8y1G8CTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_M8y1HMCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-18JJJYqLyY7Cr1pOPrSxuA" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-18JJJYqLyY7Cr1pOPrSxuA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_c1rnSwA5EeO8guHzeWZLgg" name="scrum_master" guid="_c1rnSwA5EeO8guHzeWZLgg" presentationName="scrum_master" briefDescription="The Scrum Master is responsible for ensuring Scrum is understood and enacted.&#xD;&#xA;&#xD;&#xA;The ScrumMaster facilitates the daily scrum and becomes responsible for removing any obstacles that are brought up by the team during those meetings. " isPlanned="false" superActivities="_SwjxYQA5EeO8guHzeWZLgg" Role="_Bw-twOF6Edyp34pwdTOSVQ">
+      <methodElementProperty xmi:id="_M8y1HcCTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_M8y1HsCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-QqJitBz5jkboKDMtnKZLVQ" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-QqJitBz5jkboKDMtnKZLVQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_c1rnTQA5EeO8guHzeWZLgg" name="sprint_backlog" guid="_c1rnTQA5EeO8guHzeWZLgg" presentationName="Sprint Backlog" briefDescription="The sprint backlog is the list of tasks that the Scrum team is committing that they will complete in the current sprint. " isPlanned="false" superActivities="_SwjxYQA5EeO8guHzeWZLgg" WorkProduct="_Q5Ki8OF8Edyp34pwdTOSVQ">
+      <methodElementProperty xmi:id="_M8y1H8CTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_M8y1IMCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-C7QuhHCPj-l_qA3w5zqNBA" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-C7QuhHCPj-l_qA3w5zqNBA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_c1rnTwA5EeO8guHzeWZLgg" name="sprint_goal" guid="_c1rnTwA5EeO8guHzeWZLgg" presentationName="Sprint Goal" briefDescription="The Sprint Goal is an objective that will be met within the Sprint through the implementation of the Product Backlog, and it provides guidance to the Development Team on why it is building the Increment." isPlanned="false" superActivities="_SwjxYQA5EeO8guHzeWZLgg">
+      <methodElementProperty xmi:id="_M8y1IcCTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_M8y1IsCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-fcoq7wniEx7eUmXCvxO_jA" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-fcoq7wniEx7eUmXCvxO_jA"/>
+      <WorkProduct href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6p8zUIcOEeKDAPAbcNl48A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_c1rnUQA5EeO8guHzeWZLgg" name="product_backlog" guid="_c1rnUQA5EeO8guHzeWZLgg" presentationName="product_backlog" briefDescription="The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product." isPlanned="false" superActivities="_SwjxYQA5EeO8guHzeWZLgg" WorkProduct="_OZIPIOF8Edyp34pwdTOSVQ">
+      <methodElementProperty xmi:id="_M8y1I8CTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_M8y1JMCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-R6bfNl_JwS6yf8odOzQK2A" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-R6bfNl_JwS6yf8odOzQK2A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_c1rnUwA5EeO8guHzeWZLgg" name="increment" guid="_c1rnUwA5EeO8guHzeWZLgg" presentationName="Increment" briefDescription="The outcome of every sprint is a potentially shippable product increment." isPlanned="false" superActivities="_SwjxYQA5EeO8guHzeWZLgg" WorkProduct="__uNYkPVgEdyMdecrgpMbRg">
+      <methodElementProperty xmi:id="_M8y1JcCTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_M8y1JsCTEemv0a6P8REMBA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-4F0t3wKnYKrHmDzttvwM0g" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-4F0t3wKnYKrHmDzttvwM0g"/>
+      <concepts href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_tprjYBCzEeGhfJHCQDJMKQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_slVXAQA5EeO8guHzeWZLgg" guid="_slVXAQA5EeO8guHzeWZLgg" pred="_c1rnQQA5EeO8guHzeWZLgg"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_tX6DcQA5EeO8guHzeWZLgg" guid="_tX6DcQA5EeO8guHzeWZLgg" pred="_c1rnQgA5EeO8guHzeWZLgg"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_SwjxYQA5EeO8guHzeWZLgg" name="Sprint" guid="_SwjxYQA5EeO8guHzeWZLgg" presentationName="Sprint" breakdownElements="_c1rnQAA5EeO8guHzeWZLgg _c1rnQQA5EeO8guHzeWZLgg _c1rnQgA5EeO8guHzeWZLgg _c1rnQwA5EeO8guHzeWZLgg _c1rnRAA5EeO8guHzeWZLgg _c1rnRQA5EeO8guHzeWZLgg _c1rnRwA5EeO8guHzeWZLgg _c1rnSQA5EeO8guHzeWZLgg _c1rnSwA5EeO8guHzeWZLgg _c1rnTQA5EeO8guHzeWZLgg _c1rnTwA5EeO8guHzeWZLgg _c1rnUQA5EeO8guHzeWZLgg _c1rnUwA5EeO8guHzeWZLgg">
+      <presentation xmi:id="-MyDDlLg2usYwu2WBzVnhQg" href="uma://-faEuiMLt3GF-UIuKnJRkxQ#-MyDDlLg2usYwu2WBzVnhQg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

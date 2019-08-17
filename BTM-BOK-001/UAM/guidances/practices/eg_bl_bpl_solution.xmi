@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-OrRAtR_u_RulLMpdprYLAA" name="uam_ea_bpl_solution,_0dr1UMMaEeKSedlRPHdUIQ" guid="-OrRAtR_u_RulLMpdprYLAA" changeDate="2013-05-22T16:04:47.670-0400" version="7.5.1">
+  <problem>An IT solution provided by the company to a Customer. The solution may also be supported by ThuNorTech.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

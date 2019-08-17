@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vKbZ8Yay1Aax959syd7WHw" name="uam_business_model,_ka0YEMI9EeKSedlRPHdUIQ" guid="-vKbZ8Yay1Aax959syd7WHw" changeDate="2014-09-22T17:46:34.543-0400" version="7.5.1">
+  <mainDescription>A description of the business that includes how it will make money; a description that will allow a bank to make an&#xD;
+informed investment decision. No notions of computing or technology are permitted in this document. A similar definition is&#xD;
+it “describes the rationale of how an organization creates, delivers, and captures value (&lt;a&#xD;
+href=&quot;http://www.businessmodelgeneration.com/&quot; target=&quot;_blank&quot;>Osterwalder and Pigneur, Business Model Generation&#xD;
+2009&lt;/a>).”&amp;nbsp; The primary stakeholders are business managers and other business people.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-9vKbb9wg8CjT8Wz_JUeGPA" name="uam_business_comms,_zFnm4EGlEeOfR_FtRm9PUg" guid="-9vKbb9wg8CjT8Wz_JUeGPA" changeDate="2015-02-19T13:00:52.678-0500" version="7.5.1">
+  <mainDescription>Business Communications represents the conceptual communications, of any type, between &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_location_F453EAB5.html&quot; guid=&quot;_YhpKoMI9EeKSedlRPHdUIQ&quot;>Business&#xD;
+Location&lt;/a>s. It is an abstract element that is specified as a generalized Business Link between locations. At a Business&#xD;
+level, simple links with no technical details are defined with optional definition of processes that traverse these links.&#xD;
+See: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/guidelines/uam_business_locations_model_BF632121.html&quot;&#xD;
+guid=&quot;_LEYwkOSgEdyYxtlRIMoTnw&quot;>Guideline: Business Locations Model&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

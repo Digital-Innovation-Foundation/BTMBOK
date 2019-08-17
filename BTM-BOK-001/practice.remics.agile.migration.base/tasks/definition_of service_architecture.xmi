@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ayD25ygUo5BB00ZEA_DERA" name=",_xAhB0P4nEeC6H_i-fGXOUw" guid="-ayD25ygUo5BB00ZEA_DERA" changeDate="2013-08-21T05:25:00.887-0400">
+  <mainDescription>&lt;H3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&lt;SPAN lang=EN-GB>Definition of Service Architecture&lt;/SPAN>&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Starting with the system description and the recovered component models, define the architecture of the system to implement the requirements identified. The architecture will contain the identification of the services to be exchanged among the different components distributed in the cloud.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></mainDescription>
+  <keyConsiderations>Pairing with a team member</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

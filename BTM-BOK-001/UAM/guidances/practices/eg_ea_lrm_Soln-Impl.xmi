@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-c0tolwH4a-ieVKs1BGV0kg" name="eg_ea_lrm_Soln-Impl,_17TfwLRSEeOTralbgKSHFw" guid="-c0tolwH4a-ieVKs1BGV0kg" changeDate="2015-02-07T14:35:53.392-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Solution Implementation Process with Roles in context&quot;&#xD;
+    src=&quot;./resources/EA-Logical-LRM-Soln-Impl.png&quot; />&amp;nbsp;&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Implementation Manager&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Implementation Mangers form the teams to implement solutions. They are also responsible for managing the project.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the&amp;nbsp;Form Team&amp;nbsp;activity.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Solution Engineer&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    They are responsible for defining and specifying a solution for a customer. They are also involved in implementing the&#xD;
+    solution.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the&amp;nbsp;Define Solution and Implement Solution activities.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Support Writer&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Support Writers create the support documentation for the solution, in parallel with its development.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the&amp;nbsp;Define Support activity.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Handover Manager&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Handover Managers are responsible for all actions necessary to deploy and handover the solution to the customer.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the&amp;nbsp;Deploy Solution activity.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

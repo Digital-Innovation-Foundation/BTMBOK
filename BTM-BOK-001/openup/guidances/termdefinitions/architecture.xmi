@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YMvJ5LwexkcVWWqLdm5-nQ" name=",_siyjEEvCEdunZcj9T5hrMQ" guid="-YMvJ5LwexkcVWWqLdm5-nQ" changeDate="2007-04-16T14:58:21.493-0400" version="1.0.0">
+  <mainDescription>Describes the blueprint for software development, frequently represented using a number of architectural views. It also&#xD;
+contains the rationale, assumptions, explanations and implications of the decisions that where made in forming the&#xD;
+architecture as well as the global mapping between views.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

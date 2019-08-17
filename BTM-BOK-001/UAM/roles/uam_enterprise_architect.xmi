@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-tdHC2NRzOkw4QAylSXATEg" name="uam_enterprise_architect,_0yThIMIaEdyMpOiGFnM_WA" guid="-tdHC2NRzOkw4QAylSXATEg" authors="David W Enstrom" changeDate="2014-09-21T14:46:01.578-0400" changeDescription="Update description." version="2.0.1">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p>&#xD;
+    The enterprise architect has overall responsibility for IT architecture at the enterprise level. This includes&#xD;
+    identifying and documenting the architecturally significant aspects of the&amp;nbsp;enterprise under the scope of the&#xD;
+    enterprise architecture exercise.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The rationale for the main architecture decisions involves finding the right balance between competing factors,&#xD;
+    including the concerns of various stakeholders, risks, costs, constraints and technologies. The models developed and&#xD;
+    decisions made need be&amp;nbsp;agreed upon, validated and communicated to all the interested parties at the enterprise&#xD;
+    level.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <skills>&lt;p>&#xD;
+    A person acting&amp;nbsp;in this role&amp;nbsp;must be a good facilitator and have excellent communication skills. The IT&#xD;
+    architect also needs to have the ability to comprehend and makes sense of a large body of knowledge (i.e. IT&#xD;
+    technologies &lt;em>&lt;strong>and&lt;/strong>&lt;/em> the business) and create the IT architecture models that capture this&#xD;
+    information.&amp;nbsp;Excellent knowledge of the business of the enterprise is therefore essential, along with an extensive&#xD;
+    knowledge of IT technologies. The enterprise architect needs to be familiar with the tools used to capture the models&#xD;
+    of the architecture and with the main technological aspects of potential solutions.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    An enterprise architect should be prepared to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Assess the current situation of the&amp;nbsp;enterprise (technically and otherwise);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understand&amp;nbsp;the enterprise's requirements, strategies and goals;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Facilitate modeling of the target enterprise architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Discuss and facilitate a business re-engineering effort, if needed;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understand the technical sides of the solutions;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Take part in defining IT architectures and solution approaches for resulting systems.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+  <assignmentApproaches>Depending upon the size and scope of the enterprise, consider assigning the Enterprise Architect, and&amp;nbsp;Domain or&#xD;
+Business Line&amp;nbsp;Architect roles to the same person. However, in large organization with large business domains or&#xD;
+business lines, separate IT architects will be required.</assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

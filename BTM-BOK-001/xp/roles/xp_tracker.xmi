@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FIhk4OEzZl2IAVMXurpBLA" name="xp_tracker,{D8FE277E-4F9A-47EB-855F-C451D601BBAF}" guid="-FIhk4OEzZl2IAVMXurpBLA" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp_tracker__role_definition&quot; name=&quot;XE_xp_tracker__role_definition&quot;>&lt;/a>&lt;a id=&quot;Description&quot; name=&quot;Description&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The three basic things the &lt;a class=&quot;PresentationName&quot; guid=&quot;{D8FE277E-4F9A-47EB-855F-C451D601BBAF}&quot;>XP Tracker&lt;/a>&#xD;
+    will track are the release plan (user stories), the iteration plan (tasks) and the acceptance tests. The tracker can&#xD;
+    also keep track of other metrics, which may help in solving problems the team is having. A good &lt;a class=&quot;PresentationName&quot; guid=&quot;{D8FE277E-4F9A-47EB-855F-C451D601BBAF}&quot;>XP Tracker&lt;/a> has the ability to collect the&#xD;
+    information without disturbing the process significantly.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

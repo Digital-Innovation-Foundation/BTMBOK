@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hnZDBL_TJ0SRhwee9T55Bw" name="uam_business_line,_4axKQMI7EeKSedlRPHdUIQ" guid="-hnZDBL_TJ0SRhwee9T55Bw" changeDate="2013-05-21T13:38:27.096-0400" version="7.5.1">
+  <mainDescription>A Business Line typically refers to the main sub-structures within the enterprise’s organization based upon the goods or&#xD;
+services provided to external customers, such as “car manufacturing” and “toaster manufacturing”. This level may not exist&#xD;
+in smaller enterprises (i.e. there is only one business line for the enterprise). Also see: &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_division_B8F6B64E.html&quot; guid=&quot;_vv0koMJBEeKSedlRPHdUIQ&quot;>Division&lt;/a>, &lt;a&#xD;
+class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_department_30A3D01D.html&quot;&#xD;
+guid=&quot;_YNUjoMJBEeKSedlRPHdUIQ&quot;>Department&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_domain_94DAA51B.html&quot; guid=&quot;_ys424MI6EeKSedlRPHdUIQ&quot;>Business&#xD;
+Domain&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

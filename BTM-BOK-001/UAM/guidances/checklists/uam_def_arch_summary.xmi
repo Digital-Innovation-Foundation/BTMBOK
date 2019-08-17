@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CIKxbqMS9Oa_H9NHVhLhxA" name="uam_def_arch_summary,_-ui4AGtiEeS7ieerwXbTqg" guid="-CIKxbqMS9Oa_H9NHVhLhxA" changeDate="2014-11-13T13:30:33.640-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in ensuring that the Architecture Summary is&amp;nbsp;comprehensive, that all&#xD;
+    entities, processes/activities, locations and actors are found and defined.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_-ui4BGtiEeS7ieerwXbTqg" name="Appropriate experts involved" guid="_-ui4BGtiEeS7ieerwXbTqg">
+    <sectionDescription>Ensure that appropriate set of business experts are involved, since they will understand the system from the technical&#xD;
+level. Users will also be of value since they will understand the processes involved.</sectionDescription>
+  </sections>
+  <sections xmi:id="_RYicgGtkEeS7ieerwXbTqg" name="Source materials gathered" guid="_RYicgGtkEeS7ieerwXbTqg">
+    <sectionDescription>Ensure that all existing documentation of the system is gathered together and made available to participants.</sectionDescription>
+  </sections>
+  <sections xmi:id="_-ui4AmtiEeS7ieerwXbTqg" name="Define the context" guid="_-ui4AmtiEeS7ieerwXbTqg">
+    <sectionDescription>This is a very simple definition of the business domain in when the system operates. See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_context_BF7FA033.html&quot; guid=&quot;_ILeHEMI1EeKSedlRPHdUIQ&quot;>Term Definition:&#xD;
+Context&lt;/a></sectionDescription>
+  </sections>
+  <sections xmi:id="_-ui4A2tiEeS7ieerwXbTqg" name="Definitions of entities, processes, locations and actors" guid="_-ui4A2tiEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the described technical elements are clearly defined and understood including required relationships.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Review the results:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Look at each actor: What are his/her interactions with the system?&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Look at each activity:&amp;nbsp; Do you understand the business value the activities?&amp;nbsp; Is it complete? Or is this&#xD;
+        just a small part of something bigger?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Look at each location:&amp;nbsp;&amp;nbsp;are they captured properly? Any missing locations?&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Look at the Actors and Activities: Is there a Location&amp;nbsp;implied (e.g.&amp;nbsp;&amp;nbsp;ATM, branch, store, warehouse,&#xD;
+        etc.) List the business locations.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Questions to ask:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Every actor should interact with at least one business activity. If not, it may be because there is a duplicate (of&#xD;
+        another Actor) or because the Actor is really not a direct user of the system. In these cases, if a discussion of&#xD;
+        the merits of keeping the Actor yields no strong reasons to keep it,&amp;nbsp;it may be removed;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Entities defined must be created or otherwise used by at least one activity;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Every activity is 'deployed' &amp;nbsp;to a location where the business operations, list these and agree definitions&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Every activity typically consumes and produces an entity, the information used by the business. Name these and&#xD;
+        agree definitions.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

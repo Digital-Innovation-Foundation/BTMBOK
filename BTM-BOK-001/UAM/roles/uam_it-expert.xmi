@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jbxmhSECkzRsZHUwuPF82Q" name="new_role,_d5H60EgbEeShYIpiBstbOQ" guid="-jbxmhSECkzRsZHUwuPF82Q" changeDate="2014-09-29T17:04:38.397-0400">
+  <mainDescription>&lt;p>&#xD;
+    The IT architect that develop UAM architecture cannot have in-depth knowledge of all IT technologies. They must rely on&#xD;
+    IT experts for guidance and advice. This advice is provided during the development of architectures, normally at the&#xD;
+    Logical and Technology levels, in order to ensure that the architectures are realistic and implementable at a&#xD;
+    reasonable cost and level of risk. The level of detail desired and provided depends upon the size and complexity of the&#xD;
+    &quot;system&quot;, namely the context of the IT architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The types of IT experts involved are, but not limited to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        IP and other types of network experts;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Telecommunications experts;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Storage experts;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Server and virtual server experts;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Middleware experts;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Application level experts;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        IT security experts;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Corporate applications experts.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    This last category defines experts in web applications, email services and other corporate level application services.&#xD;
+    It also includes the standard Human Resources (HR) and financial services applications.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-e7BxBaTNHhxlyRMMn3-Gkg" name="uam_business_process_model,_aIO8AMOrEdyILM4NThxMFg" guid="-e7BxBaTNHhxlyRMMn3-Gkg" authors="DW Enstrom" changeDate="2015-02-12T11:49:52.536-0500" changeDescription="Change 'use case' to 'activity' to synch to BPMN notation." version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    A Business Process Model illustrates the sequence flow of the Business Activities, forming a process, along with&#xD;
+    events, gateways and actors.&amp;nbsp;It is a way of expressing the business workflows through the definition of individual&#xD;
+    activities, events, gateways&amp;nbsp;and the flow between them. Business Entities added to this diagram help in&#xD;
+    understanding how they are involved in the processes,&amp;nbsp;but this should be done sparingly since they can add&#xD;
+    confusion and clutter to the diagram.&amp;nbsp;See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/whitepapers/uam_bpmn_resource_9591C8AC.html&quot; guid=&quot;_RI5DUOADEdynr9jlfK-aMA&quot;>Whitepaper:&#xD;
+    BPMN Resources&lt;/a> &amp;nbsp;&#xD;
+&lt;/p>&lt;a id=&quot;XE_Business_Perspective__Business_Process_Model&quot; name=&quot;XE_Business_Perspective__Business_Process_Model&quot;>&lt;/a></mainDescription>
+  <purpose>&lt;p class=&quot;BodyTable&quot; style=&quot;MARGIN: 6pt 0in&quot;>&#xD;
+    The Business Process Model defines the business processes involved in the system under study, as defined by the scope&#xD;
+    of the modeling effort. The objective is to clearly define the business processes involved—what the system does in&#xD;
+    support of the business. The definition must be valid for the defined scope, and must eliminate any ambiguity regarding&#xD;
+    what they represent.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;BodyTable&quot; style=&quot;MARGIN: 6pt 0in&quot;>&#xD;
+    The workflow of a business activity describes what the business must do to provide the value the business actor&#xD;
+    requires. The business processes consists of a sequence of activities that, together, produce something of value for&#xD;
+    the business actor. The workflow often consists of a basic flow and one or more alternative flows. The structure of the&#xD;
+    workflow is described graphically with the help of a BPMN-based diagram. In summary, a business process is a sequence&#xD;
+    of activities that, together, produce something of value to the business actor. &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;BodyTable&quot; style=&quot;MARGIN: 6pt 0in&quot;>&#xD;
+    Optionally, relationships between business activities and business entities may be defined, namely the business&#xD;
+    entities consumed, produced or modified by the activity. This should be limited since they can quickly clutter the&#xD;
+    diagram and make it more confusing.&#xD;
+&lt;/p></purpose>
+  <impactOfNotHaving>&lt;p class=&quot;BodyTable&quot; style=&quot;MARGIN: 6pt 0in&quot;>&#xD;
+    Failure to produce this model means you run the risk that architects and designers will give only superficial attention&#xD;
+    to the way the business operates. They will do what they know best, which is to design and build systems in the absence&#xD;
+    of proper business knowledge. The result often is that the constructed systems do not support the needs of the&#xD;
+    business.&#xD;
+&lt;/p></impactOfNotHaving>
+  <representationOptions>&lt;p>&#xD;
+    A &lt;strong>Business Process Model&lt;/strong> is normally a BPMN Collaboration Diagram illustrating the sequence flow of&#xD;
+    the business process, along with the organizations and actors.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>: Package stereotyped as «BPL_BPM» containing BPMN Collaboration diagrams.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A Business&amp;nbsp;Process Model may have the following properties:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Introduction:&lt;/strong> A textual description that serves as a brief introduction to the model.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Packages:&lt;/strong> The packages in the model, representing a hierarchy of activities.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Context Diagram:&lt;/strong> The&amp;nbsp;highest level model (package) illustrating the main activities and&#xD;
+        actors of the system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Activities:&lt;/b> The&amp;nbsp;activities and structured activities in the model, representing a hierarchy of business&#xD;
+        activities stereotyped as «BPL_CallActivity».&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Actors&lt;/strong>: Actors in the model.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Relationships:&lt;/b> The relationships in the model, owned by the packages.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Diagrams:&lt;/b> The diagrams in the model, owned by the packages.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The Business Process Model is normally a Context Diagram plus a set of BPMN Collaboration Diagrams.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;BodyTable&quot; style=&quot;MARGIN: 6pt 0in&quot;>&#xD;
+    The modeling elements are too extensive to summarize here, see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/supportingmaterials/uam_bpl_simple_858E0AEB.html&quot; guid=&quot;_472cUEWIEeOfR_FtRm9PUg&quot;>Supporting&#xD;
+    Material: BPL Summary&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;BodyTable&quot; style=&quot;MARGIN: 6pt 0in&quot;>&#xD;
+    Most things defined at the business level&amp;nbsp;will go on to be described in detail during the&amp;nbsp;definition of the&#xD;
+    Logical and Technical Perspectives. This artifact is enclosed within the Business Perspective artifact.&#xD;
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

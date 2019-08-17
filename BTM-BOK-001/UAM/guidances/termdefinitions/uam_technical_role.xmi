@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-aiEDGR2qxWHykXCqv5AnSA" name="uam_technical_role,_y3cj0EGsEeOfR_FtRm9PUg" guid="-aiEDGR2qxWHykXCqv5AnSA" changeDate="2013-10-30T17:40:43.653-0400" version="7.5.1">
+  <mainDescription>A Technical Role represents the interfaces that interact with the activities and processes of the system, and may be&#xD;
+internal or external. They are equated to or defined by the activities (and by extension the responsibilities) that it&#xD;
+interacts with in the system. At the technical level all of the analysis was done and all actors and roles and their&#xD;
+structure and relationships are defined. Organizational positions (or external systems) were also equated to actors and&#xD;
+roles, and this along with their relationships to activities and processes provides the complete picture for the required&#xD;
+interface, including security aspects (RBAC).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

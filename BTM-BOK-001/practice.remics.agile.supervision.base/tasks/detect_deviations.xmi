@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-amaJA0JXPTj8Z7r_QQuj-w" name="detect_deviations,_M7RaoPNLEeGUHqJDPoQpuw" guid="-amaJA0JXPTj8Z7r_QQuj-w" changeDate="2013-08-23T05:15:03.644-0400">
+  <mainDescription>&lt;SPAN style=&quot;FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol&quot; lang=EN-GB>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&#xD;
+&lt;H3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&lt;SPAN style=&quot;mso-bidi-font-family: Arial&quot; lang=EN-GB>Detect Deviations&lt;/SPAN>&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN style=&quot;mso-bidi-font-family: Arial&quot; lang=EN-GB>Starting from the monitoring data, develop analysis in order to detect deviations from the planned values.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/SPAN>&lt;/SPAN></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

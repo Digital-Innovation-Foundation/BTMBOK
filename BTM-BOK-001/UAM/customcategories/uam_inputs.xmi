@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-siTejPbqdwGz_h4Cd2Vu6g" name="new_custom_category,_UauIAGtMEeS7ieerwXbTqg" guid="-siTejPbqdwGz_h4Cd2Vu6g" changeDate="2015-12-01T11:40:17.759-0500" version="2.0">
+  <mainDescription>&lt;p>&#xD;
+    UAM processes define IT architectures, but these architectures cannot be done independently of the enterprise's short&#xD;
+    and long-term goals, standards&amp;nbsp;and strategies as defined in these documents. The following illustrates the main&#xD;
+    Work Products in UAM along with these external inputs. It also shows the approximate dependency relationships between&#xD;
+    them.&#xD;
+&lt;/p>&lt;a id=&quot;XE_UAM__inputs&quot; name=&quot;XE_UAM__inputs&quot;>&lt;/a>&lt;a id=&quot;XE_Inputs&quot; name=&quot;XE_Inputs&quot;>&lt;/a> &#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Main UAM inputs and Work Products and approximate relationships&quot; src=&quot;resources/overview.png&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    There&amp;nbsp;are many more detailed Work Products defined (e.g., Business Process Model), but the above&#xD;
+    illustrates&amp;nbsp;the important relationships. Note that the view is that the &quot;Project Charter&quot;, which defines the&#xD;
+    general scope and objectives of an implementation project, is deemed to be external. This includes project to define IT&#xD;
+    architectures, which managers of IT architects&amp;nbsp;define.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

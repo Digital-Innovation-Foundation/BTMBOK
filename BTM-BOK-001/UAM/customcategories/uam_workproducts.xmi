@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fRT1sKrBlUc814M8jSOzUA" name="uam_workproducts,_lIlqwMd_EdyBSO6dC2FdkA" guid="-fRT1sKrBlUc814M8jSOzUA" changeDate="2018-03-26T09:13:32.707-0400">
+  <mainDescription>&lt;p>&#xD;
+    Work Products within the methodology are categorized as follows:&#xD;
+&lt;/p>&lt;a id=&quot;XE_UAM__work_products&quot; name=&quot;XE_UAM__work_products&quot;>&lt;/a>&lt;a id=&quot;XE_Work_Products&quot; name=&quot;XE_Work_Products&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business Level&lt;/strong> - the perspective plus the four aspect models;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business Level Elements&lt;/strong> - modeling elements used at the Business level;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Logical Level&lt;/strong>&amp;nbsp;- the perspective plus the four aspect models;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Logical Level Elements&lt;/strong> - modeling elements used at the Logical level;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical Level&lt;/strong> - the perspective plus the four aspect models;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical Level Elements&lt;/strong> - modeling elements used at the Technical level;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>UAM Specifications&lt;/strong> - items used or defined during the development of the architecture (typically&#xD;
+        persisted);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>UAM Infrastructure&lt;/strong> - the Architecture Decisions repository and Model Repository;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>IT Architecture Project Data&lt;/strong> - items used or defined during the development of the architecture&#xD;
+        (typically &lt;em>not&lt;/em> persisted).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The following illustrates the main Workproducts in UAM along with external inputs. It also shows the approximate&#xD;
+    dependency relationships between them.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Main UAM inputs and Work Products and approximate relationships&quot; src=&quot;./resources/overview.png&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    There&amp;nbsp;are many more detailed Workproducts defined (e.g., Business Process Model), but the above&#xD;
+    illustrates&amp;nbsp;the important relationships. Note that the &quot;Project Requirement&quot;, which defines the general scope and&#xD;
+    objectives of the IT architecture project, is deemed to be external—the managers of IT architects&amp;nbsp;typically define&#xD;
+    this artifact.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    See: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../core.default.uma_concept.base/guidances/termdefinitions/work_product_826E4C22.html&quot;&#xD;
+    guid=&quot;_H4JXwB_SEdq6CKKKq4D7YA&quot;>work product&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

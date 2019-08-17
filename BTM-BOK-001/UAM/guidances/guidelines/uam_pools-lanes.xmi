@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-dY6kSl2vljN4xvK0faD7ng" name="new_guideline,_2je-sKMTEeScBuKTf-rcGA" guid="-dY6kSl2vljN4xvK0faD7ng" changeDate="2015-10-15T14:02:46.535-0400" version="7.5.1">
+  <mainDescription>&lt;a id=&quot;XE_Pool_Usage&quot; name=&quot;XE_Pool_Usage&quot;>&lt;/a> &#xD;
+&lt;h3>&#xD;
+    &lt;a id=&quot;XE_Pool_Usage&quot; name=&quot;XE_Pool_Usage&quot;>As-Is Models&lt;/a>&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Partitioning not applicable at the Business level unless modeling the&amp;nbsp;&lt;em>as-is&lt;/em> viewpoints. And,&amp;nbsp;the&#xD;
+    only the&amp;nbsp;&lt;em>as-is&lt;/em> models needed are at the Logical level or Technical level. The&amp;nbsp;&lt;em>as-is&lt;/em> models&#xD;
+    are developed based upon existing documentation and/or research into existing operations. Therefore the Business level&#xD;
+    is not needed ... these models are developed bottom-up. Since they are developed bottom-up, organizational structures&#xD;
+    will be used to define the pools and lanes in these models.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    To-Be Models&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Partitioning&amp;nbsp;using pools and lanes is not based upon roles. Otherwise there would be no need for the&#xD;
+    &lt;em>People&lt;/em> column in the framework. This is certainly not the case since there is a&amp;nbsp;definite need to&#xD;
+    understand the structure of actors, roles and the required interfaces.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Business level&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Pools are useful for showing external client and “systems” interactions, and use lanes for functional (means of service&#xD;
+    delivery) groupings (e.g., &lt;em>Research&lt;/em> or &lt;em>Publishing&lt;/em>).&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Logical Level&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Use lanes for system components (sub-systems, legacy systems, COTS products) and pools for external actors and&#xD;
+    systems.&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Technical Level&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Use lanes for system components assigned to physical (specific) products and custom components. If there is messaging&#xD;
+    between components/sub-systems then use pools instead of lanes. Use pools for the external actors, but clustered if&#xD;
+    there are many of them.&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

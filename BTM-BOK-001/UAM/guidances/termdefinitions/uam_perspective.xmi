@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-P0qt7Gwuh4OTEiEmE8756A" name="new_term_definition,_6zOHAMJJEeKSedlRPHdUIQ" guid="-P0qt7Gwuh4OTEiEmE8756A" changeDate="2014-03-19T11:27:22.673-0400" version="7.5.1">
+  <mainDescription>A horizontal collection of viewpoints that capture multiple sets of concerns for a set of stakeholders, and define&#xD;
+solutions to those concerns. The set of defined viewpoints describe the complete architecture of a system at a specific&#xD;
+level of abstraction and for specific sets of stakeholders. The three perspectives defined in UAM are Business, Logical,&#xD;
+and Technical. There is also&amp;nbsp;the Scope definition that is a very simple context model and not a perspective and is&#xD;
+included in the Business Perspective. &#xD;
+&lt;p>&#xD;
+    Enterprise architecture is&amp;nbsp;describe using three perspectives that are horizontal views of the IT architecture.&#xD;
+    Each perspective&amp;nbsp;is in turn divided into four views called &quot;aspects&quot;. These three perspectives are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_perspective_business_FB485ABA.html&quot;&#xD;
+        guid=&quot;_pH7UgMJKEeKSedlRPHdUIQ&quot;>Perspective: Business&lt;/a>&lt;strong>&amp;nbsp;-&lt;/strong> a set of viewpoints that&#xD;
+        collectively define a complete model for the business, at the business level and using business terminology;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_perspective_logical_326F52C.html&quot;&#xD;
+        guid=&quot;_0RzzAMJKEeKSedlRPHdUIQ&quot;>Perspective: Logical&lt;/a>&amp;nbsp;-&amp;nbsp;&amp;nbsp;a set of viewpoints that collectively&#xD;
+        define a complete model of the system at the logical level;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_perspective_technical_9964F56F.html&quot;&#xD;
+        guid=&quot;_2e3gcMJKEeKSedlRPHdUIQ&quot;>Perspective: Technical&lt;/a> &amp;nbsp;- similar to the Business and Logical Perspectives,&#xD;
+        the Technical Perspective is a set of viewpoints that collectively define a complete model of the system at the&#xD;
+        technical level.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The other dimension to defining an IT architecture are the different &quot;aspects&quot;, see: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspects_C681E8E1.html&quot; guid=&quot;_2D_igNZSEdyTWqLy4FSCdg&quot;>Architecture&#xD;
+    Aspects&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For definitions of the&amp;nbsp;three perspectives, or &quot;layers&quot; or &quot;views&quot;, click on the links above. Also see &lt;em>&lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_scope_9C0A017D.html&quot;&#xD;
+    guid=&quot;_VN5PAMJKEeKSedlRPHdUIQ&quot;>Scope&lt;/a>&lt;/em>&amp;nbsp;and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/supportingmaterials/uam_overview_B2102583.html&quot; guid=&quot;_W0ahoM9uEdymj4NXv8-FYA&quot;>UAM&#xD;
+    Overview&lt;/a> and &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/supportingmaterials/uam_welcome_5C65E9E8.html&quot;&#xD;
+    guid=&quot;_3FfFUMuJEdyPdbXGe2katw&quot;>UAM Home&lt;/a>.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

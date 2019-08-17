@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Fi7O_m7ncR5dLB_Mze0L-g" name="new_concept,_63H5cCd-EdymavVWiFnAjw" guid="-Fi7O_m7ncR5dLB_Mze0L-g" changeDate="2007-07-22T19:41:33.717-0400">
+  <mainDescription>&lt;p>&#xD;
+    OpenUP has been heavily influenced by Scrum &lt;a class=&quot;elementlinkwithusertext&quot;&#xD;
+    href=&quot;./../../../openup/guidances/supportingmaterials/references.html#SCH04&quot;&#xD;
+    guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[SCH04]&lt;/a>, Eclipse Way &lt;a class=&quot;elementlinkwithusertext&quot;&#xD;
+    href=&quot;./../../../openup/guidances/supportingmaterials/references.html#JAZZ&quot; guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[JAZZ]&lt;/a>,&#xD;
+    XP &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../../openup/guidances/supportingmaterials/references.html#BEC05&quot;&#xD;
+    guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[BEC05]&lt;/a>, DSDM &lt;a class=&quot;elementlinkwithusertext&quot;&#xD;
+    href=&quot;./../../../openup/guidances/supportingmaterials/references.html#DSDM&quot; guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[DSDM]&lt;/a>,&#xD;
+    and RUP &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../../openup/guidances/supportingmaterials/references.html#RUP06&quot;&#xD;
+    guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[RUP06]&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The Iteration Lifecycle borrows from Scrum’s practices around self organization and leverages Product and Sprint&#xD;
+        Backlogs (represented in OpenUP by &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../openup/workproducts/work_items_list.html&quot; guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>Work Items List&lt;/a>). The&#xD;
+        Iteration Lifecycle also borrows from the Eclipse Way describing how the focus of the team changes as it goes&#xD;
+        through an iteration.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The Micro-Increments content borrows primarily from RUP in the areas of requirements, architecture and test, and XP&#xD;
+        for guidance on test-driven development, among others.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The Project Lifecycle borrows primarily from RUP, with the 4 phases, focus on stakeholder oversight, and the&#xD;
+        balance between risk mitigation and value creation, as well as DSDM for stakeholder involvement.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    OpenUP has also been influenced by many other sources, including many books and individual practitioners, too many to&#xD;
+    be mentioned, see &lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/guidances/supportingmaterials/references.html&quot;&#xD;
+    guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>References&lt;/a>. It is the objective of the team that develops OpenUP to continually&#xD;
+    harvest what has been proven to work, and what we ourselves have had successes with, to continuously evolve OpenUP.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    We invite the broader community to contribute to the ongoing evolution of OpenUP.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

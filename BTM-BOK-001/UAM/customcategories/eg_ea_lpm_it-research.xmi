@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-cDMhVdHTLE9lGceuz_Oeqg" name="eg_ea_lpm_it-research,_ZWqkUJmoEeOJEracaeLisg" guid="-cDMhVdHTLE9lGceuz_Oeqg" changeDate="2015-02-06T14:47:25.136-0500" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;IT Research Top Level Process Model&quot; src=&quot;./resources/EA-Logical-IT-Research.png&quot;&#xD;
+    usemap=&quot;#map1392847003563&quot; />&lt;map id=&quot;map1392847003563&quot; name=&quot;map1392847003563&quot;>&#xD;
+        &lt;area title=&quot;Access Research Reports and Source Information&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_ea_lpl_access_info_D501CEAD.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;Access Research Reports and Source Information&quot; coords=&quot;164,87,230,136&quot; guid=&quot;_fXG8cJmrEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;Distribute Reports&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_lpl_dist-reports_C49FE1AC.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Distribute Reports&quot; coords=&quot;165,142,230,187&quot; guid=&quot;_kSXVgJmrEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;Manage Information&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_lpl_manage-info_C2D38404.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Manage Information&quot; coords=&quot;281,89,346,135&quot; guid=&quot;_2wQ0MJmrEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;Manage Customer Profile&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_lpl_cpm_D27ED8AA.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Manage Customer Profile&quot; coords=&quot;167,23,227,64&quot; guid=&quot;_CH3R4KOtEeOCbLAifmcaww&quot; />&#xD;
+        &lt;area title=&quot;Perform Specialized Research&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_ea_lpl_perf-spec-research_13EFDC34.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;Perform Specialized Research&quot; coords=&quot;282,142,347,187&quot; guid=&quot;_h9Pw4JmuEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;Gather and Analyze Information&quot;&#xD;
+        href=&quot;./../../UAM/customcategories/eg_ea_lpl_gather-analyse_EBECF36B.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;Gather and Analyze Information&quot; coords=&quot;282,36,346,80&quot; guid=&quot;_qtRYsLRgEeOTralbgKSHFw&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the Activities and other elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot;&#xD;
+    src=&quot;./resources/Drill%20Down-33.jpg&quot; width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This diagram is the root of the Logical Process Model at the EA level for the IT Research portion of the ThuNorTech&#xD;
+    core business.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    The IT Research business line includes the gathering the raw information and open source information and organizing it&#xD;
+    and making it available for analysts to do their&amp;nbsp; research. Then ThuNorTech analysts research the provided raw&#xD;
+    information and open source information based upon topics defined by the Information Needs. This activity involves the&#xD;
+    augmentation of Raw information and Open Source information through the addition of cross-references, formation of&#xD;
+    collections, accumulation of historical (timeline) connections, and other techniques in support of analysts. Many of&#xD;
+    these activities are automated, with results provided to required analysts, including the periodic query of the&#xD;
+    information in an automated fashion ensuring that analysts have up-to-date information in support of their&amp;nbsp;&#xD;
+    research. Finally the research reports and other substantiating material are distributed&amp;nbsp;or otherwise made&#xD;
+    available to customers.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Other activities include the management of Customer Profiles (i.e. Customer information needs, etc.) and the management&#xD;
+    of this information in support of Customer needs.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

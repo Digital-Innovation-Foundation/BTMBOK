@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-AFwbXRqtB0_lXQJdfA2cJQ" name="new_bpl_role,_WAZs0MbmEeK4P8KZ6MNYcg" guid="-AFwbXRqtB0_lXQJdfA2cJQ" changeDate="2013-05-27T12:00:12.268-0400" version="7.5.1">
+  <problem>Employees involved in the search for and analysts of source information and possibly research Reports, and also the&#xD;
+creation of research Reports.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

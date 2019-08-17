@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Hazc5U9VGnWEiqEbD-wW3g" name="uam_enterprise,_BWENIMJDEeKSedlRPHdUIQ" guid="-Hazc5U9VGnWEiqEbD-wW3g" changeDate="2013-05-21T14:20:56.096-0400" version="7.5.1">
+  <mainDescription>The Enterprise&amp;nbsp;level of architecture definition commonly referred to as Enterprise Architecture (EA) and defines the&#xD;
+architecture of the complete enterprise (at an appropriate level of detail given the size of the enterprise). &#xD;
+&lt;p>&#xD;
+    It is a rigorous description of the structure of an enterprise. EA describes the terminology, the composition of&#xD;
+    subsystems, and their relationships with the external environment, and the guiding principles for the design and&#xD;
+    evolution of an enterprise. This description is comprehensive, including enterprise goals, business functions, business&#xD;
+    process, roles, organisational structures, business information, software applications and computer systems (&lt;a&#xD;
+    href=&quot;http://en.wikipedia.org/wiki/Enterprise_Architecture&quot; target=&quot;_blank&quot;>Wikipedia&lt;/a>, Enterprise Architecture&#xD;
+    2010).&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

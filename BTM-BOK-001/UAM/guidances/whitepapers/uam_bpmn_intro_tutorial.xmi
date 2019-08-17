@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-815niUXEKjYNM9ltWwAyuw" name="uam_bpmn_intro_tutorial,_gYTbgN2MEdyVUKFKTmaZUA" guid="-815niUXEKjYNM9ltWwAyuw" changeDate="2014-04-10T11:02:04.772-0400" version="7.2.0">
+  <mainDescription>&lt;a id=&quot;XE_BPMN__Introduction&quot; name=&quot;XE_BPMN__Introduction&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    An introductory tutorial to&amp;nbsp;business process modelling using the BPMN process modelling standard. The tutorial&#xD;
+    shows how BPMN can support different methodologies as well as different modelling goals (e.g., orchestration and&#xD;
+    choreography), using actual business processes as examples. Sample business models are presented and explored to&#xD;
+    illustrate the main concepts and notational innovations. Two short exercises (on paper) will give you the feel of&#xD;
+    modelling with the major BPMN model elements.&#xD;
+&lt;/p></mainDescription>
+  <attachments>&lt;a href=&quot;https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=65f642d5-1c5d-4aa2-b715-40cb8f6bb154#fullpageWidgetId=We7baf3a42313_4991_ad95_ac1f642ea64b&amp;file=e908d328-7b50-40e3-8107-70af4e6bb48f&quot;>Introduction to BPMN (PDF)&lt;/a></attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

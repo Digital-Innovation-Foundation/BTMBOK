@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-n4ORt6oYmLcU69bVejfxow" name="new_term_definition,_HAuMMMIqEeKSedlRPHdUIQ" guid="-n4ORt6oYmLcU69bVejfxow" changeDate="2013-05-21T11:21:59.475-0400" version="7.5.1">
+  <mainDescription>A role is equated or defined by the behavior (and by extension its responsibilities) that it interacts with in the system -&#xD;
+the activities that it interacts with. A role is in essence the &quot;interface&quot; to the activities with which it interacts.&#xD;
+Business Roles are high-level conceptualizations of the Roles with the system; further analysis is required to fully&#xD;
+understand and define required roles. A role can be assumed (aggregated) by any kind of actor, either human or a system. An&#xD;
+actor may be aggregate multiple roles, and an actor can be associated with multiple physical people (or systems). Roles&#xD;
+also include security concepts and constructs. An employee of the enterprise is typically multiple actors with the system&#xD;
+and therefore has many different roles. Also see the definition of &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_actor_D53D209B.html&quot;&#xD;
+guid=&quot;_0Nz8QMIoEeKSedlRPHdUIQ&quot;>Actor&lt;/a>&amp;nbsp;&lt;/em>and &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_role_F41637E3.html&quot; guid=&quot;_4cjbMOPNEdy7f9KmjDtwsA&quot;>Role&lt;/a>&lt;/em>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

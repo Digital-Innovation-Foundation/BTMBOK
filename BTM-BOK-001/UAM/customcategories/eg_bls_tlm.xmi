@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7PgFLZBLLVXbA49IH5TnTg" name="eg_bls_tlm,_dMco5sJpEeKSedlRPHdUIQ" guid="-7PgFLZBLLVXbA49IH5TnTg" changeDate="2015-01-27T12:39:45.584-0500" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;Select the desired view: the Network Architecture or Applications Deployment&quot;&#xD;
+    src=&quot;./resources/Simple-Network-Technical-TLM.png&quot; usemap=&quot;#map1392830830477&quot; />&lt;map id=&quot;map1392830830477&quot;&#xD;
+    name=&quot;map1392830830477&quot;>&#xD;
+        &lt;area title=&quot;IT Research Application Deployment&quot; href=&quot;./../../UAM/customcategories/eg_bls_apps_1C242AA3.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;IT Research Application Deployment&quot; coords=&quot;102,0,150,66&quot; guid=&quot;_xgYWIJmDEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;IT Research Network Architecture&quot; href=&quot;./../../UAM/customcategories/eg_bls_net_7AD83180.html&quot;&#xD;
+        shape=&quot;circle&quot; alt=&quot;IT Research Network Architecture&quot; coords=&quot;31,32,30&quot; guid=&quot;_NcP9YJl_EeOJEracaeLisg&quot; />&#xD;
+    &lt;/map>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    Select the desired view: &lt;strong>Network Architecture&lt;/strong> or &lt;strong>Application Deployment&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This is the root package for the Technical Locations Model for the IT Research Business Line. It focuses on the network&#xD;
+    architecture and therefore the other aspects for this perspective are not included.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This simplified architecture was based upon the ThuNorTech IT Research Business Line level architecture, but simplified&#xD;
+    and focused upon the IP network architecture within this business line and how the network should be architected to&#xD;
+    support them. Information was also obtained from the &quot;IT Research - Distribute Research&quot; business domain level&#xD;
+    architecture. Consolidation and rationalization of the network architecture was the objective.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

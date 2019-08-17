@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--qg2qc3dqmgeB63Nx7Zndg" name="coding_standard,8.8116853923311E-307" guid="--qg2qc3dqmgeB63Nx7Zndg" changeDate="2006-11-09T19:13:06.585-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp__coding_standard&quot; name=&quot;XE_xp__coding_standard&quot;>&lt;/a>&lt;a id=&quot;XE_coding_standard__practice_of&quot; name=&quot;XE_coding_standard__practice_of&quot;>&lt;/a>&lt;a id=&quot;XE_engineering_practices__coding_standard&quot; name=&quot;XE_engineering_practices__coding_standard&quot;>&lt;/a> &#xD;
+&lt;h3>&#xD;
+    Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Using a coding standard is a software development practice that has been widely accepted in the industry. The need for&#xD;
+    this practice takes on added importance in XP because of the increased level of communication required by collective&#xD;
+    ownership, pair programming and the constant refactoring of the code. The team should have a standard way of naming and&#xD;
+    formatting things so they can understand the code quickly and know where to look at all times.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ideally, the coding standard should be the result of team consensus. In some cases, decisions will be arbitrary&#xD;
+    (placement of braces). Each item in the standard should support one or more goals, improved communication being one of&#xD;
+    the most critical goals. Once the team agrees on a standard, all members of the teams are expected to follow it. Pair&#xD;
+    programming and collective code ownership is sufficient to reinforce the use of the standard within the team. With&#xD;
+    time, the team will use and modify the standard to develop a style that is well adapted to their environment.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Benefits&#xD;
+&lt;/h3>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Improved communication&lt;/b>: increases the ability to read each other's code.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Refactoring support&lt;/b>: provides consistently shaped code.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

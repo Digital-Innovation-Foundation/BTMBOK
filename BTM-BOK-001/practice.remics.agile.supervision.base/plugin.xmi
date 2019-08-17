@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MZ7YkMCTEemv0a6P8REMBA" guid="_MZ7YkMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MZ7YksCTEemv0a6P8REMBA" id="-amaJA0JXPTj8Z7r_QQuj-w" uri="tasks/detect_deviations.xmi"/>
+    <resourceDescriptors xmi:id="_MZ7Yk8CTEemv0a6P8REMBA" id="-hYe5Pov2DLVBbkctF2uXrQ" uri="tasks/monitor_corrective_actions.xmi"/>
+    <resourceDescriptors xmi:id="_MaFJkMCTEemv0a6P8REMBA" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/supervision.xmi"/>
+    <resourceDescriptors xmi:id="_MaFJkcCTEemv0a6P8REMBA" id="-qiEb7k8X7CjLWtrM-zj6Kg" uri="tasks/identify_monitoring_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_MaFJksCTEemv0a6P8REMBA" id="-d1uoZdMPn5jfbmg5nM6EEQ" uri="tasks/implement_monitoring_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_MaFJk8CTEemv0a6P8REMBA" id="-15w0nqRqTsd-ugRdrMflEQ" uri="tasks/monitor_the_performance_of_the_system_in_the_cloud.xmi"/>
+    <resourceDescriptors xmi:id="_MaFJlMCTEemv0a6P8REMBA" id="-e3P16WIKSAzy02J7xTTAGA" uri="tasks/perform_corrective_actions.xmi"/>
+    <resourceDescriptors xmi:id="_MaO6kMCTEemv0a6P8REMBA" id="-gJb5yfO0G88T1osmP8ujXg" uri="workproducts/monitoring_information.xmi"/>
+    <resourceDescriptors xmi:id="_MaRW0MCTEemv0a6P8REMBA" id="-imuk5IAWTq0yh3VYHA8X6A" uri="workproducts/supervision_model.xmi"/>
+    <resourceDescriptors xmi:id="_MaTzEMCTEemv0a6P8REMBA" id="-9dDcJ-KrV3ItMzKncsoa-Q" uri="workproducts/supervision_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_MaWPUMCTEemv0a6P8REMBA" id="-B_39FviiNpF0p_WUbjtVng" uri="tasks/identify_monitoring_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_MaYrkMCTEemv0a6P8REMBA" id="-yjsWC7UUDPvSb5LrNWp0Qg" uri="workproducts/monitoring_deviation.xmi"/>
+    <resourceDescriptors xmi:id="_MabH0MCTEemv0a6P8REMBA" id="-BYYgU_zHJdi8o-P7rr4x7g" uri="workproducts/code.assign.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_sNlj0PNHEeGUHqJDPoQpuw" name="practice.remics.agile.supervision.base" guid="_sNlj0PNHEeGUHqJDPoQpuw" changeDate="2013-08-23T04:54:52.301-0400">
+    <methodElementProperty xmi:id="_MZxnkMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_MZxnkcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj0fNHEeGUHqJDPoQpuw" name="Content" guid="_sNlj0fNHEeGUHqJDPoQpuw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj0vNHEeGUHqJDPoQpuw" name="Categories" guid="_sNlj0vNHEeGUHqJDPoQpuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj0_NHEeGUHqJDPoQpuw" name="Domains" guid="_sNlj0_NHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj1PNHEeGUHqJDPoQpuw" name="Disciplines" guid="_sNlj1PNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj1fNHEeGUHqJDPoQpuw" name="RoleSets" guid="_sNlj1fNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK4PNHEeGUHqJDPoQpuw" name="WP Types" guid="_sNmK4PNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK4fNHEeGUHqJDPoQpuw" name="Tools" guid="_sNmK4fNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK4vNHEeGUHqJDPoQpuw" name="StandardCategories" guid="_sNmK4vNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK4_NHEeGUHqJDPoQpuw" name="CustomCategories" guid="_sNmK4_NHEeGUHqJDPoQpuw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK5PNHEeGUHqJDPoQpuw" name="Hidden" guid="_sNmK5PNHEeGUHqJDPoQpuw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_sNmK5fNHEeGUHqJDPoQpuw" name="Custom Categories" guid="_sNmK5fNHEeGUHqJDPoQpuw"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK5vNHEeGUHqJDPoQpuw" name="CoreContent" guid="_sNmK5vNHEeGUHqJDPoQpuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J77UoPNLEeGUHqJDPoQpuw" name="supervision" guid="_J77UoPNLEeGUHqJDPoQpuw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_M7RaoPNLEeGUHqJDPoQpuw" name="detect_deviations" guid="_M7RaoPNLEeGUHqJDPoQpuw" presentationName="Detect Deviations" briefDescription="Check the monitoring results for deviations" performedBy="_iUegkAvREeOhutvlRKZMkg" mandatoryInput="_uAFfkF7cEeKFRuoPceMYcQ" output="_t0pbUAvVEeOhutvlRKZMkg">
+            <methodElementProperty xmi:id="_MZxnksCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-amaJA0JXPTj8Z7r_QQuj-w" href="uma://-amaJA0JXPTj8Z7r_QQuj-w#-amaJA0JXPTj8Z7r_QQuj-w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dauygPNSEeGUHqJDPoQpuw" name="monitor_corrective_actions" guid="_dauygPNSEeGUHqJDPoQpuw" presentationName="Monitor Corrective Actions" briefDescription="Check that the corrective actions were successfully implemented" performedBy="_iUegkAvREeOhutvlRKZMkg" output="_uAFfkF7cEeKFRuoPceMYcQ">
+            <methodElementProperty xmi:id="_MZxnk8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-hYe5Pov2DLVBbkctF2uXrQ" href="uma://-hYe5Pov2DLVBbkctF2uXrQ#-hYe5Pov2DLVBbkctF2uXrQ"/>
+            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="#_SQJbwOlrEeKXeuh9rEjGtw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_w98XoPW8EeGkJrjWR9R9NQ" name="supervision" guid="_w98XoPW8EeGkJrjWR9R9NQ" presentationName="Supervision" briefDescription="This activity support the control and supervision of the features that are running in the cloud. It could involve the implementation of additional components and features as part of the final system." contentReferences="_uAFfkF7cEeKFRuoPceMYcQ _SQJbwOlrEeKXeuh9rEjGtw _M7RaoPNLEeGUHqJDPoQpuw _f4KlAUkXEeKu7-3cM-oErg _f4KlAkkXEeKu7-3cM-oErg _dauygPNSEeGUHqJDPoQpuw _f4KlBEkXEeKu7-3cM-oErg _f4KlBUkXEeKu7-3cM-oErg _iDIhYP25EeK8HINtOGo1Xg _kdDDcPtmEeKiy_TRaqF2Gg _iUegkAvREeOhutvlRKZMkg _GudeMPtnEeKiy_TRaqF2Gg _t0pbUAvVEeOhutvlRKZMkg _jBY_AAvTEeOhutvlRKZMkg _oLl2MAvXEeOhutvlRKZMkg" activityReferences="_X-ZbYVv6EeKLopANFXrp4g">
+            <methodElementProperty xmi:id="_MZxnlMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlAUkXEeKu7-3cM-oErg" name="identify_monitoring_procedures" guid="_f4KlAUkXEeKu7-3cM-oErg" presentationName="Identify Monitoring Procedures" briefDescription="Identify the procedures that will be required once the system is in exploitation to detect problems." performedBy="_iUegkAvREeOhutvlRKZMkg" mandatoryInput="_X02JcP2uEeK8HINtOGo1Xg _EdAyEP2uEeK8HINtOGo1Xg" output="_GudeMPtnEeKiy_TRaqF2Gg" optionalInput="_8RPV0N_lEeKdMZ3N0jsS2w _t0pbUAvVEeOhutvlRKZMkg">
+            <methodElementProperty xmi:id="_MZxnlcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-qiEb7k8X7CjLWtrM-zj6Kg" href="uma://-qiEb7k8X7CjLWtrM-zj6Kg#-qiEb7k8X7CjLWtrM-zj6Kg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlAkkXEeKu7-3cM-oErg" name="implement_monitoring_procedures" guid="_f4KlAkkXEeKu7-3cM-oErg" presentationName="Implement Monitoring Procedures" briefDescription="Implement the components and internal procedures necessary to perform the monitoring procedures" performedBy="_iUegkAvREeOhutvlRKZMkg" output="_BKgYkAvdEeOhutvlRKZMkg _jBY_AAvTEeOhutvlRKZMkg">
+            <methodElementProperty xmi:id="_MZxnlsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-d1uoZdMPn5jfbmg5nM6EEQ" href="uma://-d1uoZdMPn5jfbmg5nM6EEQ#-d1uoZdMPn5jfbmg5nM6EEQ"/>
+            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlBEkXEeKu7-3cM-oErg" name="monitor_the_performance_of_the_system_in_the_cloud" guid="_f4KlBEkXEeKu7-3cM-oErg" presentationName="Monitor the Performance of the System in the Cloud" briefDescription="Apply the monitoring procedures as planned" performedBy="_iUegkAvREeOhutvlRKZMkg" output="_uAFfkF7cEeKFRuoPceMYcQ">
+            <methodElementProperty xmi:id="_MZxnl8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-15w0nqRqTsd-ugRdrMflEQ" href="uma://-15w0nqRqTsd-ugRdrMflEQ#-15w0nqRqTsd-ugRdrMflEQ"/>
+            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="#_SQJbwOlrEeKXeuh9rEjGtw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlBUkXEeKu7-3cM-oErg" name="perform_corrective_actions" guid="_f4KlBUkXEeKu7-3cM-oErg" presentationName="Perform Corrective Actions" briefDescription="Implement changes in the system or in the procedures in order to fix detected problems and avoid detected problems in the future" performedBy="_iUegkAvREeOhutvlRKZMkg" mandatoryInput="_t0pbUAvVEeOhutvlRKZMkg" output="_GudeMPtnEeKiy_TRaqF2Gg">
+            <methodElementProperty xmi:id="_MZxnmMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-e3P16WIKSAzy02J7xTTAGA" href="uma://-e3P16WIKSAzy02J7xTTAGA#-e3P16WIKSAzy02J7xTTAGA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_uAFfkF7cEeKFRuoPceMYcQ" name="monitoring_information" guid="_uAFfkF7cEeKFRuoPceMYcQ" presentationName="Monitoring Information" briefDescription="These are the results from the monitoring activities">
+            <methodElementProperty xmi:id="_MZxnmcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gJb5yfO0G88T1osmP8ujXg" href="uma://-gJb5yfO0G88T1osmP8ujXg#-gJb5yfO0G88T1osmP8ujXg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_SQJbwOlrEeKXeuh9rEjGtw" name="supervision_model" guid="_SQJbwOlrEeKXeuh9rEjGtw" presentationName="Supervision Model" briefDescription="It is a subset of the system model in charge of the supervision of the system status" deliveredWorkProducts="_GudeMPtnEeKiy_TRaqF2Gg">
+            <methodElementProperty xmi:id="_MZxnmsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-imuk5IAWTq0yh3VYHA8X6A" href="uma://-imuk5IAWTq0yh3VYHA8X6A#-imuk5IAWTq0yh3VYHA8X6A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_kdDDcPtmEeKiy_TRaqF2Gg" name="in_service_procedures.assign" guid="_kdDDcPtmEeKiy_TRaqF2Gg" variabilityType="contributes" variabilityBasedOnElement="_DAWqMPtmEeKiy_TRaqF2Gg" deliveredWorkProducts="_GudeMPtnEeKiy_TRaqF2Gg">
+            <methodElementProperty xmi:id="_MZxnm8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_GudeMPtnEeKiy_TRaqF2Gg" name="supervision_procedures" guid="_GudeMPtnEeKiy_TRaqF2Gg" presentationName="Supervision Procedures" briefDescription="It includes the procedures to execute periodically to check the system status">
+            <methodElementProperty xmi:id="_MZxnnMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-9dDcJ-KrV3ItMzKncsoa-Q" href="uma://-9dDcJ-KrV3ItMzKncsoa-Q#-9dDcJ-KrV3ItMzKncsoa-Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_iDIhYP25EeK8HINtOGo1Xg" name="identify_monitoring_requirements" guid="_iDIhYP25EeK8HINtOGo1Xg" presentationName="Identify Monitoring Requirements" briefDescription="Identifiy those requirements related with the continous monitoring of the status of the resulting system&#xD;&#xA;" performedBy="_iUegkAvREeOhutvlRKZMkg" mandatoryInput="_EdAyEP2uEeK8HINtOGo1Xg _GudeMPtnEeKiy_TRaqF2Gg" output="_FxNEQV5BEeKVU8eUCvi3Og" optionalInput="_FxNEQV5BEeKVU8eUCvi3Og _t0pbUAvVEeOhutvlRKZMkg">
+            <methodElementProperty xmi:id="_MZxnncCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-B_39FviiNpF0p_WUbjtVng" href="uma://-B_39FviiNpF0p_WUbjtVng#-B_39FviiNpF0p_WUbjtVng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_iUegkAvREeOhutvlRKZMkg" name="supervise_team.assign" guid="_iUegkAvREeOhutvlRKZMkg" variabilityType="contributes" variabilityBasedOnElement="_gVi7EF5AEeKVU8eUCvi3Og" responsibleFor="_t0pbUAvVEeOhutvlRKZMkg _uAFfkF7cEeKFRuoPceMYcQ _SQJbwOlrEeKXeuh9rEjGtw _GudeMPtnEeKiy_TRaqF2Gg _oLl2MAvXEeOhutvlRKZMkg">
+            <methodElementProperty xmi:id="_MZxnnsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_jBY_AAvTEeOhutvlRKZMkg" name="system_model.assign" guid="_jBY_AAvTEeOhutvlRKZMkg" variabilityType="contributes" variabilityBasedOnElement="_umMDoN_8EeKdMZ3N0jsS2w" deliveredWorkProducts="_SQJbwOlrEeKXeuh9rEjGtw">
+            <methodElementProperty xmi:id="_MZxnn8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_t0pbUAvVEeOhutvlRKZMkg" name="monitoring_deviation" guid="_t0pbUAvVEeOhutvlRKZMkg" presentationName="Monitoring Deviation" briefDescription="A problem detected form the analisys of the monitoring information">
+            <methodElementProperty xmi:id="_MZxnoMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-yjsWC7UUDPvSb5LrNWp0Qg" href="uma://-yjsWC7UUDPvSb5LrNWp0Qg#-yjsWC7UUDPvSb5LrNWp0Qg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_oLl2MAvXEeOhutvlRKZMkg" name="additional_system_requirements.assign" guid="_oLl2MAvXEeOhutvlRKZMkg" variabilityType="contributes" variabilityBasedOnElement="_FxNEQV5BEeKVU8eUCvi3Og">
+            <methodElementProperty xmi:id="_MZxnocCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_BKgYkAvdEeOhutvlRKZMkg" name="code.assign" guid="_BKgYkAvdEeOhutvlRKZMkg" variabilityType="contributes" variabilityBasedOnElement="_wFweIAvcEeOhutvlRKZMkg">
+            <methodElementProperty xmi:id="_MZxnosCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-BYYgU_zHJdi8o-P7rr4x7g" href="uma://-BYYgU_zHJdi8o-P7rr4x7g#-BYYgU_zHJdi8o-P7rr4x7g"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sNmK5_NHEeGUHqJDPoQpuw" name="CapabilityPatterns" guid="_sNmK5_NHEeGUHqJDPoQpuw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sNmK6PNHEeGUHqJDPoQpuw" name="DeliveryProcesses" guid="_sNmK6PNHEeGUHqJDPoQpuw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sNmK6fNHEeGUHqJDPoQpuw" name="ProcessContributions" guid="_sNmK6fNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_gAWK4PNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_ZuWoYPNHEeGUHqJDPoQpuw#_ZuWoYPNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BH4wPNGEeGUHqJDPoQpuw"/>
+    <bases href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

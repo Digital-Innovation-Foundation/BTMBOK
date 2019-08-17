@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-23MZj6vLVbgbkXaptH4riQ" name="xp_system_administrator,{0CB3C507-AFEE-4DA8-982B-9B93C8729910}" guid="-23MZj6vLVbgbkXaptH4riQ" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp_programmer_(administrator)__role_definition&quot; name=&quot;XE_xp_programmer_(administrator)__role_definition&quot;>&lt;/a>&lt;a id=&quot;Description&quot; name=&quot;Description&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{0CB3C507-AFEE-4DA8-982B-9B93C8729910}&quot;>XP Programmer (Administrator)&lt;/a> role&#xD;
+    includes most of the traditional software development technical roles, such as designer, implementer, integrator, and&#xD;
+    administrator.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In the administrator role, the programmer deals with establishing the physical working environment.&#xD;
+&lt;/p></mainDescription>
+  <skills>&lt;a id=&quot;Skills&quot; name=&quot;Skills&quot;>&lt;/a> 
+&lt;p>
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{0CB3C507-AFEE-4DA8-982B-9B93C8729910}&quot;>XP Programmer (Administrator)&lt;/a> role is
+    responsible for establishing the workspace for pair programming, including removing cubicle walls, establishing line of
+    sight with the customer, and standardizing on the development tools.
+&lt;/p></skills>
+</org.eclipse.epf.uma:RoleDescription>

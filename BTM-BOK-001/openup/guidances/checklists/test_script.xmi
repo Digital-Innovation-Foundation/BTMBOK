@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_4LuPMMPcEdmbOvqy4O0adg" name="test_script,_0Z9tMMlgEdmt3adZL5Dmdw" guid="_4LuPMMPcEdmbOvqy4O0adg" changeDate="2005-07-26T16:21:21.082-0400" version="1.0.0">
+  <sections xmi:id="_13iTQBOkEdyl0eKFlAahCA" name="Does the test script have a unique name that identifies the condition that the script evaluates?" guid="_13iTQBOkEdyl0eKFlAahCA">
+    <sectionDescription>&lt;p>&#xD;
+    Does the name clearly indicate the condition evaluated or the expected result? For example, &quot;ABC99&quot; might be unique,&#xD;
+    but it is not clear what condition it evaluates. In contrast, &quot;UI99 Unauthenticated users are prompted for login&quot; or&#xD;
+    &quot;BR27 Alphanumeric characters are not permitted in US zip codes&quot;&amp;nbsp;indicate both the test conditions and the&#xD;
+    expected results.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_DiPTsE_cEduqM_QlWBlZ_g" name="Does the test script conform to the related test case?" guid="_DiPTsE_cEduqM_QlWBlZ_g">
+    <sectionDescription>&lt;p>&#xD;
+    Does the test script identify the test case or cases that it implements? Ensure that the test script conforms to the&#xD;
+    specification established in the test case. The test case captures the logical conditions of satisfaction for test, and&#xD;
+    the test script must implement this intent.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_5_92wE_cEduqM_QlWBlZ_g" name="Is the test script prescriptive and unambiguous?" guid="_5_92wE_cEduqM_QlWBlZ_g">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Does the test script have clear&amp;nbsp;pass or fail criteria? (Is it binary?)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the script use a request-response style in its steps? (Is it procedural?)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does each specific input have a specific expected result? (Is it declarative?)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_hU9AABOkEdyl0eKFlAahCA" name="Is all required data specified?" guid="_hU9AABOkEdyl0eKFlAahCA">
+    <sectionDescription>&lt;p> Ensure that the test script contains or references all of the test data required &#xD;
+  to actually run the script. &lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_wFJzABOmEdyl0eKFlAahCA" name="Is each post-condition of the related test case evaluated by a step in the test script?" guid="_wFJzABOmEdyl0eKFlAahCA"/>
+  <sections xmi:id="_Ko30MBOlEdyl0eKFlAahCA" name="Does the test script set up and tear down appropriately?" guid="_Ko30MBOlEdyl0eKFlAahCA">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Does the test script identify the preconditions that must be true before the test script starts?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the test script restore the system's state after it runs, regardless of whether it passes or fails?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Can the test script be executed without affecting the results of other test scripts? In other words, can the test&#xD;
+        script be run in any sequence? If not, is the sequence dependency identified? The dependency might be identified in&#xD;
+        the test script, in a test suite, or in some other manner (such as by using a test tool).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

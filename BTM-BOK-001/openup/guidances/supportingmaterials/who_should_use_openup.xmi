@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1nEIK4O3laIt539DV6rQzA" name="new_supporting_material,_L6THwDY_EdyTZ9G7ByfQTw" guid="-1nEIK4O3laIt539DV6rQzA" changeDate="2007-07-19T17:31:01.798-0400">
+  <mainDescription>&lt;p>&#xD;
+    OpenUP is most useful for four primary groups of users:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Software development practitioners (developers, project managers, analysts, and testers) working together as a&#xD;
+        project team&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stakeholders&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Software process engineers&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Instructors&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Software development practitioners can find guidance on what is required of them in the roles defined by OpenUP. Each&#xD;
+    role describes a set of activities and artifacts for which the role is responsible. Guidance is also given on how those&#xD;
+    roles collaborate.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Stakeholders will find guidance on what they may expect from the software development team, and how the software will&#xD;
+    be created. OpenUP also describes the stakeholders' responsibilities, and states how they can best work with the&#xD;
+    development team to obtain software that meets their needs.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Software process engineers can use EPF Composer to extend and modify OpenUP. Modification may be as simple as altering&#xD;
+    templates for work products, or as sophisticated as adding activities necessary for creating software in your specific&#xD;
+    environment (such as audits for safety-critical systems). In addition to modifying method content, process engineers&#xD;
+    can add, change, or remove process flows to add organization-specific capability patterns.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    OpenUP is appropriate for academic organizations also. As an open source process, it can serve as the basis for&#xD;
+    software engineering courses and, when combined with the EPF Composer, courses in software process engineering.&lt;br />&#xD;
+&lt;/p>&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

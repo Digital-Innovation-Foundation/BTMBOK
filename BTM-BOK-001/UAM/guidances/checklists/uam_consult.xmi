@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-84i-BxJZWlmdnD2nzKjWOQ" name="uam_consult,_JH-LIGkMEeS7ieerwXbTqg" guid="-84i-BxJZWlmdnD2nzKjWOQ" changeDate="2014-11-10T11:13:09.326-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in that the consultation with stakeholders is&amp;nbsp;effective and that the&#xD;
+    decisions are properly recorded.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_JH-yNGkMEeS7ieerwXbTqg" name="Appropriate stakeholder involvement" guid="_JH-yNGkMEeS7ieerwXbTqg">
+    <sectionDescription>Ensure that all experts associated with the consultations have had their say in the defining any issue or the decision, and&#xD;
+in the follow-on actions.</sectionDescription>
+  </sections>
+  <sections xmi:id="_JH-yNWkMEeS7ieerwXbTqg" name="Defined issue or decision is clear" guid="_JH-yNWkMEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the described issue or decision&amp;nbsp;is clearly defined and agreed.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_JH-yMmkMEeS7ieerwXbTqg" name="Follow-on action" guid="_JH-yMmkMEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the follow-on action is well-defined, agreed and assigned.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_JH-yMGkMEeS7ieerwXbTqg" name="Priorities agreed" guid="_JH-yMGkMEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the priorities, and possibly timelines, for follow-on actions are well defined and agreed.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

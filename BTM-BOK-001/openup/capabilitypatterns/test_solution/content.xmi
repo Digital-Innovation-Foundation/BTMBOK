@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_mtb-6vL5Edm6Nvont3uinw" guid="_mtb-6vL5Edm6Nvont3uinw" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+&#xD;
+    This activity is repeated throughout the project lifecycle. The main goal of this activity is to validate that the&#xD;
+&#xD;
+    current build of the system satisfies the requirements allocated to it.&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    Throughout the iterations, your intent is to validate that the implemented requirements reflect a robust&#xD;
+&#xD;
+    architecture, and that the remaining requirements are consistently implemented on top of that architecture. As&#xD;
+&#xD;
+    developers implement the solution for the requirements in a given iteration, unit test the integrated source code.&#xD;
+&#xD;
+    Then, a &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../openup/roles/tester_9859B590.html&quot; guid=&quot;_0ZM4MclgEdmt3adZL5Dmdw&quot;>tester&lt;/a> conducts system-level testing in parallel with development to make sure that&#xD;
+&#xD;
+    the solution, which is continuously being integrated, satisfies the intent specified in the test cases. The tester&#xD;
+&#xD;
+    defines what techniques to use, what the data input is, and what &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/guidances/guidelines/test_suite_D54EEBED.html&quot; guid=&quot;_0aDz0MlgEdmt3adZL5Dmdw&quot;>test suites&lt;/a> to&#xD;
+&#xD;
+    create. As tests run, defects are identified and added to the &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/workproducts/work_items_list_39D03CC8.html&quot; guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>work items list&lt;/a>, so&#xD;
+&#xD;
+    that they can be prioritized as part of the work that you will do during iterations.&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/roles/stakeholder_9FFD4106.html&quot; guid=&quot;_dTa6gMAYEdqX-s4mWhkyqQ&quot;>Role: Stakeholder&lt;/a>s and end-users also may also be involved in performing tests to accept the release.&#xD;
+&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p> &#xD;
+&#xD;
+&#xD;
+    &#xD;
+&#xD;
+&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>Develop and run test scripts to validate that the system satisfies the requirements.</purpose>
+  <howtoStaff>&lt;p>&#xD;
+    The staff performing this activity must be integrated into the team.&#xD;
+&lt;/p></howtoStaff>
+  <usageNotes>&lt;p>&#xD;
+    Testing must occur throughout the process and throughout each iteration. Testing is not a final inspection to be performed at the&#xD;
+    end of the project. As requirements are implemented and integrated into a build, you should test them as soon as possible.&#xD;
+&lt;/p></usageNotes>
+</org.eclipse.epf.uma:ProcessDescription>

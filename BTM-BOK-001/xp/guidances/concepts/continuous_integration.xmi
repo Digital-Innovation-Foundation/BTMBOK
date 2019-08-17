@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-35rZhRLEVuTVI4280ncN0A" name="continuous_integration,3.193414568279561E-305" guid="-35rZhRLEVuTVI4280ncN0A" changeDate="2006-11-08T19:55:42.002-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp__continuous_integration&quot; name=&quot;XE_xp__continuous_integration&quot;>&lt;/a>&lt;a id=&quot;XE_continuous_integration__practice_of&quot; name=&quot;XE_continuous_integration__practice_of&quot;>&lt;/a>&lt;a id=&quot;XE_engineering_practices__continuous_integration&quot; name=&quot;XE_engineering_practices__continuous_integration&quot;>&lt;/a> &#xD;
+&lt;h3>&#xD;
+    Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    One of the goals of XP is to ensure that the customer can feel and touch actual progress that reflects the investment&#xD;
+    to date. As the team builds the software incrementally according to the customer's priority, the new functionality is&#xD;
+    continuously integrated and demonstrated to the customer.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Integration in XP can happen several times a day. As developers finish some work, they integrate what they have done.&#xD;
+    Typically, integration is done on an integration machine in order to serialize the process. Integration is supported by&#xD;
+    unit tests and acceptance tests. When a pair of programmers first sits at the integration machine, the current code&#xD;
+    base passes all tests. They start by integrating their changes into the code and checking for conflicts. Then, they run&#xD;
+    all tests. Should any test fail, the pair is responsible for fixing the code and making it pass. Since the tests were&#xD;
+    all passed before, the failures are in some way related to the modifications that have made to the code. Once all the&#xD;
+    tests have passed, the integration can be considered a success and another pair can now integrate its changes. The&#xD;
+    integrated build can then be handed over to the customer, who can see the new functionality on a running system.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This practice obviously requires the use of tools and an environment that supports fast integration/build/test cycles.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Benefits&#xD;
+&lt;/h3>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Simplified and faster integrations&lt;/b>: reduces important conflicts associated with big bang integration and&#xD;
+        insures that people are working with the latest version of the code.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Improved feedback&lt;/b>: shows constant and demonstrable progress (it takes a running system to pass the&#xD;
+        customer's acceptance tests).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>System always shippable&lt;/b>: the latest version of the system passing all tests is always available.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

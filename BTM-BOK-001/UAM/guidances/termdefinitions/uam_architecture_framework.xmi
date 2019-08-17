@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ukKSL83pTEZ15sySflDIGA" name="uam_architecture_framework,_6rcwQMI3EeKSedlRPHdUIQ" guid="-ukKSL83pTEZ15sySflDIGA" changeDate="2013-05-21T13:01:23.353-0400" version="7.5.1">
+  <mainDescription>An Architecture Framework&amp;nbsp;defines the&amp;nbsp;conventions, principles and practices for the description of architectures&#xD;
+established within a specific domain of application or community of stakeholders (&lt;a&#xD;
+href=&quot;http://www.iso-architecture.org/ieee-1471/&quot; target=&quot;_blank&quot;>ISO 42010&lt;/a> 2011, 2). E.g. DODAF, RM-ODP, UAM. Also&#xD;
+see: &#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&lt;a href=&quot;http://www.iso-architecture.org/ieee-1471/afs/frameworks-table.html&quot;&#xD;
+    target=&quot;_blank&quot;>http://www.iso-architecture.org/ieee-1471/afs/frameworks-table.html&lt;/a>&lt;br />&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

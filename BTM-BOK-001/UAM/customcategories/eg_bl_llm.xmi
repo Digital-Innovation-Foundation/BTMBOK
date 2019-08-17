@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kvr_W4vvyi3DiT7yvREfFg" name="uam_ea_llm,_AZR18sJdEeKSedlRPHdUIQ" guid="-kvr_W4vvyi3DiT7yvREfFg" changeDate="2015-02-06T15:04:11.121-0500" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;IT Research Logical Locations Model top level&quot; src=&quot;./resources/BL-Logical-LLM.png&quot;&#xD;
+    usemap=&quot;#map1393007255340&quot; />&lt;map id=&quot;map1393007255340&quot; name=&quot;map1393007255340&quot;>&#xD;
+        &lt;area title=&quot;ThuNorTech Headquarters Locations Model&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_bl_lpl_hq-location_C9DBE932.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech Headquarters Locations Model&quot; coords=&quot;12,70,55,126&quot; guid=&quot;_ciQBI5sJEeOMG9JzPmKf0Q&quot; />&#xD;
+        &lt;area title=&quot;ThuNorTech Customer Locations Model&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_bl_lpl_cust-location_B79460B6.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech Customer Locations Model&quot; coords=&quot;160,8,205,66&quot; guid=&quot;_ciPaE5sJEeOMG9JzPmKf0Q&quot; />&#xD;
+        &lt;area title=&quot;ThuNorTech Partner Locations Model&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_bl_lpl_part-location_2593F58C.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech Partner Locations Model&quot; coords=&quot;161,142,201,194&quot; guid=&quot;_ciQBJpsJEeOMG9JzPmKf0Q&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot; src=&quot;./resources/Drill%20Down-33.jpg&quot;&#xD;
+    width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    This is the root of the IT Research Logical Locations Model for ThuNorTech, containing the definitions or linking to&#xD;
+    the various diagrams that define this aspect. This view looks very much like the EA level view since ThuNorTech&#xD;
+    headquarters houses the IT Research&amp;nbsp;business line (BL).&amp;nbsp;This BL also requires links with its Partners and&#xD;
+    Customers, which are further detailed in their own views.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The locations model works best if layering is used to deal with complexity and to provide views appropriate for the&#xD;
+    audience and objectives, and comprehension is greatly improved as illustrated in this example. The &quot;leaf&quot; nodes in this&#xD;
+    business level model define the starting point for the logical level models.&amp;nbsp;&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

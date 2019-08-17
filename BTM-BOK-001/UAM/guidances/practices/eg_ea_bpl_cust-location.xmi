@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-YQ3cNofarCWGO2WWg_mdMQ" name="eg_ea_bpl_cust-location,_RTe3UJp0EeOpq9XgOi00TQ" guid="-YQ3cNofarCWGO2WWg_mdMQ" changeDate="2014-02-20T16:15:36.636-0500" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    ThuNorTech has a presence at some customer locations in order to provide tailored and personal support and access to&#xD;
+    Research.&#xD;
+&lt;/p></problem>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pgtwq986wh5QhKOBS0rbYQ" name="new_term_definition,_cTeNwMJOEeKSedlRPHdUIQ" guid="-pgtwq986wh5QhKOBS0rbYQ" changeDate="2013-05-21T15:41:48.936-0400" version="7.5.1">
+  <mainDescription>Unit is a further organizational subdivision of an enterprise’s &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_department_30A3D01D.html&quot; guid=&quot;_YNUjoMJBEeKSedlRPHdUIQ&quot;>Department&lt;/a>.&#xD;
+Also see: &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_division_B8F6B64E.html&quot;&#xD;
+guid=&quot;_vv0koMJBEeKSedlRPHdUIQ&quot;>Division&lt;/a>, &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_line_AB109A07.html&quot; guid=&quot;_4axKQMI7EeKSedlRPHdUIQ&quot;>Business&#xD;
+Line&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_domain_94DAA51B.html&quot;&#xD;
+guid=&quot;_ys424MI6EeKSedlRPHdUIQ&quot;>Business Domain&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

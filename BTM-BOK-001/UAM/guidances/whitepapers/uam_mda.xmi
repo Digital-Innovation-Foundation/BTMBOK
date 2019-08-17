@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-v1P7B6ZYcSIrs4XjfpdfKQ" name="uam_mda,_YMPkANDeEdyC2cfK_t2EKQ" guid="-v1P7B6ZYcSIrs4XjfpdfKQ" changeDate="2015-02-13T13:28:27.607-0500" version="2.0">
+  <mainDescription>&lt;a id=&quot;XE_MDA__References&quot; name=&quot;XE_MDA__References&quot;>&lt;/a>OMG's Model Driven Architecture defines an approach to development&#xD;
+that is model-centric. The model is the system; the model is transformed into executable applications. It is software&#xD;
+centric, but has applicability to the broader problem of defining IT architectures.</mainDescription>
+  <attachments>&lt;a href=&quot;http://www.omg.org/mda/presentations.htm&quot;>MDA Presentations And Papers&lt;/a>|&lt;a href=&quot;http://www.omg.org/mda/index.htm&quot;>MDA Home Page&lt;/a></attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

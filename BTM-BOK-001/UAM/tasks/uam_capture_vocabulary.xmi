@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0ZRPdMsoYla0CmQFyHp_HQ" name="ea_capture_business_vocabulary,_GR7A8MUAEdyVgeP6fyp1bg" guid="-0ZRPdMsoYla0CmQFyHp_HQ" changeDate="2014-10-16T13:52:54.152-0400" version="2.0.1">
+  <sections xmi:id="_x39xwFSmEeSHk9F_b3oTQg" name="Agree on Common Term" guid="_x39xwFSmEeSHk9F_b3oTQg">
+    <sectionDescription>&lt;p>&#xD;
+    Important in the development of the IT architecture is to agree on&amp;nbsp;a common vocabulary using the&amp;nbsp;businesses&#xD;
+    common terms and expressions. They should also be used consistently in all textual descriptions of the&#xD;
+    business.&amp;nbsp;They are documented in a glossary.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Common terms&amp;nbsp;are the the terms used when talking about the business. Each term is typically described as a noun,&#xD;
+    with a definition and are typically&amp;nbsp;singular, &quot;order&quot; and &quot;task&quot;. All stakeholders should agree on definitions for&#xD;
+    the terms.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_qRQCkFSnEeSHk9F_b3oTQg" name="Review Term" guid="_qRQCkFSnEeSHk9F_b3oTQg">
+    <sectionDescription>The glossary is checked for clarity and consistency. There is no need to review in detail.</sectionDescription>
+  </sections>
+  <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Communications is an all-important aspect of any project, but this is especially true when defining IT&#xD;
+        architectures. A common well-understood set of terms must be used, as defined within this task.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bCkVJ-SAp9NAYXzU082xAw" name=",_qNOmQESOEdyDx7cbCULuLg" guid="-bCkVJ-SAp9NAYXzU082xAw" changeDate="2013-03-07T04:18:26.084-0500">
+  <mainDescription>The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of&#xD;
+requirements for any changes to be made to the product.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

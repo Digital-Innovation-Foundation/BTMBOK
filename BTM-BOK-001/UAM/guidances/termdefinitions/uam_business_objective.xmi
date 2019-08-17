@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-v0QBceoBuy7tWT-EPflU_Q" name="uam_business_objective,_RjQDMEKdEeShYIpiBstbOQ" guid="-v0QBceoBuy7tWT-EPflU_Q" changeDate="2014-09-22T17:14:14.305-0400" version="7.5.1">
+  <mainDescription>A Business Objective is a specific result that the enterprise aims to achieve within a&amp;nbsp; defined time frame. Objectives&#xD;
+are concrete and easier to measure than goals. Objectives are basic to all business planning and strategic activities and&#xD;
+serve as the basis for creating policy and evaluating performance.. &lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

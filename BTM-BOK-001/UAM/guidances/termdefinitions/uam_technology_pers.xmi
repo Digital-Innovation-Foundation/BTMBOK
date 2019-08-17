@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-w28z0ySQ4Ur6RbtSphFQWw" name="uam_technology_pers,_rOf4EMJNEeKSedlRPHdUIQ" guid="-w28z0ySQ4Ur6RbtSphFQWw" changeDate="2013-05-21T15:36:32.200-0400" version="7.5.1">
+  <mainDescription>A Technical level set of models of the system’s IT architecture where notions of computing or technology are present&#xD;
+including specific technical patterns and solutions. The four viewpoints (&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspects_C681E8E1.html&quot; guid=&quot;_2D_igNZSEdyTWqLy4FSCdg&quot;>Architecture&#xD;
+Aspects&lt;/a>) defined are independent but related. The primary stakeholders are technical design and technical&#xD;
+implementation people. See &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/supportingmaterials/uam_overview_B2102583.html&quot; guid=&quot;_W0ahoM9uEdymj4NXv8-FYA&quot;>UAM&#xD;
+Overview&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

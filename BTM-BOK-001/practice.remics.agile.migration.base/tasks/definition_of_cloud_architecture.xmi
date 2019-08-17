@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0E8LHUt-jOKPUkTpb_gsXQ" name=",_0xYEUP4nEeC6H_i-fGXOUw" guid="-0E8LHUt-jOKPUkTpb_gsXQ" changeDate="2013-08-21T05:24:17.193-0400">
+  <mainDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Definition of Cloud Architecture&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Starting with the system description and the SOA Model, define the deployment model of the system to&#xD;
+    implement the requirements identified. The deployment model will contain the identification of the location of the&#xD;
+    different components distributed in the cloud. Besides, it may be also necessary to take into account possible&#xD;
+    constrains (organisational, legal, etc) when defining this deployment model.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>Pairing with a team member</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

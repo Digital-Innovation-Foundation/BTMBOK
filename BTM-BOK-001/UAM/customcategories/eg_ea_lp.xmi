@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yQbXFLY-qLRzpkHSuTYPtw" name="new_custom_category,_84C1wMJaEeKSedlRPHdUIQ" guid="-yQbXFLY-qLRzpkHSuTYPtw" changeDate="2015-02-06T14:46:09.439-0500" version="2.0.1">
+  <mainDescription>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; border=&quot;0&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td width=&quot;108&quot;>&#xD;
+                &lt;strong>Click on the framework to view a&amp;nbsp;specific model (aspect) that defines this&#xD;
+                architecture.&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img border=&quot;0&quot; alt=&quot;Logical Perspective&quot; src=&quot;./resources/pers_log.png&quot; usemap=&quot;#map1369173480047&quot; />&lt;map&#xD;
+                id=&quot;map1369173480047&quot; name=&quot;map1369173480047&quot;>&#xD;
+                    &lt;area title=&quot;ThuNorTech Enterprise LEM&quot; href=&quot;./../../UAM/customcategories/eg_ea_lem_5D3D1424.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech Enterprise LEM&quot; coords=&quot;111,72,219,119&quot; guid=&quot;_AZR18MJdEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech Enterprise LPM&quot; href=&quot;./../../UAM/customcategories/eg_ea_lpm_4BD6283A.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech Enterprise LPM&quot; coords=&quot;225,72,331,119&quot; guid=&quot;_AZR18cJdEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech Enterprise LLM&quot; href=&quot;./../../UAM/customcategories/eg_ea_llm_5674084A.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech Enterprise LLM&quot; coords=&quot;340,72,446,117&quot; guid=&quot;_AZR18sJdEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech Enterprise LRM&quot; href=&quot;./../../UAM/customcategories/eg_ea_lrm_BF4DDE0F.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech Enterprise LRM&quot; coords=&quot;455,72,565,120&quot; guid=&quot;_AZR188JdEeKSedlRPHdUIQ&quot; />&#xD;
+                &lt;/map>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    This is the root for the Logical Perspective at the Enterprise level, containing links to the four aspects of this&#xD;
+    perspective.&lt;br />&#xD;
+    &lt;br />&#xD;
+    This diagram may be used as a navigation point into the set of detailed views for each aspect.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    ThuNorTech does research, as required by customers, on specific aspects of technology such as technology trends,&#xD;
+    technology comparisons and suppliers of technology. ThuNorTech's scope includes hardware and software aspects of&#xD;
+    information technology as well as supporting tools and technologies such as software IDEs, desktop and middleware&#xD;
+    software, and architecture tools and techniques, etc. The company also provides solutions to customers, and optionally&#xD;
+    the management and operation of these solutions.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

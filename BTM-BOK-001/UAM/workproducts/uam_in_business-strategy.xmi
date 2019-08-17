@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="--tUUfMxnKcupGTosw24Qhg" name="uam_in_business-strategy,_lhAVoEKeEeShYIpiBstbOQ" guid="--tUUfMxnKcupGTosw24Qhg" changeDate="2014-09-22T15:20:48.820-0400" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The Business Strategy is an input to many UAM based IT Architecture activities and tasks. It is created by business&#xD;
+    experts within the enterprise.&amp;nbsp; See the overview of inputs here: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/customcategories/uam_inputs_82560214.html&quot; guid=&quot;_UauIAGtMEeS7ieerwXbTqg&quot;>Inputs&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    See:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/deliveryprocesses/uam_ent_planning_1D88CE12.html&quot;&#xD;
+    guid=&quot;_iTW2kK8KEeSUf-NO_1Ayag&quot;>Activity: Enterprise Planning&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/deliveryprocesses/uam_gate-0_6529D84.html&quot; guid=&quot;_nfG7AK8QEeSUf-NO_1Ayag&quot;>Milestone: Gate 0&lt;/a>.&#xD;
+&lt;/p>&lt;a id=&quot;XE_Business_Strategy&quot; name=&quot;XE_Business_Strategy&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    See: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/termdefinitions/uam_business_strategy_402FDF65.html&quot;&#xD;
+    guid=&quot;_btSY0EKeEeShYIpiBstbOQ&quot;>Term Definition: Business Strategy&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

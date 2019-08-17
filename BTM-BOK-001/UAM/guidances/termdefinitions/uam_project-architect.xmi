@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EiNvV60VLNmNxb-dYGcGrQ" name="new_term_definition,_HH8JMKS5EeS1o4_8kucAIw" guid="-EiNvV60VLNmNxb-dYGcGrQ" changeDate="2015-01-25T12:39:46.292-0500" version="7.5.1">
+  <mainDescription>A project architect is responsible for the definition, usage and maintenance of the IT architecture for a system being&#xD;
+implemented by a project. Project Architects typically support the IT architecture definition and implementation for a&#xD;
+number of projects within a business domain, department or business unit.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

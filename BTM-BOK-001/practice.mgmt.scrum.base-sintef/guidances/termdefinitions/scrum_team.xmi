@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EqhbZ-SkHp61Y2vSUUoCOQ" name="team,_veyn4l5UEd22Gu98eFOlrQ" guid="-EqhbZ-SkHp61Y2vSUUoCOQ" changeDate="2013-03-06T04:36:08.476-0500">
+  <mainDescription>&lt;p>&#xD;
+    The Scrum Team consists of a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../practice.mgmt.scrum.base-sintef/guidances/termdefinitions/product_owner_168DD387.html&quot;&#xD;
+    guid=&quot;_veyn1l5UEd22Gu98eFOlrQ&quot;>Product Owner&lt;/a>, the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../practice.mgmt.scrum.base-sintef/guidances/termdefinitions/development_team_E039BED5.html&quot;&#xD;
+    guid=&quot;_5X7g8IZBEeKVEqVT82eARQ&quot;>Development Team&lt;/a>, and a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../practice.mgmt.scrum.base-sintef/guidances/termdefinitions/scrum_master_E1E8C180.html&quot;&#xD;
+    guid=&quot;_veyn2F5UEd22Gu98eFOlrQ&quot;>Scrum Master&lt;/a>. Scrum Teams are self-organizing and cross-functional. Self-organizing&#xD;
+    teams choose how best to accomplish their work, rather than being directed by others outside the team. Cross-functional&#xD;
+    teams have all competencies needed to accomplish the work without depending on others not part of the team. The team&#xD;
+    model in Scrum is designed to optimize flexibility, creativity, and productivity.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

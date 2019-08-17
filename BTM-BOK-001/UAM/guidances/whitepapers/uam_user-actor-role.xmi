@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Upglx7YeE9aXReIUTRR8pg" name="new_whitepaper,_kcUQMElxEeOMAZ8QX11Frg" guid="-Upglx7YeE9aXReIUTRR8pg" changeDate="2015-02-13T13:51:19.215-0500" version="2.0">
+  <mainDescription>&lt;a id=&quot;XE_User_Actor_Role__Case_Study&quot; name=&quot;XE_User_Actor_Role__Case_Study&quot;>&lt;/a>This example is a case study of a&#xD;
+financial Transaction Auditing Program (TAP) that was put into production. It then had to be changed twice, then when a&#xD;
+third change request was made a solution was sought to avoid the need for future changes. Every change represented&#xD;
+additional cost to the organization. The solution was&amp;nbsp;the better use of&amp;nbsp;&quot;user&quot; and &quot;actor&quot; and &quot;role&quot;.</mainDescription>
+  <attachments>&lt;a href=&quot;http://www.building-requirements-consensus.com/use-case-example-1.html&quot;>User vs. Actor vs. Role - case study part 1&lt;/a>|&lt;a href=&quot;http://www.building-requirements-consensus.com/use-case-example-2.html&quot;>User vs. Actor vs. Role - case study part 2&lt;/a>|&lt;a href=&quot;http://www.building-requirements-consensus.com/use-case-example-3.html&quot;>User vs. Actor vs. Role - case study part 3&lt;/a></attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

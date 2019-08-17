@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" name="requirements_and_feasibility,_FIdm0Mv8EeCphdH9-OcbCA" guid="-Yvy3AKQTjSqBPNxsWkizkQ" changeDate="2011-10-24T04:19:53.379-0400" version="7.2.0">
+  <additionalInfo>&lt;h3>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/h3></additionalInfo>
+  <problem>&lt;p>&#xD;
+    The purpose of this activity area is recover the knowledge from those legacy components that in the feasibility&#xD;
+    analysis has been pointed as candidates to be reengineered. The application of recover methods and tools will provide&#xD;
+    the application model of the legacy application. Moreover, the application of recover methods and tools may provide&#xD;
+    information on the requirements and even in the testing procedures for the migrated code.&#xD;
+&lt;/p></problem>
+  <goals>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Extract the knowledge of the legacy components from the analysis of the code&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide the architecture of the legacy components from the extracted knowledge&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide the requirements of the legacy components from the extracted knowledge&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide the validation information&amp;nbsp;of the legacy components from the extracted knowledge&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></goals>
+</org.eclipse.epf.uma:PracticeDescription>

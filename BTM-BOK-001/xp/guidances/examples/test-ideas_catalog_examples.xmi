@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HkQclhewSbkFSomo1l_LBg" name="test-ideas_catalog_examples,6.216049252606417E-306" guid="-HkQclhewSbkFSomo1l_LBg" changeDate="2005-12-06T05:48:05.726-0500">
+  <mainDescription>&lt;a id=&quot;XE_test_idea__example_catalogs_of&quot; name=&quot;XE_test_idea__example_catalogs_of&quot;>&lt;/a>&lt;a
+id=&quot;XE_test_ideas_catalog__examples_of&quot; name=&quot;XE_test_ideas_catalog__examples_of&quot;>&lt;/a>HTML:&amp;nbsp;&lt;a
+href=&quot;resources/tstidactl.htm&quot; target=&quot;_blank&quot;>tstidactl.htm&lt;/a></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

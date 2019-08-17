@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_P9iS8PV_EdmdHa9MmVPgqQ" name="find_and_outline_requirements,_P9cMUPV_EdmdHa9MmVPgqQ" guid="_P9iS8PV_EdmdHa9MmVPgqQ" changeDate="2007-03-23T13:54:39.420-0400" version="1.0.0">
+  <keyConsiderations>Collaboration with stakeholders on this task is critical for the success of project. See principle &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/guidances/concepts/core_principle_collaborate_EC5EB51F.html&quot; guid=&quot;_KkTIsMp7EdqC_NfSivunjA&quot;>Collaborate to align interests and share understanding&lt;/a> for more information.</keyConsiderations>
+  <sections xmi:id="_ckG-cCY-EdqNHcQ-rAojXw" name="Gather information" guid="_ckG-cCY-EdqNHcQ-rAojXw">
+    <sectionDescription>&lt;p>&#xD;
+    Use various techniques to make gathering requirements easier. Face-to-face meetings with stakeholders is the most&#xD;
+    effective way to understand stakeholder needs and to gather and validate requirements, but you must prepare in order&#xD;
+    for these meetings to run efficiently.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Be prepared by gathering and reviewing information related to the problem domain, problem statement, business&#xD;
+    environment and key stakeholders. Most of this information should be available in the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/vision_2E71B03C.html&quot; guid=&quot;_0WVxcMlgEdmt3adZL5Dmdw&quot;>Artifact: Vision&lt;/a>.&amp;nbsp; Review the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/work_items_list_39D03CC8.html&quot; guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>Artifact: Work Items List&lt;/a> for stakeholder requests.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/req_gathering_techniques_8CB8E44C.html&quot; guid=&quot;_OnoNQNSAEdmLhZ9H5Plxyw&quot;>Guideline: Requirements Gathering Techniques&lt;/a> for more information.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_GAr3IOz3Edq2wJOsmRwmhg" name="Identify and capture domain terms" guid="_GAr3IOz3Edq2wJOsmRwmhg">
+    <sectionDescription>Collaborate with stakeholder to make sure that ambiguous or domain-specific terms are clearly defined in the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/glossary_5D300778.html&quot; guid=&quot;_Wn7HcNcEEdqz_d2XWoVt6Q&quot;>Glossary&lt;/a> and that you use these terms consistently.</sectionDescription>
+  </sections>
+  <sections xmi:id="_fDbgkCY-EdqNHcQ-rAojXw" name="Identify the types of requirements relevant to your system" guid="_fDbgkCY-EdqNHcQ-rAojXw">
+    <sectionDescription>&lt;p>&#xD;
+    Requirements can be broadly classified as either functional or non-functional requirements. The former specify what the&#xD;
+    system must do. The latter specify constraints on the solution such as usability, reliability, performance,&#xD;
+    supportability, interfaces with legacy systems, etc. Depending upon the domain there may be regulatory requirements&#xD;
+    that apply.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Collaborate with stakeholders to identify the types of requirements relevant to your system. This will help you assess&#xD;
+    the completeness of your requirement set. For more information on types of requirements see &lt;a class=&quot;elementlinkwithtype&quot; href=&quot;./../../openup/guidances/concepts/requirements_8006414F.html&quot; guid=&quot;_0Wh-sMlgEdmt3adZL5Dmdw&quot;>Concept: Requirements&lt;/a> and &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/concepts/supporting_requirements_B2C4D610.html&quot; guid=&quot;_VXZ5wO0IEdqHTdbLTmC5IQ&quot;>Concept: Supporting Requirements&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_5is40NccEdu5tJAZnuAhYQ" name="Identify and capture Supporting Requirements" guid="_5is40NccEdu5tJAZnuAhYQ">
+    <sectionDescription>&lt;p>&#xD;
+    Collaborate with stakeholders to identify and capture&amp;nbsp;the other types of requirements relevant to your system. See&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/supporting_requirements_8ED0BB6B.html&quot; guid=&quot;_wr24gNcGEdqz_d2XWoVt6Q&quot;>Guideline: Supporting Requirements&lt;/a> for more information.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_0WhHsN-eEdqiM_wFaqLjNg" name="Achieve concurrence" guid="_0WhHsN-eEdqiM_wFaqLjNg">
+    <sectionDescription>Conduct a review of the requirements with relevant &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/roles/stakeholder_9FFD4106.html&quot; guid=&quot;_dTa6gMAYEdqX-s4mWhkyqQ&quot;>Stakeholders&lt;/a>&#xD;
+and the development team to ensure consistency with the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/vision_2E71B03C.html&quot; guid=&quot;_0WVxcMlgEdmt3adZL5Dmdw&quot;>Vision&lt;/a>,&#xD;
+assess quality, and identify any required changes. See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/effective_req_reviews_5913D369.html&quot; guid=&quot;_E-dPIL-GEdqb7N6KIeDL8Q&quot;>Guideline: Effective Requirement Reviews&lt;/a> for more information.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Mgb9IC4DEduBP8F-6-95NQ" name="Update the Work Items  List" guid="_Mgb9IC4DEduBP8F-6-95NQ">
+    <sectionDescription>Capture references to the requirements in the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/work_items_list_39D03CC8.html&quot; guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>Artifact: Work Items List&lt;/a>, so they can be prioritized.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    The purpose of this task is to identify and capture functional and non-functional requirements for the system. These&#xD;
+    requirements form the basis of communication and agreement between the stakeholders and the development team on what&#xD;
+    the system must do to satisfy stakeholder needs. The goal is to understand the requirements at a high-level so that the&#xD;
+    initial scope of work can be determined.&amp;nbsp; Further analysis will be performed to detail these requirements prior to&#xD;
+    implementation.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

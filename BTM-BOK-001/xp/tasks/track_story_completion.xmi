@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FxF90KOknQ5km30pP0038w" name="track_story_completion,{C333BA32-CF6B-4577-9212-302893043EFF}" guid="-FxF90KOknQ5km30pP0038w" version="1.0.0">
+  <sections xmi:id="_oOHzQGE-EdqnIZeW8YpHcA" name=" General " guid="_oOHzQGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Prep&quot; name=&quot;Prep&quot;>&lt;/a> 
+&lt;p>
+    Progress in XP is measured in user stories that are passing acceptance tests. A user story is deemed completed when and
+    only when it passes all its acceptance tests. Because customer tests are all automated, this task is actually very
+    simple since it only consists of running the automated acceptance test suite and comparing the results against the
+    plan. If 50% (weighted according to cost) of the stories pass acceptance tests, you are 50% done. Hopefully, less than
+    50% or less of the release has elapsed. If not, it is an indication that the release plan should be revisited.
+&lt;/p>
+&lt;p>
+    On a regular basis, the tracker presents the progress the team is making in the release. This information can be
+    presented in the form of a big, visible chart hanging in the team's open workspace. Progress is often presented as the
+    number of stories done vs. planned for the release.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_track_release_progress__activity_definition&quot; name=&quot;XE_track_release_progress__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Track the progress of the release.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

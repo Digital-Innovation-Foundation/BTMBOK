@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-9vOz5_1ySAfGq4KtrIyFJw" name="ThuNorTech has a presence at some customer locations in order to provide tailored and personal support and access to Research.eg_bl_bpl_cust-location,_ciM90psJEeOMG9JzPmKf0Q" guid="-9vOz5_1ySAfGq4KtrIyFJw" changeDate="2014-02-20T16:15:36.636-0500" version="7.5.1">
+  <problem>ThuNorTech has a presence at some customer locations in order to provide tailored and personal support and access to&#xD;
+Research. These Customer Support Researchers (CSR) have access to ThuNorTech resources in order to provide this personal&#xD;
+support to select Customers.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

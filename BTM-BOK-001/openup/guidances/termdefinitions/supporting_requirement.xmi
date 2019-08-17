@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ketzwgDgY82DMyfuHqu3Cw" name=",_U_olUEvDEdunZcj9T5hrMQ" guid="-ketzwgDgY82DMyfuHqu3Cw" changeDate="2007-04-16T14:45:58.679-0400" version="1.0.0">
+  <mainDescription>Requirements that&amp;nbsp;define necessary system quality attributes&amp;nbsp;such as performance, usability and reliability, as&#xD;
+well as global functional requirements&amp;nbsp;that are not captured in behavioral requirements artifacts such as use cases.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

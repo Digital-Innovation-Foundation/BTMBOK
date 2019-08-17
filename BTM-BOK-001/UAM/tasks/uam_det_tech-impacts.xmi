@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SxMoKAn2aIoaXd_xMqjQpw" name="uam_det_tech-impacts,_88YnMGOpEeSFL7Sh0MlmKA" guid="-SxMoKAn2aIoaXd_xMqjQpw" authors="DW Enstrom" changeDate="2014-11-05T09:10:02.452-0500" changeDescription="New" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The objective of this task is to understand the new or changed technology and then assess its impacts&amp;nbsp;if used in&#xD;
+    the existing IT architecture. The bottom line of this impact study is to define the level of impact:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business&lt;/strong> - new business level opportunities are available, or enhanced services or processes at&#xD;
+        the business level are possible;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Logical&lt;/strong> - the new technology does not have business process or services implications, but does&#xD;
+        have large implications on the current IT architecture, which would have to be revised starting at the Logical&#xD;
+        level;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical&lt;/strong> - the new technology does not have significant architectural implications; it is a&#xD;
+        direct substitute for existing technology, but with benefits.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Once the level of impact has been determined then the next step is to do a more thorough analysis of the opportunities,&#xD;
+    and to make a &lt;em>go&lt;/em> or &lt;em>no-go&lt;/em> decision.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    An Architectural Decision is used to capture and track this analysis.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_88YnMWOpEeSFL7Sh0MlmKA" name="Understand the new technology" guid="_88YnMWOpEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The new technology is examined in detail by a set of IT experts to ensure adequate understanding of its capabilities&#xD;
+    and usage.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_88YnNGOpEeSFL7Sh0MlmKA" name="Opportunities for use" guid="_88YnNGOpEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The IT experts and IT architects, armed with a thorough understanding of the new technology and the current IT&#xD;
+    architecture, define possible uses of the technology within the system or enterprise.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_88YnNWOpEeSFL7Sh0MlmKA" name="Analyze the proposed uses" guid="_88YnNWOpEeSFL7Sh0MlmKA">
+    <sectionDescription>In depth analysis of the proposed solutions is now done. All aspects are looked at, from feasibility to costs. Pros and&#xD;
+cons are noted for each one.</sectionDescription>
+  </sections>
+  <sections xmi:id="_88YnMmOpEeSFL7Sh0MlmKA" name="Short list of uses" guid="_88YnMmOpEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    A short list of possible uses of the new technology is defined based upon cost, impacts and benefits defined.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_88YnM2OpEeSFL7Sh0MlmKA" name="Define the impacts of the new technology" guid="_88YnM2OpEeSFL7Sh0MlmKA">
+    <sectionDescription>The impacts on the current IT architecture are defined in detail for each use on the short list,&amp;nbsp;including the highest&#xD;
+level of impact (i.e. Business, Logical or Technical).</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    A new technology has been identified and this task examines its&amp;nbsp;possible use within the system or enterprise. This&#xD;
+    task examines the new technology, defines possible uses, and then defines its possible&amp;nbsp;impacts on the existing IT&#xD;
+    architecture. These impacts may be at the Business level (e.g. new business opportunity), Logical level (e.g. a greatly&#xD;
+    revised IT architecture is needed) or the Technical level (e.g. the new technology is a simple substitute for existing&#xD;
+    technology, but with benefits).&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

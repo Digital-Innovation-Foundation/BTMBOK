@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3jfbjiJnkeY5BDxL41SSQA" name="glossary,_qyEqkADyEeOBVZ2G27rUkQ" guid="-3jfbjiJnkeY5BDxL41SSQA" changeDate="2013-08-19T06:39:10.905-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Glossary&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The glossary contains the definition of the terms used in the tecnical domain of the solution to be migrated. The&#xD;
+    purpose is to support the understanding by scrum team.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

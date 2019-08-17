@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-eHHdKeFNZauGd73SCrJR6Q" name="new_domain,_eD2WYHHwEeWdvJc66gW5Cg" guid="-eHHdKeFNZauGd73SCrJR6Q" changeDate="2015-11-30T11:57:49.979-0500" version="1">
+  <mainDescription>&lt;p>&#xD;
+    UAM IT Architecture has very wide applicability; the enterprise as a whole, or even&amp;nbsp;a project level IT&#xD;
+    architecture. The “system”&amp;nbsp;in any context includes software, hardware, processes,&amp;nbsp;and people.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The purposes of the UAM IT Architecture domain are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To transform the requirements into a design of the &quot;to-be&quot; system. Occasionally the &quot;as-is&quot; architecture is&#xD;
+        documented as well;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To evolve a robust IT architecture for the enterprise, business line, and other contexts, addressing all the&#xD;
+        relevant viewpoints;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To clearly specify the interfaces between the defined systems, components, entities, and people;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To create all the prerequisite artifacts needed for system development: various architectural views at multiple&#xD;
+        levels.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    All the Work Products&amp;nbsp;defined in UAM IT architectures are included within this domain definition. A summary of all&#xD;
+    inputs and outputs is shown in the figure below:&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Summary of all UAM inputs and outputs&quot; src=&quot;resources/UAM-Inputs-and-Outputs.png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;515&quot; />&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

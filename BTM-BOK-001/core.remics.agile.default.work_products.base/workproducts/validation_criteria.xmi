@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4bwbVAMZnm7vure9Wc9e6Q" name="validation_criteria,_0zpAsADzEeOBVZ2G27rUkQ" guid="-4bwbVAMZnm7vure9Wc9e6Q" changeDate="2013-08-19T06:41:46.846-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Validation Criteria&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The validation criteria describes the way in which the requirements are validated during the validation phase. Some of&#xD;
+    these validation criteria may evolve into supervision procedures that can be checked during the supervision,&#xD;
+    explotation and withdraval phases of the system.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

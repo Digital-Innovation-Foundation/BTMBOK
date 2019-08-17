@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1LsVKcnTAjfYLtWnNbogeQ" name="refine_system_knowledge,_wk5S8EkVEeKu7-3cM-oErg" guid="-1LsVKcnTAjfYLtWnNbogeQ" changeDate="2013-08-20T08:26:59.707-0400">
+  <mainDescription>&lt;H3>Refine System Knowledge&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN style=&quot;mso-bidi-font-family: Arial&quot; lang=EN-GB>Once we have a preliminary version of the system knowledge, this representation is analysed to find additional patterns proper of the application that can facilitate and simplify the understanding system knowledge extracted from the code.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

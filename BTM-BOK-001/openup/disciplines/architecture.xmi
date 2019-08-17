@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_Bbq2MLv-EdmmUvZAZjqE3g" name="architecture,_0TX9AMlgEdmt3adZL5Dmdw" guid="_Bbq2MLv-EdmmUvZAZjqE3g" changeDate="2007-07-12T16:53:55.102-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The purpose of this discipline is to evolve a robust architecture for the system.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Architecture discipline is related to other disciplines, as follows:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/disciplines/requirements_4467C860.html&quot; guid=&quot;_0TR2ZMlgEdmt3adZL5Dmdw&quot;>Requirements&lt;/a> discipline provides the architecturally significant requirements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/disciplines/development_B5D1D8A.html&quot; guid=&quot;_0TeDoMlgEdmt3adZL5Dmdw&quot;>Development&lt;/a> discipline designs and implements the architecture.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/disciplines/test_FB85069.html&quot; guid=&quot;_0TkKQMlgEdmt3adZL5Dmdw&quot;>Test&lt;/a> discipline verifies the stability and correctness of the architecture.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/disciplines/project_management_AFB03A6.html&quot; guid=&quot;_0TqQ4MlgEdmt3adZL5Dmdw&quot;>Project Management&lt;/a> discipline plans the project, and each iteration.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Creating and applying architectural mechanisms is essential for creating a robust architecture. See more on&#xD;
+    architectural mechanisms at &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/customcategories/architectural_mechanisms_ADED0B26.html&quot; guid=&quot;_2l8U4K4sEdudp4CB-AFxtw&quot;>Architectural mechanisms&lt;/a>.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

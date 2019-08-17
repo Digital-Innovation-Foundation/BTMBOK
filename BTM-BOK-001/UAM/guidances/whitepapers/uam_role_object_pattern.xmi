@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-SueI_GKATYnJqZ_KnU4dHA" name="uam_role_object_pattern,_8db1YOyOEdykP9GoXvwZVg" guid="-SueI_GKATYnJqZ_KnU4dHA" changeDate="2017-01-15T15:22:04.596-0500" version="7.2.0">
+  <mainDescription>&lt;a id=&quot;XE_Role_Object_Pattern&quot; name=&quot;XE_Role_Object_Pattern&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The Role Object pattern suggests to model context-specific views of an object as separate &lt;em>role objects&lt;/em> which&#xD;
+    are dynamically attached to and removed from the &lt;em>core object&lt;/em>&lt;strong>.&lt;/strong> We call the resulting composite&#xD;
+    object structure, consisting of the core and its role objects, a subject. A subject often plays several roles and the&#xD;
+    same role is likely to be played by different subjects. As an example consider two different customers playing the role&#xD;
+    of borrower and investor, respectively. Both roles could as well be played by a single Customer object.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Link to PDF:&lt;/strong> &lt;a href=&quot;http://dirkriehle.com/computer-science/research/2000/plopd-4.pdf&quot;&#xD;
+    target=&quot;_blank&quot;>Role Object Pattern&lt;/a>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Related Work:&lt;/strong> &lt;a&#xD;
+    href=&quot;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.25.7092&amp;amp;rep=rep1&amp;amp;type=pdf&quot;>Role Object Pattern -&#xD;
+    Kendall&lt;/a>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Eclipse/Java&lt;/strong>: &lt;a&#xD;
+    href=&quot;http://www.fernuni-hagen.de/ps/prjs/IROP/&quot;>http://www.fernuni-hagen.de/ps/prjs/IROP/&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

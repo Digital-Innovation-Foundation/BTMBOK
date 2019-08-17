@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-t7U-eSOz-yrYwugPY2tZmg" name="new_checklist,_77G0sFrHEeSU46-vxLGKFw" guid="-t7U-eSOz-yrYwugPY2tZmg" changeDate="2014-10-23T11:23:44.502-0400" version="7.5.1">
+  <mainDescription>At the Business level, entities are kept simple, with only simple associations defined between them. No structure (i.e.&#xD;
+generalization or aggregation) is permitted. This is left until the Logical level within IT architectures. The objective is&#xD;
+to make this model easily consumable by business people, with the goal to ensuring that this level is understood and agreed&#xD;
+to by all stakeholders.</mainDescription>
+  <sections xmi:id="_porwwFrIEeSU46-vxLGKFw" name="Clear name and description" guid="_porwwFrIEeSU46-vxLGKFw">
+    <sectionDescription>Ensure that the name for the entity conveys its meaning and that the description supports this meaning. Business experts&#xD;
+and stakeholders are key to ensuring that this is the case.</sectionDescription>
+  </sections>
+  <sections xmi:id="_9gK4kFrIEeSU46-vxLGKFw" name="Relationships are useful and well defined" guid="_9gK4kFrIEeSU46-vxLGKFw">
+    <sectionDescription>Relationships between entities support the business: they support the business processes and also business management&#xD;
+requirements. They are therefore very important and needs to be identified and clearly defined. Note that no structure is&#xD;
+defined; definition of aggregation and generalization relationships are left to the Logical Level.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Rt5WIFrJEeSU46-vxLGKFw" name="Entity ownership is defined" guid="_Rt5WIFrJEeSU46-vxLGKFw">
+    <sectionDescription>In this age of totally interconnected systems it is imperative that the owners of information are identified since they&#xD;
+must be involved in making decisions regarding the usage and protections afforded to entities.</sectionDescription>
+  </sections>
+  <sections xmi:id="_xkAMEFrJEeSU46-vxLGKFw" name="Business events and the entity" guid="_xkAMEFrJEeSU46-vxLGKFw">
+    <sectionDescription>Business Events are often triggered by Business Entities, the arrival of an Invoice for example will trigger the &quot;Bill&#xD;
+Payment&quot; process.</sectionDescription>
+  </sections>
+  <sections xmi:id="_KGdOMFrKEeSU46-vxLGKFw" name="Define important attributes" guid="_KGdOMFrKEeSU46-vxLGKFw">
+    <sectionDescription>This is optional at the Business level, but important attributes may be defined to address process needs or relationship&#xD;
+requirements among others.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cfT00FrKEeSU46-vxLGKFw" name="Is the entity persistent" guid="_cfT00FrKEeSU46-vxLGKFw">
+    <sectionDescription>This is an optional level of analysis at the Business level. If an entity is important enough to be identified and defined,&#xD;
+it is likely persistent. However if there is some question, examine this aspect and add it to the entity description.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

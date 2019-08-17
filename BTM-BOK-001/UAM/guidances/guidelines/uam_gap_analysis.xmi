@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-EYfGjxUFwBpiGQjRes_pYg" name="uam_gap_analysis,_zzM9QGkcEeS7ieerwXbTqg" guid="-EYfGjxUFwBpiGQjRes_pYg" changeDate="2014-11-10T12:20:07.184-0500" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    A gap analysis compares two IT architectures in order to identify the difference. This analysis can get quite complex&#xD;
+    since in the IT world &quot;close&quot; doesn't work, so all differences must be identified.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The &quot;components&quot; that define the system are identified, in both the &quot;Existing IT Architecture&quot; and in the &quot;Target&#xD;
+    Architecture&quot;. If the Existing Architecture is not defined, then it must be defined, at some level of detail, prior to&#xD;
+    doing a gap analysis. Likewise for the Target Architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If the two architectures differ significantly then it could be difficult to identify and relate components. Identifying&#xD;
+    components at a high-level initially may help. The bottom line is that differences between the architectures need to be&#xD;
+    define in enough detailed for the next steps, which look at these difference and other factors to develop or update a&#xD;
+    Migration Plan.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

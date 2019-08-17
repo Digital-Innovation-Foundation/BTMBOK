@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hrDndmFd0zexB0HNYX3gww" name="project_burndown,_ePrt8Dj3EduxovfWMDsntw" guid="-hrDndmFd0zexB0HNYX3gww" changeDate="2007-07-20T17:16:47.635-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The project burndown report is a primary tool for understanding the status of a project. It shows the trend for how&#xD;
+    much work is left to do within that project. This is done by adding the estimated effort left for each of the Work&#xD;
+    Items to be addressed within the project and showing how the estimated effort is changing from iteration to iteration.&#xD;
+    The project burndown report should be updated at the end of each iteration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The project burndown rate is usually communicated in graphical form.&amp;nbsp;The project burndown chart consists of two&#xD;
+    perspectives, with the horizontal axis showing the iterations and the vertical axis indicating the remaining points&#xD;
+    from the Work Items List. Additionally, the average burndown rate from previous iterations is calculated, and a trend&#xD;
+    for the remainder of the project forecasted from that historical data.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Project burndown management is a enabling technique that allows direct linkage of iteration goals to Work Items. The&#xD;
+    Project Manager will use the project burndown information for communicating progress and trends to senior management.&#xD;
+&lt;/p>See &lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/guidances/examples/project_burndown_report_example.html&quot;&#xD;
+guid=&quot;_Yiq2EDcGEdyTZ9G7ByfQTw&quot;>Project Burndown Report&lt;/a>&amp;nbsp;for an example of project burndown report.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

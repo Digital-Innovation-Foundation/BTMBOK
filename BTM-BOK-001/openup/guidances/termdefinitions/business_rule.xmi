@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-COrjB4k8Qtf6ZpPEcBNwpw" name=",_NtGL0EvDEdunZcj9T5hrMQ" guid="-COrjB4k8Qtf6ZpPEcBNwpw" changeDate="2007-04-16T14:46:25.848-0400" version="1.0.0">
+  <mainDescription>A declaration of policy or condition that must be satisfied by the system under consideration. For more information see &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../openup/guidances/termdefinitions/supporting_requirement_C0335C3.html&quot; guid=&quot;_U_olUEvDEdunZcj9T5hrMQ&quot;>supporting requirements&lt;/a>.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

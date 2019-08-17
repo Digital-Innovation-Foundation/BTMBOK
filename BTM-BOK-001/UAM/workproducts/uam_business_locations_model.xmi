@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-2kM5QSsAzmIgvmEXN8j_IA" name="uam_business_locations_model,_BFcw0MOnEdyILM4NThxMFg" guid="-2kM5QSsAzmIgvmEXN8j_IA" changeDate="2015-12-01T14:45:38.554-0500" version="7.2.0">
+  <purpose>&lt;p>&#xD;
+    The Business Location Model defines the high-level business locations where the system has a presence, as defined by&#xD;
+    the scope of the modeling effort. The objective is to clearly define the business locations involved, and the sorts of&#xD;
+    services provided within and between them. This information is important in deciding on the architecture for&#xD;
+    applications and services, so that they operate effectively over a slow speed WAN for example. Security implications&#xD;
+    are also eventually derived from this model for example.&#xD;
+&lt;/p>&lt;a id=&quot;XE_Business_Perspective__Business_Locations_Model&quot; name=&quot;XE_Business_Perspective__Business_Locations_Model&quot;>&lt;/a>&#xD;
+&#xD;
+&lt;p>&#xD;
+    It is important to clearly define the business locations and the relationships between them in terms of the services&#xD;
+    (activities/workflows) provided and facilities provided (data/voice, etc.)&#xD;
+&lt;/p></purpose>
+  <impactOfNotHaving>&lt;p>&#xD;
+    Failure to produce this model means you run the risk that architects and designers will give only superficial attention&#xD;
+    to the way the business operates. They will do what they know best, which is to design and build systems in the absence&#xD;
+    of proper business knowledge. The result often is that the constructed systems do not support the needs of the&#xD;
+    business.&#xD;
+&lt;/p></impactOfNotHaving>
+  <representationOptions>&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>: Package stereotyped as «BPL_BLM» containing deployment diagrams.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A &lt;strong>Business Locations Model&lt;/strong> may have the following properties:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Introduction:&lt;/b> A textual description that serves as a brief introduction to the model.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Packages:&lt;/b> The packages in the model (contained within the Logical Perspective package), representing a&#xD;
+        hierarchy stereotyped as «BPL_Location» or&amp;nbsp;«BPL_Domain» or «BPL_Zone».&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Nodes:&lt;/b> The nodes in the model, owned by the packages stereotyped as «BPL_Location»,&amp;nbsp;«BPL_Domain»,&#xD;
+        «BPL_Zone», or «BPL_Comms».&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Relationships:&lt;/b> The relationships in the model, owned by the packages stereotyped as «BPL_Comms».&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Diagrams:&lt;/b> The diagrams in the model, owned by the packages.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    A Business Locations Model is created to illustrate the conceptual location at which the &quot;system&quot; has a presence. Most&#xD;
+    things defined at this stage will go on to be described in detail in the Logical&amp;nbsp;Perspective and Technical&#xD;
+    Perspective.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Business Locations Model is a way of expressing the business conducted at and between locations where it operates.&#xD;
+    Locations are conceptual at the highest level, and include &quot;locations&quot; based upon security concepts, see: &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/whitepapers/uam_security_reference_model_3EA07B63.html&quot;&#xD;
+    guid=&quot;_KGs_oMX8EdyDYN2-y9-AqA&quot;>Whitepaper: A Reference Model for Enterprise Security&lt;/a>. The types of locations and&#xD;
+    interactions between them are what are modeled. The business activities supported or provided at each conceptual&#xD;
+    location are also described.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

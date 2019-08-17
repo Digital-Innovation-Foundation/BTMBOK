@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OJQIEJfRwkC87zEg0_XvTw" name="eg_tls_partner-server,_xK9uYJsFEeOMG9JzPmKf0Q" guid="-OJQIEJfRwkC87zEg0_XvTw" changeDate="2015-01-27T09:52:58.665-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Partner Applications Server&quot; src=&quot;resources/Simple-Network-Technical-TLM-Apps-Partner-Server.png&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ThuNorTech's Partners provide information in support of IT Research (and IT Solutions). This information is provided&#xD;
+    either through email or through FTP. Web access is also provided for ad-hoc access to Partner resources.&#xD;
+&lt;/p></problem>
+</org.eclipse.epf.uma:PracticeDescription>

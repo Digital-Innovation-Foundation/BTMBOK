@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-32JWpciwfc2e7HgQavJDkw" name="improve_team_skills,{1C4325AC-17DE-4CD0-8AA0-4B210570579F}" guid="-32JWpciwfc2e7HgQavJDkw" version="1.0.0">
+  <sections xmi:id="_oNuxsWE-EdqnIZeW8YpHcA" name="General " guid="_oNuxsWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Prep&quot; name=&quot;Prep&quot;>&lt;/a> 
+&lt;p>
+    Teams are made up of individuals with an imperfect balance of technical expertise, domain or customer awareness, and
+    people skills. The team must continually identify and improve those skill areas that are lacking. The XP Coach helps
+    ensure that this happens.
+&lt;/p>
+&lt;p>
+    The coach must always be aware of what difficulties the team is having in succeeding on their project. Some of these
+    will be evident, often communicated directly by the team. Some will be subtle with little awareness on the team that
+    there is a problem. To maintain this awareness, the coach must balance time spent in the trenches with the team,
+    observing specific use of the practices, with time spent reflecting on the team's capabilities, unencumbered by the
+    direct pressures of the project.
+&lt;/p>
+&lt;p>
+    With an awareness of where the team needs improvement, the coach must help the team integrate improvement activities
+    into their work. Improvement activities need to be prioritized just as User Stories do. Different options will exist to
+    address skill improvement needs. The coach should be familiar with a wide variety of activities, courses, and games to
+    help people further their skills in a given practice. The coach acts as a conduit that connects the team with the
+    expertise required to improve a skill whether that other resource is in the organization or is an external resource.
+&lt;/p>
+&lt;p>
+    One of the most effective tools to help the team identify areas for improvement is the Retrospective, a form of project
+    review. Techniques for this are described in Norm Kerth's book, &lt;i>Project Retrospectives&lt;/i> [&lt;a
+    class=&quot;elementLinkWithUserText&quot;
+    href=&quot;./../../xp/guidances/supportingmaterials/xp_and_agile_process_references,6.191633934532389E-306.html#KER01&quot;
+    guid=&quot;6.191633934532389E-306&quot;>KER01&lt;/a>]. Many teams have adapted the tools from the book to perform abbreviated
+    retrospectives after each iteration in addition to the more comprehensive session held at the completion of a full
+    project.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_improve_team_skills__activity_definition&quot; name=&quot;XE_improve_team_skills__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Help the team members identify skills that need improvement and implement activities to improve those skills.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

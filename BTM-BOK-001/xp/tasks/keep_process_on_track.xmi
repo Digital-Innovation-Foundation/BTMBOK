@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SH3UFVsPViLT3hOalbaxgA" name="keep_process_on_track,{80725BC3-E2BA-4860-8F07-4A34B96FBB2A}" guid="-SH3UFVsPViLT3hOalbaxgA" version="1.0.0">
+  <sections xmi:id="_oN04UGE-EdqnIZeW8YpHcA" name="General " guid="_oN04UGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Prep&quot; name=&quot;Prep&quot;>&lt;/a> 
+&lt;p>
+    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../xp/guidances/concepts/whole_team,7.89591827591278E-306.html&quot;
+    guid=&quot;7.89591827591278E-306&quot;>Whole Team&lt;/a> needs to be very focused on the goals of the project. The development
+    practices enable the project goals to be achieved. The challenge of focusing on the project goals and focusing the
+    disciplined and effective use of the practices is a constant challenge for the team.
+&lt;/p>
+&lt;p>
+    The &lt;a class=&quot;elementLink&quot; href=&quot;./../../xp/roles/xp_tracker,{D8FE277E-4F9A-47EB-855F-C451D601BBAF}.html&quot;
+    guid=&quot;{D8FE277E-4F9A-47EB-855F-C451D601BBAF}&quot;>XP Tracker&lt;/a> collects data and reports it to the team. This data
+    provides guidance as to whether the project is on a trajectory to meet the project goals. The data also monitors the
+    team's use of the practices.
+&lt;/p>
+&lt;p>
+    The &lt;a class=&quot;PresentationName&quot; href=&quot;./../../xp/roles/xp_coach,{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}.html&quot;
+    guid=&quot;{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}&quot;>XP Coach&lt;/a> ensures that the team is collecting and using the data to
+    ensure that the project and process goals are achieved.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_keep_process_on_track__activity_definition&quot; name=&quot;XE_keep_process_on_track__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ensure the process is being used effectively towards the project goals.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

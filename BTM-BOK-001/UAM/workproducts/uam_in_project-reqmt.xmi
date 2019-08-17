@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-OCfaKE8p1BxFVj0-WZYTow" name="uam_in_project-reqmt,_1R2GQEKgEeShYIpiBstbOQ" guid="-OCfaKE8p1BxFVj0-WZYTow" changeDate="2015-12-01T10:40:26.141-0500" version="7.5.1">
+  <mainDescription>&lt;a id=&quot;XE_Project_Charter&quot; name=&quot;XE_Project_Charter&quot;>&lt;/a>&lt;a id=&quot;XE_Project_Requirement&quot;&#xD;
+name=&quot;XE_Project_Requirement&quot;>&lt;/a>&lt;a id=&quot;XE_System_Requirement&quot; name=&quot;XE_System_Requirement&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The Project Charter defines the &quot;system&quot; to be architected and built. It is the project description, project&#xD;
+    charter,&amp;nbsp;or project definition and&amp;nbsp;is an input to many UAM based IT Architecture activities and tasks. It is&#xD;
+    created by business and other&amp;nbsp;(planning) experts within the enterprise. It includes descriptions of any issues or&#xD;
+    problems (business &amp;amp; technical) that are to be addressed by the project.&amp;nbsp;A Project Charter is also used when&#xD;
+    updating a system based upon a Change Request—it documents the plan for the project that implements the&#xD;
+    change.&amp;nbsp;See the overview of inputs here: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/customcategories/uam_inputs_82560214.html&quot; guid=&quot;_UauIAGtMEeS7ieerwXbTqg&quot;>Inputs&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If the &quot;system&quot; to be architected is the Enterprise, a Business Line, or Business Unit then this document defines the&#xD;
+    objectives of the IT architecture project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    There is an extensive&amp;nbsp;project process defined within enterprises. This involves the creation and review of a&#xD;
+    number of&amp;nbsp;artifacts that the IT architect needs to review, as summarized in the figure below.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;IT architecture and project deliverables and Gate reviews&quot; src=&quot;resources/project.png&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    See:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/deliveryprocesses/uam_ent_planning_1D88CE12.html&quot;&#xD;
+    guid=&quot;_iTW2kK8KEeSUf-NO_1Ayag&quot;>Activity: Enterprise Planning&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/deliveryprocesses/uam_gate-3_C27A2992.html&quot; guid=&quot;_dzlfULBtEeSUf-NO_1Ayag&quot;>Milestone: Gate 3&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

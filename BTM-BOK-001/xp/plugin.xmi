@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_xaPXUKv_Eem8vdVoHclNtA" guid="_xaPXUKv_Eem8vdVoHclNtA">
+    <resourceDescriptors xmi:id="_xaSaoKv_Eem8vdVoHclNtA" id="-MqIvi7DInwjz8kX7QEyU3g" uri="customcategories/getting_started.xmi"/>
+    <resourceDescriptors xmi:id="_xaVd8Kv_Eem8vdVoHclNtA" id="-hZ1cvRhigpDb6WbQckPWcA" uri="customcategories/key_xp_concepts.xmi"/>
+    <resourceDescriptors xmi:id="_xaWFAKv_Eem8vdVoHclNtA" id="-LVHbtWMGC3pAL9abD018MA" uri="customcategories/xp_best_practices.xmi"/>
+    <resourceDescriptors xmi:id="_xaX6MKv_Eem8vdVoHclNtA" id="-QcM1bn-XJLcMSggRp54YlQ" uri="customcategories/conceptual_road_maps.xmi"/>
+    <resourceDescriptors xmi:id="_xaaWcKv_Eem8vdVoHclNtA" id="-8FSBtYSGN9EGWRr1N6fbPQ" uri="customcategories/guidelines_overview.xmi"/>
+    <resourceDescriptors xmi:id="_xacLoKv_Eem8vdVoHclNtA" id="-_GqtAEsGnq12qQmyqWdHHQ" uri="customcategories/xp_white_papers.xmi"/>
+    <resourceDescriptors xmi:id="_xadZwKv_Eem8vdVoHclNtA" id="-a8huB5Sn0Qjfe-SkZubH1w" uri="customcategories/references.xmi"/>
+    <resourceDescriptors xmi:id="_xahrMKv_Eem8vdVoHclNtA" id="-c5D4uYtVcDvab8GzkO0HiQ" uri="customcategories/xp_roles_and_tasks.xmi"/>
+    <resourceDescriptors xmi:id="_xai5UKv_Eem8vdVoHclNtA" id="-W67fNE0rT1c2PM-20yXbrw" uri="tasks/develop_xp_vision.xmi"/>
+    <resourceDescriptors xmi:id="_xalVkKv_Eem8vdVoHclNtA" id="-ZUxMgSWqLlaO5p1r1-ug6Q" uri="workproducts/xp_vision.xmi"/>
+    <resourceDescriptors xmi:id="_xal8oKv_Eem8vdVoHclNtA" id="-U8NScY6mORb4XPcNZ_mrEA" uri="guidances/concepts/refactoring_xp_programming.xmi"/>
+    <resourceDescriptors xmi:id="_xao_8Kv_Eem8vdVoHclNtA" id="--qg2qc3dqmgeB63Nx7Zndg" uri="guidances/concepts/coding_standard.xmi"/>
+    <resourceDescriptors xmi:id="_xarcMKv_Eem8vdVoHclNtA" id="-n52TyFa7Reb3LOJV1JMpvg" uri="guidances/concepts/pair_programming.xmi"/>
+    <resourceDescriptors xmi:id="_xat4cKv_Eem8vdVoHclNtA" id="-ql_2w28A9SIIZQca3Wg-kQ" uri="guidances/whitepapers/refactoring.xmi"/>
+    <resourceDescriptors xmi:id="_xaufgKv_Eem8vdVoHclNtA" id="-qIbMRqe8wqKN2-HLtNUcLw" uri="tasks/define_coding_standard.xmi"/>
+    <resourceDescriptors xmi:id="_xavtoKv_Eem8vdVoHclNtA" id="-9EbmL3qGJ_TemB83cJublQ" uri="tasks/estimate_task.xmi"/>
+    <resourceDescriptors xmi:id="_xaxi0Kv_Eem8vdVoHclNtA" id="-DbsgXRUjLhsnnpioGI2b3g" uri="tasks/implement_spike.xmi"/>
+    <resourceDescriptors xmi:id="_xayw8Kv_Eem8vdVoHclNtA" id="-IoT5LZUu3vnNFp-pwPUMHA" uri="tasks/refactor_code.xmi"/>
+    <resourceDescriptors xmi:id="_xazYAKv_Eem8vdVoHclNtA" id="-dbA7zKOJY5WPZyLXErA9vw" uri="guidances/guidelines/refactoring.xmi"/>
+    <resourceDescriptors xmi:id="_xa2bUKv_Eem8vdVoHclNtA" id="-nfbUMyTTqEbCp3HDn-NjOA" uri="guidances/guidelines/pair_programming.xmi"/>
+    <resourceDescriptors xmi:id="_xa43kKv_Eem8vdVoHclNtA" id="-NznKylxa2Y_MG8lACUV9Bw" uri="workproducts/xp_coding_standard.xmi"/>
+    <resourceDescriptors xmi:id="_xa5eoKv_Eem8vdVoHclNtA" id="-HkQclhewSbkFSomo1l_LBg" uri="guidances/examples/test-ideas_catalog_examples.xmi"/>
+    <resourceDescriptors xmi:id="_xa6FsKv_Eem8vdVoHclNtA" id="-0rSxLFlmQfyKrgnqi1NKrg" uri="guidances/concepts/simple_design.xmi"/>
+    <resourceDescriptors xmi:id="_xa7T0Kv_Eem8vdVoHclNtA" id="-2OU2wQP_WNWX5zzWzx4ANw" uri="guidances/concepts/metaphor_system_of_names.xmi"/>
+    <resourceDescriptors xmi:id="_xa764Kv_Eem8vdVoHclNtA" id="-umDp1nFYrMetgnJ-kUMhHw" uri="tasks/breakdown_story.xmi"/>
+    <resourceDescriptors xmi:id="_xa9JAKv_Eem8vdVoHclNtA" id="-Z9xFd9JTnJuNN5S27p06UQ" uri="tasks/estimate_user_story.xmi"/>
+    <resourceDescriptors xmi:id="_xa9wEKv_Eem8vdVoHclNtA" id="-sQUFozEqR3Gpa5PnCjFh9Q" uri="workproducts/xp_metaphor.xmi"/>
+    <resourceDescriptors xmi:id="_xa-XIKv_Eem8vdVoHclNtA" id="-35rZhRLEVuTVI4280ncN0A" uri="guidances/concepts/continuous_integration.xmi"/>
+    <resourceDescriptors xmi:id="_xbBacKv_Eem8vdVoHclNtA" id="--tP2hgRfEkZPGYvy1y0GZQ" uri="tasks/integrate_system.xmi"/>
+    <resourceDescriptors xmi:id="_xbDPoKv_Eem8vdVoHclNtA" id="-rphHqeONv59sqZq_6FzE6Q" uri="workproducts/xp_build.xmi"/>
+    <resourceDescriptors xmi:id="_xbEdwKv_Eem8vdVoHclNtA" id="-oW2j2l-rXqHeWPIgjPpbng" uri="guidances/concepts/customer_tests.xmi"/>
+    <resourceDescriptors xmi:id="_xbFr4Kv_Eem8vdVoHclNtA" id="-nGaswirSOYturOoUWwGdRw" uri="guidances/concepts/product_quality.xmi"/>
+    <resourceDescriptors xmi:id="_xbIIIKv_Eem8vdVoHclNtA" id="-3i1jvKMUGGmAYPw4dHFbEg" uri="guidances/concepts/test-ideas_list.xmi"/>
+    <resourceDescriptors xmi:id="_xbKkYKv_Eem8vdVoHclNtA" id="-WgE0oiE2yddCOMnfzL25Gw" uri="tasks/define_customer_test.xmi"/>
+    <resourceDescriptors xmi:id="_xbNAoKv_Eem8vdVoHclNtA" id="-c7t_eJuo1g5hpWTYTCItig" uri="guidances/guidelines/equivalence_class_analysis.xmi"/>
+    <resourceDescriptors xmi:id="_xbQD8Kv_Eem8vdVoHclNtA" id="-p0GGwGNG5O8Dn6O6ZzivIw" uri="tasks/report_acceptance_test_result.xmi"/>
+    <resourceDescriptors xmi:id="_xbSgMKv_Eem8vdVoHclNtA" id="-KfsuH9i0hVMlGV7PVIa3FQ" uri="roles/xp_tester.xmi"/>
+    <resourceDescriptors xmi:id="_xbU8cKv_Eem8vdVoHclNtA" id="-fm-gBePbdl_WMsE5NxEreQ" uri="tasks/automate_acceptance_test.xmi"/>
+    <resourceDescriptors xmi:id="_xbXYsKv_Eem8vdVoHclNtA" id="-6RyabSc-ZUEtoEKb90BCbg" uri="tasks/run_acceptance_test.xmi"/>
+    <resourceDescriptors xmi:id="_xbYm0Kv_Eem8vdVoHclNtA" id="-OPKuXnenD910fJyGKA99aw" uri="tasks/setup_tester_environment.xmi"/>
+    <resourceDescriptors xmi:id="_xbZN4Kv_Eem8vdVoHclNtA" id="-YYMUwBepQ28JU78LtraO3w" uri="workproducts/xp_customer_test.xmi"/>
+    <resourceDescriptors xmi:id="_xbacAKv_Eem8vdVoHclNtA" id="-gAMIwaLmqX7bf6GLCqwB-g" uri="roles/xp_coach.xmi"/>
+    <resourceDescriptors xmi:id="_xbcRMKv_Eem8vdVoHclNtA" id="-DoLoZOTPa_LacQ3jUG_lsg" uri="guidances/concepts/xp_sustainable_pace.xmi"/>
+    <resourceDescriptors xmi:id="_xbdfUKv_Eem8vdVoHclNtA" id="-u-Svthjtn1xLK2IwVUpk5Q" uri="tasks/adapt_and_improve_process.xmi"/>
+    <resourceDescriptors xmi:id="_xbf7kKv_Eem8vdVoHclNtA" id="-I3yOxhkbTu3OCbzQ0sUsyA" uri="tasks/explain_process.xmi"/>
+    <resourceDescriptors xmi:id="_xbhJsKv_Eem8vdVoHclNtA" id="-32JWpciwfc2e7HgQavJDkw" uri="tasks/improve_team_skills.xmi"/>
+    <resourceDescriptors xmi:id="_xbjl8Kv_Eem8vdVoHclNtA" id="-SH3UFVsPViLT3hOalbaxgA" uri="tasks/keep_process_on_track.xmi"/>
+    <resourceDescriptors xmi:id="_xbk0EKv_Eem8vdVoHclNtA" id="-L85wOCiwe2O8D8CISEGGGg" uri="tasks/resolve_conflicts.xmi"/>
+    <resourceDescriptors xmi:id="_xblbIKv_Eem8vdVoHclNtA" id="-FIhk4OEzZl2IAVMXurpBLA" uri="roles/xp_tracker.xmi"/>
+    <resourceDescriptors xmi:id="_xbn3YKv_Eem8vdVoHclNtA" id="-FxF90KOknQ5km30pP0038w" uri="tasks/track_story_completion.xmi"/>
+    <resourceDescriptors xmi:id="_xbqToKv_Eem8vdVoHclNtA" id="-0iRnQW0M9QDTNqWNijBB5A" uri="tasks/track_task_completion.xmi"/>
+    <resourceDescriptors xmi:id="_xbsv4Kv_Eem8vdVoHclNtA" id="-vcCn_ksJo5Jw27aNZb1Cvw" uri="guidances/concepts/small_releases.xmi"/>
+    <resourceDescriptors xmi:id="_xbtW8Kv_Eem8vdVoHclNtA" id="-7gEOFFavlkSqwIoTNrvfJA" uri="tasks/define_release_plan.xmi"/>
+    <resourceDescriptors xmi:id="_xbvzMKv_Eem8vdVoHclNtA" id="-85F1Tegv16godTFTKyPdww" uri="guidances/guidelines/planning_game.xmi"/>
+    <resourceDescriptors xmi:id="_xbyPcKv_Eem8vdVoHclNtA" id="-WOPGmKUuYbvVeVHp0sgEgw" uri="tasks/report_project_status.xmi"/>
+    <resourceDescriptors xmi:id="_xbzdkKv_Eem8vdVoHclNtA" id="-cU3MzukpGPAtw0wSS23R-g" uri="tasks/update_iteration_plan.xmi"/>
+    <resourceDescriptors xmi:id="_xb0rsKv_Eem8vdVoHclNtA" id="-YO16TebjP7U0gkcYg7OY_A" uri="tasks/update_release_plan.xmi"/>
+    <resourceDescriptors xmi:id="_xb3H8Kv_Eem8vdVoHclNtA" id="-mMZ9KUhiFwBbzSFjq_tO4A" uri="workproducts/xp_release_plan.xmi"/>
+    <resourceDescriptors xmi:id="_xb49IKv_Eem8vdVoHclNtA" id="-23MZj6vLVbgbkXaptH4riQ" uri="roles/xp_system_administrator.xmi"/>
+    <resourceDescriptors xmi:id="_xb7ZYKv_Eem8vdVoHclNtA" id="-1rVEQRCvrcicCdhpuuIZ8w" uri="tasks/setup_programmer_environment.xmi"/>
+    <resourceDescriptors xmi:id="_xb91oKv_Eem8vdVoHclNtA" id="-OuWRQbxXBGWox8SgcCr6sQ" uri="guidances/guidelines/xp_environment.xmi"/>
+    <resourceDescriptors xmi:id="_xcAR4Kv_Eem8vdVoHclNtA" id="-92rjXjWhll5LOtPc58YERg" uri="roles/xp_customer.xmi"/>
+    <resourceDescriptors xmi:id="_xcBgAKv_Eem8vdVoHclNtA" id="-CPHs6R59_druVDY6nRjHEw" uri="guidances/concepts/planning_game.xmi"/>
+    <resourceDescriptors xmi:id="_xcDVMKv_Eem8vdVoHclNtA" id="-BWG5zUGb8c25kuLJ3ck8ng" uri="tasks/define_iteration_plan.xmi"/>
+    <resourceDescriptors xmi:id="_xcGYgKv_Eem8vdVoHclNtA" id="-cqTu_uwmZrF3sFspx465XQ" uri="tasks/write_user_story.xmi"/>
+    <resourceDescriptors xmi:id="_xcHmoKv_Eem8vdVoHclNtA" id="-45BLJONIjGn7h4z87VXqHQ" uri="workproducts/xp_iteration_plan.xmi"/>
+    <resourceDescriptors xmi:id="_xcINsKv_Eem8vdVoHclNtA" id="-f1cDEBpC5wbDTQ9ru9UbLw" uri="workproducts/xp_production_code.xmi"/>
+    <resourceDescriptors xmi:id="_xcKC4Kv_Eem8vdVoHclNtA" id="-YP0i7TC6QNgemddcj1iE7g" uri="guidances/concepts/collective_ownership.xmi"/>
+    <resourceDescriptors xmi:id="_xcLRAKv_Eem8vdVoHclNtA" id="-yaD6WKGdrZ0n0yBSpwPr4g" uri="guidances/concepts/test_driven_development.xmi"/>
+    <resourceDescriptors xmi:id="_xcOUUKv_Eem8vdVoHclNtA" id="-RoFHDUeLz4UFKDuFirQp3g" uri="roles/xp_programmer.xmi"/>
+    <resourceDescriptors xmi:id="_xcPicKv_Eem8vdVoHclNtA" id="-aJBLg1aguP1bIWvQbJSd6w" uri="guidances/concepts/developer_testing.xmi"/>
+    <resourceDescriptors xmi:id="_xcR-sKv_Eem8vdVoHclNtA" id="-3AbfvnHrCOIQS63sEjrOew" uri="guidances/concepts/test-first_design.xmi"/>
+    <resourceDescriptors xmi:id="_xcVCAKv_Eem8vdVoHclNtA" id="-OrjIrRLW6v_XnqLUQ9GYaQ" uri="guidances/concepts/test-ideas_catalog.xmi"/>
+    <resourceDescriptors xmi:id="_xcYFUKv_Eem8vdVoHclNtA" id="-Ymu8T1hQ_QoxCaNAQhD9AA" uri="guidances/whitepapers/xp_guidelines_pair_programming.xmi"/>
+    <resourceDescriptors xmi:id="_xcYsYKv_Eem8vdVoHclNtA" id="-_AgYWcSlbVBZOVcQfJuBnQ" uri="guidances/whitepapers/xp_guidelines_test-first_design_and_refactoring.xmi"/>
+    <resourceDescriptors xmi:id="_xcZ6gKv_Eem8vdVoHclNtA" id="-kNZQ2Mr_nyfmCboprjMNTg" uri="tasks/write_code.xmi"/>
+    <resourceDescriptors xmi:id="_xcbIoKv_Eem8vdVoHclNtA" id="-jc10ie6UDWUJzSDfsQExjw" uri="guidances/guidelines/test_driven_development_tdd.xmi"/>
+    <resourceDescriptors xmi:id="_xcdk4Kv_Eem8vdVoHclNtA" id="-nwZMQTZtIwI5weh9c_HoYA" uri="guidances/guidelines/test_ideas_for_method_calls.xmi"/>
+    <resourceDescriptors xmi:id="_xcgBIKv_Eem8vdVoHclNtA" id="-60dp5lxFJEpUarhchGCnHw" uri="guidances/guidelines/test_ideas_for_statechart_and_flow_diagrams.xmi"/>
+    <resourceDescriptors xmi:id="_xcjEcKv_Eem8vdVoHclNtA" id="-FX8hDYUKOXsrQulFe9lwtw" uri="guidances/guidelines/test_ideas_for_booleans_and_boundaries.xmi"/>
+    <resourceDescriptors xmi:id="_xcmHwKv_Eem8vdVoHclNtA" id="-rtY57MTVQrEcfTKwD3-Wvw" uri="workproducts/xp_user_story.xmi"/>
+    <resourceDescriptors xmi:id="_xcmu0Kv_Eem8vdVoHclNtA" id="-dwfXb2dWJOQkTuLo-BTFeQ" uri="workproducts/xp_unit_test.xmi"/>
+    <resourceDescriptors xmi:id="_xcn88Kv_Eem8vdVoHclNtA" id="-AS84xtg2NOXfrqA6eVRzMQ" uri="guidances/practices/sustainable_pace.xmi"/>
+    <resourceDescriptors xmi:id="_xcokAKv_Eem8vdVoHclNtA" id="-nO38_JQ9G3FQvNlAT5Agqg" uri="guidances/concepts/what_is_xp.xmi"/>
+    <resourceDescriptors xmi:id="_xcrAQKv_Eem8vdVoHclNtA" id="-nIpFvBhY9WogqrEQv4NknQ" uri="guidances/concepts/motivation.xmi"/>
+    <resourceDescriptors xmi:id="_xcsOYKv_Eem8vdVoHclNtA" id="-EHSlFv7Gla5oCPGBiaZKow" uri="guidances/concepts/agile_software_development.xmi"/>
+    <resourceDescriptors xmi:id="_xctcgKv_Eem8vdVoHclNtA" id="-pA6XLJKgRiwDTEp_qMlQ9g" uri="guidances/concepts/xp_values.xmi"/>
+    <resourceDescriptors xmi:id="_xcv4wKv_Eem8vdVoHclNtA" id="-24MPC2FhJbx7Fr0F6QEq8A" uri="guidances/concepts/xp_practices.xmi"/>
+    <resourceDescriptors xmi:id="_xcy8EKv_Eem8vdVoHclNtA" id="-vEvfeoyYAPDr-jfyX2QLww" uri="guidances/concepts/xp_rights.xmi"/>
+    <resourceDescriptors xmi:id="_xc0KMKv_Eem8vdVoHclNtA" id="-27sE-swoOUGtar9a0f3RPw" uri="guidances/concepts/extreme_programming.xmi"/>
+    <resourceDescriptors xmi:id="_xc2mcKv_Eem8vdVoHclNtA" id="-mq7aEjHjqWoRd6aWFK_Dwg" uri="guidances/guidelines/open_workspace.xmi"/>
+    <resourceDescriptors xmi:id="_xc8tEKv_Eem8vdVoHclNtA" id="-8UKMv929ysWDBF1IOAAgsg" uri="guidances/supportingmaterials/xp_and_agile_process_references.xmi"/>
+    <resourceDescriptors xmi:id="_xc_JUKv_Eem8vdVoHclNtA" id="-_11Y5NHJcC5lkqB4CeSpbg" uri="guidances/supportingmaterials/xp_developer_team.xmi"/>
+    <resourceDescriptors xmi:id="_xdAXcKv_Eem8vdVoHclNtA" id="-mZMamrTcnR6xoZgvw9XU-A" uri="guidances/supportingmaterials/xp_customer_team.xmi"/>
+    <resourceDescriptors xmi:id="_xdA-gKv_Eem8vdVoHclNtA" id="-O3LVBobhzFRt-5bytDkqqQ" uri="guidances/supportingmaterials/xp_artifacts.xmi"/>
+    <resourceDescriptors xmi:id="_xdBlkKv_Eem8vdVoHclNtA" id="-uqrgrFY-74R1FijPLvcXoQ" uri="guidances/concepts/whole_team.xmi"/>
+    <resourceDescriptors xmi:id="_xdEB0Kv_Eem8vdVoHclNtA" id="-2nINowSo0VedqZTd4LIZIg" uri="guidances/supportingmaterials/xp_organization.xmi"/>
+    <resourceDescriptors xmi:id="_xdGeEKv_Eem8vdVoHclNtA" id="-PCk5_o83KYiPZaKUzt021A" uri="guidances/supportingmaterials/getting_started_with_xp.xmi"/>
+    <resourceDescriptors xmi:id="_xdI6UKv_Eem8vdVoHclNtA" id="-31JQsY6FjFegmq-JJZdndg" uri="guidances/supportingmaterials/xp_copyright.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="{35DCB3E1-2766-423E-A849-57ECD4F41A40}" name="xp" guid="{35DCB3E1-2766-423E-A849-57ECD4F41A40}" changeDate="2006-11-08T17:45:47.271-0500" copyrightStatement="_XI5PQHEPEdug-a-RuUM3Hg">
+    <methodElementProperty xmi:id="_2Iz_Qqv_Eem8vdVoHclNtA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6QGE-EdqnIZeW8YpHcA" name="Content" guid="_mhU6QGE-EdqnIZeW8YpHcA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6QWE-EdqnIZeW8YpHcA" name="Categories" guid="_mhU6QWE-EdqnIZeW8YpHcA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6QmE-EdqnIZeW8YpHcA" name="Domains" guid="_mhU6QmE-EdqnIZeW8YpHcA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6Q2E-EdqnIZeW8YpHcA" name="Disciplines" guid="_mhU6Q2E-EdqnIZeW8YpHcA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6RGE-EdqnIZeW8YpHcA" name="RoleSets" guid="_mhU6RGE-EdqnIZeW8YpHcA">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_13azwGNdEdqsrK7eslBiiA" name="xp_roles" guid="_13azwGNdEdqsrK7eslBiiA" presentationName="XP Roles" roles="{9C440605-FF0E-4D37-A774-BBF8B5F47AB6} {3C90DD4F-CFDB-4111-922D-3B840B8942DE} {08A6AF28-69B1-42DC-A957-2E6CDCB436C1} {0CB3C507-AFEE-4DA8-982B-9B93C8729910} {D8FE277E-4F9A-47EB-855F-C451D601BBAF} {FB65D00B-8304-4CF7-9969-52CE82F503DC}"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6RWE-EdqnIZeW8YpHcA" name="WP Types" guid="_mhU6RWE-EdqnIZeW8YpHcA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6RmE-EdqnIZeW8YpHcA" name="Tools" guid="_mhU6RmE-EdqnIZeW8YpHcA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6R2E-EdqnIZeW8YpHcA" name="StandardCategories" guid="_mhU6R2E-EdqnIZeW8YpHcA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6SGE-EdqnIZeW8YpHcA" name="CustomCategories" guid="_mhU6SGE-EdqnIZeW8YpHcA" reusedPackages="_ms9igWE-EdqnIZeW8YpHcA _mhU6SGE-EdqnIZeW8YpHcA {45A887AB-A968-48AF-8213-4D470DA9DBCC} {90FB58E1-B403-4358-85D0-BD902528D810} {01E73AC7-B8D8-4B2F-8B29-A28D9813DB6C} {8367713C-3AEA-489D-B136-DB87D6340A3F} {DBE91BD5-0065-4049-AA61-058C77F1D2A3} {796EA4CB-0038-43B8-A568-792DCC3B9F22}">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6SWE-EdqnIZeW8YpHcA" name="Hidden" guid="_mhU6SWE-EdqnIZeW8YpHcA" reusedPackages="_mhU6SGE-EdqnIZeW8YpHcA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mhU6SmE-EdqnIZeW8YpHcA" name="Custom Categories" guid="_mhU6SmE-EdqnIZeW8YpHcA" categorizedElements="_ms9ig2E-EdqnIZeW8YpHcA _mtDpJGE-EdqnIZeW8YpHcA _mtcqtmE-EdqnIZeW8YpHcA _mtcquWE-EdqnIZeW8YpHcA _um0n8GdjEdqlnYmIxoiUEQ _8NSdoGdjEdqlnYmIxoiUEQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ms9ig2E-EdqnIZeW8YpHcA" name="getting_started" guid="_ms9ig2E-EdqnIZeW8YpHcA" presentationName="Getting Started" variabilityType="replaces" categorizedElements="1.2284921351651456E-304 1.9093436569802954E-305 4.315031901943112E-306 2.0279775416255596E-305 6.505229665845286E-306 _8NSdoGdjEdqlnYmIxoiUEQ">
+            <presentation xmi:id="-MqIvi7DInwjz8kX7QEyU3g" href="uma://-MqIvi7DInwjz8kX7QEyU3g#-MqIvi7DInwjz8kX7QEyU3g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="1.9093436569802954E-305" name="key_xp_concepts" guid="1.9093436569802954E-305" presentationName="Key XP Concepts" briefDescription="The following concepts are a good starting point to introduce the &quot;spirit&quot; of XP." categorizedElements="9.251272550276345E-306 1.6390805262958034E-306 1.041091673844025E-305 1.076140803519123E-306 2.2937799026801584E-305 3.036332011267074E-306">
+            <presentation xmi:id="-hZ1cvRhigpDb6WbQckPWcA" href="uma://-hZ1cvRhigpDb6WbQckPWcA#-hZ1cvRhigpDb6WbQckPWcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="4.315031901943112E-306" name="xp_best_practices" guid="4.315031901943112E-306" presentationName="XP Best Practices" categorizedElements="3.133529870649493E-306 5.762953011420275E-306 9.300699588493279E-306 2.7371805612676613E-305 3.876855509996079E-307 1.4410217108363206E-306 1.620567348185129E-306 2.297945473205673E-305 3.193414568279561E-305 1.6109092258980447E-306 4.884861766532753E-306 8.8116853923311E-307 7.89591827591278E-306">
+            <presentation xmi:id="-LVHbtWMGC3pAL9abD018MA" href="uma://-LVHbtWMGC3pAL9abD018MA#-LVHbtWMGC3pAL9abD018MA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mtDpJGE-EdqnIZeW8YpHcA" name="conceptual_road_maps" guid="_mtDpJGE-EdqnIZeW8YpHcA" presentationName="Conceptual Roadmap" variabilityType="replaces" categorizedElements="5.2637267673584526E-306">
+            <presentation xmi:id="-QcM1bn-XJLcMSggRp54YlQ" href="uma://-QcM1bn-XJLcMSggRp54YlQ#-QcM1bn-XJLcMSggRp54YlQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="2.0279775416255596E-305" name="guidelines_overview" guid="2.0279775416255596E-305" presentationName="Guidelines Overview" categorizedElements="3.754748120034442E-307 3.269440809144354E-305 3.85153041801319E-307 8.137126904637637E-306 3.9254165491375454E-306 6.7335956461328426E-307">
+            <presentation xmi:id="-8FSBtYSGN9EGWRr1N6fbPQ" href="uma://-8FSBtYSGN9EGWRr1N6fbPQ#-8FSBtYSGN9EGWRr1N6fbPQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="6.505229665845286E-306" name="xp_white_papers" guid="6.505229665845286E-306" presentationName="XP White Papers" briefDescription="Here are some white papers relating to XP." categorizedElements="7.290386721197834E-306 6.334658646686929E-306 1.0713784560673905E-305">
+            <presentation xmi:id="-_GqtAEsGnq12qQmyqWdHHQ" href="uma://-_GqtAEsGnq12qQmyqWdHHQ#-_GqtAEsGnq12qQmyqWdHHQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mtcqtmE-EdqnIZeW8YpHcA" name="references" guid="_mtcqtmE-EdqnIZeW8YpHcA" presentationName="References" variabilityType="replaces" categorizedElements="6.191633934532389E-306">
+            <presentation xmi:id="-a8huB5Sn0Qjfe-SkZubH1w" href="uma://-a8huB5Sn0Qjfe-SkZubH1w#-a8huB5Sn0Qjfe-SkZubH1w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mtcquWE-EdqnIZeW8YpHcA" name="xp_basic_roles_artifacts" guid="_mtcquWE-EdqnIZeW8YpHcA" presentationName="XP Roles and Artifacts" categorizedElements="3.967980776087095E-306 1.545655831828372E-305"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="3.967980776087095E-306" name="xp_roles_and_tasks" guid="3.967980776087095E-306" presentationName="XP Roles and Tasks" categorizedElements="5.613949040902463E-308">
+            <presentation xmi:id="-c5D4uYtVcDvab8GzkO0HiQ" href="uma://-c5D4uYtVcDvab8GzkO0HiQ#-c5D4uYtVcDvab8GzkO0HiQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_um0n8GdjEdqlnYmIxoiUEQ" name="overview" guid="_um0n8GdjEdqlnYmIxoiUEQ" presentationName="Overview" categorizedElements="_ms9ig2E-EdqnIZeW8YpHcA _mtDpJGE-EdqnIZeW8YpHcA _mtcqtmE-EdqnIZeW8YpHcA"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_8NSdoGdjEdqlnYmIxoiUEQ" name="xp_team" guid="_8NSdoGdjEdqlnYmIxoiUEQ" presentationName="XP Team" categorizedElements="_13azwGNdEdqsrK7eslBiiA _mtcquWE-EdqnIZeW8YpHcA"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mhU6S2E-EdqnIZeW8YpHcA" name="CoreContent" guid="_mhU6S2E-EdqnIZeW8YpHcA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="{90FB58E1-B403-4358-85D0-BD902528D810}" name="xp_essentials" guid="{90FB58E1-B403-4358-85D0-BD902528D810}" briefDescription=" This component provides the essential concepts required to understand XP. " reusedPackages="{90FB58E1-B403-4358-85D0-BD902528D810} {45A887AB-A968-48AF-8213-4D470DA9DBCC} {BC57C7CE-BFA8-464F-9925-D27A7968B63C} {8367713C-3AEA-489D-B136-DB87D6340A3F} {01E73AC7-B8D8-4B2F-8B29-A28D9813DB6C} {796EA4CB-0038-43B8-A568-792DCC3B9F22}">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="{BC57C7CE-BFA8-464F-9925-D27A7968B63C}" name="xp_requirements" guid="{BC57C7CE-BFA8-464F-9925-D27A7968B63C}" briefDescription=" This component provides guidance for defining requirements on an XP project. " reusedPackages="{90FB58E1-B403-4358-85D0-BD902528D810} {BC57C7CE-BFA8-464F-9925-D27A7968B63C}">
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{A179D686-1E79-4CB0-97B5-103B4FBBBDEF}" name="xp_customer_req" guid="{A179D686-1E79-4CB0-97B5-103B4FBBBDEF}" presentationName="XP Customer (Requirements)" variabilityType="contributes" variabilityBasedOnElement="{3C90DD4F-CFDB-4111-922D-3B840B8942DE}" responsibleFor="{2300FB25-7249-4481-A1BD-978240906832}"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{A8708FFB-BB20-40AF-BEF2-7A8A814FF74D}" name="develop_xp_vision" guid="{A8708FFB-BB20-40AF-BEF2-7A8A814FF74D}" presentationName="Define Vision" performedBy="{A179D686-1E79-4CB0-97B5-103B4FBBBDEF}" output="{2300FB25-7249-4481-A1BD-978240906832}">
+              <presentation xmi:id="-W67fNE0rT1c2PM-20yXbrw" href="uma://-W67fNE0rT1c2PM-20yXbrw#-W67fNE0rT1c2PM-20yXbrw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="{2300FB25-7249-4481-A1BD-978240906832}" name="xp_vision" guid="{2300FB25-7249-4481-A1BD-978240906832}" presentationName="XP Vision" briefDescription="Defines the stakeholder's view of the product to be developed, specified in terms of the stakeholder's key needs and features." variabilityType="extends">
+              <presentation xmi:id="-ZUxMgSWqLlaO5p1r1-ug6Q" href="uma://-ZUxMgSWqLlaO5p1r1-ug6Q#-ZUxMgSWqLlaO5p1r1-ug6Q"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="{01E73AC7-B8D8-4B2F-8B29-A28D9813DB6C}" name="xp_programming" guid="{01E73AC7-B8D8-4B2F-8B29-A28D9813DB6C}" briefDescription=" This component provides guidance for programming on XP projects. " reusedPackages="{90FB58E1-B403-4358-85D0-BD902528D810} {01E73AC7-B8D8-4B2F-8B29-A28D9813DB6C} {796EA4CB-0038-43B8-A568-792DCC3B9F22}">
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{C587F94C-90FD-4943-A4DE-68E9B6875071}" name="xp_implementer" guid="{C587F94C-90FD-4943-A4DE-68E9B6875071}" presentationName="XP Programmer (Implementer)" variabilityType="contributes" variabilityBasedOnElement="{08A6AF28-69B1-42DC-A957-2E6CDCB436C1}" conceptsAndPapers="1.4410217108363206E-306 8.8116853923311E-307 3.876855509996079E-307 1.0713784560673905E-305" responsibleFor="{1D7E042C-B29E-4169-8DF3-37DE0A5F64ED}"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="1.4410217108363206E-306" name="refactoring_xp_programming" guid="1.4410217108363206E-306" presentationName="Refactoring">
+              <presentation xmi:id="-U8NScY6mORb4XPcNZ_mrEA" href="uma://-U8NScY6mORb4XPcNZ_mrEA#-U8NScY6mORb4XPcNZ_mrEA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="8.8116853923311E-307" name="coding_standard" guid="8.8116853923311E-307" presentationName="Coding Standard">
+              <presentation xmi:id="--qg2qc3dqmgeB63Nx7Zndg" href="uma://--qg2qc3dqmgeB63Nx7Zndg#--qg2qc3dqmgeB63Nx7Zndg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="3.876855509996079E-307" name="pair_programming" guid="3.876855509996079E-307" presentationName="Pair Programming">
+              <presentation xmi:id="-n52TyFa7Reb3LOJV1JMpvg" href="uma://-n52TyFa7Reb3LOJV1JMpvg#-n52TyFa7Reb3LOJV1JMpvg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Whitepaper" xmi:id="1.0713784560673905E-305" name="refactoring" guid="1.0713784560673905E-305" presentationName="Refactoring">
+              <presentation xmi:id="-ql_2w28A9SIIZQca3Wg-kQ" href="uma://-ql_2w28A9SIIZQca3Wg-kQ#-ql_2w28A9SIIZQca3Wg-kQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{C88D5B0A-1A59-4575-ADDF-8ECBBAB83410}" name="define_coding_standard" guid="{C88D5B0A-1A59-4575-ADDF-8ECBBAB83410}" presentationName="Define Coding Standard" performedBy="{C587F94C-90FD-4943-A4DE-68E9B6875071}" output="{1D7E042C-B29E-4169-8DF3-37DE0A5F64ED}" optionalInput="{1D7E042C-B29E-4169-8DF3-37DE0A5F64ED}">
+              <presentation xmi:id="-qIbMRqe8wqKN2-HLtNUcLw" href="uma://-qIbMRqe8wqKN2-HLtNUcLw#-qIbMRqe8wqKN2-HLtNUcLw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{EC483990-8129-4AE3-893C-0F7406C128DA}" name="estimate_task" guid="{EC483990-8129-4AE3-893C-0F7406C128DA}" presentationName="Estimate Task" performedBy="{C587F94C-90FD-4943-A4DE-68E9B6875071}">
+              <presentation xmi:id="-9EbmL3qGJ_TemB83cJublQ" href="uma://-9EbmL3qGJ_TemB83cJublQ#-9EbmL3qGJ_TemB83cJublQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{85BE1C0E-F389-4246-BB22-9A52988018B7}" name="implement_spike" guid="{85BE1C0E-F389-4246-BB22-9A52988018B7}" presentationName="Implement Spike" performedBy="{C587F94C-90FD-4943-A4DE-68E9B6875071}" output="{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1} {D156652E-7C52-4EBD-8F23-F38169877A57}" optionalInput="{7C34EE96-C3EA-49FD-A53C-7C113B86AE01} {21946731-4F5C-4862-8B4D-868629952B92}">
+              <presentation xmi:id="-DbsgXRUjLhsnnpioGI2b3g" href="uma://-DbsgXRUjLhsnnpioGI2b3g#-DbsgXRUjLhsnnpioGI2b3g"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{3DD335BB-45F6-49C7-B17A-90652C73A485}" name="refactor_code" guid="{3DD335BB-45F6-49C7-B17A-90652C73A485}" presentationName="Refactor Code" guidelines="8.137126904637637E-306 3.85153041801319E-307" performedBy="{C587F94C-90FD-4943-A4DE-68E9B6875071}" mandatoryInput="{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1}" output="{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1} {D156652E-7C52-4EBD-8F23-F38169877A57}" optionalInput="{7C34EE96-C3EA-49FD-A53C-7C113B86AE01} {D156652E-7C52-4EBD-8F23-F38169877A57}">
+              <presentation xmi:id="-IoT5LZUu3vnNFp-pwPUMHA" href="uma://-IoT5LZUu3vnNFp-pwPUMHA#-IoT5LZUu3vnNFp-pwPUMHA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="8.137126904637637E-306" name="refactoring" guid="8.137126904637637E-306" presentationName="Refactoring">
+              <presentation xmi:id="-dbA7zKOJY5WPZyLXErA9vw" href="uma://-dbA7zKOJY5WPZyLXErA9vw#-dbA7zKOJY5WPZyLXErA9vw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="3.85153041801319E-307" name="pair_programming" guid="3.85153041801319E-307" presentationName="Pair Programming">
+              <presentation xmi:id="-nfbUMyTTqEbCp3HDn-NjOA" href="uma://-nfbUMyTTqEbCp3HDn-NjOA#-nfbUMyTTqEbCp3HDn-NjOA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="{1D7E042C-B29E-4169-8DF3-37DE0A5F64ED}" name="xp_coding_standard" guid="{1D7E042C-B29E-4169-8DF3-37DE0A5F64ED}" presentationName="Coding Standard" briefDescription="Describes the conventions to be used when working with the programming language." examples="6.216049252606417E-306">
+              <presentation xmi:id="-NznKylxa2Y_MG8lACUV9Bw" href="uma://-NznKylxa2Y_MG8lACUV9Bw#-NznKylxa2Y_MG8lACUV9Bw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="6.216049252606417E-306" name="test-ideas_catalog_examples" guid="6.216049252606417E-306" presentationName="Test-Ideas Catalog Examples" briefDescription="The example is attached below.">
+              <presentation xmi:id="-HkQclhewSbkFSomo1l_LBg" href="uma://-HkQclhewSbkFSomo1l_LBg#-HkQclhewSbkFSomo1l_LBg"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="{796EA4CB-0038-43B8-A568-792DCC3B9F22}" name="xp_design" guid="{796EA4CB-0038-43B8-A568-792DCC3B9F22}" briefDescription=" This component provides guidance for how to design on an XP project. " reusedPackages="{90FB58E1-B403-4358-85D0-BD902528D810} {796EA4CB-0038-43B8-A568-792DCC3B9F22}">
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{AB49377E-B734-45D9-A8AE-906AE216CBC7}" name="xp_designer" guid="{AB49377E-B734-45D9-A8AE-906AE216CBC7}" presentationName="XP Programmer (Designer)" variabilityType="contributes" variabilityBasedOnElement="{08A6AF28-69B1-42DC-A957-2E6CDCB436C1}" conceptsAndPapers="1.6109092258980447E-306 4.884861766532753E-306" responsibleFor="{7C34EE96-C3EA-49FD-A53C-7C113B86AE01}"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="1.6109092258980447E-306" name="simple_design" guid="1.6109092258980447E-306" presentationName="Simple Design">
+              <presentation xmi:id="-0rSxLFlmQfyKrgnqi1NKrg" href="uma://-0rSxLFlmQfyKrgnqi1NKrg#-0rSxLFlmQfyKrgnqi1NKrg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="4.884861766532753E-306" name="metaphor_system_of_names" guid="4.884861766532753E-306" presentationName="Metaphor (System of Names)">
+              <presentation xmi:id="-2OU2wQP_WNWX5zzWzx4ANw" href="uma://-2OU2wQP_WNWX5zzWzx4ANw#-2OU2wQP_WNWX5zzWzx4ANw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{90DBD758-58B8-4383-94DD-312D349512BC}" name="breakdown_story" guid="{90DBD758-58B8-4383-94DD-312D349512BC}" presentationName="Break down Story" performedBy="{AB49377E-B734-45D9-A8AE-906AE216CBC7}" optionalInput="{21946731-4F5C-4862-8B4D-868629952B92}">
+              <presentation xmi:id="-umDp1nFYrMetgnJ-kUMhHw" href="uma://-umDp1nFYrMetgnJ-kUMhHw#-umDp1nFYrMetgnJ-kUMhHw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{23A924D3-5989-40DD-86A9-9D8FCFB8AE52}" name="estimate_user_story" guid="{23A924D3-5989-40DD-86A9-9D8FCFB8AE52}" presentationName="Estimate User Story" performedBy="{AB49377E-B734-45D9-A8AE-906AE216CBC7}" optionalInput="{21946731-4F5C-4862-8B4D-868629952B92}">
+              <presentation xmi:id="-Z9xFd9JTnJuNN5S27p06UQ" href="uma://-Z9xFd9JTnJuNN5S27p06UQ#-Z9xFd9JTnJuNN5S27p06UQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="{7C34EE96-C3EA-49FD-A53C-7C113B86AE01}" name="xp_metaphor" guid="{7C34EE96-C3EA-49FD-A53C-7C113B86AE01}" presentationName="Metaphor (System of Names)" briefDescription="A commonly understood vocabulary describing the significant pieces of the system and their associated relationships.">
+              <presentation xmi:id="-sQUFozEqR3Gpa5PnCjFh9Q" href="uma://-sQUFozEqR3Gpa5PnCjFh9Q#-sQUFozEqR3Gpa5PnCjFh9Q"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="{DBE91BD5-0065-4049-AA61-058C77F1D2A3}" name="xp_integration" guid="{DBE91BD5-0065-4049-AA61-058C77F1D2A3}" briefDescription=" This component provides guidance for integrating and building executables on XP projects. " reusedPackages="{90FB58E1-B403-4358-85D0-BD902528D810} {DBE91BD5-0065-4049-AA61-058C77F1D2A3}">
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{2F4BC5DA-F706-4C38-9D38-6911C7856B10}" name="xp_integrator" guid="{2F4BC5DA-F706-4C38-9D38-6911C7856B10}" presentationName="XP Programmer (Integrator)" variabilityType="contributes" variabilityBasedOnElement="{08A6AF28-69B1-42DC-A957-2E6CDCB436C1}" conceptsAndPapers="3.193414568279561E-305" responsibleFor="{FE89AB1C-E0FE-4E7F-92B4-3FA2A0ED6222}"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="3.193414568279561E-305" name="continuous_integration" guid="3.193414568279561E-305" presentationName="Continuous Integration">
+              <presentation xmi:id="-35rZhRLEVuTVI4280ncN0A" href="uma://-35rZhRLEVuTVI4280ncN0A#-35rZhRLEVuTVI4280ncN0A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{70FEC254-8555-4844-AD82-68367E25F082}" name="integrate_system" guid="{70FEC254-8555-4844-AD82-68367E25F082}" presentationName="Integrate and Build" performedBy="{2F4BC5DA-F706-4C38-9D38-6911C7856B10}" output="{FE89AB1C-E0FE-4E7F-92B4-3FA2A0ED6222}" optionalInput="{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1}">
+              <presentation xmi:id="--tP2hgRfEkZPGYvy1y0GZQ" href="uma://--tP2hgRfEkZPGYvy1y0GZQ#--tP2hgRfEkZPGYvy1y0GZQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="{FE89AB1C-E0FE-4E7F-92B4-3FA2A0ED6222}" name="xp_build" guid="{FE89AB1C-E0FE-4E7F-92B4-3FA2A0ED6222}" presentationName="XP Build" briefDescription="The result of the code integration and building process." variabilityType="extends">
+              <presentation xmi:id="-rphHqeONv59sqZq_6FzE6Q" href="uma://-rphHqeONv59sqZq_6FzE6Q#-rphHqeONv59sqZq_6FzE6Q"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="{8367713C-3AEA-489D-B136-DB87D6340A3F}" name="xp_testing" guid="{8367713C-3AEA-489D-B136-DB87D6340A3F}" briefDescription=" This component provides guidance for testing on XP projects. " reusedPackages="{90FB58E1-B403-4358-85D0-BD902528D810} {8367713C-3AEA-489D-B136-DB87D6340A3F}">
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{9EE5F015-C409-4DD9-91AC-1A87DB833E92}" name="xp_customer_tst" guid="{9EE5F015-C409-4DD9-91AC-1A87DB833E92}" presentationName="XP Customer Test" variabilityType="contributes" variabilityBasedOnElement="{3C90DD4F-CFDB-4111-922D-3B840B8942DE}" conceptsAndPapers="2.297945473205673E-305 3.712584012051524E-306 8.834380241450745E-306" responsibleFor="{DF0EDBC7-4AAD-438D-89AA-64ECFE2416F5}"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="2.297945473205673E-305" name="customer_tests" guid="2.297945473205673E-305" presentationName="Customer Tests">
+              <presentation xmi:id="-oW2j2l-rXqHeWPIgjPpbng" href="uma://-oW2j2l-rXqHeWPIgjPpbng#-oW2j2l-rXqHeWPIgjPpbng"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="3.712584012051524E-306" name="product_quality" guid="3.712584012051524E-306" presentationName="Product Quality">
+              <presentation xmi:id="-nGaswirSOYturOoUWwGdRw" href="uma://-nGaswirSOYturOoUWwGdRw#-nGaswirSOYturOoUWwGdRw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="8.834380241450745E-306" name="test-ideas_list" guid="8.834380241450745E-306" presentationName="Test-Ideas List">
+              <presentation xmi:id="-3i1jvKMUGGmAYPw4dHFbEg" href="uma://-3i1jvKMUGGmAYPw4dHFbEg#-3i1jvKMUGGmAYPw4dHFbEg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{DCDB57BE-4233-4CF8-90CE-70D6808F92B0}" name="define_customer_test" guid="{DCDB57BE-4233-4CF8-90CE-70D6808F92B0}" presentationName="Define Customer Test" guidelines="1.8491691792142673E-308" performedBy="{9EE5F015-C409-4DD9-91AC-1A87DB833E92}" optionalInput="{21946731-4F5C-4862-8B4D-868629952B92}">
+              <presentation xmi:id="-WgE0oiE2yddCOMnfzL25Gw" href="uma://-WgE0oiE2yddCOMnfzL25Gw#-WgE0oiE2yddCOMnfzL25Gw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="1.8491691792142673E-308" name="equivalence_class_analysis" guid="1.8491691792142673E-308" presentationName="Equivalence Class Analysis">
+              <presentation xmi:id="-c7t_eJuo1g5hpWTYTCItig" href="uma://-c7t_eJuo1g5hpWTYTCItig#-c7t_eJuo1g5hpWTYTCItig"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{567EE050-7E62-4B63-8761-4883FF2FFF23}" name="xp_test_analyst" guid="{567EE050-7E62-4B63-8761-4883FF2FFF23}" presentationName="XP Test Analyst" variabilityType="contributes" variabilityBasedOnElement="{3C90DD4F-CFDB-4111-922D-3B840B8942DE}"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{52D6E875-C46B-454B-A39C-CEC21603AF5C}" name="report_acceptance_test_result" guid="{52D6E875-C46B-454B-A39C-CEC21603AF5C}" presentationName="Report Customer Test Result" performedBy="{3C90DD4F-CFDB-4111-922D-3B840B8942DE}" optionalInput="{DF0EDBC7-4AAD-438D-89AA-64ECFE2416F5}">
+              <presentation xmi:id="-p0GGwGNG5O8Dn6O6ZzivIw" href="uma://-p0GGwGNG5O8Dn6O6ZzivIw#-p0GGwGNG5O8Dn6O6ZzivIw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{FB65D00B-8304-4CF7-9969-52CE82F503DC}" name="xp_tester" guid="{FB65D00B-8304-4CF7-9969-52CE82F503DC}" presentationName="XP Tester" briefDescription="The XP Tester role helps the customer define and write acceptance tests for user stories.">
+              <presentation xmi:id="-KfsuH9i0hVMlGV7PVIa3FQ" href="uma://-KfsuH9i0hVMlGV7PVIa3FQ#-KfsuH9i0hVMlGV7PVIa3FQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{E614ED93-AE72-4FD1-B459-C508CE1C536F}" name="automate_acceptance_test" guid="{E614ED93-AE72-4FD1-B459-C508CE1C536F}" presentationName="Automate Customer Test" performedBy="{FB65D00B-8304-4CF7-9969-52CE82F503DC}" output="{DF0EDBC7-4AAD-438D-89AA-64ECFE2416F5}">
+              <presentation xmi:id="-fm-gBePbdl_WMsE5NxEreQ" href="uma://-fm-gBePbdl_WMsE5NxEreQ#-fm-gBePbdl_WMsE5NxEreQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{D4E30732-30D3-4C75-8C69-D2F15313F1A9}" name="run_acceptance_test" guid="{D4E30732-30D3-4C75-8C69-D2F15313F1A9}" presentationName="Run Customer Test" performedBy="{FB65D00B-8304-4CF7-9969-52CE82F503DC}" optionalInput="{DF0EDBC7-4AAD-438D-89AA-64ECFE2416F5}">
+              <presentation xmi:id="-6RyabSc-ZUEtoEKb90BCbg" href="uma://-6RyabSc-ZUEtoEKb90BCbg#-6RyabSc-ZUEtoEKb90BCbg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{B4F9BDCC-629E-485B-9EFA-318F8D5A37BC}" name="setup_tester_environment" guid="{B4F9BDCC-629E-485B-9EFA-318F8D5A37BC}" presentationName="Setup Tester Environment" performedBy="{FB65D00B-8304-4CF7-9969-52CE82F503DC}">
+              <presentation xmi:id="-OPKuXnenD910fJyGKA99aw" href="uma://-OPKuXnenD910fJyGKA99aw#-OPKuXnenD910fJyGKA99aw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="{DF0EDBC7-4AAD-438D-89AA-64ECFE2416F5}" name="xp_customer_test" guid="{DF0EDBC7-4AAD-438D-89AA-64ECFE2416F5}" presentationName="XP Customer Test" briefDescription="Run against the system to verify that a feature has been implemented properly." variabilityType="extends">
+              <presentation xmi:id="-YYMUwBepQ28JU78LtraO3w" href="uma://-YYMUwBepQ28JU78LtraO3w#-YYMUwBepQ28JU78LtraO3w"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="{45A887AB-A968-48AF-8213-4D470DA9DBCC}" name="xp_management" guid="{45A887AB-A968-48AF-8213-4D470DA9DBCC}" briefDescription=" This component provides guidance for managing XP projects. " reusedPackages="{45A887AB-A968-48AF-8213-4D470DA9DBCC} {90FB58E1-B403-4358-85D0-BD902528D810} {BC57C7CE-BFA8-464F-9925-D27A7968B63C}">
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}" name="xp_coach" guid="{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}" presentationName="XP Coach" briefDescription="The XP Coach is a supporting role which helps a team stay on process and help the team learn." variabilityType="extends" conceptsAndPapers="3.133529870649493E-306">
+              <presentation xmi:id="-gAMIwaLmqX7bf6GLCqwB-g" href="uma://-gAMIwaLmqX7bf6GLCqwB-g#-gAMIwaLmqX7bf6GLCqwB-g"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="3.133529870649493E-306" name="xp_sustainable_pace" guid="3.133529870649493E-306" presentationName="Sustainable Pace">
+              <presentation xmi:id="-DoLoZOTPa_LacQ3jUG_lsg" href="uma://-DoLoZOTPa_LacQ3jUG_lsg#-DoLoZOTPa_LacQ3jUG_lsg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{F0D4C205-4A38-42AF-BE87-9A6C0C173E65}" name="adapt_and_improve_process" guid="{F0D4C205-4A38-42AF-BE87-9A6C0C173E65}" presentationName="Adapt and Improve Process" performedBy="{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}">
+              <presentation xmi:id="-u-Svthjtn1xLK2IwVUpk5Q" href="uma://-u-Svthjtn1xLK2IwVUpk5Q#-u-Svthjtn1xLK2IwVUpk5Q"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{1FA31F30-1F90-4BD3-9F0D-57DF66FC6727}" name="explain_process" guid="{1FA31F30-1F90-4BD3-9F0D-57DF66FC6727}" presentationName="Explain Process" performedBy="{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}">
+              <presentation xmi:id="-I3yOxhkbTu3OCbzQ0sUsyA" href="uma://-I3yOxhkbTu3OCbzQ0sUsyA#-I3yOxhkbTu3OCbzQ0sUsyA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{1C4325AC-17DE-4CD0-8AA0-4B210570579F}" name="improve_team_skills" guid="{1C4325AC-17DE-4CD0-8AA0-4B210570579F}" presentationName="Improve Team Skills" performedBy="{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}">
+              <presentation xmi:id="-32JWpciwfc2e7HgQavJDkw" href="uma://-32JWpciwfc2e7HgQavJDkw#-32JWpciwfc2e7HgQavJDkw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{80725BC3-E2BA-4860-8F07-4A34B96FBB2A}" name="keep_process_on_track" guid="{80725BC3-E2BA-4860-8F07-4A34B96FBB2A}" presentationName="Keep Process On Track" performedBy="{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}">
+              <presentation xmi:id="-SH3UFVsPViLT3hOalbaxgA" href="uma://-SH3UFVsPViLT3hOalbaxgA#-SH3UFVsPViLT3hOalbaxgA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{1B23700D-02B0-476F-A3DE-6F63A5407151}" name="resolve_conflicts" guid="{1B23700D-02B0-476F-A3DE-6F63A5407151}" presentationName="Resolve Conflicts" performedBy="{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}">
+              <presentation xmi:id="-L85wOCiwe2O8D8CISEGGGg" href="uma://-L85wOCiwe2O8D8CISEGGGg#-L85wOCiwe2O8D8CISEGGGg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{D8FE277E-4F9A-47EB-855F-C451D601BBAF}" name="xp_tracker" guid="{D8FE277E-4F9A-47EB-855F-C451D601BBAF}" presentationName="XP Tracker" briefDescription="The XP Tracker role measures and communicates the team's progress." variabilityType="extends">
+              <presentation xmi:id="-FIhk4OEzZl2IAVMXurpBLA" href="uma://-FIhk4OEzZl2IAVMXurpBLA#-FIhk4OEzZl2IAVMXurpBLA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{C333BA32-CF6B-4577-9212-302893043EFF}" name="track_story_completion" guid="{C333BA32-CF6B-4577-9212-302893043EFF}" presentationName="Track Release Progress" performedBy="{D8FE277E-4F9A-47EB-855F-C451D601BBAF}" optionalInput="{21946731-4F5C-4862-8B4D-868629952B92}">
+              <presentation xmi:id="-FxF90KOknQ5km30pP0038w" href="uma://-FxF90KOknQ5km30pP0038w#-FxF90KOknQ5km30pP0038w"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{3D22CC4B-ABC4-4CFE-9ACF-C9615E01382C}" name="track_task_completion" guid="{3D22CC4B-ABC4-4CFE-9ACF-C9615E01382C}" presentationName="Track Iteration Progress" performedBy="{D8FE277E-4F9A-47EB-855F-C451D601BBAF}">
+              <presentation xmi:id="-0iRnQW0M9QDTNqWNijBB5A" href="uma://-0iRnQW0M9QDTNqWNijBB5A#-0iRnQW0M9QDTNqWNijBB5A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{9FAAB16A-C7FC-470A-BF2C-7F0951919E3B}" name="xp_customer_man" guid="{9FAAB16A-C7FC-470A-BF2C-7F0951919E3B}" presentationName="XP Customer (Manager)" variabilityType="contributes" variabilityBasedOnElement="{3C90DD4F-CFDB-4111-922D-3B840B8942DE}" conceptsAndPapers="5.762953011420275E-306" responsibleFor="{CA77FBD2-04DD-4010-B2AA-03E1E7C66B0B}"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="5.762953011420275E-306" name="small_releases" guid="5.762953011420275E-306" presentationName="Small Releases">
+              <presentation xmi:id="-vcCn_ksJo5Jw27aNZb1Cvw" href="uma://-vcCn_ksJo5Jw27aNZb1Cvw#-vcCn_ksJo5Jw27aNZb1Cvw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{D755C076-8E63-4A24-89AA-A7D64E368B90}" name="define_release_plan" guid="{D755C076-8E63-4A24-89AA-A7D64E368B90}" presentationName="Define Release" guidelines="6.7335956461328426E-307" performedBy="{9FAAB16A-C7FC-470A-BF2C-7F0951919E3B}" output="{CA77FBD2-04DD-4010-B2AA-03E1E7C66B0B}" optionalInput="{2300FB25-7249-4481-A1BD-978240906832}">
+              <presentation xmi:id="-7gEOFFavlkSqwIoTNrvfJA" href="uma://-7gEOFFavlkSqwIoTNrvfJA#-7gEOFFavlkSqwIoTNrvfJA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="6.7335956461328426E-307" name="planning_game" guid="6.7335956461328426E-307" presentationName="Planning Game">
+              <presentation xmi:id="-85F1Tegv16godTFTKyPdww" href="uma://-85F1Tegv16godTFTKyPdww#-85F1Tegv16godTFTKyPdww"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{ED94150E-EE14-47BF-97F5-F1EC7130EEEC}" name="report_project_status" guid="{ED94150E-EE14-47BF-97F5-F1EC7130EEEC}" presentationName="Report Project Status" performedBy="{9FAAB16A-C7FC-470A-BF2C-7F0951919E3B}">
+              <presentation xmi:id="-WOPGmKUuYbvVeVHp0sgEgw" href="uma://-WOPGmKUuYbvVeVHp0sgEgw#-WOPGmKUuYbvVeVHp0sgEgw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{653F1EF4-2BE5-4CCB-80E7-17CE02B081DC}" name="update_iteration_plan" guid="{653F1EF4-2BE5-4CCB-80E7-17CE02B081DC}" presentationName="Adjust Iteration Scope" guidelines="6.7335956461328426E-307" performedBy="{9FAAB16A-C7FC-470A-BF2C-7F0951919E3B}" output="{DC18E34B-70C1-403D-84CC-1BF117A7473D}" optionalInput="{DC18E34B-70C1-403D-84CC-1BF117A7473D}">
+              <presentation xmi:id="-cU3MzukpGPAtw0wSS23R-g" href="uma://-cU3MzukpGPAtw0wSS23R-g#-cU3MzukpGPAtw0wSS23R-g"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{18BF87E6-5849-4091-AFE2-FC4F0C3887B1}" name="update_release_plan" guid="{18BF87E6-5849-4091-AFE2-FC4F0C3887B1}" presentationName="Revise Release Plan" guidelines="6.7335956461328426E-307" performedBy="{9FAAB16A-C7FC-470A-BF2C-7F0951919E3B}" output="{CA77FBD2-04DD-4010-B2AA-03E1E7C66B0B}" optionalInput="{CA77FBD2-04DD-4010-B2AA-03E1E7C66B0B}">
+              <presentation xmi:id="-YO16TebjP7U0gkcYg7OY_A" href="uma://-YO16TebjP7U0gkcYg7OY_A#-YO16TebjP7U0gkcYg7OY_A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="{CA77FBD2-04DD-4010-B2AA-03E1E7C66B0B}" name="xp_release_plan" guid="{CA77FBD2-04DD-4010-B2AA-03E1E7C66B0B}" presentationName="XP Release Plan" briefDescription="A list of prioritized user stories that will be implemented in the coming release(s)." variabilityType="extends">
+              <presentation xmi:id="-mMZ9KUhiFwBbzSFjq_tO4A" href="uma://-mMZ9KUhiFwBbzSFjq_tO4A#-mMZ9KUhiFwBbzSFjq_tO4A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{0CB3C507-AFEE-4DA8-982B-9B93C8729910}" name="xp_system_administrator" guid="{0CB3C507-AFEE-4DA8-982B-9B93C8729910}" presentationName="XP Programmer (Administrator)" briefDescription="The XP Programmer (Administrator) is responsible for managing the programmer environment." variabilityType="extends">
+              <presentation xmi:id="-23MZj6vLVbgbkXaptH4riQ" href="uma://-23MZj6vLVbgbkXaptH4riQ#-23MZj6vLVbgbkXaptH4riQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{D3AA9FEE-AAD9-4884-BF71-425E122110A7}" name="setup_programmer_environment" guid="{D3AA9FEE-AAD9-4884-BF71-425E122110A7}" presentationName="Setup Programmer Environment" guidelines="3.754748120034442E-307" performedBy="{0CB3C507-AFEE-4DA8-982B-9B93C8729910}">
+              <presentation xmi:id="-1rVEQRCvrcicCdhpuuIZ8w" href="uma://-1rVEQRCvrcicCdhpuuIZ8w#-1rVEQRCvrcicCdhpuuIZ8w"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="3.754748120034442E-307" name="xp_environment" guid="3.754748120034442E-307" presentationName="XP Environment">
+              <presentation xmi:id="-OuWRQbxXBGWox8SgcCr6sQ" href="uma://-OuWRQbxXBGWox8SgcCr6sQ#-OuWRQbxXBGWox8SgcCr6sQ"/>
+            </contentElements>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{3C90DD4F-CFDB-4111-922D-3B840B8942DE}" name="xp_customer" guid="{3C90DD4F-CFDB-4111-922D-3B840B8942DE}" presentationName="XP Customer" briefDescription="The XP Customer role has the responsibility of defining what is the right product to build, determining the order in which features will be built, and making sure the product actually works." conceptsAndPapers="2.7371805612676613E-305" responsibleFor="{DC18E34B-70C1-403D-84CC-1BF117A7473D} {21946731-4F5C-4862-8B4D-868629952B92}">
+            <presentation xmi:id="-92rjXjWhll5LOtPc58YERg" href="uma://-92rjXjWhll5LOtPc58YERg#-92rjXjWhll5LOtPc58YERg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="2.7371805612676613E-305" name="planning_game" guid="2.7371805612676613E-305" presentationName="Planning Game">
+            <presentation xmi:id="-CPHs6R59_druVDY6nRjHEw" href="uma://-CPHs6R59_druVDY6nRjHEw#-CPHs6R59_druVDY6nRjHEw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{849E3635-6FCD-4FAD-A007-CA34B9998622}" name="define_iteration_plan" guid="{849E3635-6FCD-4FAD-A007-CA34B9998622}" presentationName="Define Iteration" guidelines="6.7335956461328426E-307" performedBy="{3C90DD4F-CFDB-4111-922D-3B840B8942DE}" output="{DC18E34B-70C1-403D-84CC-1BF117A7473D}" optionalInput="{CA77FBD2-04DD-4010-B2AA-03E1E7C66B0B}">
+            <presentation xmi:id="-BWG5zUGb8c25kuLJ3ck8ng" href="uma://-BWG5zUGb8c25kuLJ3ck8ng#-BWG5zUGb8c25kuLJ3ck8ng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{62CFC55C-3151-46CB-8886-F3DBD552ABC4}" name="write_user_story" guid="{62CFC55C-3151-46CB-8886-F3DBD552ABC4}" presentationName="Write User Story" performedBy="{3C90DD4F-CFDB-4111-922D-3B840B8942DE}" output="{21946731-4F5C-4862-8B4D-868629952B92}" optionalInput="{2300FB25-7249-4481-A1BD-978240906832}">
+            <presentation xmi:id="-cqTu_uwmZrF3sFspx465XQ" href="uma://-cqTu_uwmZrF3sFspx465XQ#-cqTu_uwmZrF3sFspx465XQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="{DC18E34B-70C1-403D-84CC-1BF117A7473D}" name="xp_iteration_plan" guid="{DC18E34B-70C1-403D-84CC-1BF117A7473D}" presentationName="XP Iteration Plan" briefDescription="Essentially a list of user stories and engineering tasks that will be worked on in the current iteration." variabilityType="extends">
+            <presentation xmi:id="-45BLJONIjGn7h4z87VXqHQ" href="uma://-45BLJONIjGn7h4z87VXqHQ#-45BLJONIjGn7h4z87VXqHQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1}" name="xp_production_code" guid="{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1}" presentationName="Production Code" briefDescription="The executable specification of the system being built." variabilityType="extends" conceptsAndPapers="9.300699588493279E-306 1.620567348185129E-306">
+            <presentation xmi:id="-f1cDEBpC5wbDTQ9ru9UbLw" href="uma://-f1cDEBpC5wbDTQ9ru9UbLw#-f1cDEBpC5wbDTQ9ru9UbLw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="9.300699588493279E-306" name="collective_ownership" guid="9.300699588493279E-306" presentationName="Collective Ownership">
+            <presentation xmi:id="-YP0i7TC6QNgemddcj1iE7g" href="uma://-YP0i7TC6QNgemddcj1iE7g#-YP0i7TC6QNgemddcj1iE7g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="1.620567348185129E-306" name="test_driven_development" guid="1.620567348185129E-306" presentationName="Test Driven Development">
+            <presentation xmi:id="-yaD6WKGdrZ0n0yBSpwPr4g" href="uma://-yaD6WKGdrZ0n0yBSpwPr4g#-yaD6WKGdrZ0n0yBSpwPr4g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="{08A6AF28-69B1-42DC-A957-2E6CDCB436C1}" name="xp_programmer" guid="{08A6AF28-69B1-42DC-A957-2E6CDCB436C1}" presentationName="XP Programmer" briefDescription="The XP Programmer is responsible for implementing the code to support the user stories." conceptsAndPapers="1.620567348185129E-306 9.300699588493279E-306 4.085829182735815E-305 6.556259235358794E-306 8.834380241450745E-306 1.2384224477983028E-305 7.290386721197834E-306 6.334658646686929E-306" responsibleFor="{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1} {D156652E-7C52-4EBD-8F23-F38169877A57}">
+            <presentation xmi:id="-RoFHDUeLz4UFKDuFirQp3g" href="uma://-RoFHDUeLz4UFKDuFirQp3g#-RoFHDUeLz4UFKDuFirQp3g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="4.085829182735815E-305" name="developer_testing" guid="4.085829182735815E-305" presentationName="Developer Testing">
+            <presentation xmi:id="-aJBLg1aguP1bIWvQbJSd6w" href="uma://-aJBLg1aguP1bIWvQbJSd6w#-aJBLg1aguP1bIWvQbJSd6w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="6.556259235358794E-306" name="test-first_design" guid="6.556259235358794E-306" presentationName="Test-first Design">
+            <presentation xmi:id="-3AbfvnHrCOIQS63sEjrOew" href="uma://-3AbfvnHrCOIQS63sEjrOew#-3AbfvnHrCOIQS63sEjrOew"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="1.2384224477983028E-305" name="test-ideas_catalog" guid="1.2384224477983028E-305" presentationName="Test-Ideas Catalog">
+            <presentation xmi:id="-OrjIrRLW6v_XnqLUQ9GYaQ" href="uma://-OrjIrRLW6v_XnqLUQ9GYaQ#-OrjIrRLW6v_XnqLUQ9GYaQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Whitepaper" xmi:id="7.290386721197834E-306" name="xp_guidelines_pair_programming" guid="7.290386721197834E-306" presentationName="XP Guidelines: Pair Programming">
+            <presentation xmi:id="-Ymu8T1hQ_QoxCaNAQhD9AA" href="uma://-Ymu8T1hQ_QoxCaNAQhD9AA#-Ymu8T1hQ_QoxCaNAQhD9AA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Whitepaper" xmi:id="6.334658646686929E-306" name="xp_guidelines_test-first_design_and_refactoring" guid="6.334658646686929E-306" presentationName="XP Guidelines: Test-first Design and Refactoring">
+            <presentation xmi:id="-_AgYWcSlbVBZOVcQfJuBnQ" href="uma://-_AgYWcSlbVBZOVcQfJuBnQ#-_AgYWcSlbVBZOVcQfJuBnQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="{8F6CB99A-D2EA-44BB-8CE5-F97220D44088}" name="write_code" guid="{8F6CB99A-D2EA-44BB-8CE5-F97220D44088}" presentationName="Write Code" guidelines="3.9254165491375454E-306 3.85153041801319E-307 8.5657170364036E-306 1.0347051690476123E-305 1.7150344523489172E-305" examples="6.216049252606417E-306" performedBy="{08A6AF28-69B1-42DC-A957-2E6CDCB436C1}" output="{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1}" optionalInput="{1D7E042C-B29E-4169-8DF3-37DE0A5F64ED} {DC18E34B-70C1-403D-84CC-1BF117A7473D} {7C34EE96-C3EA-49FD-A53C-7C113B86AE01}">
+            <presentation xmi:id="-kNZQ2Mr_nyfmCboprjMNTg" href="uma://-kNZQ2Mr_nyfmCboprjMNTg#-kNZQ2Mr_nyfmCboprjMNTg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="3.9254165491375454E-306" name="test_driven_development_tdd" guid="3.9254165491375454E-306" presentationName="Test Driven Development (TDD)">
+            <presentation xmi:id="-jc10ie6UDWUJzSDfsQExjw" href="uma://-jc10ie6UDWUJzSDfsQExjw#-jc10ie6UDWUJzSDfsQExjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="8.5657170364036E-306" name="test_ideas_for_method_calls" guid="8.5657170364036E-306" presentationName="Test Ideas for Method Calls">
+            <presentation xmi:id="-nwZMQTZtIwI5weh9c_HoYA" href="uma://-nwZMQTZtIwI5weh9c_HoYA#-nwZMQTZtIwI5weh9c_HoYA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="1.0347051690476123E-305" name="test_ideas_for_statechart_and_flow_diagrams" guid="1.0347051690476123E-305" presentationName="Test Ideas for Statechart and Flow Diagrams">
+            <presentation xmi:id="-60dp5lxFJEpUarhchGCnHw" href="uma://-60dp5lxFJEpUarhchGCnHw#-60dp5lxFJEpUarhchGCnHw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="1.7150344523489172E-305" name="test_ideas_for_booleans_and_boundaries" guid="1.7150344523489172E-305" presentationName="Test Ideas for Booleans and Boundaries">
+            <presentation xmi:id="-FX8hDYUKOXsrQulFe9lwtw" href="uma://-FX8hDYUKOXsrQulFe9lwtw#-FX8hDYUKOXsrQulFe9lwtw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="{21946731-4F5C-4862-8B4D-868629952B92}" name="xp_user_story" guid="{21946731-4F5C-4862-8B4D-868629952B92}" presentationName="User Story" briefDescription="A brief description of some functionality provided by the system from the point of view of a user of that system." variabilityType="extends">
+            <presentation xmi:id="-rtY57MTVQrEcfTKwD3-Wvw" href="uma://-rtY57MTVQrEcfTKwD3-Wvw#-rtY57MTVQrEcfTKwD3-Wvw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="{D156652E-7C52-4EBD-8F23-F38169877A57}" name="xp_unit_test" guid="{D156652E-7C52-4EBD-8F23-F38169877A57}" presentationName="XP Unit Test" briefDescription="Used to ensure that a specific functionality of a component of the system is working properly." conceptsAndPapers="1.620567348185129E-306 4.085829182735815E-305 6.556259235358794E-306" guidelines="8.5657170364036E-306 1.0347051690476123E-305 1.7150344523489172E-305 1.8491691792142673E-308" examples="6.216049252606417E-306">
+            <presentation xmi:id="-dwfXb2dWJOQkTuLo-BTFeQ" href="uma://-dwfXb2dWJOQkTuLo-BTFeQ#-dwfXb2dWJOQkTuLo-BTFeQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_ycm9gGZBEdqvwYzpSSc2Nw" name="sustainable_pace" guid="_ycm9gGZBEdqvwYzpSSc2Nw" presentationName="Sustainable Pace" contentReferences="3.133529870649493E-306">
+            <presentation xmi:id="-AS84xtg2NOXfrqA6eVRzMQ" href="uma://-AS84xtg2NOXfrqA6eVRzMQ#-AS84xtg2NOXfrqA6eVRzMQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ms9igWE-EdqnIZeW8YpHcA" name="xp_basic_concepts" guid="_ms9igWE-EdqnIZeW8YpHcA" reusedPackages="{90FB58E1-B403-4358-85D0-BD902528D810} {01E73AC7-B8D8-4B2F-8B29-A28D9813DB6C} _ms9igWE-EdqnIZeW8YpHcA {45A887AB-A968-48AF-8213-4D470DA9DBCC}">
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="9.251272550276345E-306" name="what_is_xp" guid="9.251272550276345E-306" presentationName="What is XP?">
+            <presentation xmi:id="-nO38_JQ9G3FQvNlAT5Agqg" href="uma://-nO38_JQ9G3FQvNlAT5Agqg#-nO38_JQ9G3FQvNlAT5Agqg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="1.6390805262958034E-306" name="motivation" guid="1.6390805262958034E-306" presentationName="motivation">
+            <presentation xmi:id="-nIpFvBhY9WogqrEQv4NknQ" href="uma://-nIpFvBhY9WogqrEQv4NknQ#-nIpFvBhY9WogqrEQv4NknQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="1.041091673844025E-305" name="agile_software_development" guid="1.041091673844025E-305" presentationName="Agile Software Development">
+            <presentation xmi:id="-EHSlFv7Gla5oCPGBiaZKow" href="uma://-EHSlFv7Gla5oCPGBiaZKow#-EHSlFv7Gla5oCPGBiaZKow"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="1.076140803519123E-306" name="xp_values" guid="1.076140803519123E-306" presentationName="XP Values">
+            <presentation xmi:id="-pA6XLJKgRiwDTEp_qMlQ9g" href="uma://-pA6XLJKgRiwDTEp_qMlQ9g#-pA6XLJKgRiwDTEp_qMlQ9g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="2.2937799026801584E-305" name="xp_practices" guid="2.2937799026801584E-305" presentationName="XP Practices">
+            <presentation xmi:id="-24MPC2FhJbx7Fr0F6QEq8A" href="uma://-24MPC2FhJbx7Fr0F6QEq8A#-24MPC2FhJbx7Fr0F6QEq8A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="3.036332011267074E-306" name="xp_rights" guid="3.036332011267074E-306" presentationName="XP Rights">
+            <presentation xmi:id="-vEvfeoyYAPDr-jfyX2QLww" href="uma://-vEvfeoyYAPDr-jfyX2QLww#-vEvfeoyYAPDr-jfyX2QLww"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="5.2637267673584526E-306" name="extreme_programming" guid="5.2637267673584526E-306" presentationName="Extreme Programming">
+            <presentation xmi:id="-27sE-swoOUGtar9a0f3RPw" href="uma://-27sE-swoOUGtar9a0f3RPw#-27sE-swoOUGtar9a0f3RPw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="3.269440809144354E-305" name="open_workspace" guid="3.269440809144354E-305" presentationName="Open Workspace">
+            <presentation xmi:id="-mq7aEjHjqWoRd6aWFK_Dwg" href="uma://-mq7aEjHjqWoRd6aWFK_Dwg#-mq7aEjHjqWoRd6aWFK_Dwg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="6.191633934532389E-306" name="xp_and_agile_process_references" guid="6.191633934532389E-306" presentationName="XP and Agile Process References">
+            <presentation xmi:id="-8UKMv929ysWDBF1IOAAgsg" href="uma://-8UKMv929ysWDBF1IOAAgsg#-8UKMv929ysWDBF1IOAAgsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="8.608243854485154E-306" name="xp_developer_team" guid="8.608243854485154E-306" presentationName="XP Developer Team">
+            <presentation xmi:id="-_11Y5NHJcC5lkqB4CeSpbg" href="uma://-_11Y5NHJcC5lkqB4CeSpbg#-_11Y5NHJcC5lkqB4CeSpbg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="2.9889538140050517E-306" name="xp_customer_team" guid="2.9889538140050517E-306" presentationName="XP Customer Team">
+            <presentation xmi:id="-mZMamrTcnR6xoZgvw9XU-A" href="uma://-mZMamrTcnR6xoZgvw9XU-A#-mZMamrTcnR6xoZgvw9XU-A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="1.545655831828372E-305" name="xp_artifacts" guid="1.545655831828372E-305" presentationName="XP Artifacts">
+            <presentation xmi:id="-O3LVBobhzFRt-5bytDkqqQ" href="uma://-O3LVBobhzFRt-5bytDkqqQ#-O3LVBobhzFRt-5bytDkqqQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="7.89591827591278E-306" name="whole_team" guid="7.89591827591278E-306" presentationName="Whole Team">
+            <presentation xmi:id="-uqrgrFY-74R1FijPLvcXoQ" href="uma://-uqrgrFY-74R1FijPLvcXoQ#-uqrgrFY-74R1FijPLvcXoQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="5.613949040902463E-308" name="xp_organization" guid="5.613949040902463E-308" presentationName="XP Organization">
+            <presentation xmi:id="-2nINowSo0VedqZTd4LIZIg" href="uma://-2nINowSo0VedqZTd4LIZIg#-2nINowSo0VedqZTd4LIZIg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="1.2284921351651456E-304" name="getting_started_with_xp" guid="1.2284921351651456E-304" presentationName="Getting Started with XP">
+            <presentation xmi:id="-PCk5_o83KYiPZaKUzt021A" href="uma://-PCk5_o83KYiPZaKUzt021A#-PCk5_o83KYiPZaKUzt021A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_XI5PQHEPEdug-a-RuUM3Hg" name="xp_copyright" guid="_XI5PQHEPEdug-a-RuUM3Hg" presentationName="XP Plug-in Copyright" shapeicon="guidances/supportingmaterials/resources/CRsym_obj.gif" nodeicon="guidances/supportingmaterials/resources/CRsym_obj.gif">
+            <presentation xmi:id="-31JQsY6FjFegmq-JJZdndg" href="uma://-31JQsY6FjFegmq-JJZdndg#-31JQsY6FjFegmq-JJZdndg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_mhU6TGE-EdqnIZeW8YpHcA" name="CapabilityPatterns" guid="_mhU6TGE-EdqnIZeW8YpHcA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_mhU6TWE-EdqnIZeW8YpHcA" name="DeliveryProcesses" guid="_mhU6TWE-EdqnIZeW8YpHcA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_mhU6TmE-EdqnIZeW8YpHcA" name="ProcessContributions" guid="_mhU6TmE-EdqnIZeW8YpHcA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_fPbdIKe2Edmzde8VFK5bxg" name="plan_the_project,_0lC70MlgEdmt3adZL5Dmdw" guid="_fPbdIKe2Edmzde8VFK5bxg" changeDate="2007-04-12T14:51:12.011-0400" version="1.0.0">
+  <mainDescription>Developing the project plan provides an opportunity for the team to agree on project scope, objectives, initial timeframe,&#xD;
+&#xD;
+and deliverables. It allows the team to begin demonstrating self-organization by defining success criteria and work&#xD;
+&#xD;
+practices to be used. Collaboration and consensus by all key project participants is the goal, but the project manager has&#xD;
+&#xD;
+ultimate responsibility for ensuring that everybody is committed to the plan.</mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+&#xD;
+    Gain agreement with stakeholders and the rest of the project team regarding the order of objectives and the duration of&#xD;
+&#xD;
+    the project and make adjustments as&amp;nbsp;necessary.&#xD;
+&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_JLWeYOeUEdusqr8cJFUf_w" name="Establish a cohesive team" guid="_JLWeYOeUEdusqr8cJFUf_w">
+    <sectionDescription>Project planning, even at the summary level, should not be done in isolation since it outlines what the project will&#xD;
+deliver and how. The team starts by discussing who plays which roles and agrees on their responsibilities. The project&#xD;
+manager needs to make sure that staffing is made in accordance with the project's interests and that every necessary role&#xD;
+is covered.</sectionDescription>
+  </sections>
+  <sections xmi:id="_oQ7PQOeUEdusqr8cJFUf_w" name="Determine project size and scope" guid="_oQ7PQOeUEdusqr8cJFUf_w">
+    <sectionDescription>&lt;p>&#xD;
+    The&amp;nbsp;team produces rough size estimates for each item&amp;nbsp; in the &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../openup/workproducts/work_items_list.html&quot; guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>Artifact: Work Items&#xD;
+    List&lt;/a>&amp;nbsp;(see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/agile_estimation.html&quot;&#xD;
+    guid=&quot;_CGHskBEdEdqY7JB6N6CW2w&quot;>Guideline: Agile Estimation&lt;/a>).&amp;nbsp; Considering product &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../openup/workproducts/vision.html&quot; guid=&quot;_0WVxcMlgEdmt3adZL5Dmdw&quot;>Vision&lt;/a>, the estimates will be used&#xD;
+    for discussing with the stakeholders priorities for what seems realistic to develop within the constraints of the&#xD;
+    project.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If the project is feature-driven, the team looks at how many people they would need to complete these work items, which&#xD;
+    gives them a high level understanding of project duration, staffing profile, and scope.&amp;nbsp;If the project instead is&#xD;
+    date-driven, the team assesses how much work can roughly be done in the time-frame given and using the available team.&#xD;
+    Out-of-scope work can be considered in future releases.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_pzgcUOeUEdusqr8cJFUf_w" name="Evaluate risks" guid="_pzgcUOeUEdusqr8cJFUf_w">
+    <sectionDescription>&lt;p>&#xD;
+    The team identifies project risks, performs a qualitative risk analysis to assess their order of magnitude, and updates&#xD;
+    the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/risk_list.html&quot;&#xD;
+    guid=&quot;_Ckay8Cc_EduIsqH1Q6ZuqA&quot;>Artifact: Risk List&lt;/a>. The project manager facilitates the team decision about which&#xD;
+    risks they should respond to, and which risks they should watch for.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Responses may include avoiding or mitigating risks, exploring opportunities or increasing the probability and positive&#xD;
+    impacts of the risk. Depending on the case, work items may have to be added or removed from the Work Items List to make&#xD;
+    sure that responses will be prioritized and handled by the team along with project work. As it is not feasible to plan&#xD;
+    responses for all risks identified, the team can decide to accept some of them. Risks to watch will be communicated to&#xD;
+    stakeholders and remain on the Risk List and actions will be determined only if they occur.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_sWzfgOeUEdusqr8cJFUf_w" name="Outline project lifecycle" guid="_sWzfgOeUEdusqr8cJFUf_w">
+    <sectionDescription>&lt;p>&#xD;
+    Define the iteration length and use it to assess target velocity (see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../openup/guidances/guidelines/agile_estimation.html&quot; guid=&quot;_CGHskBEdEdqY7JB6N6CW2w&quot;>Guideline: Agile&#xD;
+    Estimation&lt;/a>). The number of items to be delivered in each iteration will be set by the velocity of the team and the&#xD;
+    estimates for each item. The team uses the Work Items List to outline what features to implement in what iteration,&#xD;
+    putting top priority work items first, including planned responses to the higher risks or opportunities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    OpenUP organizes iterations into a set of phases. Each phase in the project lifecycle will end with a milestone aimed&#xD;
+    at providing stakeholders with&amp;nbsp;oversight and steering mechanisms to control project funding, scope, risk exposure,&#xD;
+    value provided, and other aspects of the process (see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../openup/guidances/concepts/project_lifecycle.html&quot; guid=&quot;_nSfVwCNYEdyCq8v2ZO4QcA&quot;>Concept: Project&#xD;
+    Lifecycle&lt;/a>)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    You don't need to spend too much time in doing this planning. The Project plan should document only&amp;nbsp;&amp;nbsp;a brief&#xD;
+    summary of&amp;nbsp; project milestones&amp;nbsp;and 1-3 objectives for each iteration. Do not commit individual work items to&#xD;
+    the plan, since this will force too much re-planning. The goal is just to create a high-level plan outlining&#xD;
+    how&amp;nbsp;the team&amp;nbsp;can build the resulting application in the given set of iterations. Extra level of detail will&#xD;
+    be achieved in other planning sessions throughout the project (see &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../openup/tasks/plan_iteration.html&quot; guid=&quot;_0keUEMlgEdmt3adZL5Dmdw&quot;>Task: Plan Iteration&lt;/a>). You may need&#xD;
+    to revisit&amp;nbsp;this plan&amp;nbsp;later to adap it based on what you will learn&amp;nbsp;by&amp;nbsp;running&amp;nbsp;the iterations&#xD;
+    (see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/iteration_plan.html&quot;&#xD;
+    guid=&quot;_0aQBEslgEdmt3adZL5Dmdw&quot;>Artifact: Iteration Plan&lt;/a>&amp;nbsp;from previous iterations).&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_rGkmsOeUEdusqr8cJFUf_w" name="Establish costs and articulate value" guid="_rGkmsOeUEdusqr8cJFUf_w">
+    <sectionDescription>&lt;p>&#xD;
+    Develop a rough order of magnitude estimate for the costs of resources needed to complete project work items.&amp;nbsp; A&#xD;
+    simplified project costing model&amp;nbsp;can be&amp;nbsp;applied by&amp;nbsp;multiplying the approximate cost per person for the&#xD;
+    entire team by the length of an iteration to derive ongoing financial impact (i.e., cost per iteration). This first&#xD;
+    round of planning should keep things very rough and flexible. The goal is just to articulate value against the budget&#xD;
+    constraints of the project and help stakeholders to decide whether it's worth moving forward with the project or not.&#xD;
+    If necessary propose options to decrease costs, such as removing from the scope low value and high cost work items.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_tuymIOeUEdusqr8cJFUf_w" name="Plan deployment" guid="_tuymIOeUEdusqr8cJFUf_w">
+    <sectionDescription>Plan the strategy for deploying the software (and its updates) into the production environment. Discuss release timeframe&#xD;
+with the operations and support departments to ensure that your project fits into your overall corporate deployment system.&#xD;
+If you are replacing an existing system, decide whether you will run the new system in parallel with it or you will perform&#xD;
+a cutover. You may also have to negotiate with the owners of the systems that the new system has dependencies on. Update&#xD;
+the Work Items List with additional work that may be needed for deployment. Add significant deployment risks to the Risk&#xD;
+List and, if necessary, make adjustments to the Project Plan.</sectionDescription>
+  </sections>
+  <purpose>Get stakeholder buy-in for starting the project and team commitment to move forward with it. This plan can be updated along&#xD;
+&#xD;
+the project based on feedback and changes in the environment.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

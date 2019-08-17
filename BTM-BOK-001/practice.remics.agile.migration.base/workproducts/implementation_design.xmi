@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I5VWNdmBOSx2o7eN1QgNWg" name="new_artifact,_TI4fQApUEeOBM7QWB5hbCw" guid="-I5VWNdmBOSx2o7eN1QgNWg" changeDate="2013-08-21T07:52:06.846-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Implementation Design&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the low level design of the components that will be the final refiment before the PSM transformation&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

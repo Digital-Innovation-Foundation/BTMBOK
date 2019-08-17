@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-hQxyad8-X_9TBBrvuim7Jg" name="new_artifact,_30kjcEMpEeShYIpiBstbOQ" guid="-hQxyad8-X_9TBBrvuim7Jg" changeDate="2015-02-11T12:34:35.425-0500" version="2.0">
+  <mainDescription>A Business Rule defines an actionable rule that the system being modeled needs to support. It is a declaration of policy or&#xD;
+a condition that must be satisfied. Business Rules govern the actions and functions within Business Activities, the path&#xD;
+taken and tasks performed when following a process for example. They also specify other policy such as access control rules&#xD;
+among many others</mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    Business Rules define the constraints and regulations that govern the enterprises tasks, activities and processes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Rule&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Constraint&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Rule.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>rule: string&amp;nbsp;&lt;/strong>- The Business Rule definition&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>type: string&lt;/strong>&amp;nbsp;- Defines the type of business rule (from &lt;a&#xD;
+        href=&quot;http://www.ronross.info/blog/category/business-rules/&quot; target=&quot;_blank&quot;>Ronald Ross&lt;/a>): &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Term&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Fact&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Constraint&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Derivation.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned operations;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned behaviors;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        May only have relationships with Business Events, Business Activities or Business Entities.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

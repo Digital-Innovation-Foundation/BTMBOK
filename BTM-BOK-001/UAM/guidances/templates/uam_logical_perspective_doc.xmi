@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-bsirYdpUU3HRN4t4dMN5Vw" name="uam_logical_perspective_doc,_BFmegPOOEdyIELoltz1wKA" guid="-bsirYdpUU3HRN4t4dMN5Vw" changeDate="2015-11-30T16:27:55.774-0500" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    UAM IT architectures are published as an integrated web site, as can be gathered from looking at the &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../../UAM/customcategories/uam_examples_view_8972F3FE.html&quot;&#xD;
+    guid=&quot;_LVNzcLvYEeKBoecYDPr3dQ&quot;>UAM Examples&lt;/a>. On occasion&amp;nbsp;a document (report) is desirable, which this report&#xD;
+    template provides. See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/reports/uam_logical_perspective_E9A3B3FF.html&quot; guid=&quot;_-qM8AKiWEeS8vLSVufajPQ&quot;>Report:&#xD;
+    Logical Perspective Report&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Various formats are provided below: Microsoft Word (.dotx and .dot), PDF (.pdf) and Open XML Paper Specification&#xD;
+    (.xps).&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/Logical-Perspective.pdf|resources/Logical-Perspective.dot|resources/Logical-Perspective.dotx|resources/Logical-Perspective.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

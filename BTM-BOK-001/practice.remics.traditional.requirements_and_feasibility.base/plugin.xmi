@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MLTGsMCTEemv0a6P8REMBA" guid="_MLTGsMCTEemv0a6P8REMBA">
+    <subManagers xmi:id="_MLq6IMCTEemv0a6P8REMBA" href="uma://_eqI20MvnEeCphdH9-OcbCA#_MLq6IMCTEemv0a6P8REMBA"/>
+    <resourceDescriptors xmi:id="_MLTtwMCTEemv0a6P8REMBA" id="-m91h2-zxzCyIi8cn7fbNmA" uri="tasks/describe_the_system.xmi"/>
+    <resourceDescriptors xmi:id="_MLX_MMCTEemv0a6P8REMBA" id="-sFRA6sApD0V2DoLDRQ2QLg" uri="tasks/identify_actors.xmi"/>
+    <resourceDescriptors xmi:id="_MLbCgMCTEemv0a6P8REMBA" id="-XOq91-q-cnB_V8dJ1vJljw" uri="tasks/identify_additional_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_MLeF0MCTEemv0a6P8REMBA" id="-d_J9Q977gPDGSF7sj1LY1w" uri="tasks/elaborate_glossary.xmi"/>
+    <resourceDescriptors xmi:id="_MLgiEMCTEemv0a6P8REMBA" id="-63cdZqLPsAVQAiDXa1kxIQ" uri="tasks/establish_validation_criteria.xmi"/>
+    <resourceDescriptors xmi:id="_MLi-UMCTEemv0a6P8REMBA" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/requirements_and_feasibility.xmi"/>
+    <resourceDescriptors xmi:id="_MLnPwMCTEemv0a6P8REMBA" id="-Q4FlCTipRTiuL1M_i2F72w" uri="tasks/apply_techniques_to_evaluate_feasibility.xmi"/>
+    <resourceDescriptors xmi:id="_MLqTEMCTEemv0a6P8REMBA" id="_eqI20MvnEeCphdH9-OcbCA" uri="capabilitypatterns/Requirements/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_eYseUMvjEeCphdH9-OcbCA" name="practice.remics.traditional.requirements_and_feasibility.base" guid="_eYseUMvjEeCphdH9-OcbCA" presentationName="Requirements and Feasibility" briefDescription="The purpose of the requirements activity area is to gather the additional requirements for the migrated system, and to identify the main components of the solution and their implementation strategy. The purpose is not an exhaustive description of all requirements of the objective system, but the description of the requirements that will require development effort and will be used as a basis for the validation of the system. In this initial requirement elicitation process it is also not necessary to focus on those requirements that will come up from the systematic analysis of the legacy. This affects mainly the requirements of components that are going to be reengineered, requirements that will appear during the recover activities through the application of migration tools." changeDate="2013-01-11T07:19:26.391-0500">
+    <methodElementProperty xmi:id="_MLKj0MCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseUcvjEeCphdH9-OcbCA" name="Content" guid="_eYseUcvjEeCphdH9-OcbCA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseUsvjEeCphdH9-OcbCA" name="Categories" guid="_eYseUsvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseU8vjEeCphdH9-OcbCA" name="Domains" guid="_eYseU8vjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseVMvjEeCphdH9-OcbCA" name="Disciplines" guid="_eYseVMvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseVcvjEeCphdH9-OcbCA" name="RoleSets" guid="_eYseVcvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseVsvjEeCphdH9-OcbCA" name="WP Types" guid="_eYseVsvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseV8vjEeCphdH9-OcbCA" name="Tools" guid="_eYseV8vjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseWMvjEeCphdH9-OcbCA" name="StandardCategories" guid="_eYseWMvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseWcvjEeCphdH9-OcbCA" name="CustomCategories" guid="_eYseWcvjEeCphdH9-OcbCA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseWsvjEeCphdH9-OcbCA" name="Hidden" guid="_eYseWsvjEeCphdH9-OcbCA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_eYseW8vjEeCphdH9-OcbCA" name="Custom Categories" guid="_eYseW8vjEeCphdH9-OcbCA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eYseXMvjEeCphdH9-OcbCA" name="CoreContent" guid="_eYseXMvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hlCMkMvlEeCphdH9-OcbCA" name="requirements_and_feasibility" guid="_hlCMkMvlEeCphdH9-OcbCA" presentationName="Requirements" briefDescription="It contains the activities related with the definition of the migrated system and the especification of the additional requirements to be included in the final solution.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pFbb4MvlEeCphdH9-OcbCA" name="describe_the_system" guid="_pFbb4MvlEeCphdH9-OcbCA" presentationName="Describe the system" briefDescription="A preliminary description is necessary, so with the System Idea, and some additional information, a description of the system will be obtained. The System Idea could come from inside the company or outside (a customer). Regarding to the additional information, if any is needed; it could be obtained through several means such as surveys, meetings and market reviews.&#xD;&#xA;">
+            <presentation xmi:id="-m91h2-zxzCyIi8cn7fbNmA" href="uma://-m91h2-zxzCyIi8cn7fbNmA#-m91h2-zxzCyIi8cn7fbNmA"/>
+            <performedBy href="uma://_bvPv0MvjEeCphdH9-OcbCA#_OOEQgMvoEeCphdH9-OcbCA"/>
+            <performedBy href="uma://_bvPv0MvjEeCphdH9-OcbCA#_PhOhgMvoEeCphdH9-OcbCA"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_sm3QYMvnEeCphdH9-OcbCA"/>
+            <additionallyPerformedBy href="uma://_bvPv0MvjEeCphdH9-OcbCA#_AfakoMvnEeCphdH9-OcbCA"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_vpMjgMvoEeCphdH9-OcbCA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6gZd8MvlEeCphdH9-OcbCA" name="identify_actors" guid="_6gZd8MvlEeCphdH9-OcbCA" presentationName="Identify Actors" briefDescription="Usually a migration implies also the introduction of new features or the modification of some of the existing ones. Based on the System idea and the preliminary system description identify the new and the changing features. These changing features may include both functional and non-functional changes.&#xD;&#xA;">
+            <presentation xmi:id="-sFRA6sApD0V2DoLDRQ2QLg" href="uma://-sFRA6sApD0V2DoLDRQ2QLg#-sFRA6sApD0V2DoLDRQ2QLg"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_xyCUwMvnEeCphdH9-OcbCA"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_sm3QYMvnEeCphdH9-OcbCA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__kN9IMvlEeCphdH9-OcbCA" name="identify_additional_requirements" guid="__kN9IMvlEeCphdH9-OcbCA" presentationName="Identify Additional Requirements ">
+            <presentation xmi:id="-XOq91-q-cnB_V8dJ1vJljw" href="uma://-XOq91-q-cnB_V8dJ1vJljw#-XOq91-q-cnB_V8dJ1vJljw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_xyCUwMvnEeCphdH9-OcbCA"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_sm3QYMvnEeCphdH9-OcbCA"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_8v2RkP45EeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_XtUkoP46EeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_QpWLkP46EeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TkWqoMvmEeCphdH9-OcbCA" name="elaborate_glossary" guid="_TkWqoMvmEeCphdH9-OcbCA" presentationName="Elaborate Glossary">
+            <presentation xmi:id="-d_J9Q977gPDGSF7sj1LY1w" href="uma://-d_J9Q977gPDGSF7sj1LY1w#-d_J9Q977gPDGSF7sj1LY1w"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_xyCUwMvnEeCphdH9-OcbCA"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_sm3QYMvnEeCphdH9-OcbCA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cjNcAMvmEeCphdH9-OcbCA" name="establish_validation_criteria" guid="_cjNcAMvmEeCphdH9-OcbCA" presentationName="Establish Validation Criteria" briefDescription="Specify the indicators which will demonstrate that the system operates perfectly and that it meets the requirements. This will be obtained agreeing with the user the set of Validation Criteria that will be used in the acceptance test of the system. It is difficult to obtain an agreement of the validation criteria but it is crucial to establish an end to the project.&#xD;&#xA;">
+            <presentation xmi:id="-63cdZqLPsAVQAiDXa1kxIQ" href="uma://-63cdZqLPsAVQAiDXa1kxIQ#-63cdZqLPsAVQAiDXa1kxIQ"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_xyCUwMvnEeCphdH9-OcbCA"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_sm3QYMvnEeCphdH9-OcbCA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_FIdm0Mv8EeCphdH9-OcbCA" name="requirements_and_feasibility" guid="_FIdm0Mv8EeCphdH9-OcbCA" presentationName="Requirements and Feasibility" briefDescription="This activity will provide an overview of the desired system together with the addtional requirements to be added to the migrated system.">
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Task" href="#_pFbb4MvlEeCphdH9-OcbCA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Task" href="#_TkWqoMvmEeCphdH9-OcbCA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Task" href="#_cjNcAMvmEeCphdH9-OcbCA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Task" href="#_6gZd8MvlEeCphdH9-OcbCA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Task" href="#__kN9IMvlEeCphdH9-OcbCA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_bvPv0MvjEeCphdH9-OcbCA#_sm3QYMvnEeCphdH9-OcbCA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_bvPv0MvjEeCphdH9-OcbCA#_vpMjgMvoEeCphdH9-OcbCA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_bvPv0MvjEeCphdH9-OcbCA#_xyCUwMvnEeCphdH9-OcbCA"/>
+            <contentReferences xsi:type="org.eclipse.epf.uma:Task" href="#_N6GsMP48EeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N6GsMP48EeC6H_i-fGXOUw" name="apply_techniques_to_evaluate_feasibility" guid="_N6GsMP48EeC6H_i-fGXOUw" presentationName="Apply techniques to evaluate feasibility">
+            <presentation xmi:id="-Q4FlCTipRTiuL1M_i2F72w" href="uma://-Q4FlCTipRTiuL1M_i2F72w#-Q4FlCTipRTiuL1M_i2F72w"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eYseXcvjEeCphdH9-OcbCA" name="CapabilityPatterns" guid="_eYseXcvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bYqfAMvnEeCphdH9-OcbCA" name="Requirements" guid="_bYqfAMvnEeCphdH9-OcbCA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_eqI20MvnEeCphdH9-OcbCA" href="uma://_eqI20MvnEeCphdH9-OcbCA#_eqI20MvnEeCphdH9-OcbCA"/>
+        </childPackages>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eYseXsvjEeCphdH9-OcbCA" name="DeliveryProcesses" guid="_eYseXsvjEeCphdH9-OcbCA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eYseX8vjEeCphdH9-OcbCA" name="ProcessContributions" guid="_eYseX8vjEeCphdH9-OcbCA"/>
+    <bases href="uma://_bvPv0MvjEeCphdH9-OcbCA#_bvPv0MvjEeCphdH9-OcbCA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

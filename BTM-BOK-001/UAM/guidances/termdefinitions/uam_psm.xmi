@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-J6HgflPPWL2aVWA8yoaavw" name="new_term_definition,_yigZkMI_EeKSedlRPHdUIQ" guid="-J6HgflPPWL2aVWA8yoaavw" changeDate="2013-05-21T14:00:31.848-0400" version="7.5.1">
+  <mainDescription>Platform-Specific Models (PSM) from OMG's &lt;a href=&quot;http://www.omg.org/mda/&quot; target=&quot;_blank&quot;>MDA&lt;/a> is expressed in terms&#xD;
+of the specification model of the target platform. PSM have to use the platform concepts of exception mechanisms, parameter&#xD;
+types (including platform-specific rules about objects references, value types, semantics of call by value, etc.), and&#xD;
+component model (&lt;a href=&quot;http://www.omg.org/mda/&quot; target=&quot;_blank&quot;>OMG 2001&lt;/a>). Also see &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_cim_6E5AE0AF.html&quot; guid=&quot;_g_wUgMI_EeKSedlRPHdUIQ&quot;>Computation&#xD;
+Independent Model&lt;/a>&lt;/em> and &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_pim_31A8342F.html&quot; guid=&quot;_1WkcoMI_EeKSedlRPHdUIQ&quot;>Platform-Independent&#xD;
+Model&lt;/a>&lt;/em>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

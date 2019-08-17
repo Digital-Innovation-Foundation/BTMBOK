@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-d1uoZdMPn5jfbmg5nM6EEQ" name=",_xuXw4P4oEeC6H_i-fGXOUw" guid="-d1uoZdMPn5jfbmg5nM6EEQ" changeDate="2013-08-23T05:13:54.880-0400">
+  <mainDescription>&lt;H3 style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Implement Monitoring Procedures&lt;/SPAN>&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the description, the models of the systems (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design), the monitoring procedures implement the monitoring procedures.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

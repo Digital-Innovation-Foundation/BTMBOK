@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_McgygMCTEemv0a6P8REMBA" guid="_McgygMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_McgygsCTEemv0a6P8REMBA" id="-1VMdFltYzc31vgGuu0GwPg" uri="tasks/identify_withdrawal_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_MclD8MCTEemv0a6P8REMBA" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/withdrawal.xmi"/>
+    <resourceDescriptors xmi:id="_McmSEMCTEemv0a6P8REMBA" id="-BgwX8Llv0073-0slpH4jUA" uri="workproducts/withdrawal_procedures.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_fFpCYFiuEeKBXYc66RG5vg" name="practice.remics.agile.withdrawal.base" guid="_fFpCYFiuEeKBXYc66RG5vg" changeDate="2013-08-23T05:47:56.227-0400">
+    <methodElementProperty xmi:id="_McbS8MCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_McbS8cCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCYViuEeKBXYc66RG5vg" name="Content" guid="_fFpCYViuEeKBXYc66RG5vg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCYliuEeKBXYc66RG5vg" name="Categories" guid="_fFpCYliuEeKBXYc66RG5vg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCY1iuEeKBXYc66RG5vg" name="Domains" guid="_fFpCY1iuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCZFiuEeKBXYc66RG5vg" name="Disciplines" guid="_fFpCZFiuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCZViuEeKBXYc66RG5vg" name="RoleSets" guid="_fFpCZViuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCZliuEeKBXYc66RG5vg" name="WP Types" guid="_fFpCZliuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCZ1iuEeKBXYc66RG5vg" name="Tools" guid="_fFpCZ1iuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCaFiuEeKBXYc66RG5vg" name="StandardCategories" guid="_fFpCaFiuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCaViuEeKBXYc66RG5vg" name="CustomCategories" guid="_fFpCaViuEeKBXYc66RG5vg">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCaliuEeKBXYc66RG5vg" name="Hidden" guid="_fFpCaliuEeKBXYc66RG5vg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_fFpCa1iuEeKBXYc66RG5vg" name="Custom Categories" guid="_fFpCa1iuEeKBXYc66RG5vg"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCbFiuEeKBXYc66RG5vg" name="CoreContent" guid="_fFpCbFiuEeKBXYc66RG5vg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kiCZoFiuEeKBXYc66RG5vg" name="withdrawal" guid="_kiCZoFiuEeKBXYc66RG5vg">
+          <methodElementProperty xmi:id="_McbS8sCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pXxZgFiuEeKBXYc66RG5vg" name="identify_withdrawal_procedures" guid="_pXxZgFiuEeKBXYc66RG5vg" presentationName="Identify Withdrawal Procedures" briefDescription="Identify the procedures necessary to finalize the system." performedBy="_bEWBMAvZEeOhutvlRKZMkg" mandatoryInput="_EdAyEP2uEeK8HINtOGo1Xg _X02JcP2uEeK8HINtOGo1Xg" output="_bZspEPtlEeKiy_TRaqF2Gg" optionalInput="_8RPV0N_lEeKdMZ3N0jsS2w">
+            <methodElementProperty xmi:id="_McbS88CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-1VMdFltYzc31vgGuu0GwPg" href="uma://-1VMdFltYzc31vgGuu0GwPg#-1VMdFltYzc31vgGuu0GwPg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_OISdgFi7EeKc_ty_5LPMaw" name="withdrawal" guid="_OISdgFi7EeKc_ty_5LPMaw" presentationName="Withdrawal" briefDescription="This activity cover the implementation of mechanism for supporting the possible withrawal fo the system. Due to the " contentReferences="_pXxZgFiuEeKBXYc66RG5vg _Jb-cUAvZEeOhutvlRKZMkg _HFkHsP25EeK8HINtOGo1Xg _-n2Y4PtlEeKiy_TRaqF2Gg _bZspEPtlEeKiy_TRaqF2Gg _bEWBMAvZEeOhutvlRKZMkg" activityReferences="_iRkkIVi0EeKBXYc66RG5vg">
+            <methodElementProperty xmi:id="_McbS9MCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bZspEPtlEeKiy_TRaqF2Gg" name="withdrawal_procedures" guid="_bZspEPtlEeKiy_TRaqF2Gg" presentationName="Withdrawal Procedures" briefDescription="It includes the activities to be done when terminating the system">
+            <methodElementProperty xmi:id="_McbS9cCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-BgwX8Llv0073-0slpH4jUA" href="uma://-BgwX8Llv0073-0slpH4jUA#-BgwX8Llv0073-0slpH4jUA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_-n2Y4PtlEeKiy_TRaqF2Gg" name="in_service_procedures.assign" guid="_-n2Y4PtlEeKiy_TRaqF2Gg" variabilityType="contributes" variabilityBasedOnElement="_DAWqMPtmEeKiy_TRaqF2Gg" deliveredWorkProducts="_bZspEPtlEeKiy_TRaqF2Gg">
+            <methodElementProperty xmi:id="_McbS9sCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_HFkHsP25EeK8HINtOGo1Xg" name="identify_withdrawal_requirements" guid="_HFkHsP25EeK8HINtOGo1Xg" presentationName="Identify Withdrawal Requirements" performedBy="_bEWBMAvZEeOhutvlRKZMkg" mandatoryInput="_EdAyEP2uEeK8HINtOGo1Xg _bZspEPtlEeKiy_TRaqF2Gg" output="_FxNEQV5BEeKVU8eUCvi3Og" optionalInput="_FxNEQV5BEeKVU8eUCvi3Og">
+            <methodElementProperty xmi:id="_McbS98CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_Jb-cUAvZEeOhutvlRKZMkg" name="additional_system_requirements.assign" guid="_Jb-cUAvZEeOhutvlRKZMkg" variabilityType="contributes" variabilityBasedOnElement="_FxNEQV5BEeKVU8eUCvi3Og">
+            <methodElementProperty xmi:id="_McbS-MCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_bEWBMAvZEeOhutvlRKZMkg" name="withdrawal_team.assign" guid="_bEWBMAvZEeOhutvlRKZMkg" variabilityType="contributes" variabilityBasedOnElement="_rLfJoF7fEeKFRuoPceMYcQ" responsibleFor="_Jb-cUAvZEeOhutvlRKZMkg _bZspEPtlEeKiy_TRaqF2Gg">
+            <methodElementProperty xmi:id="_McbS-cCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fFpCbViuEeKBXYc66RG5vg" name="CapabilityPatterns" guid="_fFpCbViuEeKBXYc66RG5vg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fFpCbliuEeKBXYc66RG5vg" name="DeliveryProcesses" guid="_fFpCbliuEeKBXYc66RG5vg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fFpCb1iuEeKBXYc66RG5vg" name="ProcessContributions" guid="_fFpCb1iuEeKBXYc66RG5vg"/>
+    <bases href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BH4wPNGEeGUHqJDPoQpuw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

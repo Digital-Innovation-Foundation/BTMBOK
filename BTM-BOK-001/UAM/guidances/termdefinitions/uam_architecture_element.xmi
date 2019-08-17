@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VG9c2qYr3wERwjPozxUxtg" name="new_term_definition,_X6vxcMI3EeKSedlRPHdUIQ" guid="-VG9c2qYr3wERwjPozxUxtg" changeDate="2013-05-21T12:57:07.344-0400" version="7.5.1">
+  <mainDescription>Any construct in an architecture description (&lt;a href=&quot;http://www.iso-architecture.org/ieee-1471/index.html&quot;&#xD;
+target=&quot;_blank&quot;>ISO 42010&lt;/a> 2011, 7). Note: Architecture elements include: constructs in views and models, entities in&#xD;
+models, relations in models, identified stakeholders, identified concerns, views, viewpoints, and models. Each architecture&#xD;
+viewpoint also defines its own vocabulary of elements. Also see &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_component_751C4619.html&quot;&#xD;
+guid=&quot;_oqZloMI3EeKSedlRPHdUIQ&quot;>Component&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

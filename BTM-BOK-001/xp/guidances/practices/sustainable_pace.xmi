@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AS84xtg2NOXfrqA6eVRzMQ" name="new_practice,_ycm9gGZBEdqvwYzpSSc2Nw" guid="-AS84xtg2NOXfrqA6eVRzMQ" changeDate="2005-12-06T05:20:39.800-0500">
+  <mainDescription>&lt;h3>&#xD;
+    Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The assumption in XP is that software development is not a sprint but a marathon. While a sprinter will easily beat a&#xD;
+    marathon runner over a very short distance, the marathon runner will always win in the long run. Consistently working&#xD;
+    overtime will destroy the team, the design, and eventually the product. It creates an environment that makes it&#xD;
+    impossible to do high quality work. People make more mistakes because they are tired (not to mention their low morale),&#xD;
+    causing bugs that require a lot of time to fix down the line. The end result is that it slows everything and everyone&#xD;
+    down.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Continuous overtime can be a symptom of a deeper problem that is not being addressed. Perhaps the process is too broken&#xD;
+    to be fixed by working more. The rule in XP is that, if the team has to do more than one consecutive week of overtime,&#xD;
+    it should reassess the situation and start rethinking the plan. Overtime is OK if you need to get to the end of an&#xD;
+    iteration or a release, but it should always be an exception rather than the rule.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Sustainable pace is about fostering a team that can produce a consistent amount of work over a long period of time.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Benefits&#xD;
+&lt;/h3>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Improved predictability&lt;/b>: plans become more accurate.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Improved product quality&lt;/b>: programmers have the time to do the right thing.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Improved job satisfaction&lt;/b>: programmers can enjoy their work with as little stress as possible.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Reduced time to market&lt;/b>: less time required to fix bad code and rotting design.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:PracticeDescription>

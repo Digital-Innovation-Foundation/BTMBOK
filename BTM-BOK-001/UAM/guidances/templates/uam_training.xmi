@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-KrcoKCMVydgwGAG3VlDEOg" name="uam_training,_ZN7jQK2CEeSeR_3t3OIAHQ" guid="-KrcoKCMVydgwGAG3VlDEOg" changeDate="2015-01-25T16:24:50.676-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    Architecture deliverables are an excellent source for information when developing training. This can be a small system&#xD;
+    or even the complete enterprise (i.e., an EA).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Various formats are provided below: Microsoft Word (.dotx and .dot), PDF (.pdf) and Open XML Paper Specification&#xD;
+    (.xps).&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/Training-Template.pdf|resources/Training-Template.dot|resources/Training-Template.dotx|resources/Training-Template.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

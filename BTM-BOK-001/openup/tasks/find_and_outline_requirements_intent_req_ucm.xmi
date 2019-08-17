@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Yt8TXGkE1rwydXR34apsrg" name=",_txpV0AFmEduDPKiaP0pu-Q" guid="-Yt8TXGkE1rwydXR34apsrg" version="1.0.0">
+  <sections xmi:id="_XRKgkAFoEduDPKiaP0pu-Q" name="Identify and capture Use Case and Actors in a Use-Case Model" guid="_XRKgkAFoEduDPKiaP0pu-Q">
+    <sectionDescription>&lt;p>&#xD;
+    Collaborate&amp;nbsp;with stakeholders to identify and capture&amp;nbsp;the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/guidances/concepts/actor_411726C.html&quot; guid=&quot;_zGqO0MDpEduTGJ8i4u8TMw&quot;>Actor&lt;/a>s and &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/use_case_22BE66E2.html&quot; guid=&quot;_0VGbUMlgEdmt3adZL5Dmdw&quot;>Use Case&lt;/a>s in the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/uc_model_85965D1B.html&quot; guid=&quot;_W2SgEDR5EdutE_HNDTJk5Q&quot;>Use-Case Model&lt;/a>. See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/find_and_outline_actors_and_ucs_BB5516A9.html&quot; guid=&quot;_eyL0wCu-EdqSxKAVa9kmvA&quot;>Guideline: Find and Outline Actors and Use Cases&lt;/a>&amp;nbsp;for more information.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

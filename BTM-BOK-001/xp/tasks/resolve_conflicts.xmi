@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-L85wOCiwe2O8D8CISEGGGg" name="resolve_conflicts,{1B23700D-02B0-476F-A3DE-6F63A5407151}" guid="-L85wOCiwe2O8D8CISEGGGg" changeDate="2006-11-09T17:20:06.801-0500" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Software projects require the coordinated efforts of many people. The &lt;a class=&quot;elementLink&quot; href=&quot;./../../xp/guidances/concepts/xp_practices.html&quot; guid=&quot;2.2937799026801584E-305&quot;>XP Practices&lt;/a> leverage the ability of teams to collaborate and communicate about decisions and activities on the&#xD;
+    project. Because team members are working together in an &lt;a class=&quot;elementLink&quot; href=&quot;./../../xp/guidances/guidelines/open_workspace.html&quot; guid=&quot;3.269440809144354E-305&quot;>Open Workspace&lt;/a>, interpersonal conflicts are visible, not hidden by the separation of the cubicles. One byproduct of&#xD;
+    increased collaboration, communication, and feedback will be increased conflict. Unmanaged, this conflict may increase&#xD;
+    the risk to the project. XP, as a process, does not try to solve all of the problems that occur on a software project,&#xD;
+    it just enables the people to solve them.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The XP Coach must make sure these conflicts are managed. The coach must help the team develop an environment of&#xD;
+    openness, where conflicts can be discussed and resolved. Conflicts left unresolved, like defects left undetected, are&#xD;
+    usually more disruptive and ultimately costly to fix. At times, the coach will take ownership to resolve a conflict on&#xD;
+    the team or across teams, but over time, the coach must ensure that the team is capable of resolving most conflicts on&#xD;
+    their own.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;a id=&quot;XE_resolve_conflicts__activity_definition&quot; name=&quot;XE_resolve_conflicts__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Prevent disagreements from reducing the team's productivity.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9Jii1s7cFv4aYjc0MW7PzQ" name="new_term_definition,_QSJnoIcLEeKDAPAbcNl48A" guid="-9Jii1s7cFv4aYjc0MW7PzQ">
+  <mainDescription>The Increment is the sum of all the Product Backlog items completed during a Sprint and all previous Sprints. At the end of&#xD;
+a Sprint, the new Increment must be “Done,” which means it must be in useable condition and meet the Scrum Team’s&#xD;
+Definition of “Done.” It must be in useable condition regardless of whether the Product Owner decides to actually release&#xD;
+it.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

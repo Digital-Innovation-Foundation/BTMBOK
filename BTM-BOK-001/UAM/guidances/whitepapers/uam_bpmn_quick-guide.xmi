@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--tEyNwrz92JS829FbNut5w" name="uam_bpmn_quick-guide,_V8xA0MAqEeOxGdAyQHMoYw" guid="--tEyNwrz92JS829FbNut5w" changeDate="2014-04-09T16:53:45.154-0400" version="7.2.0">
+  <mainDescription>&lt;a id=&quot;XE_BPMN__Quick_Guide&quot; name=&quot;XE_BPMN__Quick_Guide&quot;>&lt;/a>&lt;br />&#xD;
+&lt;iframe height=&quot;700&quot; src=&quot;https://www.businessprocessincubator.com/bpmnquickguide-embed&quot; frameborder=&quot;0&quot;&#xD;
+width=&quot;100%&quot;>&lt;/iframe></mainDescription>
+  <attachments>&lt;a href=&quot;http://www.businessprocessincubator.com/&quot;>Business Process Incubator&lt;/a>|&lt;a href=&quot;http://www.businessprocessincubator.com/learn/elearning.html&quot;>BPI eLearning Resources&lt;/a></attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

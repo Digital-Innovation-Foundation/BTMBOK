@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-0CekM4v8wjT93cBZaF_SGQ" name="new_tpl_actor,_G_SjUJp3EeOpq9XgOi00TQ" guid="-0CekM4v8wjT93cBZaF_SGQ" changeDate="2014-03-25T11:06:03.243-0400" version="7.5.1">
+  <problem>Customers of ThuNorTech are either Research Customers or Solutions Customers. Customers are generally one or the other, but&#xD;
+there may be Customers that are both. IT Research Customers of ThuNorTech are represented by this Actor.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

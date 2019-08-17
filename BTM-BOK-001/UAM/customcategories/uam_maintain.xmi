@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-CZxjp8fZWUi9-7qvGZjkhQ" name="uam_maintain,_qwGYwMAdEeOxGdAyQHMoYw" guid="-CZxjp8fZWUi9-7qvGZjkhQ" changeDate="2015-11-30T13:56:50.034-0500">
+  <mainDescription>&lt;p>&#xD;
+    To be useful IT architectures need to be maintained. A number of tasks are defined to support this maintenance.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

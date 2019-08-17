@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="--VWibXuQb2QOucnrt6dlZg" name="uam_laneset,__nUewGxBEeSS8ckFlGqwKQ" guid="--VWibXuQb2QOucnrt6dlZg" changeDate="2015-02-11T12:55:14.627-0500" version="2.0">
+  <mainDescription>The &lt;em>LaneSet&lt;/em> element defines the container for one or more Lanes. A Process can contain one or more&#xD;
+&lt;em>LaneSets&lt;/em>. Each &lt;em>LaneSet&lt;/em> and its Lanes can partition the &lt;em>Flow Nodes&lt;/em> in a different way&amp;nbsp;&lt;a&#xD;
+href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot; guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG&#xD;
+2013)&lt;/a>.</mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    LaneSets are used to contain or group one or more Lanes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_LaneSet&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Activity Partition&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> The name of the &lt;em>LaneSet&lt;/em>. A &lt;em>LaneSet&lt;/em> is not visually displayed&#xD;
+        on a BPMN diagram. Consequently, the name of the &lt;em>LaneSet&lt;/em> is not displayed as well.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>process: Process&lt;/strong>&amp;nbsp;- The Process owning the &lt;em>LaneSet&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>lanes: Lane [0..*]&lt;/strong>&amp;nbsp;- One or more &lt;strong>Lane&lt;/strong> elements, which define a specific&#xD;
+        partition in the &lt;em>LaneSet&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>parentLane: Lane [0..1]&lt;/strong>&amp;nbsp;- The reference to a &lt;strong>Lane&lt;/strong> element which is the&#xD;
+        parent of this &lt;em>LaneSet&lt;/em>.&lt;br />&#xD;
+        .&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        May have relationships (message flows) with other message flow elements as defined in BPMN.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        See BPMN v2.0&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+        guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

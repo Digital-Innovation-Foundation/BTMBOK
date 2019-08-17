@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-C-YMn6JZSyKz9mv6G82Sdw" name="uam_review_architectural_decision,_jDin0MUkEdyVgeP6fyp1bg" guid="-C-YMn6JZSyKz9mv6G82Sdw" authors="DW Enstrom" changeDate="2014-10-27T13:42:49.423-0400" version="2.0.0">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p>&#xD;
+    The purpose of this activity is to review an&amp;nbsp;Architecture Decision (AD), specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Review the context and description;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Examine the stated constraints;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Review the rational;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Review the implications;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Evaluate the decisions using one or more specific architectural aspects: performance, reliability,&#xD;
+        implementability, modifiability, cost, security, safety;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Approve, reject or require revision of the AD.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <sections xmi:id="_jCD5wMUnEdyVgeP6fyp1bg" name="Review the Context" guid="_jCD5wMUnEdyVgeP6fyp1bg">
+    <sectionDescription>The context is reviewed to ensure it is complete and well-defined. It is also examined to ensured that the AD does not&#xD;
+overlap or replace an existing AD (in which case it would be rejected and the originator told to revise the existing AD).</sectionDescription>
+  </sections>
+  <sections xmi:id="_m1z4MMUnEdyVgeP6fyp1bg" name="Examine the Constraints " guid="_m1z4MMUnEdyVgeP6fyp1bg">
+    <sectionDescription>The constraints are reviewed to ensure they are complete and well-defined. They are also examined to ensure that they are&#xD;
+valid and required; they are useful and serve a purpose.</sectionDescription>
+  </sections>
+  <sections xmi:id="_qDVkIMUnEdyVgeP6fyp1bg" name="Review the Rationale" guid="_qDVkIMUnEdyVgeP6fyp1bg">
+    <sectionDescription>The rationale supporting the stated decision is reviewed to ensure it is complete and well-defined. It is also placed into&#xD;
+the context of existing ADs to ensure that there is no conflict. The logic is also reviewed.</sectionDescription>
+  </sections>
+  <sections xmi:id="_r-xWEMUnEdyVgeP6fyp1bg" name="Review the Implications " guid="_r-xWEMUnEdyVgeP6fyp1bg">
+    <sectionDescription>The implications of the stated decision are reviewed to ensure they are complete and well-defined. The implications are&#xD;
+also placed into the context of existing ADs to ensure that there&amp;nbsp;are no conflicts or gaps.</sectionDescription>
+  </sections>
+  <sections xmi:id="_vN0sAMUnEdyVgeP6fyp1bg" name="Ealuate the Decision" guid="_vN0sAMUnEdyVgeP6fyp1bg">
+    <sectionDescription>The decision described in the AD is reviewed to ensure it is complete and well-defined. It is also placed into the context&#xD;
+of existing ADs to ensure that there is no conflict. Other aspects may be further examined (e.g. cost) and clarified in&#xD;
+support of making a decision on the AD.</sectionDescription>
+  </sections>
+  <sections xmi:id="_yS3xYMUnEdyVgeP6fyp1bg" name="Approve, Reject or Revise" guid="_yS3xYMUnEdyVgeP6fyp1bg">
+    <sectionDescription>The AD is either &lt;strong>&lt;em>approved&lt;/em>&lt;/strong>, rejec&lt;em>&lt;strong>t&lt;/strong>&lt;/em>ed or sent back to the author for&#xD;
+&lt;em>&lt;strong>revision&lt;/strong>&lt;/em> (with advice).</sectionDescription>
+  </sections>
+  <purpose>The purpose of this activity is to review an architectural decision. Documenting important architectural decisions provides&#xD;
+a repository of decision that will help guide other architects, managers and implementors in being compliant with&#xD;
+enterprise and business domain standards and solutions. They also provide a source of information for re-visiting decisions&#xD;
+over time.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

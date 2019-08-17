@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-b0UZTQ4IWm0u83ICghVd4w" name="uam_ea_bpl_material,_gkWv4MMZEeKSedlRPHdUIQ" guid="-b0UZTQ4IWm0u83ICghVd4w" changeDate="2013-05-22T15:55:28.846-0400">
+  <problem>This is the output of ThuNorTech, covering both the technical business line and the research business line.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

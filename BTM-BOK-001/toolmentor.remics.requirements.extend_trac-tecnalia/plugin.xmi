@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MnpEc8CTEemv0a6P8REMBA" guid="_MnpEc8CTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MnpEdcCTEemv0a6P8REMBA" id="-IY4MbyF3CeCf4U2Cv6Qgjw" uri="guidances/toolmentors/trac_usage_guide.xmi"/>
+    <resourceDescriptors xmi:id="_Mny1cMCTEemv0a6P8REMBA" id="-XOq91-q-cnB_V8dJ1vJljw" uri="tasks/identify_additional_requirements.assign.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_xuHXUFmIEeKrerZnFJznjw" name="toolmentor.remics.requirements.extend_trac-tecnalia" guid="_xuHXUFmIEeKrerZnFJznjw" changeDate="2013-01-14T12:22:31.091-0500">
+    <methodElementProperty xmi:id="_MnpEcMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXUVmIEeKrerZnFJznjw" name="Content" guid="_xuHXUVmIEeKrerZnFJznjw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXUlmIEeKrerZnFJznjw" name="Categories" guid="_xuHXUlmIEeKrerZnFJznjw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXU1mIEeKrerZnFJznjw" name="Domains" guid="_xuHXU1mIEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXVFmIEeKrerZnFJznjw" name="Disciplines" guid="_xuHXVFmIEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXVVmIEeKrerZnFJznjw" name="RoleSets" guid="_xuHXVVmIEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXVlmIEeKrerZnFJznjw" name="WP Types" guid="_xuHXVlmIEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXV1mIEeKrerZnFJznjw" name="Tools" guid="_xuHXV1mIEeKrerZnFJznjw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_0tvKIFmIEeKrerZnFJznjw" name="trac.assign" guid="_0tvKIFmIEeKrerZnFJznjw" variabilityType="contributes" toolMentors="_9gG-sFmIEeKrerZnFJznjw">
+            <methodElementProperty xmi:id="_MnpEccCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Tool" href="uma://__52BoEUNEeKK_ttnBPx9Rg#_sucuUEUOEeKK_ttnBPx9Rg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXWFmIEeKrerZnFJznjw" name="StandardCategories" guid="_xuHXWFmIEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXWVmIEeKrerZnFJznjw" name="CustomCategories" guid="_xuHXWVmIEeKrerZnFJznjw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXWlmIEeKrerZnFJznjw" name="Hidden" guid="_xuHXWlmIEeKrerZnFJznjw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xuHXW1mIEeKrerZnFJznjw" name="Custom Categories" guid="_xuHXW1mIEeKrerZnFJznjw"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXXFmIEeKrerZnFJznjw" name="CoreContent" guid="_xuHXXFmIEeKrerZnFJznjw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5YVRAFmIEeKrerZnFJznjw" name="tool_mentors" guid="_5YVRAFmIEeKrerZnFJznjw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6yyc0FmIEeKrerZnFJznjw" name="trac" guid="_6yyc0FmIEeKrerZnFJznjw">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_9gG-sFmIEeKrerZnFJznjw" name="trac_usage_guide" guid="_9gG-sFmIEeKrerZnFJznjw" presentationName="Trac: Usage Guide" briefDescription="Trac: Usage Guide">
+              <methodElementProperty xmi:id="_MnpEcsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-IY4MbyF3CeCf4U2Cv6Qgjw" href="uma://-IY4MbyF3CeCf4U2Cv6Qgjw#-IY4MbyF3CeCf4U2Cv6Qgjw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AMTiYF5vEeKQXPVpGIOW7Q" name="identify_additional_requirements.assign" guid="_AMTiYF5vEeKQXPVpGIOW7Q" variabilityType="contributes" toolMentors="_9gG-sFmIEeKrerZnFJznjw">
+              <presentation xmi:id="-XOq91-q-cnB_V8dJ1vJljw" href="uma://-XOq91-q-cnB_V8dJ1vJljw#-XOq91-q-cnB_V8dJ1vJljw"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_wV5YNUkWEeKu7-3cM-oErg"/>
+            </contentElements>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_xuHXXVmIEeKrerZnFJznjw" name="CapabilityPatterns" guid="_xuHXXVmIEeKrerZnFJznjw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_xuHXXlmIEeKrerZnFJznjw" name="DeliveryProcesses" guid="_xuHXXlmIEeKrerZnFJznjw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_xuHXX1mIEeKrerZnFJznjw" name="ProcessContributions" guid="_xuHXX1mIEeKrerZnFJznjw"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BH4wPNGEeGUHqJDPoQpuw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

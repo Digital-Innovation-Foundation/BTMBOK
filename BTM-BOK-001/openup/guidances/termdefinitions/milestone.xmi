@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9fXEOvMc4t7y6s5GscBD1Q" name=",_ByXNcEvqEdunZcj9T5hrMQ" guid="-9fXEOvMc4t7y6s5GscBD1Q">
+  <mainDescription>&lt;p>&#xD;
+    The point at which an iteration or phase formally ends, thus providing a check-point for whether the project is ready&#xD;
+    to move to the next iteration or phase.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

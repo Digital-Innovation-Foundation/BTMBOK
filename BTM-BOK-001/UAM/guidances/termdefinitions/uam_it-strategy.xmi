@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RVg_bhSLUexQyEHkv82Hdw" name="uam_it-strategy,_o7sc8EMkEeShYIpiBstbOQ" guid="-RVg_bhSLUexQyEHkv82Hdw" changeDate="2014-09-23T09:22:49.211-0400" version="7.5.1">
+  <mainDescription>From Wikipedia a Technology Strategy (Information Technology Strategy or IT Strategy) is the overall plan which consists of&#xD;
+objective(s), principles and tactics relating to use of the technologies within a particular organization. Such strategies&#xD;
+primarily focus on the technologies themselves and in some cases the people who directly manage those technologies. The&#xD;
+strategy can be implied from the organization's behaviors towards technology decisions, and may be written down in a&#xD;
+document. &#xD;
+&lt;p>&#xD;
+    See: &lt;a href=&quot;http://en.wikipedia.org/wiki/Technology_strategy&quot; target=&quot;_blank&quot;>Wikipedia: Technology Strategy&lt;/a>&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

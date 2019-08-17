@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vYDEjOsyiDLCq28_kSwqLg" name="sprint_goals,_veyn3F5UEd22Gu98eFOlrQ" guid="-vYDEjOsyiDLCq28_kSwqLg" changeDate="2013-03-07T05:10:50.725-0500">
+  <mainDescription>&lt;p>&#xD;
+    The Sprint Goal is an objective that will be met within the Sprint through the implementation of the Product Backlog,&#xD;
+    and it provides guidance to the Development Team on why it is building the Increment.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

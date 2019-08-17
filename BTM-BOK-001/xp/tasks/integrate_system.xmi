@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--tP2hgRfEkZPGYvy1y0GZQ" name="integrate_system,{70FEC254-8555-4844-AD82-68367E25F082}" guid="--tP2hgRfEkZPGYvy1y0GZQ" version="1.0.0">
+  <sections xmi:id="_oE9QMGE-EdqnIZeW8YpHcA" name=" Run All Unit Tests for the System " guid="_oE9QMGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    While you and your pair partner are working on a task, you run unit tests to make sure you are not introducing side
+    effect defects. As a system evolves, it may become impractical to run all the unit tests for the system for every
+    change made. In this case, you may choose a subset of the unit tests to run after every code change. When a task is
+    completed or you feel that you have a piece you can integrate or you are uncertain for any reason, run all of the unit
+    tests for the system.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oE9QMWE-EdqnIZeW8YpHcA" name=" Check in Code " guid="_oE9QMWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    If all of the unit test in the system passed, check in your code and produce a system build.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_integrate_and_build__activity_definition&quot; name=&quot;XE_integrate_and_build__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To produce a runnable executable of the application under development that can be used to evaluate progress and&#xD;
+        provide feedback&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-71mLiwMsj_Td9WbWhNhChw" name="uam_manage_follow-up,_Uh1XwGKoEeSFL7Sh0MlmKA" guid="-71mLiwMsj_Td9WbWhNhChw" changeDate="2015-02-03T10:02:53.732-0500" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    Following each review meeting, the results of the meeting should be documented in some form of &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/workproducts/uam_review_record_B5C8210C.html&quot;&#xD;
+    guid=&quot;_ON-wgPIOEdyIELoltz1wKA&quot;>Artifact: Architecture Review Record&lt;/a>. In addition, change requests are formally&#xD;
+    recorded and assigned to someone to own and drive to resolution.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    One of the most important yet surprisingly often neglected aspects of reviews is the management to resolution of the&#xD;
+    follow-up tasks or actions identified during the review. While you can usually resolve many of the identified&#xD;
+    issues&amp;nbsp;during the course of the review meeting itself, be prepared to assign tasks as needed but ensure that the&#xD;
+    workload of team members is balanced.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note that even if you can review everything you need to in a single meeting, you probably won't get approval of all&#xD;
+    your conclusions the first time. Be prepared to carry out subsequent reviews as necessary to help manage the&#xD;
+    undertaking of a large number of follow-up tasks.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_Uh1-0mKoEeSFL7Sh0MlmKA" name="Scan Review Record of Actions" guid="_Uh1-0mKoEeSFL7Sh0MlmKA">
+    <sectionDescription>Scan the list of recorded actions from the review and identify any that need to be reviewed or updated.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Uh1-0GKoEeSFL7Sh0MlmKA" name="Get Updates to Actions" guid="_Uh1-0GKoEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Contact the person responsible for dealing with the action and obtain an update on its status.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Uh1-0WKoEeSFL7Sh0MlmKA" name="Update Follow-up Actions" guid="_Uh1-0WKoEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The following updates may be done for each review record action:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Mark as completed;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update the status and the description of the action if needed;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update the planned date of completion if needed;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Escalate the issue or action, to the project manager or higher, if needed.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The architecture perspective review / analysis is not complete until all actions are marked as completed.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The review record is re-published once all updates are done.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>An architectural &lt;em>review&lt;/em> is carried out&amp;nbsp;to ensure that the perspective models are complete and well-defined,&#xD;
+and to ensure that the system is accurately captured in the models.&amp;nbsp;An architecture &lt;em>analysis&lt;/em> takes a step&#xD;
+back from the IT architecture and looks at the larger context, proposed solutions, implications of these solutions, and how&#xD;
+it all fits into the enterprise's business strategy, IT strategy, technology and other standards,&amp;nbsp;and other plans and&#xD;
+objectives. This analysis is slightly different for each of the levels. Not only are the participants different, the focus&#xD;
+and objectives of the analysis at the Business level are much different that those at the Technical level</purpose>
+</org.eclipse.epf.uma:TaskDescription>

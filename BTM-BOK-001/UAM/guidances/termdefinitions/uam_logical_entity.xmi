@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MSYiq3PJz9ke3L-cYbqmzw" name="uam_logical_entity,_2cDP0EGoEeOfR_FtRm9PUg" guid="-MSYiq3PJz9ke3L-cYbqmzw" changeDate="2013-10-30T17:15:29.265-0400" version="7.5.1">
+  <mainDescription>A Logical Entity represents deliverables, resources, and significant pieces of information that are used or produced by&#xD;
+activities and tasks. At the logical level a fairly complete view of the data entities are defined, including some&#xD;
+attributes, relationships, and if desired structured persistence attributes (e.g. Primary Keys etc.).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

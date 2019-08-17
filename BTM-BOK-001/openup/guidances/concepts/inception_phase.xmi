@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GRJW_KNOJoEQF3r6lmBrEw" name=",_0hmKgBOMEduCNqgZdt_OaA" guid="-GRJW_KNOJoEQF3r6lmBrEw" changeDate="2007-07-11T11:07:24.031-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The purpose in this phase is to achieve concurrence among all stakeholders on the lifecycle objectives for the&#xD;
+    project, and to make a go/no-go decision.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    There are four objectives of the Inception phase that clarify the scope, project objectives, and feasibility of the&#xD;
+    intended solution &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../../openup/guidances/supportingmaterials/references_6CCF393.html#KRO03&quot; guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[KRO03]&lt;/a>:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;p>&#xD;
+            &lt;b>Determine the&lt;/b> &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../openup/workproducts/vision_2E71B03C.html&quot; guid=&quot;_0WVxcMlgEdmt3adZL5Dmdw&quot;>&lt;b>Vision&lt;/b>&lt;/a>, the scope of the system, and its&#xD;
+            boundaries. Identify &lt;b>who&lt;/b> is interested in this system and &lt;b>why&lt;/b> (see &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../openup/roles/stakeholder_9FFD4106.html&quot; guid=&quot;_dTa6gMAYEdqX-s4mWhkyqQ&quot;>Stakeholders&lt;/a>).&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p>&#xD;
+            &lt;b>Identify key system functionality.&lt;/b> Decide which requirements are most critical.&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p>&#xD;
+            &lt;b>Determine at least one possible solution.&lt;/b> Identify at least one candidate architecture and its&#xD;
+            feasibility.&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p>&#xD;
+            &lt;b>Understand&lt;/b> the cost, schedule, and risks associated with the project.&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;h4>&#xD;
+    Key considerations&#xD;
+&lt;/h2>&#xD;
+&lt;p>&#xD;
+    Projects may have one or more iterations in the Inception phase. Among reasons for multiple iterations in Inception,&#xD;
+    you find:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Unprecedented system&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Too many stakeholders with competing needs and complex relationships&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Major risks demand the creation of a prototype or proof of concept&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

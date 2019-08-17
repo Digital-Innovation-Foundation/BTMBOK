@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-vt88ceB_9EIraPFXGJEWDg" name="uam_technical_actor,_hUSckLL3EeSgVPmVL1L5GQ" guid="-vt88ceB_9EIraPFXGJEWDg" changeDate="2015-02-12T13:12:03.107-0500" version="2.0">
+  <mainDescription>&lt;p>&#xD;
+    A Technical Actor can be equated to the external people or systems that interact with the system under study. Actors&#xD;
+    are not necessarily external to the business; they may also represent internal “user” interactions with the system.&#xD;
+    Technical Actors are conceptualizations of the Actors with the system; further analysis is required to fully understand&#xD;
+    and define required actors. Note that actors are not individuals nor are they necessarily equivalent to job titles;&#xD;
+    instead, they describe the behavior in the enterprise and the responsibilities of the associated “user”.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Actors are a categorization, based upon required interactions, of external interactions with the system.&amp;nbsp;At the&#xD;
+    Technical level they represent the external entities that interact with the system, be they users or other&#xD;
+    systems.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In addition to IT Architects, the following people are interested in actors:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Business analysts&lt;/b>, when defining the boundaries of the organization and required processes;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Business designers&lt;/b>, when describing business processes and their interaction with external entities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>User-interface designers&lt;/b>, as input to capturing characteristics on human [system] actors;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>System analysts&lt;/b>, as input to finding [system] actors;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <representationOptions>&lt;p>&#xD;
+    Technical Actors are&amp;nbsp;the Actors with the system; further analysis is required to fully understand and define&#xD;
+    required actors.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» TPL_Actor&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Actor&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Actor.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>characteristics: string&amp;nbsp;-&lt;/strong> A business level description of the actor and what it represents.&#xD;
+        Specifics in terms of people, jobs or systems should be avoided at this point—keep it technical.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Must be named;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Can only have associations to Technical Roles, furthermore these associations must be binary;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Shall aggregate at least one associated Technical Role.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

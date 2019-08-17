@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rtY57MTVQrEcfTKwD3-Wvw" name="xp_user_story,{21946731-4F5C-4862-8B4D-868629952B92}" guid="-rtY57MTVQrEcfTKwD3-Wvw" changeDate="2006-11-13T17:28:55.298-0500" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    A &lt;a class=&quot;PresentationName&quot; guid=&quot;{21946731-4F5C-4862-8B4D-868629952B92}&quot;>User Story&lt;/a> is only a token of past and&#xD;
+    future conversation between the customer and the programmers. XP's on-site customer practice minimizes the need to&#xD;
+    document extensively each story as the programmers can simply walk over and ask their questions to the customer as&#xD;
+    needed. &lt;a class=&quot;PresentationName&quot; guid=&quot;{21946731-4F5C-4862-8B4D-868629952B92}&quot;>User Story&lt;/a> details are captured&#xD;
+    in automated acceptance tests that are then used to validate the implementation of the story.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It may not be necessary to write a description for all stories as the name of some of the stories might already offer&#xD;
+    enough information.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    What makes a good &lt;a class=&quot;PresentationName&quot; guid=&quot;{21946731-4F5C-4862-8B4D-868629952B92}&quot;>User Story&lt;/a>?&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The customer should care about it. The story should have business value in the customer's eyes so it can be&#xD;
+        prioritized. Sometimes a story needs to be broken down into smaller pieces to fit into an iteration. If by itself&#xD;
+        the story does not provide business value, it should at least provide demonstrable progress toward a feature with&#xD;
+        business value.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stories vertically slice through the product's architecture. They are not usually focused on a specific subsystem.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Test cases can be written to verify that the programmers have implemented it correctly.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        It can be reasonably estimated by the developers. Stories that can't be estimated are rewritten.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        It can be completed within one iteration. A story that does not fit in an iteration is broken down into two or more&#xD;
+        smaller stories.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <purpose>&lt;a id=&quot;XE_user_story__artifact_definition&quot; name=&quot;XE_user_story__artifact_definition&quot;>&lt;/a>&lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;>&lt;/a>&lt;a id=&quot;XE_user_story__purpose_of&quot; name=&quot;XE_user_story__purpose_of&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    A &lt;a class=&quot;PresentationName&quot; guid=&quot;{21946731-4F5C-4862-8B4D-868629952B92}&quot;>User Story&lt;/a> represents a small piece of&#xD;
+    functionality of the system being built. It is not a complete specification of a feature. It is a promise to discuss a&#xD;
+    feature or a reminder of the discussion that has already taken place.&#xD;
+&lt;/p></purpose>
+  <representationOptions>&lt;p>
+    Here are some sample stories for a typical on-line store application:
+&lt;/p>
+&lt;p>
+    --------------------------------------------------------------------------------&lt;br />
+     If the customer has entered a valid Tax Exemption ID, do not charge sales tax.
+&lt;/p>
+&lt;p>
+    --------------------------------------------------------------------------------&lt;br />
+     If the Customer ID is on the Preferred Customer list, do not charge for shipping, except for Next Day service.
+&lt;/p>
+&lt;p>
+    --------------------------------------------------------------------------------&lt;br />
+     On the System Status Page, show the number of orders in the past 24 hours, the total revenue, and list the top ten
+    items in order of quantity ordered.
+&lt;/p>
+&lt;p>
+    --------------------------------------------------------------------------------&lt;br />
+     If the delivery address of a purchase is in any of the states in the attached table, calculate, display, and charge
+    sales tax using the corresponding percentage.
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

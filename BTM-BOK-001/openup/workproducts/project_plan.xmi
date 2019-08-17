@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_IbVp8KX4EdmvhNXG0Oc2uA" name="project_plan,_0a6vcMlgEdmt3adZL5Dmdw" guid="_IbVp8KX4EdmvhNXG0Oc2uA" changeDate="2007-05-19T08:41:21.127-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 10pt; mso-bidi-font-family: Arial&quot;>This artifact&amp;nbsp;defines the parameters for project&#xD;
+    progress tracking and specifies the high-level objectives of the iterations and their milestones. Additionally,&amp;nbsp;it&#xD;
+    describes how the project is organized and which roles are played by whom.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 10pt; mso-bidi-font-family: Arial&quot;>The project manager is responsible for developing the&#xD;
+    project plan, working very closely with the rest of the team. The project plan allows stakeholders and other team&#xD;
+    members to understand the big picture and, roughly, when to expect what level of functionality. It it also used for&#xD;
+    recording the lessons learned from the project.&lt;/span>&lt;span style=&quot;FONT-SIZE: 10pt; mso-bidi-font-family: Arial&quot;>&lt;br />&#xD;
+    &lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+&#xD;
+&#xD;
+    The purpose of this artifact is&amp;nbsp;to provide a central document where any project team member can find the&#xD;
+&#xD;
+&#xD;
+    information on how the project will be managed.&amp;nbsp;&#xD;
+&#xD;
+&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

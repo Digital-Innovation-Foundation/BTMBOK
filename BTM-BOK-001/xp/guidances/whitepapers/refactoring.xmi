@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ql_2w28A9SIIZQca3Wg-kQ" name="refactoring,1.0713784560673905E-305" guid="-ql_2w28A9SIIZQca3Wg-kQ" changeDate="2006-11-10T18:40:03.134-0500" version="1.0.0">
+  <mainDescription>&lt;address>
+    By&amp;nbsp;Michael Feathers.
+&lt;/address>
+&lt;address>
+    All Rights Reserved.
+&lt;/address>
+&lt;p>
+    A&amp;nbsp;&lt;a href=&quot;resources/refactoring.pdf&quot; target=&quot;_blank&quot;>PDFversion&lt;/a> of this article is available; however, you
+    must have &lt;a href=&quot;http://www.adobe.com/products/acrobat/alternate.html&quot; target=&quot;_blank&quot;>Adobe Acrobat&lt;/a> installed to
+    view it.
+&lt;/p>
+&lt;h3>
+    Abstract
+&lt;/h3>
+&lt;p>
+    This paper addresses refactoring from the context of starting with legacy code, as opposed to so called &quot;green field&quot;
+    development. Topics covered include: Test Coverings; Inflection Points; Breaking External and Internal Dependencies.
+&lt;/p>
+&lt;p>
+    &lt;br />
+     &amp;nbsp;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

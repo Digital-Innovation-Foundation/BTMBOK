@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Naikvdeo_Fxt4XVR0E6a2A" name="new_term_definition,_YNUjoMJBEeKSedlRPHdUIQ" guid="-Naikvdeo_Fxt4XVR0E6a2A" changeDate="2013-05-21T14:08:29.105-0400" version="7.5.1">
+  <mainDescription>Department is further organizational subdivision of an enterprise’s &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_division_B8F6B64E.html&quot;&#xD;
+guid=&quot;_vv0koMJBEeKSedlRPHdUIQ&quot;>Division&lt;/a>&lt;/em>, for example, the quality control and finishing departments within the&#xD;
+manufacturing &lt;em>division&lt;/em>.&amp;nbsp; Also see: &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_unit_6DA10672.html&quot; guid=&quot;_cTeNwMJOEeKSedlRPHdUIQ&quot;>Unit&lt;/a> &lt;a&#xD;
+class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_division_B8F6B64E.html&quot;&#xD;
+guid=&quot;_vv0koMJBEeKSedlRPHdUIQ&quot;>Division&lt;/a>, &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_line_AB109A07.html&quot; guid=&quot;_4axKQMI7EeKSedlRPHdUIQ&quot;>Business&#xD;
+Line&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_domain_94DAA51B.html&quot;&#xD;
+guid=&quot;_ys424MI6EeKSedlRPHdUIQ&quot;>Business Domain&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

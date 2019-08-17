@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_BcBR8KX5EdmvhNXG0Oc2uA" name="iteration_plan,_0aQBEslgEdmt3adZL5Dmdw" guid="_BcBR8KX5EdmvhNXG0Oc2uA" changeDate="2007-05-19T08:44:15.738-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The main objectives of the iteration plan is to provide the team with one central place for information regarding&#xD;
+    iteration objectives, detailed plan with task assignments, and evaluation results. This artifact also helps the team to&#xD;
+    monitor the progress of the iteration and keeps the results of the iteration assessment that may be usefull for&#xD;
+    improving the next one.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The task assignments for an iteration is a subset of all tasks on the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/work_items_list_39D03CC8.html&quot; guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>Artifact: Work Items List&lt;/a>, therefore the iteration plan ideally references those work items.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+&#xD;
+    Work items assigned to an iteration do not necessarily have the same priority. When selecting work items from the Work&#xD;
+&#xD;
+    Items List, the iteration plan may end up having work items with different priorities (for example, you assign the&#xD;
+&#xD;
+    remaining high priority work items, plus a few mid priority ones from the Work Items List). No matter what previous&#xD;
+&#xD;
+    priorities the work items had, when assigned to an iteration&amp;nbsp;the team has to make sure they are able to develop&#xD;
+&#xD;
+    what has been&amp;nbsp;assigned to the&amp;nbsp;iteration, and deciding on&amp;nbsp;what to&amp;nbsp;develop first (or&#xD;
+&#xD;
+    even&amp;nbsp;develop things in parallel) on an iteration will vary from project to project, from iteration to iteration.&#xD;
+&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>&lt;p>&#xD;
+&#xD;
+    Communicate the objectives, task assignment, and evaluation criteria for a given iteration.&#xD;
+&#xD;
+&lt;/p></purpose>
+  <representationOptions>&lt;p>&#xD;
+&#xD;
+    The level of detail/formality of the plan must be adapted to what you need to successfully meet these objectives.The&#xD;
+&#xD;
+    plan could, for example, be captured on the following places:&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;ul>&#xD;
+&#xD;
+    &lt;li>&#xD;
+&#xD;
+        a whiteboard listing the objectives, task assignments and evaluation criteria;&#xD;
+&#xD;
+    &lt;/li>&#xD;
+&#xD;
+    &lt;li>&#xD;
+&#xD;
+        a 1-page document listing the objectives and evaluation criteria of the iteration, as well as referencing the Work&#xD;
+&#xD;
+        Items List for assignments for that iteration;&#xD;
+&#xD;
+    &lt;/li>&#xD;
+&#xD;
+    &lt;li>&#xD;
+&#xD;
+        a more complex document, supported by a Gantt or Pert chart in a project planning tool.&#xD;
+&#xD;
+    &lt;/li>&#xD;
+&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

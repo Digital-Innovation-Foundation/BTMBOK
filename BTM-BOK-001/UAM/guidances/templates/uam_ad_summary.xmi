@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-hpGh-ys6J7pxJas0Yv493Q" name="uam_ad_summary,_691yINWpEdyLINQdtlJihw" guid="-hpGh-ys6J7pxJas0Yv493Q" authors="DW Enstrom" changeDate="2015-11-30T16:21:10.904-0500" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This is the template for the associated report: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/reports/uam_ad_summary_B9E06D94.html&quot; guid=&quot;_9gZHAJemEeWYSIY0NjUXgA&quot;>Report: AD&#xD;
+    Summary&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The AD Summary has an overall title based upon the query, or specified manually by the requester. Also, for each AD,&#xD;
+    the title,&amp;nbsp;reference number, and the date of approval is included in following structure (one for each included&#xD;
+    AD):&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    &amp;lt;Report Title&amp;gt;&#xD;
+&lt;/h3>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;h4>&#xD;
+        &amp;lt;Architectural Decision Title&amp;gt;&amp;nbsp;&#xD;
+    &lt;/h4>&#xD;
+    &lt;h5>&#xD;
+        Reference:&amp;nbsp;&amp;lt;reference number&amp;gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;date&amp;gt;&#xD;
+    &lt;/h5>&#xD;
+    &lt;h5>&#xD;
+        Decision&#xD;
+    &lt;/h5>&#xD;
+    &lt;p>&#xD;
+        &amp;lt;text&amp;gt;&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        The Reference number line is followed by a direct extract of the &quot;&lt;strong>Decision&lt;/strong>&quot; sub-section in the&#xD;
+        referenced AD.&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+    &lt;p dir=&quot;ltr&quot;>&#xD;
+        Optionally the following section of the Architectural Decision is included for each AD:&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;blockquote>&#xD;
+    &lt;h5>&#xD;
+        Impacts and Implications&#xD;
+    &lt;/h5>&#xD;
+    &lt;p>&#xD;
+        &amp;lt;text&amp;gt;&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        This is a direct extract of the section of the same name in the defined AD. It documents any implications of the&#xD;
+        decision, such as technology choice, cost, and support implications. It also documents and cross-references any&#xD;
+        implications on other ADs, past or present.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+  <attachments>resources/Report_Architectural_Decision_summary.pdf|resources/Report_Architectural_Decision_summary.dot|resources/Report_Architectural_Decision_summary.dotx|resources/Report_Architectural_Decision_summary.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

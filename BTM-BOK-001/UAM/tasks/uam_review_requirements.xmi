@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JaEVynCehhz4INT8f5yKxA" name="uam_review_requirements,_1Dy0AMkQEdyU89e0dKAsrw" guid="-JaEVynCehhz4INT8f5yKxA" changeDate="2015-02-03T09:32:15.664-0500" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    It is important to understand the context and objectives of an IT architecture project prior to reviewing the&#xD;
+    architecture itself. This task ensures that all participants are up-to-speed and that they all agree on these&#xD;
+    requirements. Modifications may be suggested, in which case they are documented in an &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/workproducts/uam_review_record_B5C8210C.html&quot; guid=&quot;_ON-wgPIOEdyIELoltz1wKA&quot;>Artifact: Architecture&#xD;
+    Review Record&lt;/a>. These suggested changes will be reviewed along with the IT architecture in the next step, and&#xD;
+    actions agreed at that stage.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This review is always done prior to the review of an IT architecture deliverable to ensure that participants in the&#xD;
+    review are at the same level of understanding regarding the context and objectives.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_xgL4cMkSEdyU89e0dKAsrw" name="Review Context &amp; Scope" guid="_xgL4cMkSEdyU89e0dKAsrw">
+    <sectionDescription>&lt;p>&#xD;
+    The initial step is to review the Context and Scope of the IT architecture. Once everyone agrees with this definition,&#xD;
+    or has agreed on required adjustments, then the project requirements are reviewed.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_0_ODgF6fEeSFL7Sh0MlmKA" name="Review Requirements" guid="_0_ODgF6fEeSFL7Sh0MlmKA">
+    <sectionDescription>Review the requirements for the IT architecture project, or the IT implementation project if this is a project level IT&#xD;
+architecture. The project definition and requirements must match the Context &amp;amp; Objectives and be in line with other&#xD;
+definitions such as the business's IT Strategy, Business Strategy, Business Objectives&amp;nbsp;and other planning&#xD;
+documentation.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Z2CaQF6gEeSFL7Sh0MlmKA" name="Review Project Objectives" guid="_Z2CaQF6gEeSFL7Sh0MlmKA">
+    <sectionDescription>The objectives and focus of the IT architecture project are reviewed to ensure that they line up with all other aspects.</sectionDescription>
+  </sections>
+  <purpose>The purpose of this task is to formally verify that the requirements defined for the IT architecture project agree with&#xD;
+the&amp;nbsp;stakeholder's (i.e. business and technical stakeholders) view of the &quot;system&quot;.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

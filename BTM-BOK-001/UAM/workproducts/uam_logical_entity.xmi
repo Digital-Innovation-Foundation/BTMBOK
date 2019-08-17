@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-JnRJI2GM4vXLSplBHzsI-g" name="uam_logical_entity,_e5AooNjOEdyPdoI9d5Dn-Q" guid="-JnRJI2GM4vXLSplBHzsI-g" authors="DW Enstrom" changeDate="2015-02-12T14:18:51.373-0500" changeDescription="new&#x9;" version="1.0.1">
+  <mainDescription>&lt;p>&#xD;
+    Stakeholders use Logical Entities to ensure that the information created and required by the organization is present in&#xD;
+    the &lt;a class=&quot;elementLink&quot; href=&quot;./../../UAM/workproducts/uam_perspective_logical_40FE04D0.html&quot;&#xD;
+    guid=&quot;_Py-hINT-EdyakOJbsHza1A&quot;>Logical Perspective&lt;/a>&amp;nbsp;(specifically the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/workproducts/uam_logical_entity_model_2ACBC73E.html&quot; guid=&quot;_UkGJEM6jEdymj4NXv8-FYA&quot;>Logical Entity&#xD;
+    Model&lt;/a>). An enterprise architect and business designer are responsible for identifying and describing Logical&#xD;
+    Entities, as well as for assessing the impact of organizational changes on the information created and required by the&#xD;
+    business. Logical Entities are also used by systems analysts and designers when describing&amp;nbsp;processes and&#xD;
+    identifying software entities, respectively.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note that Logical Entities are manipulated by Logical Roles, and in the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/workproducts/uam_logical_process_model_FEBA9C7C.html&quot; guid=&quot;_MMYawM6kEdymj4NXv8-FYA&quot;>Logical Process&#xD;
+    Model&lt;/a>&amp;nbsp;we show this through invocations of operations on the Logical Entity by Logical Roles. This depiction is&#xD;
+    itself a convenience -- in reality the operation invoked on the Logical Entity may be through the application of&#xD;
+    an&amp;nbsp;application (Logical Activity) by the Logical Role when executing a business process (activity or task).&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Logical Entities represent an abstraction of important persistent information within the business. Any piece of&#xD;
+    information that is a property of something else is probably not a Logical Entity in itself.&amp;nbsp; For example,&#xD;
+    &lt;em>ContactDetails&lt;/em> is a property of &lt;em>Customer&lt;/em> and therefore not a Logical Entity in itself. Information&#xD;
+    that is not stored but is created or determined on-demand (when necessary) is also probably not a Logical Entity. For&#xD;
+    example, &lt;em>age&lt;/em> is certainly significant information, but this is not persistent information. Anytime somebody&#xD;
+    needs to know the &lt;em>age&lt;/em> of an &lt;em>employee&lt;/em>, for example, this information will be calculated from&#xD;
+    &lt;em>birthDate&lt;/em> and then discarded.&#xD;
+&lt;/p></purpose>
+  <representationOptions>&lt;p>&#xD;
+    Logical Entities are a representation of the business information and data used within the system being modeled.&#xD;
+    Entities identify significant and persistent pieces of information that are manipulated by actors and activities.&#xD;
+    Structure is added in the logical model; relationships between entities are analyzed and defined, including&#xD;
+    generalizations and aggregations. Relationships with roles are identified in support of IT security aspects and other&#xD;
+    aspects.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» LPL_Entity&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Class&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A &lt;strong>Logical Entity&lt;/strong> may have the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&lt;/strong>&amp;nbsp;- This attribute is used to uniquely identify model elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&lt;/strong>&amp;nbsp;- A descriptive name for the Entity.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>owner: string&lt;/strong>&amp;nbsp;- Defines the owner of the information—the organizational element that makes&#xD;
+        usage and access decisions about the information. Normally defined as a specific organizational position within the&#xD;
+        enterprise or business line (e.g. COO).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>attribute: variable&lt;/strong> - attributes of each entity are defined. Many attributes are defined, each&#xD;
+        varying in type (e.g., string, integer, etc.).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        May have relationships with only Logical Roles or with other Logical Entities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Candidate keys may be identified in support of structured persistent storage.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

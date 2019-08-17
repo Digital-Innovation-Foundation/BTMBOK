@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-FSpq7sq8KEZo-e6F4aqu7w" name="Enterprise Architecture,_3-TfAcCZEdyMpOiGFnM_WA" guid="-FSpq7sq8KEZo-e6F4aqu7w">
+    <mainDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    This workflow defines the generic Capability Pattern used to create an enterprise level (EA), or business&amp;nbsp;domain&#xD;
+    level (BD), or any other level of IT architecture. There are several paths through this workflow, the path that you&#xD;
+    choose depends on the purpose of your architecture effort, as well as the stage of the architecture effort. The&#xD;
+    possible paths through the UAM &quot;Capability Pattern&quot; are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Use Architecture&lt;/strong> – IT architecture deliverables are used to analyze the current or future&#xD;
+        architecture, to develop migration plans, to develop training materials and to consult with various stakeholders&#xD;
+        (i.e. providing guidance and advice, reviewing models for correctness, or for the initial development of plans);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Define&lt;/strong> &lt;strong>Architecture&lt;/strong> &lt;strong>[Simple]&lt;/strong> – when time or resources are tight&#xD;
+        this path can be chosen. Things are simplified and existing information is leveraged in order to make this activity&#xD;
+        practical and useful.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Define&lt;/strong> &lt;strong>Architecture [&lt;/strong>&lt;strong>Existing] –&lt;/strong> Often existing systems and&#xD;
+        services have not been defined in an architectural fashion, which creates problems when one needs to understand how&#xD;
+        they fit into a larger enterprise or domain context. This activity uses an approach similar to the “Simple&#xD;
+        Architecture” activity to create this architecture definition.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Define&lt;/strong> &lt;strong>Architecture&lt;/strong> [&lt;strong>Moderate] or [Complex]&lt;/strong> – this should be the&#xD;
+        normal path when defining an IT architecture. On a moderately sized architecture effort with multiple locations,&#xD;
+        moderately complex interactions with other systems, and where the automation level is somewhat known, it may be&#xD;
+        cost-effective to combine the Logical and Technology Perspectives for architecture maintenance purposes. The&#xD;
+        process of arriving at the architecture is the same, but the logical models are not maintained once the technology&#xD;
+        models are developed. This means that the technology models must continue to include the fully manual tasks. It is&#xD;
+        however necessary to have a business level view for this size of architecture effort for communication purposes.&#xD;
+        This business level is a valuable tool for illustrating the impact of technology and re-engineering choices to&#xD;
+        management. It also serves to elaborate on the scope of the architecture effort in terms of the internal business&#xD;
+        operation. Three levels or views of the architecture are defined: &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;strong>Define Business Models&lt;/strong> – this usual starting point describes the target architecture from&#xD;
+                the business perspective and using business language. Concepts of processing and technology are absent.&#xD;
+                This equates to the Computational Independent Model (CIM) using MDA terminology, or the “Scope” and&#xD;
+                “Business Model” levels in the Zachman Framework and DoDAF.&amp;nbsp;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;strong>Define Logical Models&lt;/strong> – this level introduces computational aspects into the models,&#xD;
+                concepts such as “server” and “storage” at the logical level. More detail is generally provided along with&#xD;
+                relationships between components. This equates to the Processing Independent Model (PIM) in MDA, or the&#xD;
+                “System Model” in the Zachman Framework and DoDAF.&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;strong>Define Technology Models&lt;/strong> – This equates to the Processing Specific Model (PSM) in MDA, or&#xD;
+                the “Technology Model” in the Zachman Framework and DoDAF.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Architecture&lt;/strong> &lt;strong>Review&lt;/strong> – When architectures are completed a peer review is done to&#xD;
+        ensure completeness, consistency and comprehension among other things. Enterprise architectures would be reviewed&#xD;
+        by Domain architects, Domain architects would review Project architectures, etc. Business and domain experts would&#xD;
+        also be involved to ensure the IT architecture accurately captures the &quot;system&quot;.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Architecture Decision&lt;/strong> – a number of significant decisions are continuously being made regarding&#xD;
+        the approach, patterns or technologies to be used within an architecture. This activity manages these decisions in&#xD;
+        a way that they can be publicized, reused or re–examined as needed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Start Architecture Project&lt;/strong> – in order to get the IT architecture project off on the right foot,&#xD;
+        this explicit step is defined.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Maintain Architecture&lt;/strong> - IT architectures will be much more useful over time if they are&#xD;
+        maintained. A whole set of activities are defined to do this.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    UAM also defines the set of Tasks, deliverables (Work Products) and the &quot;Delivery Process&quot; for creating architectures&#xD;
+    along with a generic governance process (See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/roadmaps/uam_governance_60575AE0.html&quot; guid=&quot;_p0Js0OCrEdynr9jlfK-aMA&quot;>Roadmap:&#xD;
+    Governance&lt;/a>). There is also an extensive set of examples provided that use the templates and other resources&#xD;
+    included, providing a practical grounding in what information to capture and how it is presented in models, summaries&#xD;
+    and reports, and other artifacts (See: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/customcategories/uam_guidance_B4D6E38.html&quot; guid=&quot;_LREWsNZzEdyTWqLy4FSCdg&quot;>Guidance&lt;/a>). There are&#xD;
+    many participants involved in the development of IT architectures; see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/guidelines/uam_uam-roles_FD5BF188.html&quot; guid=&quot;_WA-EwLw4EeSCcsSOA-ZuEw&quot;>Guideline:&#xD;
+    Methodology Participants&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>IT architecture is mandatory in any organization with more than 100 employees. System and&amp;nbsp;processes and people are all&#xD;
+networked together in multiple ways in order to support the goals of the enterprise. This connectivity cannot be&#xD;
+understood, optimized, implemented and managed properly without the creation of abstract models. These models support the&#xD;
+decision making required to define, implement and evolve the enterprise's information technology that in turn supports the&#xD;
+goals of the organization.</usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Overview&quot; name=&quot;XE_Capability_Pattern__Overview&quot;>&lt;/a>This workflow is followed to create an&#xD;
+IT architecture as defined by UAM. There are specific paths defined for the various activities involved in creating, using&#xD;
+and maintaining an IT architecture.</purpose>
+    <usageNotes>&lt;p>&#xD;
+    The following decisions should be made regarding the&amp;nbsp;UAM IT Architecture discipline's workflow:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Decide how to perform the workflow by looking at the activities in this workflow. Study the process&#xD;
+        diagram&amp;nbsp;and the guidelines. Decide which activities to perform and in which order. The&amp;nbsp;provided &lt;a&#xD;
+        class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/deliveryprocesses/uam_it_architecture_del_8B27C350.html&quot;&#xD;
+        guid=&quot;_M6m4MchNEdyU89e0dKAsrw&quot;>Delivery Process: IT Architecture Delivery&lt;/a>&amp;nbsp;suggests a way to integrate&#xD;
+        these process within the enterprise and how to proceed;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Decide when, during the project lifecycle or business planning lifecycle, to introduce each part of this workflow.&#xD;
+        The enterprises' project planning and management milestones dictate the need for architectural reviews for example.&#xD;
+        On the other hand, Architectural Decisions may need to be defined at any time. Also see:&amp;nbsp;&lt;a&#xD;
+        class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/roadmaps/uam_ad_governance_D3C747FE.html&quot;&#xD;
+        guid=&quot;_0TknkGjpEeS7ieerwXbTqg&quot;>Roadmap: AD Governance&lt;/a> and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../UAM/guidances/roadmaps/uam_governance_60575AE0.html&quot; guid=&quot;_p0Js0OCrEdynr9jlfK-aMA&quot;>Roadmap:&#xD;
+        Governance&lt;/a>;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Decide what parts of the architecture activities to perform based upon the scope, context, and objectives.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Decide on the appropriate set of participants for the process.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The following parts can be performed relatively independently from other IT architecture projects (with the assumption&#xD;
+    that an IT architecture is already defined is some cases):&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;table title=&quot;Independent Activities&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;85%&quot; summary=&quot;Workflow usage&quot; border=&quot;1&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;th scope=&quot;col&quot; abbr=&quot;&quot;>&#xD;
+                &lt;p align=&quot;center&quot;>&#xD;
+                    Part of workflow&#xD;
+                &lt;/p>&#xD;
+            &lt;/th>&#xD;
+            &lt;th scope=&quot;col&quot; abbr=&quot;&quot;>&#xD;
+                Comments&#xD;
+            &lt;/th>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                &lt;strong>Define a Simple Architecture&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                If the context and scope is simple, time is at a premium, and existing documentation exists, then this&#xD;
+                simple approach can be used.&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                &lt;strong>Review an Architecture&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                Architectural reviews may be done independently of other activities and projects.&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                &lt;strong>Document an Existing Architecture&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                A project may need to do this prior to defining its own architecture, or this may be done independently in&#xD;
+                support of some other activity.&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                &lt;strong>Define an Architectural Decision&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                This activity may be performed at any time, within the context of a project or independent of a project.&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                &lt;strong>Use an Architecture&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                This activity may be performed at any time, provided that the IT architecture definition is complete.&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                &lt;strong>Maintain Architecture&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                This activity may be performed at any time, provided that the IT architecture definition is complete.&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br /></usageNotes>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-O6yU3a7cqFYdFpw1Y8pP5g" name="New Activity_2,_9TdCosH1EdyMpOiGFnM_WA" guid="-O6yU3a7cqFYdFpw1Y8pP5g">
+    <mainDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;EN-US&quot;>This workflow has the following goals:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define the Business Scope &amp;amp; Context&amp;nbsp;of the system;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a Business Entity Model for the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a Business Process Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a Business Logistics Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a Business Roles Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally update: &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                The Architecture Glossary&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Recommended as mandatory for efforts aimed at redefining or improving the business model including data, processes,&#xD;
+    locations and roles aspects. This workflow is iterative in that, after the Business Scope and other first&#xD;
+    iteration&amp;nbsp;work products are defined the perspective views are defined architecture is assessed, followed by&#xD;
+    another pass if&amp;nbsp;required. This work should be limited to one or two iterations. The purpose is to determine scope&#xD;
+    and business–level architecture models, not to construct the system.&#xD;
+&lt;/p></usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Business&quot; name=&quot;XE_Capability_Pattern__Business&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    Definition of the various business level architectural views supports the analysis of the business processes and other&#xD;
+    aspects, permitting optimizations to be discovered, along with&amp;nbsp;a better understanding of the business. It also&#xD;
+    supports the linkage of system or technical level structures and decisions directly back to the business drivers.&#xD;
+&lt;/p></purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional team members. Issues that are&#xD;
+    typically architecturally significant include data, process, locales and roles. The team should also include members&#xD;
+    with domain experience who can identify key abstractions, and ideally business &lt;span lang=&quot;EN-US&quot;&#xD;
+    style=&quot;mso-ansi-language: EN-US&quot;>modelers&lt;/span>. The team should also have experience with model organization and&#xD;
+    layering. From the provided&amp;nbsp;inputs, the team will need to be able to synthesize the models.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="--dJvtpztJJmEG2lQwMfDnQ" name="New Activity_9,_exFvssH5EdyMpOiGFnM_WA" guid="--dJvtpztJJmEG2lQwMfDnQ">
+    <mainDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;EN-US&quot;>This activity has the following goals:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Create an Architecture Decision (AD): &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Define the context of the problem, issue or decision;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Define the constraints, imposed by existing architecture, enterprise standards or others;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Define the rationale for the decision, through a well researched summary of the facts;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Extract the implications of the AD, on current systems, future systems, support aspects and other aspects;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Define or refine the specifics of the decision.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Get the AD reviewed and approved.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-CA; mso-fareast-language: EN-US; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+ face=&quot;Arial&quot;>An architectural decision may be defined at any time during a project, during business planning and in any&#xD;
+other contexts.&lt;/font>&lt;/span></usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__ADs&quot; name=&quot;XE_Capability_Pattern__ADs&quot;>&lt;/a>The purpose of this activity is to define an&#xD;
+Architectural Decision (AD) and get it approved and published. Documenting important ADs provides a repository of decisions&#xD;
+that will help guide other architects, managers and implementors in being compliant with enterprise and business domain&#xD;
+standards. They also provide a source of information for re-visiting decisions over time.</purpose>
+    <howtoStaff>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-ansi-language: EN-CA; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+ face=&quot;Arial&quot;>This activity is best carried out by an individual IT architect or a small team, and usually guided by one or&#xD;
+two individuals who have deep experience in architecting systems in the relevant domain. The team is staffed by&#xD;
+cross-functional team members best carries out these activities. Issues that are typically architecturally important&#xD;
+include performance, scaling, distribution, or other speciality engineering requirements. Significant architectural&#xD;
+constraints might also flow from physical and environmental requirements. The team should also include members with domain&#xD;
+experience who can identify key abstractions. Issues that are typically architecturally significant include technology,&#xD;
+performance, scaling, process and thread synchronization, and distribution. The team should also include members with&#xD;
+in-depth relevant IT technology knowledge. The team should also have experience with modeling, organization and&#xD;
+layering.&lt;/font>&lt;/span></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-VRaaeoofX2aOOwW_0QhkcA" name="EA - Review an Architecture,_lMAaIcH4EdyMpOiGFnM_WA" guid="-VRaaeoofX2aOOwW_0QhkcA">
+    <mainDescription>&lt;p>&#xD;
+    This activity is focused on organizing and doing&amp;nbsp;reviews of&amp;nbsp;the Business, Logical or&#xD;
+    Technical&amp;nbsp;Perspective of the IT architecture. Appropriate materials are gathered, venues booked and participants&#xD;
+    informed.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The IT architecture review is done in two phases, the first&amp;nbsp;focuses on the generated architecture, ensuring that&#xD;
+    it is complete and consistent, which is normally an&amp;nbsp;IT architect&amp;nbsp;&lt;em>peer&lt;/em>&#xD;
+    &lt;em>review&lt;/em>.&amp;nbsp;Typically, once an architecture view&amp;nbsp;is completed, this peer review is done prior to moving&#xD;
+    on to next steps; this is, therefore,&amp;nbsp;the last step in finalizing a&amp;nbsp;view within the Perspective (i.e. a set&#xD;
+    of models, the process models for example). See for example:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/capabilitypatterns/uam_define_logical_pers_30D1930.html&quot; guid=&quot;_CazhgMH3EdyMpOiGFnM_WA&quot;>Activity:&#xD;
+    Define Logical Perspective&lt;/a>&amp;nbsp;and the final step &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/tasks/uam_assess_architecture_5CF00CAD.html&quot; guid=&quot;_WbMKgMg1EdyBSO6dC2FdkA&quot;>Task: Assess the&#xD;
+    Architecture&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The second step, the &lt;em>stakeholder review&lt;/em> described here,&amp;nbsp;is&amp;nbsp;a review of&amp;nbsp;the content of the&#xD;
+    architecture in terms of how accurately it captures the business, which normally involves a number of stakeholders that&#xD;
+    have intimate knowledge of the area of the business in question and at the correct level, namely Business, Logical or&#xD;
+    Technical.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Actions are documented, assigned&amp;nbsp;and tracked.&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Recommended as mandatory for&amp;nbsp;architecture efforts that have a large scope or involve significant change to the&#xD;
+    business. The purpose is to ensure that there is cohesion and agreement in the models, from the architecture&#xD;
+    perspective and agreement from stakeholders.&#xD;
+&lt;/p></usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Review&quot; name=&quot;XE_Capability_Pattern__Review&quot;>&lt;/a>After a perspective is completed a formal&#xD;
+stakeholder review is done to finalize the IT architecture.</purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional team members. The team&#xD;
+    should&amp;nbsp;include members with domain experience who can identify key abstractions, and ideally system and technical&#xD;
+    level IT architects and experts. The team should also have experience and knowledge of a wide range of technologies&#xD;
+    along with&amp;nbsp;model organization and layering.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Vihls_0_GLSpZsaDchXtrw" name="New Task Descriptor,_VYTiochgEdyU89e0dKAsrw" guid="-Vihls_0_GLSpZsaDchXtrw">
+    <usageGuidance>At the Business level the review is very much focused on ensuring that the business needs are met, that the architecture is&#xD;
+complete and well-defined. Most participants are therefore business experts, business managers and other stakeholders at&#xD;
+the business level.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ta-WpOJh-QfIZWKfAcp78g" name="ea_organize_review_system,_YA58kchgEdyU89e0dKAsrw" guid="-Ta-WpOJh-QfIZWKfAcp78g">
+    <usageGuidance>At the Logical level the review is more focused on the solutions defined but also that the solutions do still meet business&#xD;
+needs. The architecture is also reviewed to ensure that it&amp;nbsp;is complete and well-defined. Most participants are&#xD;
+therefore technical experts, but also with business experts, and other stakeholders at the business level participating to&#xD;
+ensure business needs are met.</usageGuidance>
+    <refinedDescription>This task is focused on organizing a review of&amp;nbsp;the Logical&amp;nbsp;Perspective of the IT architecture. Appropriate&#xD;
+materials are gathered, venues booked and participants informed. The review focuses on the generated architecture, ensuring&#xD;
+that it is complete and consistent, which is normally a peer review. Alternatively the review may focus on the content of&#xD;
+the architecture in terms of how accurately it captures the business, which normally involves a number of stakeholders that&#xD;
+have intimate knowledge of the area of the business in question and its systems.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fyqgXYvKo9UGM7QQCrE2PA" name="ea_organize_review_technology,_avnlkMhgEdyU89e0dKAsrw" guid="-fyqgXYvKo9UGM7QQCrE2PA">
+    <usageGuidance>At the Technical level the review is more focused on the technical details of the solutions defined but also that the&#xD;
+solutions do still meet business needs. The architecture is also reviewed to ensure that it&amp;nbsp;is complete and&#xD;
+well-defined. Most participants are therefore technical experts, but also with a few tech-savvy business experts to ensure&#xD;
+business needs are met.</usageGuidance>
+    <refinedDescription>This task is focused on organizing a review of&amp;nbsp;the Technology Perspective of the IT architecture. Appropriate&#xD;
+materials are gathered, venues booked and participants informed. The review may focus on the generated architecture,&#xD;
+ensuring that it is complete and consistent, which is normally a peer review. Alternatively the review may focus on the&#xD;
+content of the architecture in terms of how accurately it captures the business, which normally involves a number of&#xD;
+stakeholders that have intimate knowledge of the area of the business in question and the technology used and required.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-W7wAD2ZGabuJlIFPGxYV9w" name="ea_manage_follow-up,_CXYkgchiEdyU89e0dKAsrw" guid="-W7wAD2ZGabuJlIFPGxYV9w">
+    <usageGuidance>&lt;p>&#xD;
+    Following each review meeting, the results of the meeting should be documented in some form of &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/workproducts/uam_review_record_B5C8210C.html&quot;&#xD;
+    guid=&quot;_ON-wgPIOEdyIELoltz1wKA&quot;>Artifact: Architecture Review Record&lt;/a>. In addition, change requests are formally&#xD;
+    recorded and assigned to someone to own and drive to resolution.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    One of the most important yet surprisingly often neglected aspects of reviews is the management to resolution of the&#xD;
+    follow-up tasks or actions identified during the review. While you can usually resolve many of the identified&#xD;
+    issues&amp;nbsp;during the course of the review meeting itself, be prepared to assign tasks as needed but ensure that the&#xD;
+    workload of team members is balanced.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note that even if you can review everything you need to in a single meeting, you probably won't get approval of all&#xD;
+    your conclusions the first time. Be prepared to carry out subsequent reviews as necessary to help manage the&#xD;
+    undertaking of a large number of follow-up tasks.&#xD;
+&lt;/p></usageGuidance>
+    <refinedDescription>&lt;p>&#xD;
+    This task is focused on&amp;nbsp;following up on actions resulting from&amp;nbsp;a review of&amp;nbsp;the Business, Logical or&#xD;
+    Technical&amp;nbsp;Perspective of the IT architecture. Actions are clarified if needed and assigned and tracked.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Architectural Decisions that need to be made and documented may also arise during the review. These are also assigned&#xD;
+    and tracked.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LkqHVZhiztAsBR5QDy9rKQ" name="ea_review_requirements_business,_MPUvcMhhEdyU89e0dKAsrw" guid="-LkqHVZhiztAsBR5QDy9rKQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XRmh0pWJwyxHvjMF051BdQ" name="ea_review_requirements_system,_aZ70AchhEdyU89e0dKAsrw" guid="-XRmh0pWJwyxHvjMF051BdQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-weK7Ux5EQIxrJZ9tV6o3tg" name="ea_review_requirements_technology,_dT7f8MhhEdyU89e0dKAsrw" guid="-weK7Ux5EQIxrJZ9tV6o3tg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ioyjsFaKOmuULMII2haRyw" name="ea_review_models_business,_ofFw0MhhEdyU89e0dKAsrw" guid="-ioyjsFaKOmuULMII2haRyw">
+    <usageGuidance>The purpose of this task is to formally verify that the model defined for the business level view of the system agrees with&#xD;
+the&amp;nbsp;enterprise's standards and that it also is compatible with the enterprise's strategic objectives. The architecture&#xD;
+is also examined for consistency, completeness, clarity and other aspects.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-AozbM6X4FiF-xQ5nadaH-Q" name="ea_review_models_system,_tpPhgchhEdyU89e0dKAsrw" guid="-AozbM6X4FiF-xQ5nadaH-Q">
+    <usageGuidance>The purpose of this task is to formally verify that the model defined for the Logical level&amp;nbsp;architecture agrees with&#xD;
+the&amp;nbsp;enterprise's standards and that it also is compatible with the enterprise's strategic goals. The architecture is&#xD;
+also examined for consistency, completeness, clarity and other aspects.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lj1O4x76doScvPyHNSRFqw" name="ea_review_models_technology,_v4DicchhEdyU89e0dKAsrw" guid="-lj1O4x76doScvPyHNSRFqw">
+    <usageGuidance>The purpose of this task is to formally verify that the model defined for the Technical level&amp;nbsp;architecture agrees with&#xD;
+the&amp;nbsp;enterprise's standards and that it also is compatible with the enterprise's strategic direction. The architecture&#xD;
+is also examined for consistency, completeness, clarity and other aspects.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-r7yLY3CO0SQIfmqd97sQHg" name="New Task Descriptor,_MKV_IMndEdyrwvFL-z9XGA" guid="-r7yLY3CO0SQIfmqd97sQHg">
+    <usageGuidance>&lt;p>&#xD;
+    The purpose of this task is to formally verify that the model defined for the Simple architecture agree&amp;nbsp;with&#xD;
+    the&amp;nbsp;enterprise's standards and that it also is compatible with the enterprise's strategic direction. The&#xD;
+    architecture is also examined for consistency, completeness, clarity and other aspects.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Simple models are not reviewed as rigorously as fully defined models. Either a simple Logical Perspective or simple&#xD;
+    Technical Perspective is reviewed.&#xD;
+&lt;/p></usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-MtBbfUbo71yndz0S6n2LVQ" name="EA - Define a Fastpath Architecture,_5wstkcH1EdyMpOiGFnM_WA" guid="-MtBbfUbo71yndz0S6n2LVQ">
+    <mainDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;EN-US&quot;>This activity has the following goals:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define the Business Scope of the architecture or system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define the: &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Simple Logical or Technical Entity Model;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Simple Logical or Technical Process Model;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Simple Logical or Technical Logistics Model;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Simple Logical or Technical Roles Model.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally update:&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                The Architecture Glossary&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Recommended as mandatory, as an alternative to a complex architectural effort,&amp;nbsp;aimed at refining or improving the&#xD;
+    model including data, processes, locations and roles aspects. This workflow is iterative in that after the the models&#xD;
+    are defined a quick assessment is performed to check the results, with further iterations executed to refine and expand&#xD;
+    the architecture. This work should be limited to&amp;nbsp;two or three iterations.&#xD;
+&lt;/p></usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Simple&quot; name=&quot;XE_Capability_Pattern__Simple&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The purpose of this activity is to define simple architectural views of the system at the Logical or Technology levels&#xD;
+    (or both).&#xD;
+&lt;/p></purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional members. Issues that are typically&#xD;
+    architecturally significant include data, process, locales and roles. The team should also include members with domain&#xD;
+    experience and knowledge of existing models and systems and who can identify key abstractions, and ideally business&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-ansi-language: EN-US&quot;>modelers&lt;/span>. The team should also have experience with model&#xD;
+    organization and layering. From these inputs, the team will need to be able to synthesize the models.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--r-GHB6zApKE0INalFKpuQ" name="ea_scan_ad_simple,_vwCAAMnvEdy25fQyv59CjQ" guid="--r-GHB6zApKE0INalFKpuQ">
+    <usageGuidance>It is important to set the context for the architectural effort in terms of the set of relevant architectural decisions&#xD;
+that the enterprise has made and specifically the ones that apply to the effort at hand.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_lC3BU82AALPc-dyJFZpLA" name="ea_scan_ad_review,_uCLyUMqYEdy25fQyv59CjQ" guid="-_lC3BU82AALPc-dyJFZpLA">
+    <usageGuidance>It is important to set the context for the architectural effort in terms of the set of relevant Architectural Decisions&#xD;
+that the enterprise has made and specifically the ones that apply to the effort at hand. The AD repository is searched for&#xD;
+the relevant ADs and a summary is produced.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-K6OAwsbXnhhQhKAslf-3lA" name="ea_review_current_simple,_eDHc4cnwEdy25fQyv59CjQ" guid="-K6OAwsbXnhhQhKAslf-3lA">
+    <usageGuidance>In the context of doing a quick and simple architecture effort, leveraging existing work and information is the way to go.&#xD;
+Not only are Architectural Decisions a good source of information, existing architectures are invaluable in speed up the&#xD;
+process.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZF-Wsrf5Vm0UoNVmUmh1Gw" name="ea_assess_arch_simple,_FxfhgcnvEdy25fQyv59CjQ" guid="-ZF-Wsrf5Vm0UoNVmUmh1Gw">
+    <usageGuidance>In the context of a simple architecture development the breadth and depth of the assessment is reduced. The main purpose&#xD;
+should be to ensure that the architecture is complete and that it conforms with enterprise standards as defined in&#xD;
+architectural decisions. Judgment is needed to decide on the depth and breadth based upon the urgency and importance of the&#xD;
+architecture effort.</usageGuidance>
+    <refinedDescription>The architectural assessment done in&amp;nbsp;the &lt;em>simple&lt;/em> context involves ensuring that the architecture addresses the&#xD;
+business need and fits in with the enterprise direction in the long-term. Scenarios may be used to test the architecture.&#xD;
+If there is a problem in the direction taken by the architecture in terms of the enterprise long-term objectives then&#xD;
+management will need to be made aware of and bless this deviation in direction.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Q6bFzG4DTWhwquiNN07Q_w" name="New Task Descriptor,_jwEakMgtEdyBSO6dC2FdkA" guid="-Q6bFzG4DTWhwquiNN07Q_w">
+    <refinedDescription>&lt;p>&#xD;
+    The architectural assessment done in&amp;nbsp;this context involves ensuring that the architecture addresses the business&#xD;
+    need and fits in with the enterprise direction in the long-term. Scenarios may be used to test the architecture. If&#xD;
+    there is a problem in the direction taken by the architecture in terms of the enterprise long-term objectives then&#xD;
+    management will need to be made aware of and bless this deviation in direction.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The models are assessed from these and other perspectives:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To check it for completeness;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To check it for consistency in everything from naming conventions to concepts and structure;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To detect any architectural design flaws. Architectural flaws are known to be the hardest to fix, the most damaging&#xD;
+        in the long run;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To detect a potential mismatch between the requirements and the architecture: over-design, unrealistic&#xD;
+        requirements, or missing requirements. In particular the assessment may examine some aspects often neglected in the&#xD;
+        areas of operation, administration and maintenance;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To evaluate one or more specific architectural qualities: performance, reliability, modifiability, security,&#xD;
+        safety;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To identify reuse opportunities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensure conformance with enterprise and business domain standards.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-0nin-PewQthOwjYGduJdLQ" name="New Task Descriptor,_M1brwMtXEdy25fQyv59CjQ" guid="-0nin-PewQthOwjYGduJdLQ">
+    <usageGuidance>It is important to set the context for the architectural effort in terms of the set of relevant Architectural Decisions&#xD;
+that the enterprise has made and specifically the ones that apply to the effort at hand. The AD repository is searched for&#xD;
+the relevant ADs and a summary is produced.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HeKIJ1JSve9zstZomWvGxQ" name="ea_define_business_scope_existing,_vz8gYc61Edymj4NXv8-FYA" guid="-HeKIJ1JSve9zstZomWvGxQ">
+    <usageGuidance>Since there is an existing environment already a quick definition of the scope is performed, focusing on and defining the&#xD;
+business area in question. Existing documentation is often used to quickly define this view into the architecture.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NKGx43j1naye0Yv9IuUFIQ" name="ea_scan_ad_existing,_zaa30c61Edymj4NXv8-FYA" guid="-NKGx43j1naye0Yv9IuUFIQ">
+    <usageGuidance>It is important to set the context for the architectural effort in terms of the set of relevant Architectural Decisions&#xD;
+that the enterprise has made and specifically the ones that apply to the effort at hand. The AD repository is searched for&#xD;
+the relevant ADs and a summary is produced.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-EU55OdjqCsN7RHwVygTHhA" name="New Task Descriptor_5,_MGq5sc63Edymj4NXv8-FYA" guid="-EU55OdjqCsN7RHwVygTHhA">
+    <usageGuidance>In the context of documenting an existing architecture, leveraging existing work and information is the way to go. Not only&#xD;
+are architectural decisions a good source of information, existing project and system documentation is invaluable.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-giBx-G7ilf3LYNiLnPbEwA" name="New Task Descriptor_7,_ptPV8c63Edymj4NXv8-FYA" guid="-giBx-G7ilf3LYNiLnPbEwA">
+    <usageGuidance>&lt;p>&#xD;
+    In the context of a documenting and existing architecture the breadth and depth of the assessment is reduced. The main&#xD;
+    purpose should be to ensure that the architecture is complete in terms of coverage and that it is generally to the same&#xD;
+    level of detail. It may also be reviewed to see if conforms with enterprise standards as defined in architectural&#xD;
+    decisions, if needed, or perhaps just note exceptions. Judgment is needed to decide on the depth based upon the urgency&#xD;
+    and importance of the architecture effort.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Either a simple Logical Perspective or simple Technical Perspective is reviewed.&#xD;
+&lt;/p></usageGuidance>
+    <refinedDescription>The architectural review done in&amp;nbsp;the &lt;em>existing&lt;/em> context involves ensuring that the architecture is captured to&#xD;
+the desired degree of detail. Scenarios may be used to test the architecture for completeness and consistency of detail. It&#xD;
+is also useful to document, for future reference, exceptions to the current list of architectural decisions found in the&#xD;
+current architecture.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gHKUxISPO7QwWcAfTGCAKg" name="ea_scan_ad_migration,_gHtecNKOEdyTfZVjf0InKw" guid="-gHKUxISPO7QwWcAfTGCAKg">
+    <usageGuidance>It is important to review existing architectural decisions that apply to the existing system under analysis. The AD&#xD;
+repository is searched for the relevant ADs and a summary is produced. These ADs will help in fully&amp;nbsp;summarizing the&#xD;
+existing system architecture.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-OdeAGoVGZZQfjQJvv8AALw" name="ea_analyse_existing_migration,_hUmIUdKOEdyTfZVjf0InKw" guid="-OdeAGoVGZZQfjQJvv8AALw">
+    <usageGuidance>In the context of doing a gap analysis in order to do migration planning one needs to document an existing architecture in&#xD;
+order to compare the existing situation to the desired end-state as defined in the enterprise architecture. Not only are&#xD;
+architectural decisions a good source of information, existing project and system documentation is invaluable in helping&#xD;
+document an existing architecture.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-C9OGCmuh00eNzNQn6ZCS5w" name="ea_scan_ads_system,_B2LL0dNNEdyTfZVjf0InKw" guid="-C9OGCmuh00eNzNQn6ZCS5w">
+    <usageGuidance>It is important to set the context for the architectural effort in terms of the set of relevant Architectural Decisions&#xD;
+that the enterprise has made and specifically the ones that apply to the effort at hand. The AD repository is searched for&#xD;
+the relevant ADs and a summary is produced.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YyKcGH1xCgaX1ieavrV83Q" name="ea_assess_arch_sys,_CV_0AdNQEdyTfZVjf0InKw" guid="-YyKcGH1xCgaX1ieavrV83Q">
+    <refinedDescription>&lt;p>&#xD;
+    The architectural assessment done in&amp;nbsp;this context involves ensuring that the architecture addresses the business&#xD;
+    need and fits in with the enterprise direction in the long-term. Scenarios may be used to test the architecture. If&#xD;
+    there is a problem in the direction taken by the architecture in terms of the enterprise long-term objectives then&#xD;
+    management will need to be made aware of and bless this deviation in direction.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The IT architecture is assessed from these and other perspectives:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To check it for completeness;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To check it for consistency in everything from naming conventions to concepts and structure;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To detect any architectural design flaws. Architectural flaws are known to be the hardest to fix, the most damaging&#xD;
+        in the long run;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To detect a potential mismatch between the requirements and the architecture: over-design, unrealistic&#xD;
+        requirements, or missing requirements. In particular the assessment may examine some aspects often neglected in the&#xD;
+        areas of operation, administration and maintenance;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To evaluate one or more specific architectural qualities: performance, reliability, modifiability, security,&#xD;
+        safety;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To identify reuse opportunities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensure conformance with enterprise and business domain standards.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-SnyV01YNX32bnPpPyX2d8w" name="ea_define_system_models,_CazhgMH3EdyMpOiGFnM_WA" guid="-SnyV01YNX32bnPpPyX2d8w">
+    <mainDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;EN-US&quot;>This workflow has the following goals:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define a Logical Entity Model for the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a Logical Process Model for the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a Logical Locations Model for the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a Logical Roles Model for the system&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally update: &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                The Architecture Glossary.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Recommended as mandatory for architecture efforts aimed at redefining or improving the&amp;nbsp;logical system&amp;nbsp;model&#xD;
+    including data, processes, locations and roles aspects. This workflow is iterative, after each iteration is defined the&#xD;
+    architecture is assessed, followed by another pass if&amp;nbsp;required. This work should be limited to two or three&#xD;
+    iterations. The purpose is to define the logical level architecture models, not to construct the system.&#xD;
+&lt;/p></usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Logical&quot; name=&quot;XE_Capability_Pattern__Logical&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    Definition of the various Logical level architectural views supports the analysis of the processes, system&#xD;
+    structures&amp;nbsp;and other aspects, permitting optimizations to be discovered&amp;nbsp;along with a better understanding of&#xD;
+    the business and the supporting information technologies. It also provides for the linkage of&amp;nbsp;Logical&amp;nbsp;(and&#xD;
+    Technical) level architectures and decisions directly back to the business level and the root drivers for the&#xD;
+    architecture.&#xD;
+&lt;/p></purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional team members with various technical&#xD;
+    and business experts brought in as required. Issues that are typically architecturally significant include data,&#xD;
+    process, locales and roles including the structure of these aspects. The team should also include members with domain&#xD;
+    experience (business experts and technical experts) who can identify key abstractions, and ideally logical level &lt;span&#xD;
+    lang=&quot;EN-US&quot; style=&quot;mso-ansi-language: EN-US&quot;>modelers&lt;/span>. The team should also have experience with model&#xD;
+    organization and layering. From the provided&amp;nbsp;inputs, the team will need to be able to synthesize the models.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-2WbYwf8kmB1nvYE9QLXCHw" name="ea_define_technology_models,_FOw24sH3EdyMpOiGFnM_WA" guid="-2WbYwf8kmB1nvYE9QLXCHw">
+    <mainDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;EN-US&quot;>This workflow has the following goals:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define a Technical Entity Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a Technical Process Model for the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a Technical Logistics Model for the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a Technical Roles Model for the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally update:&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                The Architecture Glossary.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Recommended as mandatory for architecture efforts aimed at redefining or improving the&amp;nbsp;technical&amp;nbsp;model&#xD;
+    including data, processes, locations and roles aspects. This workflow is iterative, after each iteration is defined the&#xD;
+    architecture is assessed, followed by another pass if&amp;nbsp;required. This work should be limited to two or three&#xD;
+    iterations. The purpose is to define the technical level architecture models, not to construct the system.&#xD;
+&lt;/p></usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Technical&quot; name=&quot;XE_Capability_Pattern__Technical&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    Definition of the various technical level architectural views supports the analysis of the technologies and teir usage&#xD;
+    in supporting the and implementing the logical level processes, system structures&amp;nbsp;and other aspects, permitting&#xD;
+    optimizations to be discovered&amp;nbsp;along with a better understanding of the tierbusiness and the supporting&#xD;
+    information technologies. It also provides for the linkage of technical level structures and decisions directly back to&#xD;
+    the business drivers.&#xD;
+&lt;/p></purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional team members. Issues that are&#xD;
+    typically architecturally significant include data, process, locales and roles. The team should also include members&#xD;
+    with domain experience who can identify key abstractions, and ideally technical level &lt;span lang=&quot;EN-US&quot;&#xD;
+    style=&quot;mso-ansi-language: EN-US&quot;>modelers&lt;/span>. The team should also have experience and knowledge of a wide range of&#xD;
+    technologies along with&amp;nbsp;model organization and layering. From the provided&amp;nbsp;inputs, the team will need to be&#xD;
+    able to synthesize the models.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-URQEWpJyWq-WSfkKmlr0Zg" name="ea_document_existing_architecture,_7k35ksH4EdyMpOiGFnM_WA" guid="-URQEWpJyWq-WSfkKmlr0Zg">
+    <mainDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;EN-US&quot;>Depending upon the objectives of this effort, this workflow has the following goals:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define a simple System Level Models for the architecture or system&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define a simple Technology Level Models for the architecture or system&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally create or update: &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                The Business Glossary and System Glossary&amp;nbsp;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                The Supplementary Specifications&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Many existing enterprise environments have now been modeled in an enterprise architecture disciplined fashion. In order&#xD;
+    to understand the existing environment sufficiently to make changes to it, or to permit a proper gap analysis to be&#xD;
+    done (in support of migration planning), it need to be documented architecturally. This activity defines the&#xD;
+    architecture models for an existing environment.&#xD;
+&lt;/p></usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Existing&quot; name=&quot;XE_Capability_Pattern__Existing&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    Definition of the various system and technology level architectural views supports the analysis of the processes,&#xD;
+    system structures&amp;nbsp;and other aspects, permitting optimizations to be discovered&amp;nbsp;along with a better&#xD;
+    understanding of the business and the supporting systems and technologies. It also provides for the linkage of system&#xD;
+    or technical level structures and decisions directly back to the business drivers. These models of the existing&#xD;
+    environment are also used to support the modification of the environment or for more substantial evolution to a target&#xD;
+    architecture through gap analysis and migration planning.&#xD;
+&lt;/p></purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional team members. Issues that are&#xD;
+    typically architecturally significant include data, process, locales and roles. The team should also include members&#xD;
+    with domain and specifically the existing environment and&amp;nbsp;who can identify key abstractions, ideally logical level&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-ansi-language: EN-US&quot;>modelers&lt;/span>. The team should also have experience with model&#xD;
+    organization and layering. From the provided&amp;nbsp;inputs, the team will need to be able to synthesize the models.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-oc3Th-VvYsFEMAu9TQjhXw" name="ea_develop_migration_plan,_6BTYksH5EdyMpOiGFnM_WA" guid="-oc3Th-VvYsFEMAu9TQjhXw">
+    <mainDescription>To develop a migration plan a current environment is compared with a target architecture and the differences noted.&#xD;
+Knowledge of dependencies between components, technologies, processes and systems, among other aspects, is then used to&#xD;
+order these steps into a logical sequence of activities, with the end result being the enterprise's environment ending up&#xD;
+in the target state as defined by the target enterprise architecture.</mainDescription>
+    <usageGuidance>Migration planning is done to define the steps (normally a series of projects) necessary to move the enterprises&#xD;
+information technology environment from an existing state to a target state as defined by a target architecture.</usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Migration&quot; name=&quot;XE_Capability_Pattern__Migration&quot;>&lt;/a>When the Technical Perspective is&#xD;
+completed then a migration plan can be defined. It specifies how to move from the current situation to the target IT&#xD;
+architecture as defined by the Technical Perspective.</purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional team members.&amp;nbsp;The team&#xD;
+    should&amp;nbsp;include members with business domain and specifically the existing environment and&amp;nbsp;who can identify&#xD;
+    key dependencies, ideally at the Business, Logical and Technology levels. The team should also have knowledge of&#xD;
+    project planning, release planning and project management.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aYQ19JLV4aXw1KeM_11W7Q" name="ea_define_ads_existing,_lSYYod8oEdynr9jlfK-aMA" guid="-aYQ19JLV4aXw1KeM_11W7Q">
+    <usageGuidance>Undocumented Architectural Decisions are created as necessary while documenting an existing architecture.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-KucLGzoL449cMp8fzz-5oA" name="uam_define_business_scope,_mih-gMN0Edyw05Jz5yYR2g" guid="-KucLGzoL449cMp8fzz-5oA">
+    <usageGuidance>The context and scope have been defined, but prior to starting into the IT architecture it is useful to review it to get&#xD;
+everyone on the same page and to refine as necessary.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-mAZm9J1Iix_CtRKeLxVgyA" name="uam_analyse_models,_WFPgsFE3EeOcVJX_gvTjyg" guid="-mAZm9J1Iix_CtRKeLxVgyA">
+    <mainDescription>&lt;p>&#xD;
+    This activity is focused on organizing and doing&amp;nbsp;a thorough analysis of&amp;nbsp;the Business, Logical or&#xD;
+    Technical&amp;nbsp;Perspective of the IT architecture. Appropriate materials are gathered, venues booked and participants&#xD;
+    informed.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Prior to this analysis the IT architecture has been reviewed ensuring that it is complete and consistent (normally an&#xD;
+    IT&amp;nbsp;architect&amp;nbsp;&lt;em>peer review&lt;/em>) &lt;em>and&lt;/em> a review of&amp;nbsp;the content of the architecture in terms of&#xD;
+    how accurately it captures the business (normally involving stakeholders that have intimate knowledge of the business,&#xD;
+    a &lt;em>stakeholder review&lt;/em>).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This analysis assumes that the IT architecture is complete and accurate (i.e. these &lt;em>reviews&lt;/em> have been&#xD;
+    completed) and essentially takes a step back from the IT architecture and looks at the larger context, proposed&#xD;
+    solutions, implications of these solutions, and how it all fits into the enterprise's business strategy, IT strategy,&#xD;
+    technology and other standards,&amp;nbsp;and other plans and objectives. This analysis is slightly different for each of&#xD;
+    the levels. Not only are the participants different, the focus and objectives of the analysis at the Business level are&#xD;
+    much different that those at the Technical level.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Actions are documented, assigned&amp;nbsp;and tracked.&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>After each level of IT architecture is defined a mandatory analysis step is performed, for the reasons defined above.&#xD;
+Clarification of the objectives of the IT architecture project is one outcome, but there are other benefits to this&#xD;
+analysis as noted. Once an analysis is completed then the next level of IT architecture is defined (i.e. Logical or&#xD;
+Technical).</usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Analyse&quot; name=&quot;XE_Capability_Pattern__Analyse&quot;>&lt;/a>IT architectures are of no value unless&#xD;
+they are used to support the objectives of the business. The analysis of the model is done to help fine the &quot;better, faster&#xD;
+and cheaper&quot; approach.</purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional team members. The team&#xD;
+    should&amp;nbsp;include members with domain experience who can identify key abstractions, and ideally system and technical&#xD;
+    level IT architects and experts. The team should also have experience and knowledge of a wide range of technologies&#xD;
+    along with&amp;nbsp;model organization and layering.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Rfw7pX6_hs-eHtjn2dKzGQ" name="New Task Descriptor,_A2dvAENcEeShYIpiBstbOQ" guid="-Rfw7pX6_hs-eHtjn2dKzGQ"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-mf5sOQGJYW0uOvhW77pvqw" name="uam_develop_training,_qd8fMFE3EeOcVJX_gvTjyg" guid="-mf5sOQGJYW0uOvhW77pvqw">
+    <mainDescription>After defining the objectives for the training course (i.e.&amp;nbsp;the audience, focus and scope) the next step is to list&#xD;
+the detailed skills and knowledge that are to be taught. These are then organized into a logical sequence of modules after&#xD;
+which the detail for each part of the course is flushed out. Examples and exercises may also be included within the course&#xD;
+material, as provided by the source material and domain experts.</mainDescription>
+    <keyConsiderations>Once the focus and scope of the course&amp;nbsp; is determined, it is important to understand the target audience for the&#xD;
+course, which in turn defines the skills and knowledge that will be taught.</keyConsiderations>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Training&quot; name=&quot;XE_Capability_Pattern__Training&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    This activity is focused on organizing and development of a training course based upon&amp;nbsp;an IT architecture. The&#xD;
+    course may focus on the complete generated IT architecture, or may focus on a portion of the architecture. Appropriate&#xD;
+    materials are gathered, venues booked and participants notified.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Training is an important part of implementing a system and keeping it running. IT architecture definitions are an&#xD;
+    excellent source of information for developing the required training, be it at the user level or even for developers&#xD;
+    and maintainers. This task develops the required training based upon the objectives defined for the course.&#xD;
+&lt;/p></purpose>
+    <howtoStaff>The scope and focus of the course will dictate the participants: the skills and knowledge required of them in helping to&#xD;
+define the course.</howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-XiQ10cwEY3pc3mLTHPV4cQ" name="uam_consult,_4VT3oVE3EeOcVJX_gvTjyg" guid="-XiQ10cwEY3pc3mLTHPV4cQ">
+    <mainDescription>&lt;p>&#xD;
+    After an IT architecture is defined and analyzed, it is then used to consult with stakeholders. This consultation&#xD;
+    should take place in multiple fora:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Technical level reviews with technical stakeholders;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Business level (and non-technical manager) stakeholders;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Operations (and&amp;nbsp;optionally maintenance) stakeholders.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Each of these consultations will naturally have different objectives and focus.&#xD;
+&lt;/p></mainDescription>
+    <usageGuidance>The consultations done will likely be based upon the level of the IT architecture defined and referenced.&amp;nbsp;For example,&#xD;
+Technical Perspective will be of more interest to technical stakeholders and operations people. One the other hand, if all&#xD;
+three levels are defined, the consultation will focus on the level appropriate for the stakeholder audience.</usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Consult&quot; name=&quot;XE_Capability_Pattern__Consult&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The purpose of consulting with stakeholders (not involved in the creation of the IT architecture) is to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Educate these stakeholders on the architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Solicit feedback from them on the IT architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide information to them on optimizations and other findings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Clarify and define priorities moving forward.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-5SY79648nnyAz6B2mZcXVw" name="uam_define_context_objectives,_183HolE5EeOcVJX_gvTjyg" guid="-5SY79648nnyAz6B2mZcXVw">
+    <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot;>The Scope &amp;amp; Context is defined at the business level and as one of the first steps when starting into&#xD;
+    an IT architecture project. It sets&amp;nbsp;the context for the &quot;system&quot; in terms of a context diagram and external&#xD;
+    Actors. As a starting point for the project, and to aid in clarifying the scope of the&quot;system&quot;&amp;nbsp;the business&#xD;
+    entities, business processes, business locations, business actors and optionally important business rules and events&#xD;
+    are carefully defined. These in total define the scope of the &quot;system&quot; for the architecture effort. Also, and very&#xD;
+    important, is the definition of a standard business vocabulary that is used to describe and discuss the&#xD;
+    system.&lt;/font>&lt;/span>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot;>Additionally the objectives of the IT architecture project are defined. These aid in focusing the IT&#xD;
+    architecture effort on those aspects that are important and needed. For example, a Technical Perspective could be&#xD;
+    focused solely on the definition of the IP network architecture, or alternatively the server and storage&#xD;
+    architecture.&lt;/font>&lt;/span>&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Context_and_Objectives&quot; name=&quot;XE_Capability_Pattern__Context_and_Objectives&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    This activity finds and defines the business aspects involved and context&amp;nbsp;for the &quot;system&quot; being architected,&#xD;
+    specifically to identify:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 0pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            The Business Entities involved in and supporting the system's business processes and functions;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 0pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            The Business Processes included in the system;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 0pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            The Business Locations included in the system;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 0pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            The Business Actors included in the system;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 0pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            The Business Rules (Optional) included in the system;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 0pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            The Business Events (Optional) included in the system;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 0pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            And describe a &quot;context diagram&quot; for the &quot;system&quot;;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+         face=&quot;Arial&quot;>And refine the Business Glossary.&lt;/font>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The end result is a clearly defined &lt;em>&lt;strong>scope&lt;/strong>&lt;/em> for the system being architected, along with its&#xD;
+    &lt;em>&lt;strong>context&lt;/strong>&lt;/em> including a context diagram.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Additionally IT architectures should not be defined unless there are clear &lt;strong>&lt;em>objectives&lt;/em>&lt;/strong> defined&#xD;
+    for using the subsequent artifacts. Often the scope of the &quot;system&quot; is large and therefore these objectives are used to&#xD;
+    focus the effort and reduce the time, money and resources needed to produce a useful result. Some example objectives&#xD;
+    are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Refine the application architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Refine or define the application or service middleware infrastructure;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Server consolidation;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understanding the network and rationalizing its structure and services.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    These are just a few of many types of objectives that may be defined to help focus the IT architecture effort.&#xD;
+&lt;/p>&lt;br /></purpose>
+    <howtoStaff>Participants should understand the problem domain, the current situation and the business's objectives and priorities.</howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-RUr9l3bdj1CXwwwPzIBPPg" name="uam_analyse_tech_impact_business,_Khae4lE8EeOcVJX_gvTjyg" guid="-RUr9l3bdj1CXwwwPzIBPPg">
+    <mainDescription>&lt;p>&#xD;
+    The objective of this activity is to understand the new or changed technology and then assess its impacts and&#xD;
+    opportunities&amp;nbsp;if used in the existing IT architecture. The&amp;nbsp;first&amp;nbsp;step of this analysis is to define the&#xD;
+    level of impact:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business&lt;/strong> - new business opportunities are available, or enhanced services or processes at the&#xD;
+        business level are possible;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Logical&lt;/strong> - the new technology does not have business process or services implications, but does&#xD;
+        have large implications on the current IT architecture, which would have to be revised starting at the Logical&#xD;
+        level;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical&lt;/strong> - the new technology does not have significant architectural implications; it is a&#xD;
+        direct substitute for existing technology, but with benefits.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Once the level of impact has been determined then the next step is to do a more thorough analysis of the business&#xD;
+    opportunities, and to&amp;nbsp;make a &lt;em>go&lt;/em> or &lt;em>no-go&lt;/em> decision — to decide if further action is needed.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This further action to be done depends on the level of impact, but usually involves:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business level&lt;/strong>&amp;nbsp;- analyzing a new business opportunity, or enhanced services or processes,&#xD;
+        from a cost-benefit perspective including IT architecture impacts;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Logical&lt;/strong> - analyzing impacts on the current IT architecture and any benefits that the new&#xD;
+        technology provides, including a cost-benefit analysis;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical&lt;/strong> - analyzing the new technology's&amp;nbsp;impacts on the existing IT architecture and any&#xD;
+        derived benefits, including a cost-benefit analysis.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Architectural Decisions are used to capture and track all of this analysis.&#xD;
+&lt;/p></mainDescription>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Opportunity&quot; name=&quot;XE_Capability_Pattern__Opportunity&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    A new technology has been identified and this activity examines its&amp;nbsp;possible use within the system or enterprise.&#xD;
+    This activity examines the new technology, defines possible uses, and then defines its possible&amp;nbsp;impacts on the&#xD;
+    existing IT architecture. These impacts may be at the Business level (e.g. new business opportunity), Logical level&#xD;
+    (e.g. a greatly revised IT architecture is needed) or the Technical level (e.g. the new technology is a simple&#xD;
+    substitute for existing technology, but with benefits). Finally, after some business-level analysis, a&amp;nbsp;decision is&#xD;
+    made on whether or not to proceed with further work.&#xD;
+&lt;/p></purpose>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-umRH-9X3JlBfW2i8uhRllw" name="uam_update_business_perspective,_fGJuQVE8EeOcVJX_gvTjyg" guid="-umRH-9X3JlBfW2i8uhRllw">
+    <mainDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    A solution to&amp;nbsp;problem or a&amp;nbsp;change to the business has been defined, or a new technology is to be&#xD;
+    introduced&amp;nbsp;that impacts the Business level IT architecture. This activity updates the Business Perspective views&#xD;
+    to incorporate the required changes. &lt;span lang=&quot;EN-US&quot;>This workflow has the following goals:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Update the Business Scope &amp;amp; Context&amp;nbsp;of the system (if needed);&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the Business Entity Model for the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the&amp;nbsp;Business Process Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the Business Logistics Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the Business Roles Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally update: &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                The Architecture Glossary&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    This activity is mandatory after the definition of a solution to an issue (if it impacts the Business level), if a&#xD;
+    change to the business is defined, or if a new technology is to be introduced &amp;nbsp;(if it impacts the Business level).&#xD;
+&lt;/p></usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Update_Business&quot; name=&quot;XE_Capability_Pattern__Update_Business&quot;>&lt;/a>The purpose of this&#xD;
+activity is to update the Business Perspective architectural views after: the solution to an issue has been defined, a&#xD;
+change to the business has been defined or as a result of the planned introduction of a new technology.</purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional members. Issues that are typically&#xD;
+    architecturally significant include data, process, locales and roles. The team should also include members with domain&#xD;
+    experience and knowledge of existing models and systems and&amp;nbsp;ideally business &lt;span lang=&quot;EN-US&quot;&#xD;
+    style=&quot;mso-ansi-language: EN-US&quot;>modelers&lt;/span>. The team should also have experience with model organization and&#xD;
+    layering.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-qpWtwNCidaXtMf6RCzpgAQ" name="uam_update_logical_perspective,_BZ65cFE9EeOcVJX_gvTjyg" guid="-qpWtwNCidaXtMf6RCzpgAQ">
+    <mainDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    A solution to&amp;nbsp;problem or a&amp;nbsp;change to the business has been defined, or a new technology is to be&#xD;
+    introduced&amp;nbsp;that impacts the Logical level IT architecture. This activity updates the Logical Perspective views to&#xD;
+    incorporate the required changes. &lt;span lang=&quot;EN-US&quot;>This workflow has the following goals:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the Logical Entity Model for the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the&amp;nbsp;Logical Process Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the Logical Logistics Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the Logical Roles Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally update: &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                The Architecture Glossary&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    This activity is mandatory after the definition of a solution to an issue (if it impacts the Logical level), if a&#xD;
+    change to the business is defined, or if a new technology is to be introduced &amp;nbsp;(if it impacts the Logical level).&#xD;
+&lt;/p></usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Update_Logical&quot; name=&quot;XE_Capability_Pattern__Update_Logical&quot;>&lt;/a>The purpose of this activity&#xD;
+is to update the Logical Perspective architectural views after: the solution to an issue has been defined, a change to the&#xD;
+business has been defined or as a result of the planned introduction of a new technology.</purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional members. Issues that are typically&#xD;
+    architecturally significant include data, process, locales and roles. The team should also include members with domain&#xD;
+    experience and knowledge of existing models and systems and&amp;nbsp;ideally business &lt;span lang=&quot;EN-US&quot;&#xD;
+    style=&quot;mso-ansi-language: EN-US&quot;>modelers&lt;/span>. The team should also have experience with model organization and&#xD;
+    layering.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-p1r_qelKoQLEFNpHp_76eA" name="uam_update_technical_perspective,_W3i4oVE9EeOcVJX_gvTjyg" guid="-p1r_qelKoQLEFNpHp_76eA">
+    <mainDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    A solution to&amp;nbsp;problem or a&amp;nbsp;change to the business has been defined, or a new technology is to be&#xD;
+    introduced&amp;nbsp;that impacts the Technical level IT architecture. This activity updates the Technical Perspective views&#xD;
+    to incorporate the required changes. &lt;span lang=&quot;EN-US&quot;>This workflow has the following goals:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the Technical Entity Model for the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the&amp;nbsp;Technical Process Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the Technical Logistics Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the Technical Roles Model for the&amp;nbsp;system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally update: &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                The Architecture Glossary&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <usageGuidance>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    This activity is mandatory after the definition of a solution to an issue, if a change to the business is defined, or&#xD;
+    if a new technology is to be introduced.&#xD;
+&lt;/p></usageGuidance>
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Update_Technical&quot; name=&quot;XE_Capability_Pattern__Update_Technical&quot;>&lt;/a>The purpose of this&#xD;
+activity is to update the Technical Perspective architectural views after: the solution to an issue has been defined, a&#xD;
+change to the business has been defined or as a result of the planned introduction of a new technology.</purpose>
+    <howtoStaff>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    These activities are best carried out by a small team staffed by cross-functional members. Issues that are typically&#xD;
+    architecturally significant include data, process, locales and roles. The team should also include members with domain&#xD;
+    experience and knowledge of existing models and systems and&amp;nbsp;ideally business &lt;span lang=&quot;EN-US&quot;&#xD;
+    style=&quot;mso-ansi-language: EN-US&quot;>modelers&lt;/span>. The team should also have experience with model organization and&#xD;
+    layering.&#xD;
+&lt;/p></howtoStaff>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SXWdf-Yf5UuJp8MFM_mTBw" name="uam_scan_ads_tech,_UrIngdvQEdy9s_D5ysfZfg" guid="-SXWdf-Yf5UuJp8MFM_mTBw">
+    <usageGuidance>It is important to set the context for the architectural effort in terms of the set of relevant Architectural Decisions&#xD;
+that the enterprise has made and specifically the ones that apply to the effort at hand. The AD repository is searched for&#xD;
+the relevant ADs and a summary is produced.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Hc_F_n-MAQAMfB387u-i2g" name="uam_assess_tech_models,_UBEr8dvSEdy9s_D5ysfZfg" guid="-Hc_F_n-MAQAMfB387u-i2g">
+    <refinedDescription>&lt;p>&#xD;
+    The architectural assessment done in&amp;nbsp;this context involves ensuring that the architecture addresses the business&#xD;
+    need and fits in with the enterprise direction in the long-term. Scenarios may be used to test the architecture. If&#xD;
+    there is a problem in the direction taken by the architecture in terms of the enterprise long-term objectives or&#xD;
+    strategies then management will need to be made aware of and bless this deviation in direction.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The IT architecture is assessed from these and other perspectives:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To check it for completeness;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To check it for consistency in everything from naming conventions to concepts and structure;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To detect any architectural design flaws. Architectural flaws are known to be the hardest to fix, the most damaging&#xD;
+        in the long run;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To detect a potential mismatch between the requirements and the architecture: over-design, unrealistic&#xD;
+        requirements, or missing requirements. In particular the assessment may examine some aspects often neglected in the&#xD;
+        areas of operation, administration and maintenance;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To evaluate one or more specific architectural qualities: performance, reliability, modifiability, security,&#xD;
+        safety;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To identify reuse opportunities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensure conformance with enterprise and business domain standards.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uqsZFYiS-g9rjL0f3qrcuw" name="uam_org_review_simple,_PmkUwEjXEeSWP4hq4uhP1w" guid="-uqsZFYiS-g9rjL0f3qrcuw">
+    <usageGuidance>&lt;p>&#xD;
+    A Simple architecture review is more focused on the solutions defined (since Simple model are defined at the Logical&#xD;
+    and Technical levels) but also that the solutions do still meet business needs. The architecture is also reviewed to&#xD;
+    ensure that it&amp;nbsp;is complete and well-defined. Most participants are therefore technical experts, but also with&#xD;
+    business experts, and other stakeholders at the business level participating to ensure business needs are met.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Either a simple Logical Perspective or simple Technical Perspective is reviewed.&#xD;
+&lt;/p></usageGuidance>
+    <refinedDescription>This task is focused on organizing a review of&amp;nbsp;the Simple models of the IT architecture. Appropriate materials are&#xD;
+gathered, venues booked and participants informed. The review focuses on the generated architecture, ensuring that it is&#xD;
+complete and consistent, which is normally a peer review. Alternatively the review may focus on the content of the&#xD;
+architecture in terms of how accurately it captures the business, which normally involves a number of stakeholders that&#xD;
+have intimate knowledge of the area of the business in question and its systems.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gGShdlEyUB5N5RP6ZNQanA" name="uam_manage_analysis_followup,_snRHQUNaEeShYIpiBstbOQ" guid="-gGShdlEyUB5N5RP6ZNQanA">
+    <usageGuidance>&lt;p>&#xD;
+    Following each review meeting, the results of the meeting should be documented in some form of &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/workproducts/uam_review_record_B5C8210C.html&quot;&#xD;
+    guid=&quot;_ON-wgPIOEdyIELoltz1wKA&quot;>Artifact: Architecture Review Record&lt;/a>. In addition, change requests are formally&#xD;
+    recorded and assigned to someone to own and drive to resolution.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    One of the most important yet surprisingly often neglected aspects of reviews is the management to resolution of the&#xD;
+    follow-up tasks or actions identified during the review. While you can usually resolve many of the identified&#xD;
+    issues&amp;nbsp;during the course of the review meeting itself, be prepared to assign tasks as needed but ensure that the&#xD;
+    workload of team members is balanced.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note that even if you can review everything you need to in a single meeting, you probably won't get approval of all&#xD;
+    your conclusions the first time. Be prepared to carry out subsequent reviews as necessary to help manage the&#xD;
+    undertaking of a large number of follow-up tasks.&#xD;
+&lt;/p></usageGuidance>
+    <refinedDescription>&lt;p>&#xD;
+    This task is focused on&amp;nbsp;following up on actions resulting from&amp;nbsp;a thorough analysis of&amp;nbsp;the Business,&#xD;
+    Logical or Technical&amp;nbsp;Perspective of the IT architecture. Actions are clarified if needed and assigned and tracked.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Architectural Decisions that need to be made and documented may also arise during the review. These are also assigned&#xD;
+    and tracked.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fOCUIZ15x5fQ4iXD3meJJw" name="uam_prep-bus-update,_2x5uQUNlEeShYIpiBstbOQ" guid="-fOCUIZ15x5fQ4iXD3meJJw">
+    <usageGuidance>The update required to the IT architecture was triggered in this case by a business level change, or a problem or&#xD;
+technology change that has implications on the Business level of the defined IT architecture.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HlC4b6q5Epmz2dnyTZ6OWQ" name="uam_prep-log-update,_WxMjIUNrEeShYIpiBstbOQ" guid="-HlC4b6q5Epmz2dnyTZ6OWQ">
+    <usageGuidance>The update required to the IT architecture was triggered in this case by a Business level change, or by a problem or&#xD;
+technology change that has implications on the Logical level of the defined IT architecture.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kHjgfVWELnIirT0N51wl2Q" name="uam_update-logical-pers,_YsAC8UNrEeShYIpiBstbOQ" guid="-kHjgfVWELnIirT0N51wl2Q">
+    <usageGuidance>As the Logical level models are updated new Architectural Decision may need to be defined.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-2UCp0JLr7t-VVkpGycrrrg" name="uam_prep-tech-update,_q-e70UNrEeShYIpiBstbOQ" guid="-2UCp0JLr7t-VVkpGycrrrg">
+    <usageGuidance>The update required to the IT architecture was triggered in this case by a Business level change, or by a problem or&#xD;
+technology change that has implications on the Technical level of the defined IT architecture.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UOfeXUbw3ejZX-Na7EGOxA" name="uam_update-tech-pers,_tKC0cUNrEeShYIpiBstbOQ" guid="-UOfeXUbw3ejZX-Na7EGOxA">
+    <usageGuidance>As the Logical level models are updated new Architectural Decision may need to be defined.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-MuZQvlTAKt4piCHtdNwjiw" name="uam_refine_prob_defn,_P7c5IKcdEeS8vLSVufajPQ" guid="-MuZQvlTAKt4piCHtdNwjiw">
+    <usageGuidance>&lt;p>&#xD;
+    Often the problem at first look seems simple and obvious, but upon examination is nor involved, more complex, and&#xD;
+    having a larger impact. This task ensures that the problem is well understood.&#xD;
+&lt;/p></usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Iw1qOY-rKtz2X9SHIGQVHA" name="uam_define_simple_models,_PHCpscnxEdy25fQyv59CjQ" guid="-Iw1qOY-rKtz2X9SHIGQVHA">
+    <usageGuidance>The simple IT architecture is defined at either the Logical level or the Technical level, as required by the objectives.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aOnUIezfiRFFjmVgLapDMg" name="uam_review_requirements_simple,_VXRIEEjXEeSWP4hq4uhP1w" guid="-aOnUIezfiRFFjmVgLapDMg">
+    <usageGuidance>The requirements for a simple Logical Perspective or simple Technical Perspective&amp;nbsp;are reviewed.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8O4Vqy4OxAbSQ16rMN_woQ" name="uam_define_simple_models_existing,_jl4WIc63Edymj4NXv8-FYA" guid="-8O4Vqy4OxAbSQ16rMN_woQ">
+    <usageGuidance>Either a simple Logical Perspective or simple Technical Perspective is defined. Normally the Technical level is defined to&#xD;
+document an existing system, but on occasion the Logical level is also required in order to do analysis at that level.</usageGuidance>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-Vw5BNFHspXFrOJncnb7zpw" name="uam_det_soln_impacts,_0nv5YKcGEeS8vLSVufajPQ" guid="-Vw5BNFHspXFrOJncnb7zpw">
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Solution_and_Impacts&quot; name=&quot;XE_Capability_Pattern__Solution_and_Impacts&quot;>&lt;/a>A problem has&#xD;
+been documented with an existing system or existing IT architecture. A solution is found and the impacts of the solution&#xD;
+documented.</purpose>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-yL2hjhWFHVYZRyxorgPx1w" name="uam_update_migration_plan,_YI82IFE9EeOcVJX_gvTjyg" guid="-yL2hjhWFHVYZRyxorgPx1w">
+    <purpose>&lt;a id=&quot;XE_Capability_Pattern__Update_Migration_Plan&quot; name=&quot;XE_Capability_Pattern__Update_Migration_Plan&quot;>&lt;/a>A new or&#xD;
+updated Technical Perspective has been completed. Now the Migration Plan is updated as required.</purpose>
+  </org.eclipse.epf.uma:ActivityDescription>
+</xmi:XMI>

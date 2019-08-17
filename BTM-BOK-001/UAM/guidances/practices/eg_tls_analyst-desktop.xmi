@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-HR-5B9GQhooWAnyVpZrlJw" name="eg_tls_analyst-desktop,_DsBOwJsGEeOMG9JzPmKf0Q" guid="-HR-5B9GQhooWAnyVpZrlJw" changeDate="2015-02-07T14:42:05.897-0500" version="7.5.1">
+  <problem>&lt;br />&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &amp;nbsp; &lt;img alt=&quot;ThuNorTech IT Research and Solutions Desktop Applications&quot;&#xD;
+    src=&quot;./resources/Simple-Network-Technical-TLM-Apps-RandS-DT.png&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The suite of desktop applications for the IT Research and IT Solutions employees varies. What is shown is the full&#xD;
+    suite of applications for a IR Research desktop. All IT Research employees get the same configuration. What is shown&#xD;
+    are the customer developed applications that work with the R&amp;amp;S Server applications to provide the required&#xD;
+    functionality.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In addition, and not shown, is the standard suite of office and other desktop applications:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Office suite of applications (i.e Email, document authoring, calendar, etc.);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Web browser;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Graphics suite (i.e. image editor, graphics editor, etc.);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        And others.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></problem>
+  <goals>&lt;h3>&#xD;
+    Research &amp;amp; Solutions Desktop&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    ThuNorTech IT Research and IT Solutions desktops are standardized as follows:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Name&lt;/strong> - CustDesktopx&lt;br />&#xD;
+    &lt;strong>Make&lt;/strong> - HP&lt;br />&#xD;
+    &lt;strong>Model&lt;/strong> - Pavilion 500-239&lt;br />&#xD;
+    &lt;strong>Location&lt;/strong> - Rm&amp;nbsp;xxx&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Publications, distribution and web-based access to reports are provided.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    This zone is connected to the HQ location.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

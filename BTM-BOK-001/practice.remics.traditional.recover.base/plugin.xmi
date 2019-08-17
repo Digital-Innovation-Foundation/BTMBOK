@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MMxGUMCTEemv0a6P8REMBA" guid="_MMxGUMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MMxtYMCTEemv0a6P8REMBA" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/recover.xmi"/>
+    <resourceDescriptors xmi:id="_MM1-0MCTEemv0a6P8REMBA" id="-T8VBHDVfr7qtqZRiPMDwlg" uri="tasks/collect_the_code.xmi"/>
+    <resourceDescriptors xmi:id="_MM4bEMCTEemv0a6P8REMBA" id="-1f70XiKucleVPqjLD4pajw" uri="tasks/recover_system_knowledge.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_gmxfcMvjEeCphdH9-OcbCA" name="practice.remics.traditional.recover.base" guid="_gmxfcMvjEeCphdH9-OcbCA" briefDescription="This plug-in contain the process elements that support the activity of recovering the knowledge contained in those legacy components that have been selected to be reengineered starting from the recovery of their knowledge through the application of code based analysis tools." changeDate="2013-01-11T07:19:08.861-0500">
+    <methodElementProperty xmi:id="_MMmuQMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxfccvjEeCphdH9-OcbCA" name="Content" guid="_gmxfccvjEeCphdH9-OcbCA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxfcsvjEeCphdH9-OcbCA" name="Categories" guid="_gmxfcsvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxfc8vjEeCphdH9-OcbCA" name="Domains" guid="_gmxfc8vjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxfdMvjEeCphdH9-OcbCA" name="Disciplines" guid="_gmxfdMvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxfdcvjEeCphdH9-OcbCA" name="RoleSets" guid="_gmxfdcvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxfdsvjEeCphdH9-OcbCA" name="WP Types" guid="_gmxfdsvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxfd8vjEeCphdH9-OcbCA" name="Tools" guid="_gmxfd8vjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxfeMvjEeCphdH9-OcbCA" name="StandardCategories" guid="_gmxfeMvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxfecvjEeCphdH9-OcbCA" name="CustomCategories" guid="_gmxfecvjEeCphdH9-OcbCA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxfesvjEeCphdH9-OcbCA" name="Hidden" guid="_gmxfesvjEeCphdH9-OcbCA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gmxfe8vjEeCphdH9-OcbCA" name="Custom Categories" guid="_gmxfe8vjEeCphdH9-OcbCA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gmxffMvjEeCphdH9-OcbCA" name="CoreContent" guid="_gmxffMvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_WrQGoP4ZEeCPJr8QQpNd-A" name="recover" guid="_WrQGoP4ZEeCPJr8QQpNd-A" presentationName="Recover" briefDescription="It contains the activities related with the recovery of the knowledge from the legacy system through the usage of legacy code analysis mechanisms and tools. ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_m3K7oP4ZEeCPJr8QQpNd-A" name="recover" guid="_m3K7oP4ZEeCPJr8QQpNd-A" presentationName="Recover" briefDescription="This activity will recover the knowledge contained in those legacy components that have been selected to be reengineered starting from the recovery of their knowledge through the application of code based analysis tools." contentReferences="_HnTd8P4nEeCib4kPyIJlaQ _VhaoYP4nEeCib4kPyIJlaQ _Z8PN4P4nEeCib4kPyIJlaQ _eo6YYP4nEeCib4kPyIJlaQ _MB1IgP4nEeCib4kPyIJlaQ _Qa2-QP4nEeCib4kPyIJlaQ">
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_HnTd8P4nEeCib4kPyIJlaQ" name="collect_the_code" guid="_HnTd8P4nEeCib4kPyIJlaQ" presentationName="Collect the code">
+            <presentation xmi:id="-T8VBHDVfr7qtqZRiPMDwlg" href="uma://-T8VBHDVfr7qtqZRiPMDwlg#-T8VBHDVfr7qtqZRiPMDwlg"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_rZC0QP4tEeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MB1IgP4nEeCib4kPyIJlaQ" name="recover_system_knowledge" guid="_MB1IgP4nEeCib4kPyIJlaQ" presentationName="Recover system knowledge">
+            <presentation xmi:id="-1f70XiKucleVPqjLD4pajw" href="uma://-1f70XiKucleVPqjLD4pajw#-1f70XiKucleVPqjLD4pajw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_rZC0QP4tEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_KLqpYP4tEeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Qa2-QP4nEeCib4kPyIJlaQ" name="refine_system_knowledge" guid="_Qa2-QP4nEeCib4kPyIJlaQ" presentationName="Refine system knowledge">
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_KLqpYP4tEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_KLqpYP4tEeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VhaoYP4nEeCib4kPyIJlaQ" name="generate_system_model" guid="_VhaoYP4nEeCib4kPyIJlaQ" presentationName="Generate system model">
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_KLqpYP4tEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_KLqpYP4tEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_rZC0QP4tEeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Z8PN4P4nEeCib4kPyIJlaQ" name="generate_system_requirement" guid="_Z8PN4P4nEeCib4kPyIJlaQ" presentationName="Generate system requirement ">
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_KLqpYP4tEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_kC67QP4tEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_rZC0QP4tEeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_eo6YYP4nEeCib4kPyIJlaQ" name="recover_application_testing" guid="_eo6YYP4nEeCib4kPyIJlaQ" presentationName="recover application testing"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gmxffcvjEeCphdH9-OcbCA" name="CapabilityPatterns" guid="_gmxffcvjEeCphdH9-OcbCA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gmxffsvjEeCphdH9-OcbCA" name="DeliveryProcesses" guid="_gmxffsvjEeCphdH9-OcbCA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gmxff8vjEeCphdH9-OcbCA" name="ProcessContributions" guid="_gmxff8vjEeCphdH9-OcbCA"/>
+    <bases href="uma://_bvPv0MvjEeCphdH9-OcbCA#_bvPv0MvjEeCphdH9-OcbCA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

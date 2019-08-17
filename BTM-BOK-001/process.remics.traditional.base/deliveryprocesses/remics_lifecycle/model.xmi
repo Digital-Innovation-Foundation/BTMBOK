@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MKFlwMCTEemv0a6P8REMBA" guid="_MKFlwMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MKFlwcCTEemv0a6P8REMBA" id="-Zbu8qk0KvOBOqY0rQOv_3g" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_XGlxYMlsEeCrm66MgLsmlQ" name="remics_lifecycle" guid="_XGlxYMlsEeCrm66MgLsmlQ">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_J0UYIMluEeCrm66MgLsmlQ" name="Requirement Phase" guid="_J0UYIMluEeCrm66MgLsmlQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_o1ZqkMluEeCrm66MgLsmlQ" name="Requirement Sprint" guid="_o1ZqkMluEeCrm66MgLsmlQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_qG5jIMvpEeCphdH9-OcbCA" name="Requirements" guid="_qG5jIMvpEeCphdH9-OcbCA">
+          <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_qG5jIcvpEeCphdH9-OcbCA" name="Requirements" guid="_qG5jIcvpEeCphdH9-OcbCA" superActivities="_o1ZqkcluEeCrm66MgLsmlQ" variabilityType="extends" variabilityBasedOnElement="_eqI20cvnEeCphdH9-OcbCA"/>
+        </childPackages>
+        <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_o1ZqkcluEeCrm66MgLsmlQ" name="Requirement Sprint" guid="_o1ZqkcluEeCrm66MgLsmlQ" presentationName="Requirement Sprint [1..n]" superActivities="_J0UYIcluEeCrm66MgLsmlQ" isRepeatable="true" breakdownElements="_qG5jIcvpEeCphdH9-OcbCA"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_J0UYIcluEeCrm66MgLsmlQ" name="Requirement Phase" guid="_J0UYIcluEeCrm66MgLsmlQ" presentationName="Requirement Phase" superActivities="_XGlxYclsEeCrm66MgLsmlQ" breakdownElements="_o1ZqkcluEeCrm66MgLsmlQ _awEnQMlxEeCrm66MgLsmlQ"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_awEnQMlxEeCrm66MgLsmlQ" name="Requirements Milestone" guid="_awEnQMlxEeCrm66MgLsmlQ" presentationName="Requirements Milestone" superActivities="_J0UYIcluEeCrm66MgLsmlQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_OvcY4MlvEeCrm66MgLsmlQ" name="Recover Phase" guid="_OvcY4MlvEeCrm66MgLsmlQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_S_aZQMlvEeCrm66MgLsmlQ" name="Recover Sprint [1..n]" guid="_S_aZQMlvEeCrm66MgLsmlQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_kVSX8DMbEeKAipJ1Gs0p1g" name="recover_phase_sprint" guid="_kVSX8DMbEeKAipJ1Gs0p1g">
+          <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_kVSX8TMbEeKAipJ1Gs0p1g" name="recover_phase_sprint" guid="_kVSX8TMbEeKAipJ1Gs0p1g" superActivities="_S_aZQclvEeCrm66MgLsmlQ" variabilityType="extends">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_vjbzYMvgEeCphdH9-OcbCA#_vjbzYcvgEeCphdH9-OcbCA"/>
+          </processElements>
+        </childPackages>
+        <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_S_aZQclvEeCrm66MgLsmlQ" name="Recover Sprint [1..n]" guid="_S_aZQclvEeCrm66MgLsmlQ" presentationName="Recover Sprint [1..n]" superActivities="_OvcY4clvEeCrm66MgLsmlQ" isRepeatable="true" breakdownElements="_kVSX8TMbEeKAipJ1Gs0p1g"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_OvcY4clvEeCrm66MgLsmlQ" name="Recover Phase" guid="_OvcY4clvEeCrm66MgLsmlQ" presentationName="Recover Phase" superActivities="_XGlxYclsEeCrm66MgLsmlQ" breakdownElements="_S_aZQclvEeCrm66MgLsmlQ _fkib0MlxEeCrm66MgLsmlQ"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_fkib0MlxEeCrm66MgLsmlQ" name="Recover Milestone" guid="_fkib0MlxEeCrm66MgLsmlQ" presentationName="Recover Milestone" superActivities="_OvcY4clvEeCrm66MgLsmlQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_WDOIgMlvEeCrm66MgLsmlQ" name="Migrate Phase" guid="_WDOIgMlvEeCrm66MgLsmlQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_X9cZgMlvEeCrm66MgLsmlQ" name="Migrate Sprint [1..n]" guid="_X9cZgMlvEeCrm66MgLsmlQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_mxNn0DMbEeKAipJ1Gs0p1g" name="migration_phase_sprint" guid="_mxNn0DMbEeKAipJ1Gs0p1g">
+          <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_mxNn0TMbEeKAipJ1Gs0p1g" name="migration_phase_sprint" guid="_mxNn0TMbEeKAipJ1Gs0p1g" superActivities="_X9cZgclvEeCrm66MgLsmlQ" variabilityType="extends">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_qykZ4DMaEeKAipJ1Gs0p1g#_qykZ4TMaEeKAipJ1Gs0p1g"/>
+          </processElements>
+        </childPackages>
+        <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_X9cZgclvEeCrm66MgLsmlQ" name="Migrate Sprint [1..n]" guid="_X9cZgclvEeCrm66MgLsmlQ" presentationName="Migrate Sprint [1..n]" superActivities="_WDOvkMlvEeCrm66MgLsmlQ" isRepeatable="true" breakdownElements="_mxNn0TMbEeKAipJ1Gs0p1g"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_WDOvkMlvEeCrm66MgLsmlQ" name="Migrate Phase" guid="_WDOvkMlvEeCrm66MgLsmlQ" presentationName="Migrate Phase" superActivities="_XGlxYclsEeCrm66MgLsmlQ" breakdownElements="_X9cZgclvEeCrm66MgLsmlQ _hTOyQMlxEeCrm66MgLsmlQ"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_hTOyQMlxEeCrm66MgLsmlQ" name="Migrate Milestone" guid="_hTOyQMlxEeCrm66MgLsmlQ" presentationName="Migrate Milestone" superActivities="_WDOvkMlvEeCrm66MgLsmlQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_q0EEwMlwEeCrm66MgLsmlQ" name="Test Phase" guid="_q0EEwMlwEeCrm66MgLsmlQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_s29woMlwEeCrm66MgLsmlQ" name="Test Sprint [1..n]" guid="_s29woMlwEeCrm66MgLsmlQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nyxLcDMbEeKAipJ1Gs0p1g" name="validate_phase_sprint" guid="_nyxLcDMbEeKAipJ1Gs0p1g">
+          <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_nyxLcTMbEeKAipJ1Gs0p1g" name="validate_phase_sprint" guid="_nyxLcTMbEeKAipJ1Gs0p1g" superActivities="_s29woclwEeCrm66MgLsmlQ" variabilityType="extends">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_J1I6EDMbEeKAipJ1Gs0p1g#_J1JhIDMbEeKAipJ1Gs0p1g"/>
+          </processElements>
+        </childPackages>
+        <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_s29woclwEeCrm66MgLsmlQ" name="Test Sprint [1..n]" guid="_s29woclwEeCrm66MgLsmlQ" presentationName="Test Sprint [1..n]" superActivities="_q0EEwclwEeCrm66MgLsmlQ" isRepeatable="true" breakdownElements="_nyxLcTMbEeKAipJ1Gs0p1g"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_q0EEwclwEeCrm66MgLsmlQ" name="Test Phase" guid="_q0EEwclwEeCrm66MgLsmlQ" presentationName="Test Phase" superActivities="_XGlxYclsEeCrm66MgLsmlQ" breakdownElements="_s29woclwEeCrm66MgLsmlQ _i-uDsMlxEeCrm66MgLsmlQ"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_i-uDsMlxEeCrm66MgLsmlQ" name="Test Milestone" guid="_i-uDsMlxEeCrm66MgLsmlQ" presentationName="Test Milestone" superActivities="_q0EEwclwEeCrm66MgLsmlQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_vbrJEMlwEeCrm66MgLsmlQ" name="Supervise Phase" guid="_vbrJEMlwEeCrm66MgLsmlQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_x0id4MlwEeCrm66MgLsmlQ" name="Supervise Sprint [1..n]" guid="_x0id4MlwEeCrm66MgLsmlQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_pFKncDMbEeKAipJ1Gs0p1g" name="control_and_supervise_phase_sprint" guid="_pFKncDMbEeKAipJ1Gs0p1g">
+          <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_pFKncTMbEeKAipJ1Gs0p1g" name="control_and_supervise_phase_sprint" guid="_pFKncTMbEeKAipJ1Gs0p1g" superActivities="_x0jE8MlwEeCrm66MgLsmlQ" variabilityType="extends">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_TjHbQDMbEeKAipJ1Gs0p1g#_TjHbQTMbEeKAipJ1Gs0p1g"/>
+          </processElements>
+        </childPackages>
+        <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_x0jE8MlwEeCrm66MgLsmlQ" name="Supervise Sprint [1..n]" guid="_x0jE8MlwEeCrm66MgLsmlQ" presentationName="Supervise Sprint [1..n]" superActivities="_vbrJEclwEeCrm66MgLsmlQ" isRepeatable="true" breakdownElements="_pFKncTMbEeKAipJ1Gs0p1g"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_vbrJEclwEeCrm66MgLsmlQ" name="Supervise Phase" guid="_vbrJEclwEeCrm66MgLsmlQ" presentationName="Supervise Phase" superActivities="_XGlxYclsEeCrm66MgLsmlQ" breakdownElements="_x0jE8MlwEeCrm66MgLsmlQ _k7WIcMlxEeCrm66MgLsmlQ"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_k7WIcMlxEeCrm66MgLsmlQ" name="Supervise Milestone" guid="_k7WIcMlxEeCrm66MgLsmlQ" presentationName="Supervise Milestone" superActivities="_vbrJEclwEeCrm66MgLsmlQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2H7lsMlwEeCrm66MgLsmlQ" name="Withdrawval" guid="_2H7lsMlwEeCrm66MgLsmlQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_rd6AcDMbEeKAipJ1Gs0p1g" name="withrawal_phase_sprint" guid="_rd6AcDMbEeKAipJ1Gs0p1g">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_rd6AcTMbEeKAipJ1Gs0p1g" name="withrawal_phase_sprint" guid="_rd6AcTMbEeKAipJ1Gs0p1g" superActivities="_2H7lsclwEeCrm66MgLsmlQ" variabilityType="extends">
+          <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_ccLGoDMbEeKAipJ1Gs0p1g#_ccLGoTMbEeKAipJ1Gs0p1g"/>
+        </processElements>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_2H7lsclwEeCrm66MgLsmlQ" name="Withdrawval" guid="_2H7lsclwEeCrm66MgLsmlQ" presentationName="Withdrawal" superActivities="_XGlxYclsEeCrm66MgLsmlQ" breakdownElements="_w9jWEMlxEeCrm66MgLsmlQ _rd6AcTMbEeKAipJ1Gs0p1g"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_w9jWEMlxEeCrm66MgLsmlQ" name="Withdrawal" guid="_w9jWEMlxEeCrm66MgLsmlQ" presentationName="Withdrawal" superActivities="_2H7lsclwEeCrm66MgLsmlQ"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_XGlxYclsEeCrm66MgLsmlQ" name="remics_lifecycle" guid="_XGlxYclsEeCrm66MgLsmlQ" presentationName="Remics Lifecycle" briefDescription="Remics is an iterative process with iterations distributed throughout six phases: Requirements, Recovery, Migrate, Test, Supervise, and Withrowval&#xD;&#xA;&#xD;&#xA;Each phase may have as many iterations as needed (depending on the degree of novelty of the business domain, the technology being used, architectural complexity, and project size, to name a few factors). &#xD;&#xA;&#xD;&#xA;To offer a quick start for teams to plan their iterations, OpenUP provides work breakdown structure (WBS) templates for each iteration, and a WBS template for an end-to-end process. &#xD;&#xA;&#xD;&#xA;Iterations may have variable lengths, depending on project characteristics. One-month iterations are typically recommended, because this timeframe provides: &#xD;&#xA;&#xD;&#xA;A reasonable amount of time for projects to deliver meaningful increments in functionality. &#xD;&#xA;Early and frequent customer feedback. &#xD;&#xA;Timely management of risks and issues during the course of the project. &#xD;&#xA;OpenUP is intended to offer process guidance to small, co-located teams. &#xD;&#xA;" breakdownElements="_J0UYIcluEeCrm66MgLsmlQ _OvcY4clvEeCrm66MgLsmlQ _WDOvkMlvEeCrm66MgLsmlQ _q0EEwclwEeCrm66MgLsmlQ _vbrJEclwEeCrm66MgLsmlQ _2H7lsclwEeCrm66MgLsmlQ">
+      <presentation xmi:id="-Zbu8qk0KvOBOqY0rQOv_3g" href="uma://-Zbu8qk0KvOBOqY0rQOv_3g#-Zbu8qk0KvOBOqY0rQOv_3g"/>
+      <includesPatterns href="uma://_vjbzYMvgEeCphdH9-OcbCA#_vjbzYcvgEeCphdH9-OcbCA"/>
+      <includesPatterns href="uma://_qykZ4DMaEeKAipJ1Gs0p1g#_qykZ4TMaEeKAipJ1Gs0p1g"/>
+      <includesPatterns href="uma://_J1I6EDMbEeKAipJ1Gs0p1g#_J1JhIDMbEeKAipJ1Gs0p1g"/>
+      <includesPatterns href="uma://_TjHbQDMbEeKAipJ1Gs0p1g#_TjHbQTMbEeKAipJ1Gs0p1g"/>
+      <includesPatterns href="uma://_ccLGoDMbEeKAipJ1Gs0p1g#_ccLGoTMbEeKAipJ1Gs0p1g"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

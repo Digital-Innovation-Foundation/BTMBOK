@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_zxB-QKYcEdmvhNXG0Oc2uA" name="design,_0WuL8slgEdmt3adZL5Dmdw" guid="_zxB-QKYcEdmvhNXG0Oc2uA" changeDate="2007-03-03T07:48:41.814-0500" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This product can describe multiple static and dynamic views of the system for examination. Although various views may&#xD;
+    focus on divergent, seemingly independent issues of how the system will be put together and work, they should fit&#xD;
+    together without contradiction.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It describes the elements that will make up the implemented system. It communicates abstractions of particular portions&#xD;
+    of the implementation and can describe an&amp;nbsp;encapsulated subsystem, a high-level analysis of the system, a view of&#xD;
+    the system in only one context, or other perspectives that explain a solution to a specific problem that needs to be&#xD;
+    communicated.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Describe the&amp;nbsp;elements of the system&amp;nbsp;so&amp;nbsp;they can be examined and understood in ways not&amp;nbsp;possible by&#xD;
+    reading the source code.&#xD;
+&lt;/p></purpose>
+  <impactOfNotHaving>&lt;p>&#xD;
+    Implementation will proceed with fine-grained, inconsistent tactical decisions that lead to poor-quality software.&#xD;
+&lt;/p></impactOfNotHaving>
+  <reasonsForNotNeeding>Some representation of the design will always be necessary. In circumstances where a project involves applying&#xD;
+well-understood, existing strategies for architecture and design, it is possible that you will not need a &lt;em>new&lt;/em>&#xD;
+design. In those cases, you can simply refer to some existing design.</reasonsForNotNeeding>
+  <representationOptions>&lt;p>&#xD;
+    It is important that the author of this work product be able to analyze key decisions about the structure and behavior&#xD;
+    of the system and communicate them to other collaborators. It is also important that these decisions can be&#xD;
+    communicated at various levels of abstraction and granularity. Some aspects of the design can be represented by source&#xD;
+    code, possibly with some extra annotations. But more abstract representations of the design will be at a higher-level&#xD;
+    than source code.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The more abstract representation could use various representation options. UML could be used either strictly or&#xD;
+    informally; it is a preferred notation based on its rich semantics and broad usage in the industry. Other techniques&#xD;
+    could be used to communicate the design. Or the design could use a mix of techniques as applicable.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Whether you record these representations on a white board or use a formal tool is not governed by this process. But any&#xD;
+    representation, whether characterized as formal or informal, should unambiguously communicate the technical decisions&#xD;
+    embodied by the design.&#xD;
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-a_1ZggcclLYDknu9YqTTfg" name="system_idea,_EdAyEP2uEeK8HINtOGo1Xg" guid="-a_1ZggcclLYDknu9YqTTfg" changeDate="2013-08-09T03:41:26.498-0400">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>System Idea&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The system idea is a document that contains a description of the future system mainly from the prespective of the&#xD;
+    product owner. The content of the document depends largely on the kind of system to be migrated, but among other&#xD;
+    specific issues it should address:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The new ways in which the stakeholder will interact with the new system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The parts of the system that will be migrated.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Constraints in the migration of those&amp;nbsp;parts.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

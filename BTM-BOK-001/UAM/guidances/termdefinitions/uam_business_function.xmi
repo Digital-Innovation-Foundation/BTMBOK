@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3F8RvIBgv_9CMeoKzsbHIg" name="uam_business_function,_wPHXcMI7EeKSedlRPHdUIQ" guid="-3F8RvIBgv_9CMeoKzsbHIg" changeDate="2014-06-24T13:32:13.619-0400" version="7.5.1">
+  <mainDescription>A view of the business based upon its organizational parts, such as Human Resources or Production or Financial Management,&#xD;
+that is, the high-level functions within the enterprise and not the products and services that it offers to customers.&#xD;
+Business functions are vertical views of the organization, such as Human Resources, Finance or Facilities Management.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

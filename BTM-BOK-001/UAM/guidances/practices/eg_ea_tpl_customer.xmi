@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-liRqbqqhbRbQ0zUtDJtH5A" name="new_tpl_entity,_XGhiEJp2EeOpq9XgOi00TQ" guid="-liRqbqqhbRbQ0zUtDJtH5A" changeDate="2014-03-24T17:15:40.819-0400" version="7.5.1">
+  <problem>Customers of ThuNorTech are one of two types: those that are provided IT security solutions in terms of hardware and&#xD;
+software (along with consulting and implementation services), and those that are interested in ThuNorTech's IT research&#xD;
+results. Some customers are both types.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

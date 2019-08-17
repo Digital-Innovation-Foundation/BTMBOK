@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xgg7XnEISrOdgQMAYCUPcQ" name="uam_technical_role,_OxcTF6icEeS8vLSVufajPQ" guid="-xgg7XnEISrOdgQMAYCUPcQ" authors="DW Enstrom" changeDate="2015-01-30T11:15:46.927-0500" changeDescription="new" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_Technical_Role_Report__brief_outline&quot; name=&quot;XE_Technical_Role_Report__brief_outline&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    For the Actor&amp;nbsp;or Role:&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    1. Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    A description of the Technical Actor/Role.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    2. Relationships&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The relationships of the Technical Actor/Role to Technical Activities and how they interact with the system.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

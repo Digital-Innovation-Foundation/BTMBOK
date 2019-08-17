@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YG8aUAJJSP90-g5KM_jbSg" name="new_outcome,_6p8zUIcOEeKDAPAbcNl48A" guid="-YG8aUAJJSP90-g5KM_jbSg" changeDate="2013-03-07T05:10:21.408-0500">
+  <mainDescription>&lt;h4>&#xD;
+    Sprint Goal&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal is an objective that will be met within the Sprint through the implementation of the Product Backlog,&#xD;
+    and it provides guidance to the Development Team on why it is building the Increment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal gives the Development Team some flexibility regarding the functionality implemented within the Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As the Development Team works, it keeps this goal in mind. In order to satisfy the Sprint Goal, it implements the&#xD;
+    functionality and technology. If the work turns out to be different than the Development Team expected, then they&#xD;
+    collaborate with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal may be a milestone in the larger purpose of the product roadmap.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:WorkProductDescription>

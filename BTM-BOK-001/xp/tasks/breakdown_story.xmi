@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-umDp1nFYrMetgnJ-kUMhHw" name="breakdown_story,{90DBD758-58B8-4383-94DD-312D349512BC}" guid="-umDp1nFYrMetgnJ-kUMhHw" version="1.0.0">
+  <sections xmi:id="_oEkOoGE-EdqnIZeW8YpHcA" name=" Understand the User Story " guid="_oEkOoGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    Breaking down user stories occurs at iteration planning. The first step in iteration planning is for the customer to go
+    over the story with the developers to ensure they understand the story. The developers can ask questions until they are
+    satisfied that they understand all aspects of the system. The details of the user stories are defined in the acceptance
+    test criteria.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oEkOoWE-EdqnIZeW8YpHcA" name=" Discuss Possible Implementations " guid="_oEkOoWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    Coming up with engineering tasks for a story requires a good understanding of how the story will be implemented. The
+    team uses this time to discuss possible design alternatives or approaches.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oEkOomE-EdqnIZeW8YpHcA" name=" Identify Engineering Tasks " guid="_oEkOomE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step3&quot; name=&quot;Step3&quot;>&lt;/a> 
+&lt;p>
+    Once an approach has been selected by the team, the team focuses on identifying the steps that allow the team to fully
+    implement it during the following iteration.
+&lt;/p>
+&lt;p>
+    &lt;br />
+    &lt;br />
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_break_down_story__activity_definition&quot; name=&quot;XE_break_down_story__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Split user stories into engineering tasks.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

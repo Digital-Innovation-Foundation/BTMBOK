@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8RLN4FsLpEr2SJcZuyWlRQ" name="uam_copyright,_GAFb4MCTEdyMpOiGFnM_WA" guid="-8RLN4FsLpEr2SJcZuyWlRQ" authors="DW Enstrom" changeDate="2018-10-14T13:17:01.548-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>&amp;copy; David W. Enstrom, 2018. All rights reserved.&lt;/strong>&lt;br />&#xD;
+    &lt;strong>*&amp;nbsp;&lt;/strong> &lt;strong>Licensed under the EUPL, (the &quot;Licence&quot;).&lt;/strong>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

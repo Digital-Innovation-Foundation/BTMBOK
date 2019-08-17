@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Gh5ODzK89N1oRiq1UctZSg" name="uam_logical_zone,_9pGP4EGpEeOfR_FtRm9PUg" guid="-Gh5ODzK89N1oRiq1UctZSg" changeDate="2013-10-30T17:15:29.265-0400" version="7.5.1">
+  <mainDescription>A Logical Zone&amp;nbsp;provides a way to physically separate components of the system (normally at the network level) for IT&#xD;
+security, non-functional or other reasons. A Logical Zone may contain one or more sub-zones. Different sub-zones are&#xD;
+created when security models or policies (and possibly architecture) are significantly different from one zone to the&#xD;
+other, or are conflicting. Separate Logical Zones provide clearer separation of concerns and ease policy enforcement and&#xD;
+system management. Also see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_zone_401A4F76.html&quot; guid=&quot;_cXe18MJMEeKSedlRPHdUIQ&quot;>Term Definition:&#xD;
+Zone&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

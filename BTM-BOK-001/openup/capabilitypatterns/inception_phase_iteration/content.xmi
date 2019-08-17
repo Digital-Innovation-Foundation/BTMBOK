@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="_mtb-7PL5Edm6Nvont3uinw" guid="_mtb-7PL5Edm6Nvont3uinw"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="_mtb-7_L5Edm6Nvont3uinw" guid="_mtb-7_L5Edm6Nvont3uinw"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="_mtb-8PL5Edm6Nvont3uinw" guid="_mtb-8PL5Edm6Nvont3uinw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="_mtb-6_L5Edm6Nvont3uinw" guid="_mtb-6_L5Edm6Nvont3uinw">
+    <mainDescription>&lt;p>&#xD;
+    The project starts with the assumption that you have:&lt;/p>&#xD;
+	&lt;ul>&#xD;
+	&lt;li>Created the business case&lt;/li>&#xD;
+	&lt;li>Identified the &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../openup/roles/project_manager_E657F936.html&quot; guid=&quot;_0a0o0MlgEdmt3adZL5Dmdw&quot;>project manager&lt;/a>&lt;/li>&#xD;
+	&lt;li>Defined the team (at least for the first iteration)&lt;/li>&#xD;
+	&lt;li>Put in place the development environment (including tools and infrastructure)&lt;/li>&#xD;
+	&lt;li>Prepared your organization to follow the &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../openup/deliveryprocesses/openup_lifecycle_2CB8A7DA.html&quot; guid=&quot;_0uyGoMlgEdmt3adZL5Dmdw&quot;>delivery&#xD;
+    process&lt;/a> suggested by the published process description&lt;/li>&#xD;
+	&lt;/ul>&#xD;
+&lt;p>The number and length of each Inception iteration will vary depending upon the needs of the project.&#xD;
+&lt;/p></mainDescription>
+    <alternatives>This iteration template does not include any activities that result in any implementation. In some projects there will have&#xD;
+&#xD;
+to be some implementation work done to meet the objectives of Inception. In those cases, additional activities should be&#xD;
+&#xD;
+added to handle that.</alternatives>
+  </org.eclipse.epf.uma:ProcessDescription>
+</xmi:XMI>

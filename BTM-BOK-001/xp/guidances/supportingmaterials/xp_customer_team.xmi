@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mZMamrTcnR6xoZgvw9XU-A" name="xp_customer_team,2.9889538140050517E-306" guid="-mZMamrTcnR6xoZgvw9XU-A" changeDate="2005-12-06T05:43:10.832-0500">
+  <mainDescription>&lt;p>&#xD;
+    The customer team provides the requirements, sets the priorities and steers the project. The customer team can be made&#xD;
+    up of one or more business representatives from different parts of the organization. If there is more than one&#xD;
+    representative, it is important that the customer team speak to the developers in one voice (&quot;The Customer&quot;) in order&#xD;
+    to keep communication focused. It is best if the customer team includes a real end user who knows the domain and what&#xD;
+    is needed. There may be a manager, providing resources, handling external communication and coordinating activities.&#xD;
+    The team may include testers, who help the customer define the customer acceptance tests. Analysts may also help to&#xD;
+    define the requirements.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

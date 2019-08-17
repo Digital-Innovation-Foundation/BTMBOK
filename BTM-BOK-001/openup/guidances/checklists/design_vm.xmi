@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HQSI39vBrjpmQL1qHYOJtA" name="new_checklist,_nnSXcD6SEduAL-bCqar_dg" guid="-HQSI39vBrjpmQL1qHYOJtA" version="1.0.0">
+  <sections xmi:id="_sG8ZoD6SEduAL-bCqar_dg" name="Packages and Organization" guid="_sG8ZoD6SEduAL-bCqar_dg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Is the package partitioning logical and consistent? Does it make sense &#xD;
+    to team members and stakeholders? &lt;/li>&#xD;
+  &lt;li> Do package names accurately describe the contents of the package and the &#xD;
+    role that they play in the architecture? Do they follow naming conventions? &#xD;
+  &lt;/li>&#xD;
+  &lt;li> Do public packages and interfaces provide a logically cohesive set of services? &#xD;
+  &lt;/li>&#xD;
+  &lt;li> Are all the contents of a package listed? Are the classes within a package &#xD;
+    cohesive? &lt;/li>&#xD;
+  &lt;li> Do package dependencies correspond to the dependencies of the contained &#xD;
+    classes? &lt;/li>&#xD;
+  &lt;li> Are there packages or classes within a package that can be separated into &#xD;
+    an independent or sub-package?&lt;br />&#xD;
+  &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_tx6tsD6SEduAL-bCqar_dg" name="Views" guid="_tx6tsD6SEduAL-bCqar_dg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Does each diagram help the designer reason about the design or communicate &#xD;
+    key design decisions to the team? &lt;/li>&#xD;
+  &lt;li> Are the relationships between diagrams clear when several diagrams are &#xD;
+    used to describe behavior? &lt;/li>&#xD;
+  &lt;li> Is it easy to navigate between related diagrams? &lt;/li>&#xD;
+  &lt;li> Does each diagram focus on a relevant perspective? For instance, does a &#xD;
+    set of diagrams show a single class and its direct relationships, rather than &#xD;
+    using&amp;nbsp;one or two diagrams to show all classes? &lt;/li>&#xD;
+  &lt;li> Is each diagram complete, yet minimal? Does it show everything relevant &#xD;
+    to that view and nothing more? &lt;/li>&#xD;
+  &lt;li> Are the diagrams tidy and easy to interpret, with a minimum of clutter? &#xD;
+  &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_yeFh4D6SEduAL-bCqar_dg" name="UML" guid="_yeFh4D6SEduAL-bCqar_dg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Does the visual model conform to UML standards so that all stakeholders &#xD;
+    can understand the model over time? (See the&amp;nbsp;&lt;a href=&quot;http://www.uml.org/&quot; target=&quot;_blank&quot;>OMG &#xD;
+    UML Resource Page&lt;/a>&amp;nbsp;for more information.)&lt;/li>&#xD;
+  &lt;li> Does the visual model conform to project- or organization-specific modeling &#xD;
+    standards? &lt;/li>&#xD;
+  &lt;li>Is the visual model internally consistent? For instance, if an object diagram &#xD;
+    shows a relationship between objects, does a corresponding relationship exist &#xD;
+    between the appropriate classes? &lt;/li>&#xD;
+  &lt;li> Does the name of each class clearly reflect the role that it plays? &lt;/li>&#xD;
+  &lt;li> Does each class offer the required behavior? &lt;/li>&#xD;
+  &lt;li> Is there at least one&amp;nbsp;realization association defined for each interface? &#xD;
+    The realization may represent a third-party implementation of the subsystem. &#xD;
+  &lt;/li>&#xD;
+  &lt;li> Are&amp;nbsp;there dependency associations from each subsystem to the interfaces &#xD;
+    that it uses? &lt;/li>&#xD;
+  &lt;li> Is each operation in a subsystem interface described in a sequence diagram &#xD;
+    or at least mapped directly to an operation in a class? &lt;/li>&#xD;
+  &lt;li> Does each class represent a single, well-defined abstraction? &lt;/li>&#xD;
+  &lt;li> Are generalization relationships used only to inherit definitions, not &#xD;
+    behavior (implementation)? In other words, is behavior shared through the &#xD;
+    use of association, aggregation, and containment relationships rather than &#xD;
+    generalization? &lt;/li>&#xD;
+  &lt;li> Are parent classes in generalization relationships abstract? Are the &quot;leaf&quot; &#xD;
+    classes in a generalization hierarchy the only concrete classes? &lt;/li>&#xD;
+  &lt;li> Are stereotypes used consistently and meaningfully? &lt;/li>&#xD;
+  &lt;li> Do&amp;nbsp;state charts exist for classes with complex or restrictive state &#xD;
+    changes? &lt;/li>&#xD;
+  &lt;li> Do relationships have descriptive role or association names (one or the &#xD;
+    other, but not both) and&amp;nbsp;correct multiplicities? &lt;/li>&#xD;
+  &lt;li> Are relationships between classes unidirectional whenever possible?&lt;br />&#xD;
+    &amp;nbsp; &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_IsDY4D6TEduAL-bCqar_dg" name="Non-UML Visual Modeling" guid="_IsDY4D6TEduAL-bCqar_dg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Are the semantics of the visual modeling language clearly defined, documented, &#xD;
+    and accessible to team members? The semantics should be meaningful to people &#xD;
+    who use the model. &lt;/li>&#xD;
+  &lt;li> Can the semantics of the modeling language be understood over time? Is &#xD;
+    the language documented well enough that team members can understand the model &#xD;
+    long after design decisions have been made? &lt;/li>&#xD;
+  &lt;li> Are team members and stakeholders trained in the modeling language being &#xD;
+    used? &lt;/li>&#xD;
+  &lt;li> Does the visual model conform to the semantics of the visual modeling language? &#xD;
+    In other words, are the meanings of&amp;nbsp;the symbols in the diagrams&amp;nbsp;consistent &#xD;
+    across the model and the diagrams?&amp;nbsp; &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

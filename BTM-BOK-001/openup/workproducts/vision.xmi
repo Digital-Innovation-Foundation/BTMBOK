@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_zHTQUKYSEdmvhNXG0Oc2uA" name="vision,_0WVxcMlgEdmt3adZL5Dmdw" guid="_zHTQUKYSEdmvhNXG0Oc2uA" changeDate="2007-02-28T08:55:39.149-0500" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This artifact&amp;nbsp;provides a complete vision for the software system under development and supports the contract&#xD;
+    between the customer and the development organization. Every project needs a source for capturing all Stakeholders'&#xD;
+    expectations.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This artifact&amp;nbsp;is written from the customers' perspective, focusing on the essential features of the system and&#xD;
+    acceptable levels of quality. The artifact should include a description of what &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/guidances/termdefinitions/feature_4ED64AEE.html&quot; guid=&quot;_PgYREAeYEduWycDgioo5rg&quot;>features&lt;/a>&amp;nbsp;will be included, as well as those considered but not included.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    This artifact&amp;nbsp;provides a high-level, sometimes contractual, basis for the more detailed technical requirements&#xD;
+    that are visible to the Stakeholders. It captures the essence of the system by describing high-level requirements and&#xD;
+    design constraints that give the reader an overview of the system from a behavioral requirements perspective. It serves&#xD;
+    as input for the project-approval process, communicates the fundamental &quot;what and why&quot; for the project, and provides a&#xD;
+    plan against which all future decisions should be validated.&#xD;
+&lt;/p></purpose>
+  <impactOfNotHaving>If this artifact is not used, there is a high risk that Stakeholders and the development &#xD;
+team will have different expectations.&amp;nbsp;This could lead to cancellation of &#xD;
+the project.</impactOfNotHaving>
+  <representationOptions>Tailor this artifact as necessary for your project's needs. It is generally good &#xD;
+practice to keep this artifact brief so you can release &#xD;
+it to Stakeholders as soon as possible, and to make it easy for Stakeholders to &#xD;
+read and understand. You can &#xD;
+accomplish this by including only the most important Stakeholder requests &#xD;
+and features and avoiding details of requirements. &#xD;
+You can describe details in the other requirement &#xD;
+artifacts.</representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

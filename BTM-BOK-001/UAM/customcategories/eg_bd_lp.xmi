@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tVfxgQfp8duE9wFmtXkgmA" name="uam_bd_lp,_bUfJGcJmEeKSedlRPHdUIQ" guid="-tVfxgQfp8duE9wFmtXkgmA" changeDate="2015-02-06T15:13:03.537-0500" version="2.0.1">
+  <mainDescription>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; border=&quot;0&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td width=&quot;108&quot;>&#xD;
+                &lt;strong>Click on the framework to view a&amp;nbsp;specific model (aspect) that defines this&#xD;
+                architecture.&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img border=&quot;0&quot; alt=&quot;Logical Perspective&quot; src=&quot;./resources/pers_log.png&quot; usemap=&quot;#map1369176098850&quot; />&lt;map&#xD;
+                id=&quot;map1369176098850&quot; name=&quot;map1369176098850&quot;>&#xD;
+                    &lt;area title=&quot;ThuNorTech BD LEM&quot; href=&quot;./../../UAM/customcategories/eg_bd_lem_4A3F92A3.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BD LEM&quot; coords=&quot;109,69,217,123&quot; guid=&quot;_bUfJGsJmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BD LPM&quot; href=&quot;./../../UAM/customcategories/eg_bd_lpm_11F91A8.html&quot; shape=&quot;rect&quot;&#xD;
+                    alt=&quot;ThuNorTech BD LPM&quot; coords=&quot;225,70,331,124&quot; guid=&quot;_bUfwIMJmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BD LLM&quot; href=&quot;./../../UAM/customcategories/eg_bd_llm_FA5685CE.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BD LLM&quot; coords=&quot;342,70,448,123&quot; guid=&quot;_bUfwIsJmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BL LRM&quot; href=&quot;./../../UAM/customcategories/eg_bd_lrm_C5B173C7.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BL LRM&quot; coords=&quot;455,73,564,121&quot; guid=&quot;_bUfwJMJmEeKSedlRPHdUIQ&quot; />&#xD;
+                &lt;/map>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&lt;br />&#xD;
+&lt;br />&#xD;
+This is the root package for the Logical Perspective at the Business Domain level (i.e. the IT Research: Distribute&#xD;
+Research BD), containing the four aspects of this perspective, with each aspect or view&amp;nbsp;being linked to above.&lt;br />&#xD;
+&lt;br />&#xD;
+This diagram may be used as a navigation point into the set of detailed views for each aspect.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

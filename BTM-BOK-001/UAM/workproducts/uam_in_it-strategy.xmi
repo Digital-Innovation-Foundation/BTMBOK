@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-IC0eV04VS0fSvbd3PxlfMw" name="uam_in_it-strategy,_FGDEwEMjEeShYIpiBstbOQ" guid="-IC0eV04VS0fSvbd3PxlfMw" changeDate="2015-12-01T09:25:38.500-0500" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    The enterprises IT Strategy is the overall plan which consists of objective(s), principles, and tactics relating to use&#xD;
+    of the technologies within a particular organization. This strategy focuses on the technologies and their use within&#xD;
+    the organization. They provide instructions, and constraints, for IT managers and experts when deciding on solutions&#xD;
+    and investments.&amp;nbsp;The strategy is typically written down in a document. Also see: &lt;a&#xD;
+    href=&quot;http://en.wikipedia.org/wiki/Technology_strategy&quot; target=&quot;_blank&quot;>Wikipedia 2014&lt;/a>.&#xD;
+&lt;/p>&lt;a id=&quot;XE_IT_Strategy&quot; name=&quot;XE_IT_Strategy&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The IT Strategy defines the general direction that the enterprise is taking with respect to technology—some high-level&#xD;
+    technology choices are defined. It should also have an assessment of general technology directions—indications of where&#xD;
+    technology is going in the future and how the enterprise is to use it to advantage.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The IT Strategy defines constraints on the IT architecture that have to be addressed.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-heUgmfTbsW_lYIZHkYB0qQ" name="uam_architectural_decision,_D8WHsGj0EeS7ieerwXbTqg" guid="-heUgmfTbsW_lYIZHkYB0qQ" changeDate="2014-11-10T11:13:09.326-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in that the Architectural Decision is&amp;nbsp;completely defined. It is important&#xD;
+    to ensure that these important decision have been properly researched, all options examined and that the decision is&#xD;
+    supported.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_D8WHuWj0EeS7ieerwXbTqg" name="Problem clearly defined" guid="_D8WHuWj0EeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the problem or opportunity that the decision addresses is clearly defined. The constraints, such as&#xD;
+    existing decisions or other constraints, must be included as well along with any assumptions.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_D8WHuGj0EeS7ieerwXbTqg" name="Architectural Decisions consulted" guid="_D8WHuGj0EeS7ieerwXbTqg">
+    <sectionDescription>Ensure that all other relevant or related Architectural Decisions have been consulted to ensure that the decision hasn't&#xD;
+already been made, in which case the existing AD would be updated if necessary.</sectionDescription>
+  </sections>
+  <sections xmi:id="_D8WHs2j0EeS7ieerwXbTqg" name="All possible options have been considered" guid="_D8WHs2j0EeS7ieerwXbTqg">
+    <sectionDescription>Review the&amp;nbsp;options considered in the decision ... have all possible options been examined, and if not have their&#xD;
+exclusion been justified?</sectionDescription>
+  </sections>
+  <sections xmi:id="_D8WHtGj0EeS7ieerwXbTqg" name="The proposed decision is fully justified" guid="_D8WHtGj0EeS7ieerwXbTqg">
+    <sectionDescription>Clear understanding of the justification for the Architectural Decision&amp;nbsp;is needed. The decision must be justified&#xD;
+based upon the logical and dispassionate&amp;nbsp;examination of all factors: cost (capital and life-cycle), benefit, skills,&#xD;
+fit with existing solutions, etc.</sectionDescription>
+  </sections>
+  <sections xmi:id="_D8WHsWj0EeS7ieerwXbTqg" name="There is consensus on the decision" guid="_D8WHsWj0EeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    It is often difficult to get compete consensus on difficult and complex decisions ... the majority should be in favor,&#xD;
+    but dissenting arguments must also be recorded in the decision.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_D8WHtWj0EeS7ieerwXbTqg" name="Clear decision rational" guid="_D8WHtWj0EeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    The description of the rational for the decision is clearly defined and understandable. The implications of the&#xD;
+    decision, on the enterprise, business, and existing systems, have been included in the description.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

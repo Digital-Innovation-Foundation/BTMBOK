@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yzfL9g-E0qZYjowZ4EVkpA" name="uam_define_logical_locations,_6__SQN4wEdyg17nU3bVmlA" guid="-yzfL9g-E0qZYjowZ4EVkpA" authors="DW Enstrom" changeDate="2014-10-23T14:45:34.100-0400" changeDescription="UAM refinement" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    This task defines, at the logical level, the locations involved in the IT architecture of the system. As in&#xD;
+    real-estate, locations are very important to any business in terms of the processes and tasks (i.e. business services)&#xD;
+    that are supported at each type of location. This model directly impacts upon the deployment of systems and services to&#xD;
+    the locations, which in turn defines many other factors and requirements, such as cost, network topography and&#xD;
+    requirements, deployment of servers, storage and other infrastructure services, among many others.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Business&amp;nbsp;Locations Model is used, along with input from stakeholders, to define and refine the Logical&#xD;
+    Locations Model.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_V86DgFrlEeSU46-vxLGKFw" name="Collect information about the locations" guid="_V86DgFrlEeSU46-vxLGKFw">
+    <sectionDescription>Using the Business Locations Model as input, plus any location information obtained from &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/tasks/uam_define_logical_processes_4E5F020E.html&quot; guid=&quot;_ZnzBINQBEdyTfZVjf0InKw&quot;>Task: Define Logical&#xD;
+Process Model&lt;/a>; these&amp;nbsp;Logical Processes may provide useful input for the identifications of locations. Other&#xD;
+sources are as-is documentation of the enterprise or relevant business domains or systems, as the case may be for the scope&#xD;
+in question.</sectionDescription>
+  </sections>
+  <sections xmi:id="_IsbswN40Edyg17nU3bVmlA" name="Define locations model" guid="_IsbswN40Edyg17nU3bVmlA">
+    <sectionDescription>Define the logical level view of the business locations. Detail included in this view includes the tasks and processes&#xD;
+(i.e. business services) supported at the location, therefore the Logical Process Model needs to be created and consulted&#xD;
+as well as the Business Process Model.</sectionDescription>
+  </sections>
+  <sections xmi:id="_O0VfIN40Edyg17nU3bVmlA" name="Define the location relationships" guid="_O0VfIN40Edyg17nU3bVmlA">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Using the Business Process Model, the Logical Process Model and other sources of information, determine the services&#xD;
+    and facilities required between the locations. This includes both business level services&amp;nbsp;such as &quot;access to&#xD;
+    products and services&quot; or infrastructure services such as &quot;email&quot; and &quot;telephone&quot;. The objective of this step is to&#xD;
+    define the logical level view of services provided between locations, which will influence technical design choices.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Logical level network options are explored and decisions made regarding the topology and structure for the Local Area&#xD;
+    Network (LAN), Wide Area Network (WAN) or Metropolitan Area Network (MAN). The logical segmentation of the network is&#xD;
+    also defined, in terms of &quot;domains&quot; and &quot;zones&quot; as defined in &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/whitepapers/uam_security_reference_model_3EA07B63.html&quot;&#xD;
+    guid=&quot;_KGs_oMX8EdyDYN2-y9-AqA&quot;>Whitepaper: A Reference Model for Enterprise Security&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_SQ0NEN40Edyg17nU3bVmlA" name="Evaluate your results" guid="_SQ0NEN40Edyg17nU3bVmlA">
+    <sectionDescription>&lt;span>A Logical Locations Model is complete only when it describes every location that the &quot;system&quot; has a presence at&#xD;
+(within the given scope) at a consistent level of detail. Before you finish, make sure the locations model exhibits the&#xD;
+characteristics of a good locations model, see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/guidances/guidelines/uam_logical_locations_model_C5E9456.html&quot; guid=&quot;_Fb2ngOSwEdyYxtlRIMoTnw&quot;>Guideline:&#xD;
+Logical Locations Model&lt;/a>.&lt;/span></sectionDescription>
+  </sections>
+  <purpose>&lt;p style=&quot;MARGIN: 0in 0in 6pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+    This task finds and defines the locations involved in the architecture in question. Specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the logical level locations;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine communications (relationships)&amp;nbsp;needed between locations;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the logical level&amp;nbsp;activities/processes&amp;nbsp;supported at and between each location.&amp;nbsp;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

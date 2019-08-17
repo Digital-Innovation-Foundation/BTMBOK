@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tETfO-kuQeG-iE9PivEzZQ" name="uam_business_govern,_MKFJ4EGmEeOfR_FtRm9PUg" guid="-tETfO-kuQeG-iE9PivEzZQ" changeDate="2013-10-30T16:57:28.205-0400" version="7.5.1">
+  <mainDescription>Business Governance ensures that the business activities and policies deliver the desired business outcomes while adhering&#xD;
+to relevant laws, regulations and business policies. &lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

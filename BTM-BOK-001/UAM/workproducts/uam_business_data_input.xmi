@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-Gd9P34Eg00BaQZOmy-tcbw" name="new_artifact,_y-dccGwjEeSS8ckFlGqwKQ" guid="-Gd9P34Eg00BaQZOmy-tcbw" changeDate="2015-02-11T12:37:41.803-0500" version="2.0">
+  <mainDescription>A Data Input is a declaration that a particular kind of data will be used as input to a process, activity or task, which is&#xD;
+defined in an&amp;nbsp;&lt;em>InputOutputSpecification&lt;/em>. There may be multiple Data Inputs associated with an&#xD;
+&lt;em>InputOutputSpecification&lt;/em> for an Activity.&amp;nbsp;&lt;a&#xD;
+href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot; guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a></mainDescription>
+  <representationOptions>A Data Input is a declaration that a particular kind of data will be used as input of the InputOutputSpecification. There&#xD;
+may be multiple Data Inputs associated with an InputOutputSpecification for an Activity.&amp;nbsp;&amp;nbsp;&lt;a&#xD;
+href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot; guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>&#xD;
+&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>: Class, «stereotype» BPL_Data_Input&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» ParameterSet and «metaclass» ActivityParameterNode&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&lt;/strong>&amp;nbsp;- This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&lt;/strong>&amp;nbsp;- A descriptive name for the Data Input.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>inputSetRefs: InputSet [1..*]&lt;/strong>&amp;nbsp;- A &lt;em>DataInput&lt;/em> is used in one or more&#xD;
+        &lt;em>InputSets&lt;/em>. This attribute is derived from the &lt;em>InputSets&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>inputSetwithOptional: InputSet [0..*]&lt;/strong>&amp;nbsp;- Each &lt;em>InputSet&lt;/em> that uses this&#xD;
+        &lt;em>DataInput&lt;/em> can determine if the Activity can start executing with this &lt;em>DataInput&lt;/em> state in&#xD;
+        “unavailable.” This attribute lists those &lt;em>InputSets&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>inputSetWithWhileExecuting: InputSet [0..*]&lt;/strong>&amp;nbsp;- Each &lt;em>InputSet&lt;/em> that uses this&#xD;
+        &lt;em>DataInput&lt;/em> can determine if the Activity can evaluate this &lt;em>DataInput&lt;/em> while executing. This&#xD;
+        attribute lists those &lt;em>InputSets&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>isCollection: boolean = false&lt;/strong>&amp;nbsp;- Defines if the &lt;em>DataInput&lt;/em> represents a collection of&#xD;
+        elements. It is needed when no &lt;em>itemDefinition&lt;/em> is referenced. If an &lt;em>itemDefinition&lt;/em> is referenced,&#xD;
+        then this attribute must have the same value as the &lt;em>isCollection&lt;/em> attribute of the referenced&#xD;
+        &lt;em>itemDefinition&lt;/em>. The default value for this attribute is false.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Has a relationship with an inputSet (inputSetRefs);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        See BPMN v2.0 (OMG 2013).&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

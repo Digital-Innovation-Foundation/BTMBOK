@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FlUeU3Bc3o56XU_zPYsy4w" name="new_toolmentor,_EvJn0CtJEeO2VIPdswWadg" guid="-FlUeU3Bc3o56XU_zPYsy4w" changeDate="2013-10-02T05:58:12.267-0400">
+  <mainDescription>&lt;div class=&quot;WordSection1&quot;>&#xD;
+    &lt;div&#xD;
+    style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: #4f81bd 1pt solid; PADDING-BOTTOM: 4pt; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: medium none; PADDING-RIGHT: 0cm&quot;>&#xD;
+        &lt;p class=&quot;MsoTitle&quot; style=&quot;TEXT-ALIGN: center&quot; align=&quot;center&quot;>&#xD;
+            &lt;span lang=&quot;EN-US&quot;>User guide for the&lt;/span> &lt;span lang=&quot;EN-GB&quot;>RedMine&lt;/span> &lt;span lang=&quot;EN-US&quot;>tool&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/div>&#xD;
+    &lt;p class=&quot;MsoBodyText&quot;>&#xD;
+        &lt;span lang=&quot;EN-GB&quot;>Refer to the public online guide at&lt;/span>&#xD;
+    &lt;/p>&#xD;
+    &lt;p class=&quot;MsoBodyText&quot;>&#xD;
+        &lt;span lang=&quot;EN-GB&quot;>&lt;a href=&quot;http://www.redmine.org/projects/redmine/wiki/Guide&quot;>&lt;u>&lt;font&#xD;
+        color=&quot;#0066cc&quot;>http://www.redmine.org/projects/redmine/wiki/Guide&lt;/font>&lt;/u>&lt;/a>&lt;/span>&#xD;
+    &lt;/p>&#xD;
+    &lt;p class=&quot;MsoBodyText&quot;>&#xD;
+        &amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+&lt;/div></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

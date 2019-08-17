@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vEvfeoyYAPDr-jfyX2QLww" name="xp_rights,3.036332011267074E-306" guid="-vEvfeoyYAPDr-jfyX2QLww" changeDate="2006-11-08T18:44:06.238-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp__bill_of_rights&quot; name=&quot;XE_xp__bill_of_rights&quot;>&lt;/a>&lt;a id=&quot;XE_bill_of_rights__in_xp&quot; name=&quot;XE_bill_of_rights__in_xp&quot;>&lt;/a> &#xD;
+&lt;h2>&#xD;
+    Developer Bill of Rights&#xD;
+&lt;/h2>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        You have the right to know what is needed with clear declarations of priority.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        You have the right to produce quality work at all times.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        You have the right to ask for and receive help from peers, superiors, and customers.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        You have the right to make and update your own estimates.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        You have the right to accept responsibilities instead of having them assigned to you.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h2>&#xD;
+    Customer Bill of Rights&#xD;
+&lt;/h2>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        You have the right to an overall plan, to know what can be accomplished when and at what cost.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        You have the right to get the greatest possible value out of every programming week.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        You have the right to see progress in a running system proven to work by passing repeatable tests that you specify.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        You have the right to change your mind, to substitute functionality, and to change priorities without paying&#xD;
+        exorbitant costs.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        You have the right to be informed of schedule changes in time to choose how to reduce the scope to restore the&#xD;
+        original date. You can cancel the project at any time and be left with a useful working system reflecting the&#xD;
+        investment to date.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

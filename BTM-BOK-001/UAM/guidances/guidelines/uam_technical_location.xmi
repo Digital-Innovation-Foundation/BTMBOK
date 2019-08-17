@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-lpDdQWgRRtoNMdLQXtVSlg" name="uam_technical_location,_D-w3kO-qEdy8F4k6ANL48Q" guid="-lpDdQWgRRtoNMdLQXtVSlg" authors="DW Enstrom" changeDate="2014-07-16T12:43:46.584-0400" changeDescription="new" version="1.0.0">
+  <mainDescription>&lt;h3>&#xD;
+    &lt;a id=&quot;Introduction&quot; name=&quot;Introduction&quot;>Introduction&lt;/a>&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    In &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/concepts/uam_it_architecture_193573CD.html&quot;&#xD;
+    guid=&quot;_XTWLgN_kEdynr9jlfK-aMA&quot;>Concept: IT Architecture&lt;/a>&amp;nbsp;we&amp;nbsp;find the idea of &lt;i>viewpoints (views and&#xD;
+    aspects)&lt;/i> from which a system can be modeled. A Technical Location is one of the aspects, or vertical slices through&#xD;
+    the enterprise, that defines and models a perspective that is useful in understanding the enterprise and its operation.&#xD;
+    Note that &lt;em>location&lt;/em> has a physical connotation, which is used in this view of the enterprise, but it is&#xD;
+    abstracted to the three different levels of the architecture, namely &lt;em>business&lt;/em>, &lt;em>system&lt;/em> and&#xD;
+    &lt;em>technology&lt;/em>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    At the &lt;em>technical&lt;/em> level described here, the notion of location is used to identify and describe the actual&#xD;
+    physical of locations at which the enterprise has a presence. The &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/workproducts/uam_technical_locations_model_A4784587.html&quot; guid=&quot;_kxoK0M6nEdymj4NXv8-FYA&quot;>Technical&#xD;
+    Locations Model&lt;/a>&amp;nbsp;supports this viewpoint by describing what activities are carried on at the defined enterprise&#xD;
+    locations and the technicalities of their communications with other enterprise locations, all organized into a simple&#xD;
+    model. See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/guidelines/uam_technical_locations_model_35A606DB.html&quot;&#xD;
+    guid=&quot;_MJxRAOSwEdyYxtlRIMoTnw&quot;>Guideline: Technical Locations Model&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    &lt;a id=&quot;Localities and Connections&quot; name=&quot;Localities and Connections&quot;>Locations&amp;nbsp;&lt;/a>&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    A&amp;nbsp;&lt;b>location&lt;/b> represents the &lt;i>physical&lt;/i> partitioning and distribution of the enterprise, and is concerned&#xD;
+    with the geographic placement of&amp;nbsp;enterprise resources (buildings, points-of-presence, and other notions) along&#xD;
+    with the business activities/services provided there. A locality expresses where business process are supported, thus&#xD;
+    there is a strong connection between &lt;em>location&lt;/em> and &lt;em>activity&lt;/em>.&amp;nbsp;The semantics of locality implies a&#xD;
+    tighter grouping of&amp;nbsp;activities and how the activities are&amp;nbsp;to be supported. It is conceivable for very&#xD;
+    complex, very large enterprises, that there might&amp;nbsp;be locations that decompose to finer-grained localities (just as&#xD;
+    a system might contain subsystems). The description of a location includes a general indication of the&amp;nbsp;&lt;i>type&lt;/i>&#xD;
+    of&amp;nbsp;location being defined (e.g., Headquarters, factory, point-of-presence, etc.) along with the business&#xD;
+    activities supported&amp;nbsp;at the location. Finally, the communications between locations is also defined, in this case&#xD;
+    at a technical level (protocols, data rates, equipment, etc.).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The technical Locations Model captures this aspect of the system through a great many modeling elements. These elements&#xD;
+    start with high-level logical concepts, such as a building or more generic type of locations, but much more&#xD;
+    detail&amp;nbsp;may then be added in order to describe the network, the communications and other &quot;locations&quot; aspects. For a&#xD;
+    description of the locations aspect modeling elements see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/supportingmaterials/uam_tpl_simple_FA24A330.html&quot;&#xD;
+    guid=&quot;_w5B_8EWJEeOfR_FtRm9PUg&quot;>Supporting Material: TPL Summary&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

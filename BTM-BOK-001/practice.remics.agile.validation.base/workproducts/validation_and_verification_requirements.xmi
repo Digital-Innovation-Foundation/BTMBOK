@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Vu53_8ZY03zsjC-YwhzCWQ" name="validation_and_verification_requirements,_FxNEYV5BEeKVU8eUCvi3Og" guid="-Vu53_8ZY03zsjC-YwhzCWQ" changeDate="2013-08-23T04:07:40.817-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Validation and Verification Requirements&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    These are the requirements to be checked during the validation and verification sprint&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

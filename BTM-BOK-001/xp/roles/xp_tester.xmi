@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KfsuH9i0hVMlGV7PVIa3FQ" name="xp_tester,{FB65D00B-8304-4CF7-9969-52CE82F503DC}" guid="-KfsuH9i0hVMlGV7PVIa3FQ" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The primary responsibility of the XP Tester is to help the customer define and implement acceptance tests for user&#xD;
+    stories. The XP Tester is also responsible for running the tests frequently and posting the results for the whole team&#xD;
+    to see. As the number of tests grow, the XP Tester will likely need to create and maintain some kind of tool to make it&#xD;
+    easier to define them, run them, and gather the results quickly.&#xD;
+&lt;/p></mainDescription>
+  <skills>&lt;p>
+    Whereas knowledge of the applications target domain is provided by the customer, the XP Tester needs to support the
+    customer by providing:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Knowledge of typical software failure conditions and the test techniques that can be employed to uncover those
+        errors.
+    &lt;/li>
+    &lt;li>
+        Knowledge of different techniques to implement and run tests, including understanding of and experience with test
+        automation.
+    &lt;/li>
+&lt;/ul></skills>
+</org.eclipse.epf.uma:RoleDescription>

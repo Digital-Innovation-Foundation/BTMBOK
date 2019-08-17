@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-h1poMaxtQbmg6hD5772oVw" name=",_t7JOkEvtEdunZcj9T5hrMQ" guid="-h1poMaxtQbmg6hD5772oVw" changeDate="2006-09-24T14:22:03.239-0400">
+  <mainDescription>A description of the breadth of a system's behavior, specifying the boundaries of the problem domain or system.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

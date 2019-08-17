@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mFnoIulBQ7JrxiaHVCrE7A" name="new_checklist,_OhJKUNWsEduaE6F4-SvXzg" guid="-mFnoIulBQ7JrxiaHVCrE7A" changeDate="2007-07-25T15:48:32.932-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The items in this checklist represent good practices for creating a high-quality implementation. Try to address every&#xD;
+    item to the greatest extent possible to create the best implementation. It may not be possible to address every item,&#xD;
+    and you may be able to address some items to only a limited extent. In these cases, be sure that there are good reasons&#xD;
+    for only partially addressing an item or not addressing an item at all.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This checklist is not something that should be considered only for heavyweight code reviews. Each developer should keep&#xD;
+    the quality criteria embodied in these check items in mind while coding. When developers work together, the review&#xD;
+    against these criteria should be done in real time so that quality is ensured up front as they are writing the code.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Appropriate divergence from the quality criteria described here could be worthy of a comment in the implementation so&#xD;
+    that developers examining the code in the future know why the exception occurred.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_q8zSoNWsEduaE6F4-SvXzg" name="Does the implementation conform to the architecture and design?" guid="_q8zSoNWsEduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Is the implementation structured as specified in the design? &lt;/li>&#xD;
+  &lt;li> Are all of the functions in the design implemented? &lt;/li>&#xD;
+  &lt;li> Are all of the interfaces in the design implemented according to their &#xD;
+    specifications? &lt;/li>&#xD;
+  &lt;li> Does the implementation adhere to all design and architectural constraints? &#xD;
+  &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_vb-zsNWsEduaE6F4-SvXzg" name="Is the implementation testable?" guid="_vb-zsNWsEduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Can you test the expected behavior at the unit level? &lt;/li>&#xD;
+  &lt;li> Is the code written in a way that all paths can be exercised? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_djoQENXCEduaE6F4-SvXzg" name="Is the implementation correct?" guid="_djoQENXCEduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Does the implementation pass all of the developer tests? &lt;/li>&#xD;
+  &lt;li> Does the implementation support the acceptance criteria of the test cases? &#xD;
+  &lt;/li>&#xD;
+  &lt;li> Is all code executable (no dead code areas)? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_D4YyoO24EduHHNqbab9GOA" name="Is the implementation understandable?" guid="_D4YyoO24EduHHNqbab9GOA">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Does the implementation clearly state the intention of the developer? &lt;/li>&#xD;
+  &lt;li> Does the code adhere to the Coding Guidelines? If a set of Coding Guidelines &#xD;
+    has not been identified, the code should be checked for a variety of consistency &#xD;
+    issues, such as naming conventions, indentation, spacing, and so forth.&lt;/li>&#xD;
+  &lt;li> Are the names of the variables easy to understand? Do they describe the &#xD;
+    purpose of the variable? &lt;/li>&#xD;
+  &lt;li> Are all of the comments necessary to be able to understand the associated &#xD;
+    code? Comments should enhance the understanding of the code rather than merely &#xD;
+    repeat it. &lt;/li>&#xD;
+  &lt;li> Are all comments correct? &lt;/li>&#xD;
+  &lt;li> Does the implementation match the documentation? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_klOGANvBEduy3tw_ntB-3g" name="Is there no redundancy?" guid="_klOGANvBEduy3tw_ntB-3g">
+    <sectionDescription>&lt;p> Is there no redundancy in the implementation? (Identify candidates for refactoring.) &#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

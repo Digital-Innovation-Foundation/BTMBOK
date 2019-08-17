@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oYYdsBGxva2UvuS7jXCmiQ" name="uam_technical_activity,_-_V_MEGrEeOfR_FtRm9PUg" guid="-oYYdsBGxva2UvuS7jXCmiQ" changeDate="2013-10-30T17:40:43.653-0400" version="7.5.1">
+  <mainDescription>A Technical Activity&amp;nbsp;shows how Activities, Tasks, Technical Roles, and Technical Entities (and optionally Technical&#xD;
+Events and Rules) work together to perform a process (producing something of business benefit). At the technical level the&#xD;
+activities and their workflow recognize the capabilities and constraints of the COTS and technology choices as well as the&#xD;
+system specific needs (i.e. error handling, audit, archive, performance). &lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

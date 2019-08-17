@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-HhO4baqqzDrnN_rIwN0eDQ" name="uam_logical_comms,_d7tGgEGoEeOfR_FtRm9PUg" guid="-HhO4baqqzDrnN_rIwN0eDQ" changeDate="2015-02-19T13:07:25.794-0500" version="7.5.1">
+  <mainDescription>Logical Communications represents the logical communications, of any type, between Logical Locations. It is an abstract&#xD;
+element that is specified as a generalized Logical WAN Link in logical level models. At a Logical level, these links may&#xD;
+have generic technical details added, and optionally the&amp;nbsp;definition of processes that traverse these links.&amp;nbsp;See:&#xD;
+&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/guidelines/uam_logical_locations_model_C5E9456.html&quot;&#xD;
+guid=&quot;_Fb2ngOSwEdyYxtlRIMoTnw&quot;>Guideline: Logical Locations Model&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

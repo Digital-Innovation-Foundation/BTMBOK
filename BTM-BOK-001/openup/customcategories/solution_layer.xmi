@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qwWeiX7WrSVHSluBe-J7yw" name="solution_layer,_HEVvgEmcEdu0xduwSKie-w" guid="-qwWeiX7WrSVHSluBe-J7yw" changeDate="2007-04-06T15:01:30.640-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The Solution layer, among others, guides how you perform the following actions:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Determine architectural feasibility&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define and develop architecture&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Design, implement, and test a requirement or change&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Test and validate builds of incrementally improved quality&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    You find the tasks for this layer in the disciplines &lt;b>Architecture, Development,&lt;/b> and&#xD;
+    &lt;b>Test&lt;/b>, and the corresponding work products under those domains.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Solution layer is built upon the foundational &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/customcategories/collab_commun_layer_A3CDA6EF.html&quot; guid=&quot;_r8cVIEmbEdu0xduwSKie-w&quot;>Communication and collaboration layer&lt;/a>. That layer constitutes the backbone of OpenUP&#xD;
+    to ensure that:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        All roles in OpenUP are involved in solution development&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Validated builds are the responsibility of the entire team&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Best practices for collaborative development guide solution development&lt;b>.&lt;/b>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The Solution layer is written in such a way that your organization can modify it to fit your development style,&#xD;
+    without necessarily affecting how you deal with the other layers (&lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/customcategories/management_layer_DF9A1A7F.html&quot; guid=&quot;_Aoz2gEmcEdu0xduwSKie-w&quot;>Management layer&lt;/a>&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/customcategories/management_layer_DF9A1A7F.html&quot; guid=&quot;_Aoz2gEmcEdu0xduwSKie-w&quot;> &lt;/a>and &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/customcategories/intent_layer_33C0EF8F.html&quot; guid=&quot;_57_ZMEmbEdu0xduwSKie-w&quot;>Intent layer&lt;/a>).&lt;br />&#xD;
+      &#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

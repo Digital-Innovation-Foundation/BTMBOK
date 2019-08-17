@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-G90x9NShbfhhP2QXymIFZw" name="uam_ea_llm,_AZR18sJdEeKSedlRPHdUIQ" guid="-G90x9NShbfhhP2QXymIFZw" changeDate="2015-02-06T14:55:13.085-0500" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;ThuNorTech Locations Model&quot; src=&quot;./resources/EA-Technical-TLM.png&quot;&#xD;
+    usemap=&quot;#map1392927408170&quot; />&lt;map id=&quot;map1392927408170&quot; name=&quot;map1392927408170&quot;>&#xD;
+        &lt;area title=&quot;ThuNorTech Customer Location&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_ea_tpl_Customer-Location_BB36F94D.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech Customer Location&quot; coords=&quot;162,6,202,63&quot; guid=&quot;_ZaUxsJprEeO7n_hZ4c37dQ&quot; />&#xD;
+        &lt;area title=&quot;ThuNorTech Heaquarters Locations&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_ea_tpl_Partner-Location_937DCA24.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech Heaquarters Locations&quot; coords=&quot;162,139,201,195&quot; guid=&quot;_bDnqwJprEeO7n_hZ4c37dQ&quot; />&#xD;
+        &lt;area title=&quot;ThuNorTech Heaquarters Location&quot;&#xD;
+        href=&quot;./../../UAM/customcategories/eg_ea_tpl_HQ-Location_F86C73EB.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech Heaquarters Location&quot; coords=&quot;9,64,61,126&quot; guid=&quot;_HmcCwLRpEeOTralbgKSHFw&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot; src=&quot;./resources/Drill%20Down-33.jpg&quot;&#xD;
+    width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This is the root of the EA level Technical Locations Model for ThuNorTech, containing the definitions or linking to the&#xD;
+    various diagrams that define this aspect.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    The main focus of this very simple view is on ThuNorTech headquarters, the company’s only major facility and its links&#xD;
+    with its Partners and Customers. ThuNorTech has employees located at and integrated with Partners and Customers at&#xD;
+    their sites. Access is provided for these deployed employees, and to certain Partners' and Customers' employees, to&#xD;
+    ThuNorTech facilities in support of their&amp;nbsp; IT technology research needs or IT solution implementations and the&#xD;
+    support provided by ThuNorTech. The business level locations model is typically quite simple, as shown here.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The locations model works best if layering is used to deal with complexity and to provide views appropriate for the&#xD;
+    audience and objectives, and comprehension is greatly improved. Detail is hidden, while allowing for it to be defined&#xD;
+    in lower layers, as required to meet the objectives of the architecture effort. Clicking on the locations (that show&#xD;
+    the &quot;drill down&quot; decorator: &lt;img alt=&quot;&quot; src=&quot;./resources/Drill%20Down-33.jpg&quot; width=&quot;12&quot;&#xD;
+    height=&quot;12&quot; />&amp;nbsp;)&amp;nbsp;&amp;nbsp;takes you to this more detailed diagram.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The &quot;leaf&quot; nodes in this Technical&amp;nbsp;level model define the starting point for other models.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

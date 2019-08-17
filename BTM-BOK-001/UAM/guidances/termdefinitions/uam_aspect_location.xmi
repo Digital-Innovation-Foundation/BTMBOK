@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ishlH6b_PS1xbDrIxCioDg" name="uam_aspect_location,_D9bAAMI6EeKSedlRPHdUIQ" guid="-ishlH6b_PS1xbDrIxCioDg" changeDate="2013-05-21T13:16:22.880-0400" version="7.5.1">
+  <mainDescription>The “where” aspect of the architecture, where the system under study has a presence in order to conduct its business. It&#xD;
+provides a complete picture of the business locations, the network, servers and storage used by the system. The primary&#xD;
+stakeholders are network designers, storage specialists, server specialists, and other technical design people.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

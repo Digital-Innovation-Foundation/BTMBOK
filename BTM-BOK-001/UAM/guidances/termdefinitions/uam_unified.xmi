@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rimgW2Lwy8E6OxxuiWcqMA" name="new_term_definition,_JwOVAMJOEeKSedlRPHdUIQ" guid="-rimgW2Lwy8E6OxxuiWcqMA" changeDate="2015-02-16T13:06:42.251-0500" version="7.5.1">
+  <mainDescription>&lt;em>Unified&lt;/em> is the concept where IT architectures are formed or united into a coherent whole; as in the Unified&#xD;
+Architecture Method that defines the concepts, language, processes, and structures to unify multiple IT architectures&#xD;
+across the enterprise and at different levels of abstraction and contexts. &lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

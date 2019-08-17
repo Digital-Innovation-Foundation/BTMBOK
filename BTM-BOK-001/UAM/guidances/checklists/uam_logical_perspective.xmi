@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PW0Tr_U1fsX1jnV5nXrgLg" name="uam_logical_perspective,_fgTy4NWREdyLINQdtlJihw" guid="-PW0Tr_U1fsX1jnV5nXrgLg" authors="DW Enstrom" changeDate="2013-11-08T15:42:30.520-0500" changeDescription="new" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in determining if the Logical Perspective is complete, well-defined and&#xD;
+    comprehensible. An overall review is suggested,&amp;nbsp;and reviews and checks for the various aspects are provided. Again&#xD;
+    it must be stressed that clear language and consistency in its usage is important in documenting and communicating the&#xD;
+    architecture. This is particularly important at the business level, but also at the logical level.&#xD;
+&lt;/p>&lt;br /></mainDescription>
+  <sections xmi:id="_fgUZ8NWREdyLINQdtlJihw" name="General " guid="_fgUZ8NWREdyLINQdtlJihw">
+    <sectionName> General </sectionName>
+    <sectionDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Helvetica-Bold&quot;>Overall, the architecture is sound, because:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The architecture appears to be stable. &#xD;
+        &lt;p>&#xD;
+            The need for stability is dictated by follow-on phases. Instability at this level results in even higher&#xD;
+            instability in the lower level&amp;nbsp;Technical Perspective.&#xD;
+        &lt;/p>&#xD;
+        &lt;p>&#xD;
+            The importance of a stable architecture cannot be overstated. Do not be deceived into thinking that &quot;pretty&#xD;
+            close is good&quot;—unstable is unstable, and it is better to get the architecture right and delay the move to the&#xD;
+            Logical or Technical view rather than proceed.&amp;nbsp;Changes to higher level&amp;nbsp;architecture perspectives and&#xD;
+            viewpoint models have broad impact: they tend to be expensive, disruptive and demoralizing.&#xD;
+        &lt;/p>&#xD;
+        &lt;p>&#xD;
+            The real difficulty of assessing architectural stability is that &quot;you don't know what you don't know&quot;;&#xD;
+            stability is measured relative to expected change. As a result, stability is essentially a subjective measure.&#xD;
+            We can, however, base this subjectivity on more than just conjecture. The architecture itself is developed by&#xD;
+            considering 'architecturally significant' scenarios—sub-sets of activities that represent the most&#xD;
+            technologically challenging behavior the system must support. Assessing the stability of the architecture&#xD;
+            involves ensuring that the architecture has broad coverage, to ensure that there will be no 'surprises' in the&#xD;
+            architecture going forward.&#xD;
+        &lt;/p>&#xD;
+        &lt;p>&#xD;
+            Past experience with the architecture can also be a good indicator: if the rate of change in the architecture&#xD;
+            is low, and remains low as new scenarios are covered, there is good reason to believe that the architecture is&#xD;
+            stabilizing. Conversely, if each new scenario causes changes in the architecture, it is still evolving and&#xD;
+            baselining is not yet warranted.&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The architecture is consistent, coherent and comprehensible&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The architect can understand enough from the architecture to successfully develop the&amp;nbsp;Technical Perspective.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The packaging approach reduces complexity and improves understanding.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Packages have been defined to be highly cohesive within the package, while the packages themselves are loosely&#xD;
+        coupled.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The&amp;nbsp;architecture can be easily understood by someone generally knowledgeable in the business area.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Existing Architectural Decisions&amp;nbsp;have been consulted and followed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The Logical Perspective viewpoint models and included documentation is current.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The architecture does not appear to be &quot;over-designed&quot;. &#xD;
+        &lt;ul>&#xD;
+            &lt;li class=&quot;ck&quot;>&#xD;
+                The structures and detail is sufficient for comprehension.&#xD;
+            &lt;/li>&#xD;
+            &lt;li class=&quot;ck&quot;>&#xD;
+                The structures and detail is modest and consistent with the scope and objectives of the architecture.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        All&amp;nbsp;logical activities&amp;nbsp;defined can be executed by the architecture, as demonstrated by diagrams&#xD;
+        depicting:&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li class=&quot;ck&quot;>&#xD;
+                Interactions between activities and processes,&#xD;
+            &lt;/li>&#xD;
+            &lt;li class=&quot;ck&quot;>&#xD;
+                Interactions between activities/tasks&amp;nbsp;and business entities.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_fgUZ8dWREdyLINQdtlJihw" name="Layers defined" guid="_fgUZ8dWREdyLINQdtlJihw">
+    <sectionName> Layers </sectionName>
+    <sectionDescription>&lt;div style=&quot;MARGIN-LEFT: 2em&quot;>&#xD;
+    &lt;ul>&#xD;
+        &lt;li class=&quot;ck&quot;>&#xD;
+            There are no more than seven (plus or minus two) layers;&#xD;
+        &lt;/li>&#xD;
+        &lt;li class=&quot;ck&quot;>&#xD;
+            The rationale for layer definition is clearly presented and consistently applied;&#xD;
+        &lt;/li>&#xD;
+        &lt;li class=&quot;ck&quot;>&#xD;
+            Layer boundaries are respected within the architecture;&#xD;
+        &lt;/li>&#xD;
+        &lt;li class=&quot;ck&quot;>&#xD;
+            Layers are used to encapsulate conceptual boundaries between different kinds of services and provide useful&#xD;
+            abstractions which makes the design easier to understand.&#xD;
+        &lt;/li>&#xD;
+    &lt;/ul>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_GBA6cPHfEdyIELoltz1wKA" name="For the logical entities (viewpoint) models" guid="_GBA6cPHfEdyIELoltz1wKA">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Is the name and description of the logical entity clear and understandable?&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is each relationship to/from the entity used in the workflow of at least one logical activity?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the logical entity participate in at least one logical activity?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the logical entity have an &lt;em>owner&lt;/em>, and actor responsible for its creation/management?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the logical entity get created before it gets used or manipulated?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Do significant state changes of the entity trigger a business event?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Have all appropriate (required logical level) attributes been identified?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the logical entity have the appropriate/required relationships with related logical activities, system events,&#xD;
+        and other logical entities?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Considering the entire business; are all things in it, such as products, documents, and contracts, modeled as&#xD;
+        logical entities?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the logical entity represent significant information within the business?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Will the logical entity be updated or referenced at some stage?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the logical entity represent persistent information?&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_Zu8doPHfEdyIELoltz1wKA" name="For the logical activities (viewpoint) models" guid="_Zu8doPHfEdyIELoltz1wKA">
+    <sectionDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Do the logical activities conform to the business you want them to describe?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Have all the logical activities been found? Taken together, the logical activities should define the complete&#xD;
+        business.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are there multiple logical activities with very similar names? If so, consider merging them or changing their&#xD;
+        names.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are the logical activities aligned with the business strategy and other business plans?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Does each logical activities support at least one business goal?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are all activities within the &quot;system&quot; included in at least one logical activity?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is there a balance between the number and the size of the logical activities?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is each logical activity unique? If not, consider merging it with a similar logical activity.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is each logical activity involved with at least one logical actor?&amp;nbsp; If not, is it meaningful?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_wZSuoPHfEdyIELoltz1wKA" name="For the logical locations (viewpoint) models" guid="_wZSuoPHfEdyIELoltz1wKA">
+    <sectionDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Do the logical locations conform to the business being described?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Have all the logical locations been found? Taken together, the logical locations should define the complete&#xD;
+        business.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are there multiple logical locations with very similar names? If so, consider merging them or changing their names.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are the logical locations aligned with the business strategy and other business plans?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Does each logical location support at least one business goal?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are all locations within the business included in at least one logical activity?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is each logical location logically unique? If not, consider merging it with a similar logical location.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is each logical location involved with at least one business actor?&amp;nbsp; If not, is it meaningful?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_AwXDsPHgEdyIELoltz1wKA" name="For the logical roles (viewpoint) models" guid="_AwXDsPHgEdyIELoltz1wKA">
+    <sectionDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Have all logical actors/roles been found?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Does each logical actor express a role, not a person? Try to name at least two people (or a system)&amp;nbsp;that can&#xD;
+        act as the actor.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is each logical actor involved with at least one logical activity? If not, remove it.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Does the logical role structure support the enforcement of required IT security&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is the role structure as simple as possible&amp;nbsp;?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_RdUTwPHhEdyIELoltz1wKA" name="The complexity of the logical model matches the complexity of the business" guid="_RdUTwPHhEdyIELoltz1wKA">
+    <sectionDescription>&lt;p class=&quot;ck&quot;>&#xD;
+    The complexity of the logical viewpoint models should&amp;nbsp;have a similar&amp;nbsp;level of complexity (and also in&#xD;
+    relation to the scope/complexity of the &quot;system&quot;) ... actually it should be less complex that the actual &quot;system&quot; since&#xD;
+    that is the point of modeling something, to define simpler abstractions as an aid to comprehension. This is a relative&#xD;
+    evaluation, therefore as always when creating an architecture the level of complexity and detail required is always a&#xD;
+    judgment call. The level required should be driven by the intended use for the architecture.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_ec36cPHhEdyIELoltz1wKA" name="The conceptual complexity is appropriate for the skill and experience of architects, managers, and developers -- and objectives of the architecture" guid="_ec36cPHhEdyIELoltz1wKA">
+    <sectionDescription>A qualifier on the level of complexity in a resulting model is the skill and experience of the architects, managers and&#xD;
+developers. Over time these people will become comfortable with more detail. If the models are maintained, there will be a&#xD;
+natural progression from simple models to more complex ones as described in &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../../UAM/guidances/practices/uam_evolve_to_complex_A93F5EB5.html&quot; guid=&quot;_AMVHENEGEdyC2cfK_t2EKQ&quot;>Practice:&#xD;
+Evolve to a Complex Model&lt;/a>. Also, the scope (of the system) and objectives of the IT architecture effort should dictate&#xD;
+the level of detail defined.</sectionDescription>
+  </sections>
+  <sections xmi:id="_l1REUPHhEdyIELoltz1wKA" name="A single consistent and coherent Logical Perspective definition" guid="_l1REUPHhEdyIELoltz1wKA">
+    <sectionDescription>Quite often different business domains (departments) within an enterprise define IT architectures. The challenge is in&#xD;
+bringing these together into a &quot;single&quot; coherent IT architecture, where even simple things like language (definitions) can&#xD;
+get in the way. Review the model with multiple stakeholders, and start&amp;nbsp;by agreeing&amp;nbsp;the &quot;language&quot; used (i.e.,&#xD;
+modeling element definitions) in the model.</sectionDescription>
+  </sections>
+  <sections xmi:id="_4W3-UPHhEdyIELoltz1wKA" name="Consistent system-wide IT security model" guid="_4W3-UPHhEdyIELoltz1wKA">
+    <sectionDescription>Security is one of the more pervasive aspects (second only to the computer network) of any IT architecture. Getting this&#xD;
+right is important, and it starts with a good reference model: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../../UAM/guidances/whitepapers/uam_security_reference_model_3EA07B63.html&quot;&#xD;
+guid=&quot;_KGs_oMX8EdyDYN2-y9-AqA&quot;>Whitepaper: A Reference Model for Enterprise Security&lt;/a>. All the&amp;nbsp;components need to&#xD;
+work together to enable secure business operations. At the business level, start by understanding classes, types, owners&#xD;
+and users of information and services. The roles model is important in this understanding.</sectionDescription>
+  </sections>
+  <sections xmi:id="_hKHuYPHiEdyIELoltz1wKA" name="The IT patterns and techniques support and enable the business" guid="_hKHuYPHiEdyIELoltz1wKA">
+    <sectionDescription>Technology introduced without due consideration of its cost of ownership vs. its benefit to the business is a recipe for&#xD;
+disaster. On the other hand, technology can also provide huge business benefit or even a new business opportunity, which is&#xD;
+not at first obvious. The real magic is in identifying this match, which often requires a bit of a change in how the&#xD;
+business works (but not necessarily&amp;nbsp;in what the business does).</sectionDescription>
+  </sections>
+  <sections xmi:id="_u5NUkPHiEdyIELoltz1wKA" name="Clear separation of concerns and partitioning" guid="_u5NUkPHiEdyIELoltz1wKA">
+    <sectionDescription>&lt;p>&#xD;
+    Having clear separation of concerns and partitioning will enable the further definition and implementation of the&#xD;
+    models through parallel development. Partitions and layers also aid in comprehension of the models. Each area of&#xD;
+    concern or partition can be allocated to a different team. In the IT architecture&amp;nbsp;context these terms have the&#xD;
+    following meanings:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Layers (of concerns)&lt;/strong> - the separation into&amp;nbsp;(stacked) horizontal layers&amp;nbsp;(e.g. the OSI&#xD;
+        layers, &lt;em>minus&lt;/em> 'application'), for example:&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Network (LAN, WAN, &amp;amp; MAN)&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Servers&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Storage&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Desktops&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                IT Security&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Partitioning&lt;/strong> - this focuses on the separation of layers into cohesive components that have low&#xD;
+        coupling, see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../UAM/guidances/concepts/uam_levels_and_views_499BC4B8.html&quot; guid=&quot;_W4UEAMqpEdy25fQyv59CjQ&quot;>Concept:&#xD;
+        Architecture Perspectives and Viewpoints&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../UAM/guidances/concepts/uam_complex_modelling_A4EC9E37.html#Layered%20Business%20Models&quot;&#xD;
+        guid=&quot;_PjkWoObaEdyjVoHXO3Mbfg&quot;>Concept: Complex IT Architectures&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_4kk7wPHkEdyIELoltz1wKA" name="A project manager, designer or domain architect understands enough from the Logical Model " guid="_4kk7wPHkEdyIELoltz1wKA">
+    <sectionDescription>&lt;p>&#xD;
+    Given the high-level nature of&amp;nbsp;IT architecture models, more work is required before an implementation project is&#xD;
+    started. The business analysts, architects or other&amp;nbsp;concerned parties must be able to take this next step based&#xD;
+    upon the Logical Perspective level viewpoint models: producing the Technology Perspective viewpoint models. A judgment&#xD;
+    call is required regarding the level of detailed needed within each Logical level viewpoint.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_el-2UPHlEdyIELoltz1wKA" name="Components or sub-systems are highly cohesive internally, with loose coupling between them" guid="_el-2UPHlEdyIELoltz1wKA">
+    <sectionDescription>&lt;p>&#xD;
+    This is very much enabled by have clear&amp;nbsp;separations of concerns in the model, and&amp;nbsp;in the process model having&#xD;
+    clear separation between&amp;nbsp;logical activities/tasks,&amp;nbsp;and few interfaces.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_sLdNgPHlEdyIELoltz1wKA" name="Similar solutions within the common business domain have been considered" guid="_sLdNgPHlEdyIELoltz1wKA">
+    <sectionDescription>Every enterprise in the auto manufacturing 'business domain' for example have very similar (if not identical at some level)&#xD;
+IT architectures. This 'business domain' pattern should be looked at to ensure that the defined business model is&#xD;
+consistent with it.</sectionDescription>
+  </sections>
+  <sections xmi:id="_7GELoPHlEdyIELoltz1wKA" name="The proposed solution can be easily understood by someone generally knowledgeable in the domain" guid="_7GELoPHlEdyIELoltz1wKA">
+    <sectionDescription>This is sometimes easier said than done, but is greatly facilitated through the use of standard domain 'language' in the&#xD;
+models (which may need to be clarified in order to be more precise). Visual models are also an aid to understanding.&#xD;
+Complexity (in models and descriptions) can be reduced through the layering of the models (i.e., encapsulation to hide&#xD;
+detail). Peer reviews and reviews by business analysts also facilitate and aid in documenting architectures in a manner and&#xD;
+language understandable by all.</sectionDescription>
+  </sections>
+  <sections xmi:id="_VdXPgPHmEdyIELoltz1wKA" name="All team members share the same view of the business models as presented by the architect" guid="_VdXPgPHmEdyIELoltz1wKA">
+    <sectionDescription>Stakeholders should also share the same view -- this is where getting consensus on the language and other aspects is very&#xD;
+important. Conduct peer reviews to get feedback and to develop a solid consensus and understanding.</sectionDescription>
+  </sections>
+  <sections xmi:id="_jeJpsPHmEdyIELoltz1wKA" name="The modeling guidelines have been followed" guid="_jeJpsPHmEdyIELoltz1wKA">
+    <sectionDescription>Presenting a consistent view and using consistent and agreed views and structures aids in understanding, eases maintenance&#xD;
+of the models, and generally speeds up the process.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ozjBEPHmEdyIELoltz1wKA" name="There are routines in place for verifying the Logical Perspective" guid="_ozjBEPHmEdyIELoltz1wKA">
+    <sectionDescription>Having good review processes during and after the development of the Logical Perspective models is essential. Stakeholders&#xD;
+should be involved in its development, but a set of key stakeholders should also review the end result.</sectionDescription>
+  </sections>
+  <sections xmi:id="_uT7gcPHmEdyIELoltz1wKA" name="The Logical Perspective models do not appear to be overly complex" guid="_uT7gcPHmEdyIELoltz1wKA">
+    <sectionDescription>&amp;nbsp;In particular: &#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The mechanisms in place appear to be simple enough to use.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The number of mechanisms is modest and consistent with the scope of the system and the demands of the problem&#xD;
+        domain.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_iyE-IPH3EdyIELoltz1wKA" name="Does the Logical Perpsective architecture appear to be stable" guid="_iyE-IPH3EdyIELoltz1wKA">
+    <sectionDescription>&lt;p class=&quot;ck&quot;>&#xD;
+    If it is the case, the system model will in general appear to be reasonable. Past experience with the architecture can&#xD;
+    be a good indicator if the rate of change in the architecture is low, and remains low as new scenarios are covered,&#xD;
+    there is good reason to believe that the architecture is stabilizing. Conversely, if each new scenario causes changes&#xD;
+    in the architecture, it is still evolving and baselining is not yet warranted. One must not get too hasty in viewing&#xD;
+    model as 'unstable', since this view could be caused by the influence of technological change, which in turn may impact&#xD;
+    the business—in other words, a Logical model if crafted well is independent of technological change to some degree, and&#xD;
+    defines the important aspects of the given business domain (e.g., car manufacturing, or retail sales, etc.). This&#xD;
+    independence, to some degree, of the model from changes in technology (i.e., in how technology support business&#xD;
+    activity) may not hold if the business is heavily dependent, driven&amp;nbsp;and involved in information technology; if the&#xD;
+    enterprise is &lt;em>in&lt;/em> the information technology business, such as a telecommunications or computer equipment&#xD;
+    manufacturer.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

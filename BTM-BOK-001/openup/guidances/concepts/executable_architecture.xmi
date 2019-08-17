@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0R8BZWlcCQ3Rj84jY2M3Kw" name="new_concept,_O1kAANvfEduv2KOT-Teh6w" guid="-0R8BZWlcCQ3Rj84jY2M3Kw" changeDate="2007-05-01T11:48:59.365-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    An executable architecture is a &lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/workproducts/build_95D7D8FD.html&quot; guid=&quot;_0YuXEMlgEdmt3adZL5Dmdw&quot;>Build&lt;/a>&#xD;
+    that realizes a subset of the architecture. This build is used to validate that a subset of the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/guidances/concepts/architecturally_significant_requirements_1EE5D757.html&quot; guid=&quot;_HrZGIA4MEduibvKwrGxWxA&quot;>Architecturally Significant Requirements&lt;/a>&amp;nbsp;is correctly implemented. The subset&#xD;
+    will include all architecturally significant requirements when the architecture is complete. It validates the&#xD;
+    architecture as an integrated whole through integration tests. The team gains feedback about the architecture from the&#xD;
+    customer or stakeholder by providing the executable architecture for verification. This way the executable architecture&#xD;
+    helps to assure that the core functionality is stable enough to build the remainder of the system.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    An executable architecture is not a work product. It’s an identification or attribute of a build indicating the build&#xD;
+    contains stable architecturally significant functionality.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Each version of an executable architecture should be more complete and robust than previous versions. The final&#xD;
+    executable architecture contains all the elements that make up the architecture and should validate all architecturally&#xD;
+    significant requirements. There may be rare exceptions where a portion of the architecture can't practically be&#xD;
+    implemented until later due to uncontrollable circumstances such as constraints with third part software or unique&#xD;
+    resources that are unavailable.&amp;nbsp;Delaying any part of the architecture should be avoided as it raises significant&#xD;
+    technical risk later in the project. But if circumstances dictate that some architectural risk can't be mitigated&#xD;
+    until&amp;nbsp;later in development, a&amp;nbsp;conscious decision can be made to carry this risk forward until the&#xD;
+    architecture can be fully implemented. In this case, the executable architecture will not contain the entire &lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/guidances/concepts/software_architecture_59A08DE0.html&quot; guid=&quot;__O7tAMVvEduLYZUGfgZrkQ&quot;>Software Architecture&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It's also possible to include non-architectural elements into an executable architecture. This will most likely happen&#xD;
+    when addressing high risk issues early in the development cycle, which is an excellent practice. Two examples of&#xD;
+    non-technical risks are resource risks and competitive risks. It may be desireable to obtain a difficult-to-get&#xD;
+    resource early so they can work on a unique piece of the software now, rather than hoping the resource will be&#xD;
+    available later. Or it may be useful to implement and deploy some early features to maintain market share against a&#xD;
+    competitor. Think of the executable architecture as a way to mitigate architectural risk, which is the most significant&#xD;
+    technical risk in a project. From this perspective, it's appropriate to mitigate other risks in the executable&#xD;
+    architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The difference between the executable architecture and a build from later in the development cycle is that the&#xD;
+    executable architecture is the result of a period of development (for example&amp;nbsp;an iteration) that's dedicated to&#xD;
+    elaborating the architecture. Later iterations build onto the executable architecture but are not flagged as an&#xD;
+    executable architecture because they extend the system's functionality beyond the architectural framework.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

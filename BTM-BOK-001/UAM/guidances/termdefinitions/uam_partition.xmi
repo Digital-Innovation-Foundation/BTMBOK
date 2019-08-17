@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DcPsHwv11faGHgyxr0_DZA" name="new_term_definition,_x5Ad8Ef0EeO1kIuJLP1Ztg" guid="-DcPsHwv11faGHgyxr0_DZA" changeDate="2013-11-07T16:39:10.222-0500" version="7.5.1">
+  <mainDescription>A partition, in the IT architecture context, is: &#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        A portion of an IT architecture, or&amp;nbsp;sub-element thereof, organized&amp;nbsp;according to some criteria (e.g.&#xD;
+        responsible organization). Example in UAM is &quot;swimlanes&quot; in an activity.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A set of elements that define a common&amp;nbsp;vertical slice through an IT architecture, whereas a layer represents a&#xD;
+        horizontal slice. (e.g. an &lt;em>aspect&lt;/em> of the architecture such as &quot;data&quot; or &quot;activities&quot;). Example in UAM is&#xD;
+        the &quot;Data&quot; aspect.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Also see: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_layer_A225754E.html&quot;&#xD;
+    guid=&quot;_h0cOIEf0EeO1kIuJLP1Ztg&quot;>Term Definition: Layer&lt;/a>&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

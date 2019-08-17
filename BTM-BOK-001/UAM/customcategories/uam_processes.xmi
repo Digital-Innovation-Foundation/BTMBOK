@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gzQCM9gsTAicG2EXvVduoA" name="uam_processes,_nuTOQMYKEdyDYN2-y9-AqA" guid="-gzQCM9gsTAicG2EXvVduoA" changeDate="2018-03-26T16:19:19.592-0400" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    There are three main processes defined within the Unified Architecture Method (UAM). These processes are:&#xD;
+&lt;/p>&lt;a id=&quot;XE_UAM__processes&quot; name=&quot;XE_UAM__processes&quot;>&lt;/a>&lt;a id=&quot;XE_Processes&quot; name=&quot;XE_Processes&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>IT Architecture Processes&lt;/strong> - this is the &quot;Capability Pattern&quot;, which in UMA (&lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../UAM/customcategories/uam_method_architecture_fundamentals_19261C29.html&quot;&#xD;
+        guid=&quot;_68MK8DEhEeiooN8Zakj4QQ&quot;>Method Architecture Fundamentals&lt;/a>) terminology means that it is the &quot;class model&quot;&#xD;
+        of the process. The process is outlined and the various tasks and work products defined. Elements defined here are&#xD;
+        used to define a tailored UAM &lt;em>delivery&lt;/em> process.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>IT Architecture&lt;/strong> &lt;strong>Delivery&lt;/strong> - this is the process to actually follow when developing&#xD;
+        (delivering) an architecture using the UAM.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>UAM in the Enterprise&lt;/strong> - describes&amp;nbsp;a generic set of&amp;nbsp;processes / milestones used to govern&#xD;
+        the usage of the resulting work products (the models and decisions). This process needs to be adapted and&#xD;
+        integrated into each individual enterprise, since management, planning&amp;nbsp;and review&amp;nbsp;processes change from&#xD;
+        company to company.&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Integrated within these three processes&amp;nbsp;is the governance process for Architectural Decisions. This is a very&#xD;
+    important part of doing IT architecture; making well documented rational decisions and managing them over time.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Architectural Decision Governance&lt;/strong> -&amp;nbsp;a general process is defined for the management of&#xD;
+        Architectural Decisions, which are fundamental to doing IT architecture. This process also needs to be adapted and&#xD;
+        integrated into each individual enterprise, since management, planning&amp;nbsp;and review&amp;nbsp;processes change from&#xD;
+        company to company.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

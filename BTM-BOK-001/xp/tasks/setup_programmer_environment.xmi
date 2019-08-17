@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1rVEQRCvrcicCdhpuuIZ8w" name="setup_programmer_environment,{D3AA9FEE-AAD9-4884-BF71-425E122110A7}" guid="-1rVEQRCvrcicCdhpuuIZ8w" version="1.0.0">
+  <sections xmi:id="_oPGqsGE-EdqnIZeW8YpHcA" name="Remove Cubicle Walls and Other Impediments " guid="_oPGqsGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    In XP, we attempt to maximize communication within the team. Programmers should be able to ask quick questions&amp;nbsp;to
+    other developers and overhear conversations which raise their understanding of the system. When team members are
+    segregated into offices or cubicles, there is more of a chance that islands of knowledge will grow in isolation. This
+    leads to redundant work and often work that is less integrated than if it had been done in an open space subject to the
+    contributions of overhearing team members.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oPNYYGE-EdqnIZeW8YpHcA" name="Place Computers in Positions Comfortable for Pairing " guid="_oPNYYGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    Standard office furniture is not designed for pair programming. In particular, desks with leg wells seem to make
+    pairing impossible. Ideally, computers should be placed on tables which have enough room for two people to sit side by
+    side and trade turns working at the keyboard. Comfort should be your guide. If you are not comfortable, you will get
+    fatigued easily and you certainly won't be doing the work you are capable of.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oPNYYWE-EdqnIZeW8YpHcA" name="Standardize on Tools and Development Setup " guid="_oPNYYWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step3&quot; name=&quot;Step3&quot;>&lt;/a> 
+&lt;p>
+    In XP, we find that work goes better when everyone is able to help everyone else. One simple thing that can get in the
+    way is computer setup. If you use an editor with one set of key bindings and another team member uses another, it will
+    be difficult for either of you to go to each other's computers and feel comfortable enough to drive. While this seems
+    like a minor point, it makes a sizable difference on how effectively a team can collaborate. In many XP teams, machines
+    are unassigned. You simply go to a free machine in the morning and check out the code that you need to start working
+    on.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oPNYYmE-EdqnIZeW8YpHcA" name="Establish Clear Line of Sight to Customer " guid="_oPNYYmE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step4&quot; name=&quot;Step4&quot;>&lt;/a> 
+&lt;p>
+    To work effectively with XP, you must be able to ask questions&amp;nbsp;to your customer. If you are not able to ask
+    questions and get timely answers, you are either bottlenecked on a task or tempted to guess and hope that you don't
+    have to roll back your work later. When setting up your environment, establish a clear line of sight to the customer.
+    The customer should be working in the same room as the team. If this is not possible, the customer should be no more
+    than a phone call away.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_setup_programmer_environment__activity_definition&quot; name=&quot;XE_setup_programmer_environment__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To make it easy to work collaboratively and raise the communication level of the team&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

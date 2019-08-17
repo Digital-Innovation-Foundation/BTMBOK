@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VSb9V9ecWJ7GIBOAfC_GSA" name="uam_bl_tp,_9uBh4sJiEeKSedlRPHdUIQ" guid="-VSb9V9ecWJ7GIBOAfC_GSA" changeDate="2014-03-27T16:42:36.875-0400" version="2.0.1">
+  <mainDescription>&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; border=&quot;0&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td width=&quot;108&quot;>&#xD;
+                &lt;strong>Click on the framework to view a&amp;nbsp;specific model (aspect) that defines this&#xD;
+                architecture.&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img border=&quot;0&quot; alt=&quot;Technical Perspective&quot; src=&quot;./resources/pers_tech.png&quot;&#xD;
+                usemap=&quot;#map1369175163856&quot; />&lt;map id=&quot;map1369175163856&quot; name=&quot;map1369175163856&quot;>&#xD;
+                    &lt;area title=&quot;ThuNorTech BL TEM&quot; href=&quot;./../../UAM/customcategories/eg_bl_tem_43C11302.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BL TEM&quot; coords=&quot;110,74,218,125&quot; guid=&quot;_9uBh48JiEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BL TPM&quot; href=&quot;./../../UAM/customcategories/eg_bl_tpm_9F791F5C.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BL TPM&quot; coords=&quot;226,71,334,121&quot; guid=&quot;_9uBh5sJiEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BL TLM&quot; href=&quot;./../../UAM/customcategories/eg_bl_tlm_6AD40D55.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BL TLM&quot; coords=&quot;341,72,446,120&quot; guid=&quot;_9uBh6MJiEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BL TRM&quot; href=&quot;./../../UAM/customcategories/eg_bl_trm_640B017B.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BL TRM&quot; coords=&quot;455,71,562,123&quot; guid=&quot;_9uBh6sJiEeKSedlRPHdUIQ&quot; />&#xD;
+                &lt;/map>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&lt;br />&#xD;
+This is the root for the Technical Perspective at the Business Line level (i.e. the IT Research BL), containing the four&#xD;
+aspects of this perspective, with each aspect or view&amp;nbsp;being linked to above.&lt;br />&#xD;
+&lt;br />&#xD;
+This diagram may be used as a navigation point into the set of detailed views for each aspect.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

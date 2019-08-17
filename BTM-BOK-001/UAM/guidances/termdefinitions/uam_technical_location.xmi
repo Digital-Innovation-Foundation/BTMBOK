@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tKOTOeQnB8BixPA4YCgA0g" name="uam_technical_location,_jWpvcEGsEeOfR_FtRm9PUg" guid="-tKOTOeQnB8BixPA4YCgA0g" changeDate="2013-10-30T17:40:43.653-0400" version="7.5.1">
+  <mainDescription>Technical Locations define where the enterprise has a presence that it implements and manages. Technical level activities,&#xD;
+devices, and processes are defined that are found at the locations. Locations are specific definitions at the technical&#xD;
+level, with specific locales, processes and services, and technologies defined.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LEt8u3E3Kolzwgd209Jmdg" name="prepare_product_backlog,_mXRr0BCsEeOSL6of5eOufw" guid="-LEt8u3E3Kolzwgd209Jmdg" changeDate="2013-08-29T09:11:05.278-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Prepare Product Backlog&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Prepare the product backlog and prioritise backlog items&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

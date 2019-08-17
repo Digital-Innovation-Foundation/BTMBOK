@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-gdFDRUogBP8z4tUXzrcEYg" name="uam_start,_GMu3kMAfEeOxGdAyQHMoYw" guid="-gdFDRUogBP8z4tUXzrcEYg" changeDate="2015-11-30T13:42:22.012-0500">
+  <mainDescription>&lt;a id=&quot;XE_Tasks__Start&quot; name=&quot;XE_Tasks__Start&quot;>&lt;/a>&lt;a id=&quot;XE_UAM__Tasks_Start&quot; name=&quot;XE_UAM__Tasks_Start&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The two tasks defined are:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Specifying the architecture's context and scope;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Defining the objectives of the IT architecture.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    For the complete description of the process see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/capabilitypatterns/uam_define_context_objectives_98B95B2A.html&quot;&#xD;
+    guid=&quot;_183HolE5EeOcVJX_gvTjyg&quot;>Activity: Define Context &amp;amp; Objectives&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

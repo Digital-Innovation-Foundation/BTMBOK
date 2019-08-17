@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Cp8kBACeI1vfwbsVTlSznA" name="new_bpl_activity,_4OCIMMMfEeKSedlRPHdUIQ" guid="-Cp8kBACeI1vfwbsVTlSznA" changeDate="2015-02-07T14:02:15.723-0500" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    The financial services business activity is responsible for managing all financial aspects of ThuNorTech, including&#xD;
+    payment of employee salaries, customer accounts, product and services procurements and payments.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h5>&#xD;
+    Inputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Too many to list in this example.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Outputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Too many to list in this example.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

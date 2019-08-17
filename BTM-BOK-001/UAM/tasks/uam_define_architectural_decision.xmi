@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FQoHPBgVnpVl6Ms1fCvJkQ" name=",_1rxFAMUVEdyVgeP6fyp1bg" guid="-FQoHPBgVnpVl6Ms1fCvJkQ" authors="DW Enstrom" changeDate="2014-10-21T15:18:47.781-0400" version="2.0.0">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p>&#xD;
+    The purpose of this activity is to create an Architecture Decision (AD), specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define the context of the problem, issue or decision;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define the constraints, imposed by existing architecture, enterprise standards or others;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define the rationale for the decision, through a well researched summary of the facts;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Extract the implications of the AD, on current systems, future systems, support aspects and other aspects;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define the specifics of the decision.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    This activity results in the production of an AD. The diagram illustrates the main inputs and outputs of this activity&#xD;
+    as hinted at above. A problem context helps to define the scope of the AD, and the constraints (imposed by technology,&#xD;
+    the current situation, etc.) along with the rational (that is very much local to the business and the context) help in&#xD;
+    arriving at and defining the decision. Implications of this decision, on the business and the current situation, are&#xD;
+    also extracted and defined.&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;img alt=&quot;AD Rationale&quot; src=&quot;./resources/AD_rationale.png&quot; />&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;p>&#xD;
+    This is explained in more detail in the descriptions of the steps involved.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_e3UVcMUYEdyVgeP6fyp1bg" name="Define the Problem Context and Scope" guid="_e3UVcMUYEdyVgeP6fyp1bg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    The objective here is to define the context of the problem, the environment within which the problem is found. This&#xD;
+    includes business level context, such as processes and functions involved with the problem. The scope of the problem is&#xD;
+    also described, that is, is it local to a system or process, does it span the business domain, or is it a problem that&#xD;
+    involves the complete enterprise?&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    The context and scope help the stakeholders to understand and agree upon the intention of the solution. The same&#xD;
+    problem, interpreted for different contexts, can yield very different solutions.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    The context and scope defines the intended area in which the solution will be deployed (e.g. workgroup, division,&#xD;
+    department, entire business, etc.) and a definition of the users of the solution. If the context is well understood, a&#xD;
+    short description may suffice, but for new technologies or processes a more complete description of the problem space&#xD;
+    may be needed.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    If the new solution is an enhancement to an existing system or solution, the existing solution should be described.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_lJ0OQMUYEdyVgeP6fyp1bg" name="Identify and Define the Constraints" guid="_lJ0OQMUYEdyVgeP6fyp1bg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Express the constraints under which the solution is decided upon. These constraints impact risk and cost. They could be&#xD;
+    things like external interfaces that the solution must adhere to, standards, certifications, or a technical approach&#xD;
+    employed for strategic reasons, such as using a certain database technology, or distribution mechanisms. Time&#xD;
+    constraints and financial constraints are also identified.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_qYHfIMUYEdyVgeP6fyp1bg" name="Define the Rationale" guid="_qYHfIMUYEdyVgeP6fyp1bg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Describe options for the solution—optional approaches, capabilities or features and associated costs and benefits—and&#xD;
+    options in approaching or deploying the solution. Solution options might include differing technical solutions,&#xD;
+    differing mixes of options for technical solutions, differing mixes of 'make' and 'buy', and so on. In each case, the&#xD;
+    effect of the option on the financial forecast, and on constraints (in turn impacting risk) should be described.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    The objective is to provide enough information on the options to substantiate the decision. Remember that this&#xD;
+    description must stand on its own and be easily understood by a manager or architect reading it in 6 to 12 months or&#xD;
+    more—in other words it needs to be readable out of context and complete in its coverage.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_1XHjUMUYEdyVgeP6fyp1bg" name="Describe the Decision" guid="_1XHjUMUYEdyVgeP6fyp1bg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Describe in detail the decision taken—include details on the solution and any other information that may be relevant,&#xD;
+    such as the timeframe of the decision (i.e. short or long term), and any implementation or migration aspects, for&#xD;
+    example.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_7qdwsMUYEdyVgeP6fyp1bg" name="Define the Implications of the Decision" guid="_7qdwsMUYEdyVgeP6fyp1bg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    The implications of the decision are described. They include things such as financial, maintenance, operations or&#xD;
+    configuration changes or constraints, usually affecting current systems, operations or processes. Implications on other&#xD;
+    decisions and on future plans should also be described.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>The purpose of this activity is to define an architectural decision. Documenting important architectural decisions provides&#xD;
+a repository of decision that will help guide other architects, managers and implementors in being compliant with&#xD;
+enterprise and business domain standards and solutions. The provided repository of decisions&amp;nbsp;is also a source of&#xD;
+information for re-visiting decisions over time.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

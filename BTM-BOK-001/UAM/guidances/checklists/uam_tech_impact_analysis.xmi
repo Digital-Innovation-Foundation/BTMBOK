@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OnRVZe5x2jflso-b2z9Bfw" name="uam_tech_impact_analysis,_BiaBcGqMEeS7ieerwXbTqg" guid="-OnRVZe5x2jflso-b2z9Bfw" changeDate="2014-11-12T11:53:11.587-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in ensuring that the Technology Impact Analysis is&amp;nbsp;comprehensive, that the&#xD;
+    issues or decisions are properly captured and that follow-on actions are also agreed to ensure that issues are resolved&#xD;
+    and updated made as decided during the review.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_BiaBcWqMEeS7ieerwXbTqg" name="Appropriate experts involved" guid="_BiaBcWqMEeS7ieerwXbTqg">
+    <sectionDescription>Ensure that all IT experts associated with the this new or update IT technology have had their say in the analysis, that&#xD;
+all of their suggested impacts are recorded, and follow-on actions (if any) are defined.</sectionDescription>
+  </sections>
+  <sections xmi:id="_BiaBc2qMEeS7ieerwXbTqg" name="Impact or decision clear" guid="_BiaBc2qMEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the described impact, both positive and negative, is clearly defined and understood and that the level or&#xD;
+    importance of impact is understood. Cost implications are also included; capital costs, migration costs&amp;nbsp;and&#xD;
+    life-cycle costs.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_BiaBcmqMEeS7ieerwXbTqg" name="Follow-on action" guid="_BiaBcmqMEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the follow-on actions, if any, are clearly defined and assigned.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

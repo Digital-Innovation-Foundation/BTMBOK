@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QG51gA7oSq2c36uccNd3nQ" name="uam_perspective_technical,_2e3gcMJKEeKSedlRPHdUIQ" guid="-QG51gA7oSq2c36uccNd3nQ" changeDate="2014-03-19T11:48:01.701-0400" version="7.5.1">
+  <mainDescription>Similar to the Business and Logical Perspectives, the Technical Perspective is a set of viewpoints that collectively define&#xD;
+a complete model of the system at the technical level; how the system (enterprise or business domain) operates (Activities&#xD;
+and Processes), what is involved in these Processes (Entities), where the system has a presence (Locations), and who&#xD;
+interacts with the business processes (Roles and Actors). It introduces technical level specifications such as&#xD;
+&lt;em>server&lt;/em>, &lt;em>network equipment&lt;/em>, &lt;em>storage solution&lt;/em> and &lt;em>desktop&lt;/em> makes and models—in other&#xD;
+words, the technical standards for the system or enterprise.&amp;nbsp; &#xD;
+&lt;p>&#xD;
+    The other dimension to defining an IT architecture are the different &quot;aspects&quot;, see: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspects_C681E8E1.html&quot; guid=&quot;_2D_igNZSEdyTWqLy4FSCdg&quot;>Architecture&#xD;
+    Aspects&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Also&amp;nbsp;see&amp;nbsp; &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_perspective_B4DE2D26.html&quot;&#xD;
+    guid=&quot;_6zOHAMJJEeKSedlRPHdUIQ&quot;>Architecture Perspective&lt;/a> , &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_scope_9C0A017D.html&quot;&#xD;
+    guid=&quot;_VN5PAMJKEeKSedlRPHdUIQ&quot;>Scope&lt;/a>&lt;/em>&amp;nbsp;and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/supportingmaterials/uam_overview_B2102583.html&quot; guid=&quot;_W0ahoM9uEdymj4NXv8-FYA&quot;>UAM&#xD;
+    Overview&lt;/a> and &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/supportingmaterials/uam_welcome_5C65E9E8.html&quot;&#xD;
+    guid=&quot;_3FfFUMuJEdyPdbXGe2katw&quot;>UAM Home&lt;/a>.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

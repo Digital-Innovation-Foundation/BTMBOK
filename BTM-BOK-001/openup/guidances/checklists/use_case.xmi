@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-T2IeqdOunweffIDgL-aM0w" name="use_case,_0Vk8cMlgEdmt3adZL5Dmdw" guid="-T2IeqdOunweffIDgL-aM0w" authors="Paul Bramble" changeDate="2006-05-01T13:13:56.264-0400" version="0.1">
+  <copyrightStatement href="uma://_WCUhAO8KEdmKSqa_gSYthg#_uuunoPsDEdmyhNQr5STrZQ"/>
+  <sections xmi:id="_663wMNk1Edq2Q8qZoWbvGA" name="Is the use-case name meaningful and unambiguous?" guid="_663wMNk1Edq2Q8qZoWbvGA">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Does the use case have a unique name? &lt;/li>&#xD;
+  &lt;li> Is the name a verb + noun phrase (for example, Withdraw Cash)? &lt;/li>&#xD;
+  &lt;li> Does the name accurately&amp;nbsp;summarize the&amp;nbsp;main purpose&amp;nbsp;of the &#xD;
+    use case? &lt;/li>&#xD;
+  &lt;li> Is the name Actor-independent? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_ZTA8QJznEduBcbjYtLtItQ" name="Does the brief description clearly describe the primary goal of the use case?" guid="_ZTA8QJznEduBcbjYtLtItQ">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Is it clear from the brief description what the main purpose of the use &#xD;
+    case is? &lt;/li>&#xD;
+  &lt;li> Is the &quot;observable result of value&quot; obvious? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_4wJRgJznEduBcbjYtLtItQ" name="Are associated Actors and information exchanged clearly defined?" guid="_4wJRgJznEduBcbjYtLtItQ">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Is the use case associated with one or more Actors? &lt;/li>&#xD;
+  &lt;li> Is the primary, or initiating Actor, defined? &lt;/li>&#xD;
+  &lt;li> Is it clear who performs the actions in the use case? &lt;/li>&#xD;
+  &lt;li> Is all information exchanged between the Actors and the system clearly &#xD;
+    specified? &lt;/li>&#xD;
+  &lt;li> If a &quot;time&quot; actor is used, are you sure you did not miss an important Actor &#xD;
+    and associated use cases (such as administrative or maintenance personnel &#xD;
+    who define schedule events)? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_Qys_INk2Edq2Q8qZoWbvGA" name="Are the pre-conditions specified?" guid="_Qys_INk2Edq2Q8qZoWbvGA">
+    <sectionDescription>&lt;p> Does each precondition represent a tangible&amp;nbsp;state&amp;nbsp;of&amp;nbsp;the system &#xD;
+  (for example, the Withdraw Cash use case for an automated teller machine has &#xD;
+  a precondition that the user has an account)? &lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_q3qV0Nk2Edq2Q8qZoWbvGA" name="Are the basic flow and alternative flows complete, correct, and consistent?" guid="_q3qV0Nk2Edq2Q8qZoWbvGA">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Is it clear how the use case starts?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is the triggering event clearly described?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the flow have a definite ending?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does&amp;nbsp;each step in the scenario contain&amp;nbsp;the same level of abstraction?&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does each step in the scenario describe something that can actually happen and that the system can reasonably&#xD;
+        detect?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does each step make&amp;nbsp;progress toward the goal?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are there any missing steps? Is it clear how to go from one step to the next? Does the sequence of communication&#xD;
+        between the Actors and the use cases conform to the users' expectations?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does each step describe how the step helps the Actors achieve their goals?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is each step technology-independent? Is it free of technical details and inadvertent design decisions?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are the steps correctly numbered?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        For each alternate flow,&amp;nbsp;are the conditions for initiation of the flow clearly defined?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        For each alternate flow, is it clear how the use case ends or where in the basic flow that the use case resumes?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_dnLXMNk2Edq2Q8qZoWbvGA" name="Are the post-conditions specified?" guid="_dnLXMNk2Edq2Q8qZoWbvGA">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        If Minimal Guarantees are present, do they always happen when the use case completes, regardless of success? (A&#xD;
+        Minimal Guarantee represents&amp;nbsp;a condition&amp;nbsp;that will be true when the use case ends, regardless of how it&#xD;
+        terminates.)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        If Success Guarantees are present, do they always happen when the use case completes successfully? (A Success&#xD;
+        Guarantee represents a condition that will be true when the use case ends successfully, regardless of which path it&#xD;
+        takes.)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_vkbMAJzrEduBcbjYtLtItQ" name="Are applicable nonfunctional requirements captured?" guid="_vkbMAJzrEduBcbjYtLtItQ">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Are nonfunctional requirements (such as performance criteria) that are&amp;nbsp;applicable &#xD;
+    to the&amp;nbsp;use case captured in the use case? &lt;/li>&#xD;
+  &lt;li> Are these nonfunctional requirements applicable to many use cases? It they &#xD;
+    are, consider capturing them in the supporting Requirements Specification &#xD;
+    to simplify maintenance. &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

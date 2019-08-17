@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-aY9aSWbebpe7JWSvQREi-w" name="new_artifact,_ohYTYGxAEeSS8ckFlGqwKQ" guid="-aY9aSWbebpe7JWSvQREi-w" changeDate="2015-02-11T12:51:23.703-0500" version="2.0.0">
+  <mainDescription>A Lane is a sub-partition within a Process (often within a Pool) and will extend the entire length of the Process level,&#xD;
+either vertically or horizontally. Lanes are used to organize and categorize Activities within a Pool. The meaning of the&#xD;
+Lanes is up to the modeler&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.</mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    Lanes are used to organize and categorize Activities within a Pool, typically they represent a sub-process or&#xD;
+    sub-system in UAM.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Lane&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Activity Partition&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Lane.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>partitionElement: BaseElement [0..1]&lt;/strong>&amp;nbsp;- A reference to a &lt;em>BaseElement&lt;/em> that specifies&#xD;
+        the partition value and partition type. Using this partition element a BPMN compliant tool can determine the&#xD;
+        &lt;em>FlowElements&lt;/em> that have to be partitioned in this Lane.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>partitionElementRef: BaseElement [0..1]&lt;/strong>&amp;nbsp;- A reference to a &lt;em>BaseElement&lt;/em> that&#xD;
+        specifies the partition value and partition type. Using this partition element a BPMN compliant tool can determine&#xD;
+        the &lt;em>FlowElements&lt;/em> that have to be partitioned in this Lane.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>childLaneSet: LaneSet [0..1]&lt;/strong>&amp;nbsp;- A reference to a &lt;em>LaneSet&lt;/em> element for embedded&#xD;
+        Lanes.&lt;br />&#xD;
+        flowNodeRefs: FlowNode [0..*]&amp;nbsp;- The list of &lt;em>FlowNodes&lt;/em> partitioned into this Lane according to the&#xD;
+        &lt;em>partitionElement&lt;/em> defined as part of the Lane element.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        May have relationships (message flows) with other message flow elements as defined in BPMN.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        See BPMN v2.0&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+        guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

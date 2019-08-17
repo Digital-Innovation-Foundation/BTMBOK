@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9MOdEw_WGbDtogLU8MaYSg" name="new_term_definition,_tC1F0MI0EeKSedlRPHdUIQ" guid="-9MOdEw_WGbDtogLU8MaYSg" changeDate="2015-02-23T12:32:17.009-0500" version="2.0.1">
+  <mainDescription>It is the fundamental concepts or properties &lt;em>and organization&lt;/em> of a system in its environment (i.e. &lt;em>in&#xD;
+context&lt;/em>) embodied in its elements &lt;em>that may be almost arbitrarily arranged&lt;/em>, their relationships, and in the&#xD;
+principles of its design and evolution—defining the form (of elements) is the main objective, &lt;em>but balancing form and&#xD;
+function is key&lt;/em> (a UAM update of (&lt;a href=&quot;http://www.iso-architecture.org/ieee-1471/index.html&quot; target=&quot;_blank&quot;>ISO&#xD;
+42010&lt;/a> 2011, 2)).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

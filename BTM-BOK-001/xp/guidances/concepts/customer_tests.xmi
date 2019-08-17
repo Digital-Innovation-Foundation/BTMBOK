@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oW2j2l-rXqHeWPIgjPpbng" name="customer_tests,2.297945473205673E-305" guid="-oW2j2l-rXqHeWPIgjPpbng" changeDate="2006-11-10T12:32:51.048-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp__customer_tests&quot; name=&quot;XE_xp__customer_tests&quot;>&lt;/a>&lt;a id=&quot;XE_customer_tests__practice_of&quot; name=&quot;XE_customer_tests__practice_of&quot;>&lt;/a>&lt;a id=&quot;XE_engineering_practices__customer_tests&quot; name=&quot;XE_engineering_practices__customer_tests&quot;>&lt;/a> &#xD;
+&lt;h3>&#xD;
+    Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    One of the rights in the customer bill of rights tells the customer he will be able to see progress in the form of a&#xD;
+    working system that passes repeatable tests that he specifies. These tests are what we call the Customer Tests. The&#xD;
+    customer specifies one or more Customer Tests for each user story in the system, describing in detail how each story is&#xD;
+    expected to work. Because the tests are put into executable form and are fully automated, they tell programmers what&#xD;
+    needs to be done in a unambiguous way (tests pass or fail) and allow the customer to feel confident that the system is&#xD;
+    meeting his needs.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Benefits&#xD;
+&lt;/h3>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ability to see &lt;b>tangible and verifiable progress&lt;/b>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Ultimate traceability&lt;/b>: the Customer Tests are executable system requirements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Repeatability&lt;/b>: because they are automated, the tests can be run at any time.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

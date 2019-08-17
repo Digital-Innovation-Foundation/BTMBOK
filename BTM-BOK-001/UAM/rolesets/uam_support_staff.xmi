@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-u5hAM_2o6aH_LDV1N1ATqQ" name="support_staff,_GRu3sMm2EdyU89e0dKAsrw" guid="-u5hAM_2o6aH_LDV1N1ATqQ" authors="DW Enstrom" changeDate="2008-01-23T13:49:54.240-0500" changeDescription="new &#x9;" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_Roles__Support_Staff&quot; name=&quot;XE_Roles__Support_Staff&quot;>&lt;/a>Support staff include all people involved in aiding IT&#xD;
+architects, from infrastructure support to administrative support. This is a generic definition.&lt;a&#xD;
+id=&quot;XE_UAM__support_staff&quot; name=&quot;XE_UAM__support_staff&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EzAlrIsJOJXFatsIVq6shA" name="uam_architecture_viewpoint,_4a6bkMI4EeKSedlRPHdUIQ" guid="-EzAlrIsJOJXFatsIVq6shA" changeDate="2013-05-21T13:07:52.824-0400" version="7.5.1">
+  <mainDescription>An Architectural Viewpoint (or just &lt;em>Viewpoint&lt;/em>) the “work product establishing the conventions for the&#xD;
+construction, interpretation and use of architecture views to frame specific system concerns” (&lt;a&#xD;
+href=&quot;http://www.iso-architecture.org/ieee-1471/&quot; target=&quot;_blank&quot;>ISO 42010&lt;/a> 2011, 2). A viewpoint defines the&#xD;
+(architectural description) elements, including relationships between them, along with rules for their use in describing&#xD;
+architectures in a view (or architectural view). In UAM the cells within the UAM framework define viewpoints (i.e. there&#xD;
+are multiple models (model kinds) defined for each cell). Also see: &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/supportingmaterials/uam_overview_B2102583.html&quot; guid=&quot;_W0ahoM9uEdymj4NXv8-FYA&quot;>UAM&#xD;
+Overview&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

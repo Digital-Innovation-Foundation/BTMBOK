@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-PPiNEv04OoQ1LyZw1lfbtQ" name="uam_logical_actor,_Fav5MEGoEeOfR_FtRm9PUg" guid="-PPiNEv04OoQ1LyZw1lfbtQ" changeDate="2013-05-21T14:59:43.232-0400" version="7.5.1">
+  <mainDescription>Logical Actor represents the types of interactions with the system. An actor may assume one or more roles, and can be&#xD;
+equated to the external people or systems that interact with the system under study. Note that Actors are not individuals&#xD;
+nor are they necessarily equivalent to job titles; instead, they describe the behavior in the enterprise and the&#xD;
+responsibilities of the associated “user”.&amp;nbsp; An understanding and definition of required job titles and an associated&#xD;
+organizational structure (likely defined at the Technical level), however, can assist in ensuring that the clustering of&#xD;
+Roles into Actors (i.e. User groups) defines a reasonable clustering of skills and a manageable and effective organization.&#xD;
+An employee of the enterprise is typically multiple Actors (e.g. employee, manager, analyst, etc.) and therefore has many&#xD;
+different Roles (e.g. employee-HR, budgeter, manager-HR, expense claimer, etc.). Likewise a customer is an actor that&#xD;
+assumes various roles in relation to the enterprise.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

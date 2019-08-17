@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-tkXaIrQrB2eOyUsvAiuIoA" name="eg_ea_it_research,_rt9LcMMiEeKSedlRPHdUIQ" guid="-tkXaIrQrB2eOyUsvAiuIoA" changeDate="2015-02-06T14:44:26.072-0500" version="7.5.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;ThuNorTech IT Research Business Line Activities&quot; src=&quot;./resources/EA-Business-IT-Research.png&quot;&#xD;
+    usemap=&quot;#map1392996767638&quot; />&lt;map id=&quot;map1392996767638&quot; name=&quot;map1392996767638&quot;>&#xD;
+        &lt;area title=&quot;Access Research Reports and Source Information&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_ea_bpl_access_info_E61830F8.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;Access Research Reports and Source Information&quot; coords=&quot;163,99,226,142&quot; guid=&quot;_PvaLAMMkEeKSedlRPHdUIQ&quot; />&#xD;
+        &lt;area title=&quot;IT Research - Distribute Reports&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_ea_bpl_distribute_reports_648E798A.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;IT Research - Distribute Reports&quot; coords=&quot;164,150,229,195&quot; guid=&quot;_aK3EQJsPEeOMG9JzPmKf0Q&quot; />&#xD;
+        &lt;area title=&quot;Gather and Analyze Information&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_ea_bpl_gather_info_F3A82F2F.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;Gather and Analyze Information&quot; coords=&quot;278,32,344,78&quot; guid=&quot;_S235QJsPEeOMG9JzPmKf0Q&quot; />&#xD;
+        &lt;area title=&quot;IT Research - Manage Information&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_ea_bpl_manage_info_F8D77027.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;IT Research - Manage Information&quot; coords=&quot;279,90,344,133&quot; guid=&quot;_W58GEJsPEeOMG9JzPmKf0Q&quot; />&#xD;
+        &lt;area title=&quot;IT Research - Perform Special Research&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_ea_bpl_special_research_D3F5BFA7.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;IT Research - Perform Special Research&quot; coords=&quot;278,146,344,194&quot; guid=&quot;_c8L8YJsPEeOMG9JzPmKf0Q&quot; />&#xD;
+        &lt;area title=&quot;Manage Customer Profile&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_bpl_cpm_E237AD1E.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Manage Customer Profile&quot; coords=&quot;164,33,226,79&quot; guid=&quot;_VDvfUKOoEeOCbLAifmcaww&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the Activities and other elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot;&#xD;
+    src=&quot;./resources/Drill%20Down-33.jpg&quot; width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This diagram is the root of the EA level Business Process Model, containing the definitions or linking to the various&#xD;
+    diagrams that define this aspect. ThuNorTech has the usual corporate management activities as well as corporate (IT)&#xD;
+    services. The two &quot;business lines&quot; (BL) of ThuNorTech are &quot;IT Research&quot; and &quot;IT Solutions&quot;.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    ThuNorTech is&amp;nbsp;a small organization that provides up-to-date information on information technology (IT) to its&#xD;
+    customers (and also IT solutions). It can be compared to any IT information provider with the addition of a solution&#xD;
+    provision business line.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Layering the process model to deal with complexity is of value. Start with a top layer of use-cases that are&#xD;
+    abstractions of all the 'activities', with the next layer of detail showing activities. More use-case diagrams can be&#xD;
+    used as well if the size and complexity warrants more layers, but use-cases should be viewed as only a very simple&#xD;
+    start at understanding and documenting business activities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The IT Research business line (BL) of ThuNorTech gathers raw information and analyses it to produce reports describing&#xD;
+    the current products and services available in the various domains of IT.&amp;nbsp; It also does research to identify&#xD;
+    trends, directions and new technologies in the various IT domains. Partnering is key to the success of this division in&#xD;
+    terms of obtaining the raw information in support of its reports and in doing research into specific technologies or&#xD;
+    technology domains.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1wXuezaQfr5H9CIXNoppBw" name="developer_sln,_BCtiMDR9EduwLdLujGQAIQ" guid="-1wXuezaQfr5H9CIXNoppBw" changeDate="2007-07-02T16:02:54.423-0400">
+  <skills>&lt;p>&#xD;
+    This role needs the following knowledge, skills, and abilities:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define and create technical solutions in the project's technology&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understand and&amp;nbsp;conform to the&amp;nbsp;architecture&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identify and build developer tests that cover required behavior of the technical components&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Communicate the design in a way that other team members understand&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+  <assignmentApproaches>&lt;p>&#xD;
+    On small, agile teams this role is often shared among several team members that also perform other roles.&amp;nbsp; See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/self_organize_work_assignments_F47FC314.html&quot; guid=&quot;_rmBEkJjsEduad8I_c-ogIA&quot;>Guideline: Self Organize Work Assignments&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/staffing_project_70705561.html&quot; guid=&quot;_Jq64EJjsEduad8I_c-ogIA&quot;>Guideline: Staffing a Project&lt;/a>&amp;nbsp;for more information on this approach.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Even in the smallest team, multiple individuals should be working together to create the technical solution.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A person performing this role can have specialized skills in a particular technical area, but should also have a broad&#xD;
+    understanding of all the technologies involved to be able to work with other technical team members.&#xD;
+&lt;/p></assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

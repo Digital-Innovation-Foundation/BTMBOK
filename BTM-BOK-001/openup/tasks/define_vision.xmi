@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_5rJ78Lj3Edmy88CC3LfB_w" name="define_vision,_0fOAoMlgEdmt3adZL5Dmdw" guid="_5rJ78Lj3Edmy88CC3LfB_w" changeDate="2007-02-28T09:02:00.035-0500" version="1.0.0">
+  <sections xmi:id="_tvzDULwPEdm6DujQZORGLQ" name="Identify Stakeholders" guid="_tvzDULwPEdm6DujQZORGLQ">
+    <sectionDescription>&lt;p>&#xD;
+    Identify the decision-makers, customers, potential users, partners, domain experts, industry analysts and other&#xD;
+    interested parties (see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/roles/stakeholder_9FFD4106.html&quot; guid=&quot;_dTa6gMAYEdqX-s4mWhkyqQ&quot;>Role: Stakeholder&lt;/a>). Develop profiles of potential (or actual) users of the system&#xD;
+    that map to the roles of human actors of the system that you are developing. Document the initial information on key&#xD;
+    users and their environment in the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/vision_2E71B03C.html&quot; guid=&quot;_0WVxcMlgEdmt3adZL5Dmdw&quot;>Vision&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_sa5F4LwPEdm6DujQZORGLQ" name="Gain agreement on the problem to be solved" guid="_sa5F4LwPEdm6DujQZORGLQ">
+    <sectionDescription>Avoid rushing into defining the solution. First, gain agreement on the definition of the problem by asking the stakeholders&#xD;
+what they see as the problem. Then search for root causes, or the “problem behind the problem.”&#xD;
+Use&amp;nbsp;techniques&amp;nbsp;like the ones&amp;nbsp;described in&amp;nbsp;&lt;a class=&quot;elementlinkwithtype&quot; href=&quot;./../../openup/guidances/guidelines/req_gathering_techniques_8CB8E44C.html&quot; guid=&quot;_OnoNQNSAEdmLhZ9H5Plxyw&quot;>Guideline: Requirements Gathering Techniques&lt;/a>. Formulate the problem statement, and then fill in the corresponding section from &lt;a class=&quot;elementlinkwithtype&quot; href=&quot;./../../openup/guidances/templates/vision_C2DEEF73.html&quot; guid=&quot;_0cW54MlgEdmt3adZL5Dmdw&quot;>Template: Vision&lt;/a>. The purpose of this is to help you distinguish solutions and answers&#xD;
+from problems and questions.&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_rliOAOz2Edq2wJOsmRwmhg" name="Capture a common vocabulary" guid="_rliOAOz2Edq2wJOsmRwmhg">
+    <sectionDescription>Every project has its own specialized terminology that everyone on the team must understand well to communicate effectively&#xD;
+with stakeholders. Work with stakeholders to&amp;nbsp;create a glossary that defines acronyms, abbreviations, and&amp;nbsp;relevant&#xD;
+business and technical terms. Work with stakeholder to continually expand and refine the&amp;nbsp;glossary throughout the&#xD;
+project life cycle.</sectionDescription>
+  </sections>
+  <sections xmi:id="_vGg-oLwPEdm6DujQZORGLQ" name="Gather stakeholder requests" guid="_vGg-oLwPEdm6DujQZORGLQ">
+    <sectionDescription>&lt;p>&#xD;
+    Use the most appropriate method to gather information, such as the ones in &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/req_gathering_techniques_8CB8E44C.html&quot; guid=&quot;_OnoNQNSAEdmLhZ9H5Plxyw&quot;>Guideline: Requirements Gathering Techniques&lt;/a>. Each one is applicable in a particular&#xD;
+    situation or to a certain type of stakeholder.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If you can meet stakeholders in person, then you can conduct an interview or a brainstorming session. This face to face&#xD;
+    collaboration is extremely valuable and reduces the chances of the project team misunderstanding the needs of the&#xD;
+    stakeholders.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Some requirements may already be documented in an existing Work Item List. This can often be used as a solid starting&#xD;
+    position from which a full set of requirements can be created.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Any requirements gathered during this step should be captured in the Work Item List.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For more information, see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/tasks/find_and_outline_requirements_90D272B9.html&quot; guid=&quot;_P9cMUPV_EdmdHa9MmVPgqQ&quot;>Task: Find and Outline Requirements&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_z7ZC4LwPEdm6DujQZORGLQ" name="Define the system boundaries" guid="_z7ZC4LwPEdm6DujQZORGLQ">
+    <sectionDescription>&lt;p>&#xD;
+    Find and define the line that divides the solution and the real world that surrounds the solution. Identify interfaces,&#xD;
+    as well as input and output information exchanged with users, machines, or systems.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Collaborate with the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/project_manager_E657F936.html&quot; guid=&quot;_0a0o0MlgEdmt3adZL5Dmdw&quot;>Project Manager&lt;/a>&amp;nbsp;and the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/architect_E7A12309.html&quot; guid=&quot;_0X9iEMlgEdmt3adZL5Dmdw&quot;>Architect&lt;/a>&amp;nbsp;since decisions&#xD;
+    concerning system boundaries will have a major impact on cost, schedule and system architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/uc_model_85965D1B.html&quot; guid=&quot;_W2SgEDR5EdutE_HNDTJk5Q&quot;>Use-Case Model&lt;/a> is one technique that can prove useful in defining the system&#xD;
+    boundaries. For more information, see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/tasks/find_and_outline_requirements_90D272B9.html&quot; guid=&quot;_P9cMUPV_EdmdHa9MmVPgqQ&quot;>Task: Find and Outline Requirements&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_1LVn0LwPEdm6DujQZORGLQ" name="Identify constraints on the system" guid="_1LVn0LwPEdm6DujQZORGLQ">
+    <sectionDescription>&lt;p>&#xD;
+    Consider the various sources of constraints that can impact the design or the project itself:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Political&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Economic (budget, licensing)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Environmental (regulatory constraints, legal, standards)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Technical (platforms, technology)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Feasibility (schedule, resources allocation, outsourcing)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        System (solutions compatibility, support of operating systems and environments).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Collaborate with the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/project_manager_E657F936.html&quot; guid=&quot;_0a0o0MlgEdmt3adZL5Dmdw&quot;>Project Manager&lt;/a>&amp;nbsp;and the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/architect_E7A12309.html&quot; guid=&quot;_0X9iEMlgEdmt3adZL5Dmdw&quot;>Architect&lt;/a>&amp;nbsp;since decisions&#xD;
+    concerning system&amp;nbsp;constraints will have a major impact on cost, schedule and system architecture.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_2VixILwPEdm6DujQZORGLQ" name="Define features of the system" guid="_2VixILwPEdm6DujQZORGLQ">
+    <sectionDescription>&lt;p>&#xD;
+&#xD;
+    Work with stakeholders to capture&amp;nbsp;a list&amp;nbsp;of&amp;nbsp;&lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../openup/guidances/termdefinitions/feature_4ED64AEE.html&quot; guid=&quot;_PgYREAeYEduWycDgioo5rg&quot;>features&lt;/a> that&#xD;
+&#xD;
+    stakeholders want in the system, briefly describing them and giving &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/guidances/concepts/requirement_attributes_4AC73153.html&quot; guid=&quot;_VQ268O0KEdqHTdbLTmC5IQ&quot;>attributes&lt;/a> to help define their general status and priority in the project.&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    Update the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/vision_2E71B03C.html&quot; guid=&quot;_0WVxcMlgEdmt3adZL5Dmdw&quot;>Vision&lt;/a>&amp;nbsp;to capture the features identified&amp;nbsp;and their attributes.&#xD;
+&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_AhjmAL-GEdqb7N6KIeDL8Q" name="Achieve concurrence" guid="_AhjmAL-GEdqb7N6KIeDL8Q">
+    <sectionDescription>Conduct a review&amp;nbsp;of the project vision with relevant Stakeholders and the development team to ensure agreement, assess&#xD;
+&#xD;
+&#xD;
+quality, and identify required changes. See&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/effective_req_reviews_5913D369.html&quot; guid=&quot;_E-dPIL-GEdqb7N6KIeDL8Q&quot;>Guideline: Effective Requirement Reviews&lt;/a> for more information.</sectionDescription>
+  </sections>
+  <purpose>The solution is proposed for a problem that everybody agrees on. Stakeholders collaborate with the development team to&#xD;
+&#xD;
+&#xD;
+express and document their problems, needs, and potential features for the system to be, so the project team can better&#xD;
+&#xD;
+&#xD;
+understand what has to be done.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

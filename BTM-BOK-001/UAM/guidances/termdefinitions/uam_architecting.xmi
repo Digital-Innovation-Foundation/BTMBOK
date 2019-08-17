@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oP32I4iIS7pORSk7j4_DJQ" name="new_term_definition,_nWtKIMIsEeKSedlRPHdUIQ" guid="-oP32I4iIS7pORSk7j4_DJQ" changeDate="2013-05-21T11:39:52.990-0400" version="7.5.1">
+  <mainDescription>A set of interrelated activities of conceiving, defining, expressing, documenting, communicating, certifying proper&#xD;
+implementation of, maintaining and improving an architecture throughout a system’s life cycle (&lt;a&#xD;
+href=&quot;http://www.iso-architecture.org/ieee-1471/index.html&quot; target=&quot;_blank&quot;>ISO 42010&lt;/a> 2011).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

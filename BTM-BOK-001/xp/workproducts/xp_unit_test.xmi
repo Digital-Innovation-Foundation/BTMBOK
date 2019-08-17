@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dwfXb2dWJOQkTuLo-BTFeQ" name="xp_unit_test,{D156652E-7C52-4EBD-8F23-F38169877A57}" guid="-dwfXb2dWJOQkTuLo-BTFeQ" changeDate="2006-11-13T16:57:02.728-0500" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    &lt;a class=&quot;PresentationName&quot; guid=&quot;{D156652E-7C52-4EBD-8F23-F38169877A57}&quot;>XP Unit Test&lt;/a>s are usually implemented at&#xD;
+    the class level (in OO languages) and test the public interface. For every class in the system, a test class exists.&#xD;
+    Popular test frameworks are available usually for free (such as JUnit, CppUnit, CppUnitLite, NUnit). These are simple&#xD;
+    tools that help the developer to organize and run unit tests. These tests drive the programmer development and tell the&#xD;
+    programmer that the code works as the programmer expects.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;a id=&quot;XE_xp_unit_test__artifact_definition&quot; name=&quot;XE_xp_unit_test__artifact_definition&quot;>&lt;/a>&lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;>&lt;/a>&lt;a id=&quot;XE_xp_unit_test__purpose_of&quot; name=&quot;XE_xp_unit_test__purpose_of&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    An &lt;a class=&quot;PresentationName&quot; guid=&quot;{D156652E-7C52-4EBD-8F23-F38169877A57}&quot;>XP Unit Test&lt;/a> is written by developers&#xD;
+    to ensure that all system components work as expected. &lt;a class=&quot;PresentationName&quot; guid=&quot;{D156652E-7C52-4EBD-8F23-F38169877A57}&quot;>XP Unit Test&lt;/a> give the developers the confidence to modify the system&#xD;
+    and feel confident that everything still works.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

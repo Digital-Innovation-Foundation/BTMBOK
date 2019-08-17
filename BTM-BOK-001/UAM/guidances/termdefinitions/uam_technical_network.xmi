@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-cgWE6_TmZV8V2aK3pPZP6A" name="uam_technical_network,_qatBAEGsEeOfR_FtRm9PUg" guid="-cgWE6_TmZV8V2aK3pPZP6A" changeDate="2013-10-30T17:40:43.653-0400" version="7.5.1">
+  <mainDescription>A Technical Network is the set of devices and elements that comprise and define a computer network at the technical level.&#xD;
+It may be used as a black box definition, with more detail defined in later modeling iterations or as a white box&#xD;
+definition, as required by the objectives of the architecture effort. Specific devices and technologies are optionally&#xD;
+defined in more detailed models, depending upon the context of the IT architecture.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZlMbrxbCB7ovb94Gz8hqOw" name="new_checklist,_BgGi0EsPEeOMAZ8QX11Frg" guid="-ZlMbrxbCB7ovb94Gz8hqOw" changeDate="2013-11-11T15:29:28.184-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in determining if the IT architecture artifacts review is&amp;nbsp;comprehensive.&#xD;
+    The architectural review&amp;nbsp;provides an opportunity for all aspects of the artifacts and IT architecture to be&#xD;
+    agreed, for other opinions to be heard and a consensus reached. Actions are also agreed to ensure that issues are&#xD;
+    resolved and updated made as decided during the review.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_es7M4EsQEeOMAZ8QX11Frg" name="Architectural Decisions consulted" guid="_es7M4EsQEeOMAZ8QX11Frg">
+    <sectionDescription>Ensure that all relevant Architectural Decisions have been addressed by the IT Architecture (artifact) under review. Add&#xD;
+actions as necessary to correct omissions.</sectionDescription>
+  </sections>
+  <sections xmi:id="_BX7W4EsSEeOMAZ8QX11Frg" name="Similar solutions have been considered" guid="_BX7W4EsSEeOMAZ8QX11Frg">
+    <sectionDescription>Reinventing the wheel&amp;nbsp;Issues are flagged and actions defined to correct them.</sectionDescription>
+  </sections>
+  <sections xmi:id="_y0q-QEsQEeOMAZ8QX11Frg" name="Consistent level of abstraction" guid="_y0q-QEsQEeOMAZ8QX11Frg">
+    <sectionDescription>&lt;p class=&quot;ck&quot;>&#xD;
+    The models should&amp;nbsp;have a similar&amp;nbsp;level of complexity and&amp;nbsp;a consistent level of abstraction (but perhaps&#xD;
+    tempered by the objectives of the IT Architecture). This is a relative evaluation, therefore as always when creating an&#xD;
+    architecture the level of complexity and detail required is always a judgment call. The level required should be driven&#xD;
+    by the intended use for the IT architecture. The level of abstraction for a give level of detail must however be&#xD;
+    consistent.&amp;nbsp;Issues are flagged and actions defined to correct them.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_UBRtEEsREeOMAZ8QX11Frg" name="Components in the models are highly cohesive " guid="_UBRtEEsREeOMAZ8QX11Frg">
+    <sectionDescription>One of the main objectives in doing IT architecture is to define the overall structure of the &quot;system&quot;. The components that&#xD;
+define this structure must be cohesive, which is enabled by having clear&amp;nbsp;separations of concerns in the model&#xD;
+and&amp;nbsp;in having clear relationships between components.&amp;nbsp; Issues are flagged and actions defined to correct them.</sectionDescription>
+  </sections>
+  <sections xmi:id="_nCVGsEsSEeOMAZ8QX11Frg" name="The proposed solution can be easily understood" guid="_nCVGsEsSEeOMAZ8QX11Frg">
+    <sectionDescription>Clear understanding of the IT architecture is greatly facilitated through the use of standard domain 'language' in the&#xD;
+models (which may need to be clarified in order to be more precise). Visual models are also an aid to understanding.&#xD;
+Complexity (in models and descriptions) can be reduced through the layering of the models (i.e. encapsulation to hide&#xD;
+detail). This peer review (and other reviews) also facilitate and aid in documenting architectures in a manner and language&#xD;
+understandable by all, and consistent across the enterprise. Issues are flagged and actions defined to correct them.</sectionDescription>
+  </sections>
+  <sections xmi:id="_lOuloEsTEeOMAZ8QX11Frg" name="There is consensus on the model as presented by the architect" guid="_lOuloEsTEeOMAZ8QX11Frg">
+    <sectionDescription>Stakeholders should all share the same view—this is where getting consensus on the language and other aspects is very&#xD;
+important. This IT architecture review is where to get feedback and to develop a solid consensus and understanding.</sectionDescription>
+  </sections>
+  <sections xmi:id="__3nd4EsVEeOMAZ8QX11Frg" name="Modeling guidelines have been followed" guid="__3nd4EsVEeOMAZ8QX11Frg">
+    <sectionDescription>Presenting a consistent set of views and structures aids in understanding, eases maintenance of the models, and generally&#xD;
+speeds up the process. These modeling guidelines and standards are either from UAM or defined&amp;nbsp; and used within the&#xD;
+enterprise.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ZhJc0EsWEeOMAZ8QX11Frg" name="Models are not overly complex" guid="_ZhJc0EsWEeOMAZ8QX11Frg">
+    <sectionDescription>Given the objectives of the IT architecture, the models developed should be only as complex as needed. Overly complex model&#xD;
+will not add value, will be more difficult to maintain and take longer to develop.</sectionDescription>
+  </sections>
+  <sections xmi:id="_LesZQEsXEeOMAZ8QX11Frg" name="Number of model layers defined" guid="_LesZQEsXEeOMAZ8QX11Frg">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        There are no more than seven (plus or minus two) layers;&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The rationale for layer definition is clearly presented and consistently applied;&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Layer boundaries are respected within the architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Layers are used to encapsulate conceptual boundaries between different kinds of services and provide useful&#xD;
+        abstractions which makes the design easier to understand.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vhte7hwZ8pv3OPh8N-qzAg" name=",_cxpOoKcAEeS8vLSVufajPQ" guid="-vhte7hwZ8pv3OPh8N-qzAg" authors="DW Enstrom" changeDate="2015-01-28T14:40:06.631-0500" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The identified problem has been analyzed and precisely defined. Now possible solutions are documented and compared. The&#xD;
+    following steps are followed to ensure the resulting solution does indeed solve the problem:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Create a list of possible solutions to the problem;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Analyze the proposed solutions in terms of cost, pros, cons, etc.;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Pick the best solution to the problem and document it in detail.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    If not solution can be found and agreed&amp;nbsp;then the issue is escalated to a higher authority.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_XYiq4KcfEeS8vLSVufajPQ" name="Create a list of possible solutions " guid="_XYiq4KcfEeS8vLSVufajPQ">
+    <sectionDescription>&lt;p>&#xD;
+    The domain experts and architects analyze the documented problem and develop a list of possible solutions. Each&#xD;
+    proposed solution is only examined enough at this point to ensure that it will indeed solve the problem.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_gDWe4KcfEeS8vLSVufajPQ" name="Analyze the proposed solutions" guid="_gDWe4KcfEeS8vLSVufajPQ">
+    <sectionDescription>In depth analysis of the proposed solutions is now done. All aspects are looked at, from feasibility to costs. Pros and&#xD;
+cons are noted for each one.</sectionDescription>
+  </sections>
+  <sections xmi:id="_kSyTwKcfEeS8vLSVufajPQ" name="Pick the best solution " guid="_kSyTwKcfEeS8vLSVufajPQ">
+    <sectionDescription>The best solution is chosen based upon a number of factors, including but not limited to cost, impacts and feasibility.&#xD;
+More description of the chosen solution is added if necessary.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    A new technology has been identified and this task examines its&amp;nbsp;possible use within the system or enterprise. This&#xD;
+    task examines the new technology, defines possible uses, and then defines its possible&amp;nbsp;impacts on the existing IT&#xD;
+    architecture. These impacts may be at the Business level (e.g. new business opportunity), Logical level (e.g. a greatly&#xD;
+    revised IT architecture is needed) or the Technical level (e.g. the new technology is a simple substitute for existing&#xD;
+    technology, but with benefits).&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

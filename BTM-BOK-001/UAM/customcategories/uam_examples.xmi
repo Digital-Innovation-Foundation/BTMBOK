@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3aZVx8IRF4Xo8vKV8LgmPA" name="uam_examples,_vSixwMeJEdyBSO6dC2FdkA" guid="-3aZVx8IRF4Xo8vKV8LgmPA" changeDate="2014-11-13T10:39:23.745-0500" version="7.5.1">
+  <mainDescription>Example IT architectures are provided, along with a number of other Work Products.&lt;a id=&quot;XE_UAM__examples&quot;&#xD;
+name=&quot;XE_UAM__examples&quot;>&lt;/a>&lt;a id=&quot;XE_Examples&quot; name=&quot;XE_Examples&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

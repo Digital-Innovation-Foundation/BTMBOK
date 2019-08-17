@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BTXdT-1bO6nbAPf25q0_yA" name="new_checklist,_xlrdEAVtEdy3F_fZDaPZVA" guid="-BTXdT-1bO6nbAPf25q0_yA">
+  <sections xmi:id="_U7JSUAbNEdy1uLAzgK8btg" name="Have Work Items been described without ambiguity?" guid="_U7JSUAbNEdy1uLAzgK8btg">
+    <sectionDescription>&lt;p> Does each Work Item have a name and clear description? This helps the team &#xD;
+  estimate Work Item size. If necessary, include links on the Work Items List &#xD;
+  to reference material where further detail is available. &lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_dL2nwAVuEdy3F_fZDaPZVA" name="Have Work Items been prioritized?" guid="_dL2nwAVuEdy3F_fZDaPZVA">
+    <sectionDescription>&lt;p align=&quot;left&quot;> Has every Work Item been prioritized by business value? This &#xD;
+  helps the team select the Work Items to be delivered in each iteration. &lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_bF3LoAVuEdy3F_fZDaPZVA" name="Have Work Items been estimated?" guid="_bF3LoAVuEdy3F_fZDaPZVA">
+    <sectionDescription>&lt;p align=&quot;left&quot;> Every Work Item should be estimated by business value. This will &#xD;
+  help the team to select the Work Items to be delivered in each iteration. &lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_O7VloAbFEdy1uLAzgK8btg" name="Are the Work Items being tracked?" guid="_O7VloAbFEdy1uLAzgK8btg">
+    <sectionDescription>&lt;p align=&quot;left&quot;> Does every Work Item have a state attribute? This helps the team &#xD;
+  track its development project.&amp;nbsp; &lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_tENnkAVuEdy3F_fZDaPZVA" name="Are scheduled Work Items the right size?" guid="_tENnkAVuEdy3F_fZDaPZVA">
+    <sectionDescription>If a Work Item is scheduled for an iteration, then it should be broken down into Work Items that can be completed in a&#xD;
+reasonable timeframe (a few hours, to a few days). This will help&amp;nbsp;the team be more productive and produce&amp;nbsp;more&#xD;
+detailed effort estimates, see &lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/guidances/concepts/micro_increments.html&quot;&#xD;
+guid=&quot;_S80VwCNbEdyCq8v2ZO4QcA&quot;>Micro-Increments&lt;/a>. &lt;br align=&quot;left&quot; />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

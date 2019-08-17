@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Lv8HJgveY1rTnQdrhwrf6w" name=",_lk3NMKb_EeS8vLSVufajPQ" guid="-Lv8HJgveY1rTnQdrhwrf6w" authors="DW Enstrom" changeDate="2015-01-28T13:45:46.715-0500" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The identified problem may be misunderstood, therefore the&amp;nbsp;problem is examined in detail and&#xD;
+    precisely&amp;nbsp;defined.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To do this, one of two approaches is taken:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        the existing architecture is examined, and the area where the problem is located is analyzed. The specific nature&#xD;
+        of the problem is documented.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        If no current architecture exists&amp;nbsp;then the current system documentation is examined, developers and users&#xD;
+        interviewed and the specific nature of the problem is documented.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    The output of this exercise is the documentation of the problem and the issues surrounding this problem.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_4LQvgKceEeS8vLSVufajPQ" name="Locate documentation and interview stakeholders" guid="_4LQvgKceEeS8vLSVufajPQ">
+    <sectionDescription>Locate the documentation for the system and interview stakeholders (i.e., developers, users, operational and support&#xD;
+people). Gather as much information as possible about the system, and specifically about the problem.</sectionDescription>
+  </sections>
+  <sections xmi:id="_1kPC4KceEeS8vLSVufajPQ" name="Refine the problem definition" guid="_1kPC4KceEeS8vLSVufajPQ">
+    <sectionDescription>&lt;p>&#xD;
+    The identified issue or problem is examined in detail by a set of domain experts and architects. The problem and its&#xD;
+    definition is refined as required to ensure clarity and understanding.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    A problem with a defined IT architecture or existing system has been identified. This task clarifies the issues and&#xD;
+    documents the precise problem to be solved.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

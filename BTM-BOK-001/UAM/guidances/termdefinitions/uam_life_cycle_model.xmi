@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mWiI7wk4h7rC8zY4slA2Nw" name="uam_life_cycle_model,_LxgfAMJIEeKSedlRPHdUIQ" guid="-mWiI7wk4h7rC8zY4slA2Nw" changeDate="2013-05-21T14:56:58.576-0400" version="7.5.1">
+  <mainDescription>“A framework containing the processes, activities, and tasks involved in the development, operation, and maintenance of a&#xD;
+software product, which spans the life of the system from the definition of its requirements to the termination of its use”&#xD;
+(&lt;a href=&quot;http://www.iso-architecture.org/ieee-1471/&quot; target=&quot;_blank&quot;>ISO 42010&lt;/a> 2007). A life cycle prescribes the&#xD;
+stages and manner in which the contents of a conforming architecture description are to be produced (&lt;a&#xD;
+href=&quot;http://www.iso-architecture.org/ieee-1471/&quot; target=&quot;_blank&quot;>ISO 42010&lt;/a> 2011, 8).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

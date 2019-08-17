@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-grYAxOctMQWfaliZ_KTtvA" name="new_domain,_WZfksHHuEeWdvJc66gW5Cg" guid="-grYAxOctMQWfaliZ_KTtvA" changeDate="2015-12-21T11:54:19.951-0500">
+  <mainDescription>&lt;p>&#xD;
+    UAM defines two sub-domains:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>UAM Deliverables&lt;/strong> - All Work Products that are deliverables of the UAM IT architecture development&#xD;
+        processes;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>UAM External Inputs&lt;/strong>&amp;nbsp;- All Work Products external to UAM IT architecture development, but are&#xD;
+        important and used within UAM.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The following diagram summarizes the relationships between Work Products in these two sub-domains, and how the UAM&#xD;
+    deliverables fit in. The &quot;gates&quot; shown on the diagram indicate review points where IT architects participate in the&#xD;
+    creation and review of the various Work Products, both internal and external. See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/roadmaps/uam_governance_60575AE0.html&quot; guid=&quot;_p0Js0OCrEdynr9jlfK-aMA&quot;>Roadmap:&#xD;
+    Governance&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;The complete set of Work Products (external and internal) and how they relate to UAM&quot;&#xD;
+    src=&quot;resources/overview.png&quot; width=&quot;498&quot; height=&quot;593&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

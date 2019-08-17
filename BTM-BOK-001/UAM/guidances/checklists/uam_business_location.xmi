@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LYftrEMbF91SAjcN25he0A" name="uam_business-location,_WoOXQGXvEeSFL7Sh0MlmKA" guid="-LYftrEMbF91SAjcN25he0A" changeDate="2014-10-23T11:23:44.502-0400" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    At the Business level, locations are conceptual and therefore this makes it easier to capture and define them. For&#xD;
+    example, locations involved in a Bank could be reduced to: Headquarters, Branch and Point-of-Presence (or ATM).&#xD;
+    Conceptual types of locations are defined, the activities or services provided at each location and the communications&#xD;
+    (relationships) between locations.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The objective is to make this model easily consumable by business people, with the goal to ensuring that this level is&#xD;
+    understood and agreed to by all stakeholders.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_WoOXRmXvEeSFL7Sh0MlmKA" name="Clear name and description" guid="_WoOXRmXvEeSFL7Sh0MlmKA">
+    <sectionDescription>Ensure that the name for each location conveys its meaning and that the description supports this meaning. Business experts&#xD;
+and stakeholders are key to ensuring that this is the case.</sectionDescription>
+  </sections>
+  <sections xmi:id="_WoOXQWXvEeSFL7Sh0MlmKA" name="Activities and services are defined" guid="_WoOXQWXvEeSFL7Sh0MlmKA">
+    <sectionDescription>Define the services and activities provided at the location. This directly relates to the Business Process Model where&#xD;
+these processes and activities are defined. Simple description are all that is needed, with references to the Process&#xD;
+Model.</sectionDescription>
+  </sections>
+  <sections xmi:id="_WoOXRGXvEeSFL7Sh0MlmKA" name="Relationships (communications) between locations defined" guid="_WoOXRGXvEeSFL7Sh0MlmKA">
+    <sectionDescription>Relationships between&amp;nbsp;locations support the business: they support the business processes and the provision of&#xD;
+services to employees and customers. These relationships are define in terms of the type of communications and&#xD;
+characteristic such as importance (availability, etc.) and volumes.</sectionDescription>
+  </sections>
+  <sections xmi:id="_WoOXQmXvEeSFL7Sh0MlmKA" name="Structure complex locations" guid="_WoOXQmXvEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    A hierarchical set of model works very well to capture complex locations. Abstract these complex locations, and&#xD;
+    drill-down into the detail through hierarchies.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

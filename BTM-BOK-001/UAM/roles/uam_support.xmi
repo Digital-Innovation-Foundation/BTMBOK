@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nVBfCmIBgmqmDsjA3AuScA" name="uam_support,_QR1yEMmzEdyU89e0dKAsrw" guid="-nVBfCmIBgmqmDsjA3AuScA" authors="DW Enstrom" changeDate="2014-09-21T16:15:03.104-0400" changeDescription="Update description." version="2.0.0">
+  <mainDescription>IT architects require administrative support in order to manage processes, deliverables, decisions and other aspects of&#xD;
+their work. This is in addition to the participation of various IT experts during the development of architectures. This&#xD;
+role involves the many support tasks needed to aid in the development&amp;nbsp;of&amp;nbsp;IT architectures.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

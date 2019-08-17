@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-IIDtwHdkqVKtD88hBnr84A" name="uam_technical_role,_MRmfQNjnEdyPdoI9d5Dn-Q" guid="-IIDtwHdkqVKtD88hBnr84A" authors="DW Enstrom" changeDate="2015-02-12T15:37:34.124-0500" changeDescription="new" version="1.0.1">
+  <mainDescription>Defines a Technical Role which is equated to or defined by the behavior (and by extension its responsibilities) that it&#xD;
+interacts with in the system—the activities that it interacts with. A role is in essence the “interface” to the activities&#xD;
+with which it interacts. Technical Roles represent the “interface protocol” (in the case of system interactions) or&#xD;
+“graphical user interface” (GUI, in the case of human interactions) to the Technical Activities and Processes. A Role can&#xD;
+be assumed (aggregated) by any kind of actor, either human or a system.</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Roles are a categorization, based upon required interaction with the business, of external interactions with the&#xD;
+    business systems.&amp;nbsp;In addition to Enterprise or Domain Architects, the following people use these roles:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>System designers&lt;/b>, when describing business use cases and their interaction with business actors;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>User-interface designers&lt;/b>, as input to capturing characteristics on human [system] actors;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>System analysts&lt;/b>, as input to finding [system] actors;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+  <representationOptions>&lt;p>&#xD;
+    A Technical Role is played in relation to a business activity/task by someone or something. A role relates directly to&#xD;
+    the set of activities invoked to perform the work associated with the role.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» TPL_Role&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Interface&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following properties:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Role.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>description: string&lt;/strong>&amp;nbsp;- Description of the Role, its interactions and other relevant&#xD;
+        information such as security aspects.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned operations;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned behaviors;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        May have relationships only with other Technical Activities, Roles or with Technical Entities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A derived relationship with Technical Entities is used to identify what Roles (Actors) interact with these&#xD;
+        Entities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        All owned properties shall be public.&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

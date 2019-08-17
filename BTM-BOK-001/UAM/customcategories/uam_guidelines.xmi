@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TzBKw0mQJ6NuFtNSmbI8_w" name="uam_guidelines,_Fx3isMeDEdyBSO6dC2FdkA" guid="-TzBKw0mQJ6NuFtNSmbI8_w" changeDate="2015-02-18T12:43:15.445-0500">
+  <mainDescription>Guidelines to help with the development, use, and maintenance of IT architectures.&lt;a id=&quot;XE_UAM__guidelines&quot;&#xD;
+name=&quot;XE_UAM__guidelines&quot;>&lt;/a>&lt;a id=&quot;XE_Guidelines&quot; name=&quot;XE_Guidelines&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

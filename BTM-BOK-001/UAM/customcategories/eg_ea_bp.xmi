@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-thuUEV9qgLQpyGHISCj-zw" name="new_custom_category,_n4n1gL14EeKBoecYDPr3dQ" guid="-thuUEV9qgLQpyGHISCj-zw" changeDate="2013-05-26T14:51:35.993-0400" version="2.0.1">
+  <mainDescription>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; border=&quot;0&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td width=&quot;108&quot;>&#xD;
+                &lt;strong>Click on the framework to view a&amp;nbsp;specific model (aspect) that defines this&#xD;
+                architecture.&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img border=&quot;0&quot; alt=&quot;Business Perspective&quot; src=&quot;./resources/pers_bus.png&quot; usemap=&quot;#map1369173274464&quot; />&lt;map&#xD;
+                id=&quot;map1369173274464&quot; name=&quot;map1369173274464&quot;>&#xD;
+                    &lt;area title=&quot;ThuNorTech Enterprise BEM&quot; href=&quot;./../../UAM/customcategories/eg_ea_bem_BB53C10.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech Enterprise BEM&quot; coords=&quot;110,73,210,118&quot; guid=&quot;_DSqv0L15EeKBoecYDPr3dQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech Enterprise BPM&quot; href=&quot;./../../UAM/customcategories/eg_ea_bpm_533D6C29.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech Enterprise BPM&quot; coords=&quot;228,74,328,120&quot; guid=&quot;_7AbXYMJbEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech Enterprise BLM&quot; href=&quot;./../../UAM/customcategories/eg_ea_blm_7D6C0D.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech Enterprise BLM&quot; coords=&quot;341,73,446,118&quot; guid=&quot;_VDfQoMJcEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech Enterprise BRM&quot; href=&quot;./../../UAM/customcategories/eg_ea_brm_BB577ED.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech Enterprise BRM&quot; coords=&quot;456,73,565,120&quot; guid=&quot;_wZrlsMJcEeKSedlRPHdUIQ&quot; />&#xD;
+                &lt;/map>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&#xD;
+&lt;p>&#xD;
+    This is the root package for the Business Perspective at the Enterprise level, containing the four aspects of this&#xD;
+    perspective, with each aspect or view&amp;nbsp;being linked to above.&lt;br />&#xD;
+    &lt;br />&#xD;
+    This diagram may be used as a navigation point into the set of detailed views for each aspect.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

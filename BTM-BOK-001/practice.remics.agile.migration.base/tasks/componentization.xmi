@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Gqnp2a1CANG-Yk0lZg5-4Q" name="componentization,_WGsgYEkWEeKu7-3cM-oErg" guid="-Gqnp2a1CANG-Yk0lZg5-4Q" changeDate="2013-08-21T05:22:56.879-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Componentization&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    An automated activity which generates suggested new components (services) from the UML or RSL models of the system.&#xD;
+    Automated componentization is used to give an overall structure of the new system which is further refined and&#xD;
+    implemented during the sprints of the migration scrum. An initial meeting with the whole team is held to discuss the&#xD;
+    new system components. Development environment is set.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

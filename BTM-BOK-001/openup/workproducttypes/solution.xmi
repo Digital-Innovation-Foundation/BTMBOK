@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sIh01vzZACgxRrG_sv7DVw" name="new_work_product_kind,_mC_6sDz7Edq03rqPoNVoKg" guid="-sIh01vzZACgxRrG_sv7DVw" changeDate="2005-10-14T17:43:49.126-0400">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Arial&quot; size=&quot;2&quot;>Many work products contribute to the overall solution or product.&amp;nbsp; Tests and test data&#xD;
+    is needed to validate the solution.&amp;nbsp; User support materials of all sorts are needed in the final product.&amp;nbsp;&#xD;
+    Source code and other implementation elements are required to build the final product.&amp;nbsp; These work products,&#xD;
+    including those that ship with the product, are categorized as Solution.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

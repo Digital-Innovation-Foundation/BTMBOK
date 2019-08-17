@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4z1oSbottUaC5eHBCHO5Eg" name="uam_define_tech_locations,_QIcaQN5TEdyg17nU3bVmlA" guid="-4z1oSbottUaC5eHBCHO5Eg" authors="DW Enstrom" changeDate="2014-10-24T10:56:46.817-0400" changeDescription="new" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This task defines, at the technical level, the locations involved in the architecture in question. As in real-estate,&#xD;
+    locations are very important to any business in terms of the business processes and tasks that are supported at each&#xD;
+    type of location. This model defines the deployment of hardware and software systems and services to the locations,&#xD;
+    which in turn defines many other factors and requirements, such as cost, network topography and bandwidths, deployment&#xD;
+    of servers, storage and other infrastructure services, among many others.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Logical Locations Model is used, along with input from stakeholders and IT experts, to define and refine the&#xD;
+    Technical Locations Model.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_Hs5T0N5fEdyg17nU3bVmlA" name="Define locations model" guid="_Hs5T0N5fEdyg17nU3bVmlA">
+    <sectionDescription>Using the Logical Locations Model as input, plus any location information obtained from &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/tasks/uam_define_tech_processes_D1A49140.html&quot; guid=&quot;_FKe34N5TEdyg17nU3bVmlA&quot;>Task: Define Technical&#xD;
+Process Model&lt;/a>, define the technical level view of the system's locations. Detail included in this view includes the&#xD;
+activities and processes (i.e. business services) supported at the location, therefore the Technical Process Model needs to&#xD;
+be created and consulted as well as the Logical Process Model.</sectionDescription>
+  </sections>
+  <sections xmi:id="_fOeHwN5fEdyg17nU3bVmlA" name="Define the location relationships" guid="_fOeHwN5fEdyg17nU3bVmlA">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Using the Logical Process Model, the&amp;nbsp;Business Process Model and other sources of information, determine the&#xD;
+    services and facilities required between the locations. This includes both business level services&amp;nbsp;such as &quot;access&#xD;
+    to products and services&quot; or infrastructure services such as &quot;email&quot; and &quot;telephone&quot;.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    The objective of this step is to define the technical level view of services provided and required between locations,&#xD;
+    which will influence technical design choices, especially network aspects. Network technical options are explored and&#xD;
+    decisions made regarding the technology to be used for the Local Area Network (LAN) at the location, and the Wide Area&#xD;
+    Network (WAN) or Metropolitan Area Network (MAN) supporting communications between locations. The segmentation of the&#xD;
+    network is also defined, in terms of &quot;domains&quot; and &quot;zones&quot; as defined in &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/whitepapers/uam_security_reference_model_3EA07B63.html&quot;&#xD;
+    guid=&quot;_KGs_oMX8EdyDYN2-y9-AqA&quot;>Whitepaper: A Reference Model for Enterprise Security&lt;/a>, and choices are made, and&#xD;
+    documented in Architectural Decisions (ADs), regarding the technologies to be used for network segmentation as well&#xD;
+    as&amp;nbsp;LAN, WAN and MAN technologies.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_fupnMN5gEdyg17nU3bVmlA" name="Evaluate your results" guid="_fupnMN5gEdyg17nU3bVmlA">
+    <sectionDescription>&lt;span>A Technical Locations Model is complete only when it describes every location that the system has a presence at&#xD;
+(within the given scope) at a consistent level of detail. Before you finish, make sure the locations model exhibits the&#xD;
+characteristic properties of a good locations model, see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/guidances/guidelines/uam_technical_locations_model_35A606DB.html&quot;&#xD;
+guid=&quot;_MJxRAOSwEdyYxtlRIMoTnw&quot;>Guideline: Technical Locations Model&lt;/a>.&lt;/span></sectionDescription>
+  </sections>
+  <purpose>&lt;p style=&quot;MARGIN: 0in 0in 6pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+    This task finds and defines the locations involved in the architecture in question. Specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the technical level locations;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine technical level communications (relationships) that need to be supported between locations;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the technical level&amp;nbsp;activities/processes&amp;nbsp;supported&amp;nbsp;at and between locations.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

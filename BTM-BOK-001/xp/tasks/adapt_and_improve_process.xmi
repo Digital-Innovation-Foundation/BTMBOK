@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-u-Svthjtn1xLK2IwVUpk5Q" name="adapt_and_improve_process,{F0D4C205-4A38-42AF-BE87-9A6C0C173E65}" guid="-u-Svthjtn1xLK2IwVUpk5Q" version="1.0.0">
+  <sections xmi:id="_oNoEAGE-EdqnIZeW8YpHcA" name=" General " guid="_oNoEAGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Prep&quot; name=&quot;Prep&quot;>&lt;/a> 
+&lt;p>
+    Teams using XP are guided by the &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../xp/guidances/concepts/xp_values,1.076140803519123E-306.html&quot; guid=&quot;1.076140803519123E-306&quot;>XP Values&lt;/a>
+    through their use of the &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../xp/guidances/concepts/xp_practices,2.2937799026801584E-305.html&quot; guid=&quot;2.2937799026801584E-305&quot;>XP
+    Practices&lt;/a>. The XP Practices are each best practices, but the practices also leverage the benefits of the other
+    practices to form an efficient, minimal set of practices required to deliver high quality software aligned to customer
+    needs.
+&lt;/p>
+&lt;p>
+    In general, teams will be most effective in their use of XP if each of the practices is used as much as possible on the
+    project. In practice, this can be difficult to achieve for a number of reasons, including:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Technical obstacles, such as non-OO languages and legacy code
+    &lt;/li>
+    &lt;li>
+        Lack of skills, including basic programming skills, practice skills, domain expertise, teamwork skills
+    &lt;/li>
+    &lt;li>
+        A complex customer environment, where a single source of prioritized stories is difficult to develop
+    &lt;/li>
+    &lt;li>
+        Organizational obstacles, such as distributed teams, large teams, and command/control oriented cultures
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    As the team uses XP, these obstacles affect their ability to effectively use the practices. The &lt;a
+    class=&quot;PresentationName&quot; href=&quot;./../../xp/roles/xp_coach,{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}.html&quot;
+    guid=&quot;{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}&quot;>XP Coach&lt;/a> helps the team address how these challenges will affect
+    their use of the practices. This starts with helping the team maintain the &lt;a class=&quot;elementLinkWithUserText&quot;
+    href=&quot;./../../xp/guidances/concepts/xp_values,1.076140803519123E-306.html#Courage&quot;
+    guid=&quot;1.076140803519123E-306&quot;>Courage&lt;/a> to confront and remove these obstacles, clearing the way for the practices to
+    be used. In cases where the obstacles cannot be removed, the coach and the team use the &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../xp/guidances/concepts/xp_values,1.076140803519123E-306.html&quot; guid=&quot;1.076140803519123E-306&quot;>XP Values&lt;/a>
+    to guide adaptation of the practices.
+&lt;/p>
+&lt;p>
+    The &lt;a class=&quot;PresentationName&quot; href=&quot;./../../xp/roles/xp_coach,{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}.html&quot;
+    guid=&quot;{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}&quot;>XP Coach&lt;/a> needs to participate in communities that share best
+    practices in software development and XP. These communities will exist within large companies, in local users groups,
+    and in Internet communities.
+&lt;/p>
+&lt;p>
+    &lt;br />
+    &lt;br />
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_adapt_and_improve_process__activity_definition&quot; name=&quot;XE_adapt_and_improve_process__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Improve the productivity of the team.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

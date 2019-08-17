@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-BUUg8WByZLm3tGGqirZOTg" name="new_domain,_5TsoUHHvEeWdvJc66gW5Cg" guid="-BUUg8WByZLm3tGGqirZOTg" changeDate="2015-11-30T12:07:34.444-0500">
+  <mainDescription>&lt;p>&#xD;
+    These work products are not produced by UAM but are instead inputs into the UAM processes and tasks. They are very&#xD;
+    important inputs created outside of UAM, by enterprise business planners, IT planners and other experts. Some are also&#xD;
+    external to the enterprise, laws for example.&amp;nbsp;The main input is the (IT Architecture) Project Requirement, but the&#xD;
+    others are also very important. The figure below provides a summary of the UAM inputs: &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Summary of UAM external inputs&quot; src=&quot;resources/UAM-vs-Business-Plans.png&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note that UAM IT architecture deliverables may influence business plans, specifically the Business Motivation Model&#xD;
+    (BMM) and the Business Model. This is due to the fact that technologies have a major influence on business&#xD;
+    opportunities and business processes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    An overview of all UAM inputs and outputs is shown in the figure below:&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Summary of UAM inputs and outputs&quot; src=&quot;resources/UAM-Inputs-and-Outputs.png&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

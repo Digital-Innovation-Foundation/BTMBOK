@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IKkUsci4x5AVKEjZ8dq7hA" name="uam_business_process,_AoCmUMI_EeKSedlRPHdUIQ" guid="-IKkUsci4x5AVKEjZ8dq7hA" changeDate="2013-05-21T13:51:22.368-0400" version="7.5.1">
+  <mainDescription>A collection of related, structured activities or tasks that produce a specific service or product. Processes may service&#xD;
+corporate customers or they may serve internal needs.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

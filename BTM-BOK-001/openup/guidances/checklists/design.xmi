@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_YIYIYMM1EdmSIPI87WLu3g" name="design,_0XSzsMlgEdmt3adZL5Dmdw" guid="_YIYIYMM1EdmSIPI87WLu3g" changeDate="2007-03-18T19:57:27.416-0400" version="1.0.0">
+  <mainDescription>&lt;p> The items in this checklist represent good practices for creating and communicating &#xD;
+  a robust design. Try to address every item to the greatest extent possible to &#xD;
+  create the best design. It may not be possible to address every item, and you &#xD;
+  may be able to address some items to only a limited extent. In these cases, &#xD;
+  be sure that there are good reasons for only partially addressing an item or &#xD;
+  not addressing an item at all. &lt;/p>&#xD;
+&lt;p> Design can take place every day. Use this checklist regularly to&amp;nbsp;ensure&amp;nbsp;a &#xD;
+  robust, consistent, and understandable design. Make the design good enough for &#xD;
+  the specific goals being addressed by using this checklist to identify areas &#xD;
+  that have been skipped, ignored, or not sufficiently addressed. &lt;/p></mainDescription>
+  <sections xmi:id="_sO-NINVUEduaE6F4-SvXzg" name="Is the design understandable?" guid="_sO-NINVUEduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Is the design organized in a way that team members can easily find the &#xD;
+    information that they're looking for? &lt;/li>&#xD;
+  &lt;li> Is the design as simple as it can be, while still fulfilling the objectives &#xD;
+    of the design and giving sufficient direction to implementers? &lt;/li>&#xD;
+  &lt;li> Is the design neither too simple nor too advanced? The design sophistication &#xD;
+    should be appropriate to the experience level of other team members and technical &#xD;
+    stakeholders. This applies to both the concept and the representation of the &#xD;
+    design. &lt;/li>&#xD;
+  &lt;li> Does the design express what the designer intends to express? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_7DUXMNTQEduaE6F4-SvXzg" name="Is the design consistent?" guid="_7DUXMNTQEduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Does the design follow any design standards?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does&amp;nbsp;the design&amp;nbsp;apply other idioms consistently?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are the names of the design elements consistent and easy to interpret?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does any part of the design contradict another part of it in such a way that puts the project at risk?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        If the design is rendered visually, is the notation used to&amp;nbsp;describe the design used consistently so that it&#xD;
+        can be understood and is not ambiguous?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_V_LgsNTREduaE6F4-SvXzg" name="Is the design maintainable?" guid="_V_LgsNTREduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Is the design structured well enough to be maintained?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is the design set up to appropriately accommodate expected changes? The design should not be overdone to handle&#xD;
+        &lt;em>any&lt;/em> possible change, just reasonably expected changes.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Have redundant areas of the design been removed so that the implementation does not contain redundant code?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_ySbT4NTREduaE6F4-SvXzg" name="Is the design traceable?" guid="_ySbT4NTREduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Is it clear how the design elements relate to the requirements? This does &#xD;
+    not need to involve a heavyweight traceability strategy, but is there some &#xD;
+    way to figure out what part of the design supports a particular requirement? &#xD;
+  &lt;/li>&#xD;
+  &lt;li> It what portions of the implementation support each design element clear? &#xD;
+  &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_tywgENTQEduaE6F4-SvXzg" name="Does the design reflect the architectural objectives of the system?" guid="_tywgENTQEduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Does the design conform to the architecture as specified? &lt;/li>&#xD;
+  &lt;li>Does it apply the architectural patterns appropriately? &lt;/li>&#xD;
+  &lt;li> Are Architectural Mechanisms used appropriately? Are they applied in all &#xD;
+    applicable circumstances? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_nMogoNTQEduaE6F4-SvXzg" name="Are the design elements modular?" guid="_nMogoNTQEduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Do the design elements have high internal cohesion? Does the degree of &#xD;
+    interaction within the unit demonstrate that all of the internal parts belong &#xD;
+    together? &lt;/li>&#xD;
+  &lt;li> Do the design elements have low coupling? Is there minimal interdependence &#xD;
+    between design elements? When design elements depend upon one another, is &#xD;
+    this done as simply as possible and in such a way that the client element &#xD;
+    will not be affected by changes to the internal parts of the supplier element? &#xD;
+  &lt;/li>&#xD;
+  &lt;li> Are the design elements defined with&amp;nbsp;abstract interfaces in ways that &#xD;
+    changes can be made to the internal implementation without affecting client &#xD;
+    design elements? &lt;/li>&#xD;
+  &lt;li> Does each design element represent a clearly defined abstraction? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_19E2INTQEduaE6F4-SvXzg" name="Can the system be implemented from the information in the design?" guid="_19E2INTQEduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Has sufficient detail been included to direct the implementation? &lt;/li>&#xD;
+  &lt;li> Does the design constrain the implementation only as much as necessary? &#xD;
+    Does the design allow freedom for the implementer to implement it appropriately? &#xD;
+  &lt;/li>&#xD;
+  &lt;li> Is the design feasible? Is it a design that can be reasonably implemented &#xD;
+    by the team by using the technologies selected within the timeframe of the &#xD;
+    project? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_F_AWwNTTEduaE6F4-SvXzg" name="Does the design provide enough information for developer testing?" guid="_F_AWwNTTEduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+  &lt;li> Does the design provide enough information for developer test design? Are &#xD;
+    the expected behavior and constraints on the methods clear? &lt;/li>&#xD;
+  &lt;li> Are the collaborations between design elements clear enough to create integration &#xD;
+    tests? &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_upZp0NT0EduaE6F4-SvXzg" name="Does the design describe the system at the appropriate level of abstraction?" guid="_upZp0NT0EduaE6F4-SvXzg">
+    <sectionDescription>Does the design describe the system at the appropriate level of abstraction given &#xD;
+the objectives? This usually means that the system is described at several different &#xD;
+levels of abstraction and from different perspectives.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Nqih0NVREduaE6F4-SvXzg" name="Does the design support a coarse-grained perspective of the system?" guid="_Nqih0NVREduaE6F4-SvXzg">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Can the design be understood as a set of higher-order subsystems?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are the subsystem dependencies documented?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are interfaces clearly defined for each subsystem? Is each subsystem designed so that its services can be accessed&#xD;
+        through the interface without a need to access internal parts?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is each subsystem designed so that someone can work within one part without having to understand the internal parts&#xD;
+        of the other elements?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ELvj_sAc3-SUObPrHlwjvA" name="uam_architectural_rationale,_bPV2EMI0EeKSedlRPHdUIQ" guid="-ELvj_sAc3-SUObPrHlwjvA" changeDate="2013-05-21T12:36:00.672-0400" version="7.5.1">
+  <mainDescription>THe architectural rationale records the explanation, justification or reasoning about architecture decisions that have been&#xD;
+made. The rationale for a decision can include the basis for a decision, alternatives, and trade-offs considered, potential&#xD;
+consequences of the decision and citations to sources of additional information. (&lt;a&#xD;
+href=&quot;http://www.iso-architecture.org/ieee-1471/index.html&quot; target=&quot;_blank&quot;>ISO 42010&lt;/a> 2011, 7).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

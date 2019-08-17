@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-krcrRmqhR4pMLFb4yPOH4A" name="uam_metamodel,_CMyLAMJJEeKSedlRPHdUIQ" guid="-krcrRmqhR4pMLFb4yPOH4A" changeDate="2013-05-21T15:03:02.192-0400" version="7.5.1">
+  <mainDescription>The definition of the language (i.e. terms, rules, constraints, and concepts) used for modeling a predefined class of&#xD;
+problem. A model that defines the language for expressing a model (&lt;a href=&quot;http://www.omg.org/mof/&quot; target=&quot;_blank&quot;>OMG&#xD;
+2002&lt;/a>).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

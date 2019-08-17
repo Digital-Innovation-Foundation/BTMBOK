@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" name="control_and_supervise,_Vgw0AP4aEeCPJr8QQpNd-A" guid="-Yvy3AKQTjSqBPNxsWkizkQ" changeDate="2011-10-24T04:19:53.379-0400" version="7.2.0">
+  <additionalInfo>&lt;h3>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/h3></additionalInfo>
+  <problem>&lt;p>&#xD;
+    The purpose of this macro-activity is to provide elements to stop the service, with the purpose of finalizing it or&#xD;
+    with the purpose of moving to another cloud infrastructure.&#xD;
+&lt;/p></problem>
+  <goals>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Identify necessary support for system withdraval&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Introduce features and components to support withdraval&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></goals>
+</org.eclipse.epf.uma:PracticeDescription>

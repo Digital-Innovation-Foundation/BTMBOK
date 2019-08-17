@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VMnkFJpPLdEDUpbz2QDgow" name=",_J_5kgEvHEdunZcj9T5hrMQ" guid="-VMnkFJpPLdEDUpbz2QDgow" changeDate="2006-09-24T09:21:36.312-0400">
+  <mainDescription>The user's or customer's view of the product to be developed, specified at the level of key stakeholder needs and features&#xD;
+of the system.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

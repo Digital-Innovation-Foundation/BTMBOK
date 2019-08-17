@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NJ1TLIRQkDSXOypppJCy8Q" name="uam_logical_rule,_szZX9GX6EeSFL7Sh0MlmKA" guid="-NJ1TLIRQkDSXOypppJCy8Q" changeDate="2014-11-06T16:30:42.924-0500" version="7.5.1">
+  <mainDescription>At the Logical level, rules are transformed into something that is usable within the system; they are defined in a more&#xD;
+logical and rigorous way.&amp;nbsp;Some structure&amp;nbsp;to the rules may be defined. This model is aimed at&#xD;
+technical&amp;nbsp;people, with the goal of ensuring that it is clearly understood usable by this audience.</mainDescription>
+  <sections xmi:id="_szZX9mX6EeSFL7Sh0MlmKA" name="Clear name and description" guid="_szZX9mX6EeSFL7Sh0MlmKA">
+    <sectionDescription>Ensure that the name for the rule conveys its meaning and that the description supports this meaning. Business experts and&#xD;
+stakeholders are key to ensuring that this is the case, but technical experts will ensure that the defined rules are usable&#xD;
+with systems.</sectionDescription>
+  </sections>
+  <sections xmi:id="_szZX92X6EeSFL7Sh0MlmKA" name="Rule ownership is defined" guid="_szZX92X6EeSFL7Sh0MlmKA">
+    <sectionDescription>In this age of totally interconnected systems it is imperative that the owners of rules are identified since they must be&#xD;
+involved in making decisions regarding their meaning and usage, along with who is the authority for updates. The owner, or&#xD;
+their representative, should approve the defined rules to ensure their accuracy and completeness.</sectionDescription>
+  </sections>
+  <sections xmi:id="_szZX9WX6EeSFL7Sh0MlmKA" name="Usage is described" guid="_szZX9WX6EeSFL7Sh0MlmKA">
+    <sectionDescription>Ensure that the usage of the rule is defined and if possible where it is used (i.e. the process and activities). Be as&#xD;
+specific as possible.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

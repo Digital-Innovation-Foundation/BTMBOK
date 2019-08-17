@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-q8ubSlQ5miYcY1JXdj1fbQ" name="management_layer,_Aoz2gEmcEdu0xduwSKie-w" guid="-q8ubSlQ5miYcY1JXdj1fbQ" changeDate="2007-03-28T18:43:47.079-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    It is important to note that the Management layer is built on the foundational &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/customcategories/collab_commun_layer_A3CDA6EF.html&quot; guid=&quot;_r8cVIEmbEdu0xduwSKie-w&quot;>Communication and collaboration layer&lt;/a> to reflect the collaborative nature of&#xD;
+    managing an OpenUP project. The manager should not plan an iteration in isolation, and then tell the team members&#xD;
+    their assignments. Instead, the manager should be more of a coach, involving the entire team in the planning process to&#xD;
+    ensure that:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Everybody’s knowledge is reflected in the plan&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        All team members estimate their own work&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Each team member signs up to take on a task, rather than being told exactly what to do&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    You will find the tasks for the Management layer in the &lt;strong>Project Management&lt;/strong> discipline, and the&#xD;
+    corresponding work products under the Project Management domain.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Management layer is written in such a way that your organization can modify it to fit your development style, &#xD;
+     without necessarily affecting how you deal with the other layers (&lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/customcategories/solution_layer_8AA9BF96.html&quot; guid=&quot;_HEVvgEmcEdu0xduwSKie-w&quot;>Solution layer&lt;/a>&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/customcategories/solution_layer_8AA9BF96.html&quot; guid=&quot;_HEVvgEmcEdu0xduwSKie-w&quot;> &lt;/a>and &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/customcategories/intent_layer_33C0EF8F.html&quot; guid=&quot;_57_ZMEmbEdu0xduwSKie-w&quot;>Intent layer&lt;/a>).&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

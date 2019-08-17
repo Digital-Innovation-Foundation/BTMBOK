@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Vjks07dICDsobNDFKdQ9VA" name="uam_business_entity_model,_6x9RwPQzEdyIELoltz1wKA" guid="-Vjks07dICDsobNDFKdQ9VA" authors="DW Enstrom" changeDate="2013-11-10T09:52:23.528-0500" changeDescription="new" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_Business_Entity_Model_Report__brief_outline&quot; name=&quot;XE_Business_Entity_Model_Report__brief_outline&quot;>&lt;/a>&lt;a&#xD;
+id=&quot;Brief Outline&quot; name=&quot;Brief Outline&quot;>&lt;/a> &#xD;
+&lt;h3>&#xD;
+    1. Brief Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    A brief description of the Business Entity Model.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    2. Entities&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Describe the following for each Business Entity&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    2.1. Usage&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Describe the usage of Business Entities within the business, and their lifecycles from creation to deletion.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    2.2. Relationships&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Responsible business activity: &amp;lt;name&amp;gt;. A list of business entity relationships (including brief descriptions).&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    2.3. Operations&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    A list of operations representing the activities/tasks that produce or consume the business entity.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    2.4. Attributes&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Attributes of the business entity, including their names, types, and brief descriptions.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    3. Business Events&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Describe any business events&amp;nbsp;that involve Business Entities.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    4. Diagrams&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Include diagrams that are used to describe the Business Entity Model including state charts and other aspects.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

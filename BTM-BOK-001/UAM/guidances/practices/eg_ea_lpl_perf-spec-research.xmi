@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X4C5ZvaEsgFn3C1-t56fjg" name="eg_ea_lpl_lab-research,_5vciIJmrEeOJEracaeLisg" guid="-X4C5ZvaEsgFn3C1-t56fjg" changeDate="2015-02-07T14:31:58.726-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Perform Specialized Research&quot; src=&quot;./resources/EA-Logical-Res-Perform-Spec-Res.png&quot; />&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Customers may contract with ThuNorTech to perform special research on specific technologies in a lab environment. This&#xD;
+    activity manages these requests and ensures that they can be done in accordance with Customer wishes.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Manage Lab Studies&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    ThuNorTech works with the Customer to ensure that their requirements for a lab study is well understood, and that the&#xD;
+    resources are available to do the study in the timeframe required. The study is then placed into a queue for action by&#xD;
+    the lab manager.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Inputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Draft Lab study requirements.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Outputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Agreed Lab study requirements on the lab job queue.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Exceptions&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    None.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    State Changes&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    None.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

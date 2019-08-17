@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-v46SglpVPWsJkUuPKJ8LeA" name="new_concept,_zxpBYPsbEeOyDIZvZjuaLg" guid="-v46SglpVPWsJkUuPKJ8LeA" changeDate="2015-11-30T14:45:24.683-0500" version="7.5.1">
+  <mainDescription>&lt;a id=&quot;XE_Process_vs_Function&quot; name=&quot;XE_Process_vs_Function&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The difference between a business process and a business function must be well understood, along with how they relate&#xD;
+    to each other.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This distinction is important when defining architectures and specifically the process models. As hinted at above a&#xD;
+    business function provides functionality that is useful for one or more business processes—it is the vertical view of&#xD;
+    the business (e.g. Customer Relations or Financial Services). A business process on the other hand is a horizontal view&#xD;
+    of the business that at a high-level equate to business services offered to customers (e.g. Order Processing or Travel&#xD;
+    Booking). This distinction is not always clear, especially at lower levels within an enterprise, but when modeling at&#xD;
+    the Business level it is important. These concepts are illustrated in the figure below, which is well understood by&#xD;
+    Business Analysis’s and definitely needs to be understood by IT architects.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Business Perspective Concept - Business Function vs. Business Process&quot;&#xD;
+    src=&quot;resources/Business-Perspective-Function-vs-Process.png&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As can be noted in the diagram, Business Processes implement or provide the Business Services to customers/users and&#xD;
+    cut across functional boundaries within the enterprise.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

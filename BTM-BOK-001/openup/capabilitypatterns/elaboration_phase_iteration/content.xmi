@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="_mtb_BfL5Edm6Nvont3uinw" guid="_mtb_BfL5Edm6Nvont3uinw"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="_mtb_B_L5Edm6Nvont3uinw" guid="_mtb_B_L5Edm6Nvont3uinw"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="_mtb_CfL5Edm6Nvont3uinw" guid="_mtb_CfL5Edm6Nvont3uinw"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="_mtb_BvL5Edm6Nvont3uinw" guid="_mtb_BvL5Edm6Nvont3uinw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="_mtb_BPL5Edm6Nvont3uinw" guid="_mtb_BPL5Edm6Nvont3uinw">
+    <mainDescription>&lt;p>&#xD;
+    Most activities during a typical iteration in Elaboration phase happen in parallel. Essentially, the main objectives&#xD;
+    for Elaboration are related to better understanding the requirements, creating and establishing a baseline of the&#xD;
+    architecture for the system, and mitigating top-priority risks.&#xD;
+&lt;/p></mainDescription>
+    <alternatives>There will be iterations when projects risks are being addressed by creating software, but they may not be architecturally&#xD;
+significant. In this case, &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/capabilitypatterns/develop_solution_633E2E80.html&quot; guid=&quot;_h2-iAfimEdmugcVr9AdHjQ&quot;>Capability Pattern: Develop solution increment&lt;/a> will be performed outside the context of the architecture. For the&#xD;
+most part, Develop Solution will be performed in the context of &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/capabilitypatterns/develop_architecture_AF0A71D5.html&quot; guid=&quot;_0sx7islgEdmt3adZL5Dmdw&quot;>Capability Pattern: Develop the architecture&lt;/a> during the Elaboration phase.</alternatives>
+  </org.eclipse.epf.uma:ProcessDescription>
+</xmi:XMI>

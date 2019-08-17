@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dRZBxemX7fnw1G1bfl3L6w" name="uam_perspective_logical,_0RzzAMJKEeKSedlRPHdUIQ" guid="-dRZBxemX7fnw1G1bfl3L6w" changeDate="2014-03-19T11:46:42.138-0400" version="7.5.1">
+  <mainDescription>A set of viewpoints that collectively define a complete model of the system at the logical level. The various viewpoints&#xD;
+defined show how actors interact with processes at various locations within the business, and the things they handle and&#xD;
+use (logical entities). The views also show how these different aspects and things must relate to one another, both&#xD;
+statically and dynamically, to produce the desired business results. Computational aspects, such as &lt;em>storage&lt;/em> and&#xD;
+&lt;em>server&lt;/em> and &lt;em>database&lt;/em> are added to this logical level model.&amp;nbsp; &#xD;
+&lt;p>&#xD;
+    The other dimension to defining an IT architecture are the different &quot;aspects&quot;, see: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspects_C681E8E1.html&quot; guid=&quot;_2D_igNZSEdyTWqLy4FSCdg&quot;>Architecture&#xD;
+    Aspects&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Also&amp;nbsp;see&amp;nbsp; &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_perspective_B4DE2D26.html&quot;&#xD;
+    guid=&quot;_6zOHAMJJEeKSedlRPHdUIQ&quot;>Architecture Perspective&lt;/a> , &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_scope_9C0A017D.html&quot;&#xD;
+    guid=&quot;_VN5PAMJKEeKSedlRPHdUIQ&quot;>Scope&lt;/a>&lt;/em>&amp;nbsp;and &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/supportingmaterials/uam_overview_B2102583.html&quot; guid=&quot;_W0ahoM9uEdymj4NXv8-FYA&quot;>UAM&#xD;
+    Overview&lt;/a> and &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/supportingmaterials/uam_welcome_5C65E9E8.html&quot;&#xD;
+    guid=&quot;_3FfFUMuJEdyPdbXGe2katw&quot;>UAM Home&lt;/a>.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

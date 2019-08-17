@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_uv2NoKv_Eem8vdVoHclNtA" guid="_uv2NoKv_Eem8vdVoHclNtA">
+    <resourceDescriptors xmi:id="_uv2Noav_Eem8vdVoHclNtA" id="_mtb-6vL5Edm6Nvont3uinw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_0nz79MlgEdmt3adZL5Dmdw" name="test_solution" guid="_0nz79MlgEdmt3adZL5Dmdw">
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_a6qBUFY2EdqI9sTOt2pjHw" name="tester" guid="_a6qBUFY2EdqI9sTOt2pjHw" presentationName="Tester" briefDescription="This role is responsible for the core activities of the test effort. Those activities  include identifying, defining, implementing, and conducting the necessary tests,  as well as logging the outcomes of the testing and analyzing the results." hasMultipleOccurrences="true" superActivities="_0nz79clgEdmt3adZL5Dmdw" modifies="_a_F1YFY2EdqI9sTOt2pjHw _oSQYEL3SEdqfrv3k16plXw _os33gL3SEdqfrv3k16plXw" responsibleFor="_oSQYEL3SEdqfrv3k16plXw _a_F1YFY2EdqI9sTOt2pjHw _a8fNUFY2EdqI9sTOt2pjHw">
+      <methodElementProperty xmi:id="_2GPzcKv_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <Role href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0ZM4MclgEdmt3adZL5Dmdw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_a8fNUFY2EdqI9sTOt2pjHw" name="test_case" guid="_a8fNUFY2EdqI9sTOt2pjHw" presentationName="Test Case" briefDescription="This artifact is the specification of a set of test inputs, execution conditions, and expected results, identified for the purpose of making an evaluation of some particular aspect of a scenario." hasMultipleOccurrences="true" superActivities="_0nz79clgEdmt3adZL5Dmdw">
+      <methodElementProperty xmi:id="_2GQagKv_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <checklists href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0Zxf8MlgEdmt3adZL5Dmdw"/>
+      <concepts href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0aJ6cMlgEdmt3adZL5Dmdw"/>
+      <templates href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0dT8IMlgEdmt3adZL5Dmdw"/>
+      <WorkProduct href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0ZS-0MlgEdmt3adZL5Dmdw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_a_F1YFY2EdqI9sTOt2pjHw" name="test_script" guid="_a_F1YFY2EdqI9sTOt2pjHw" presentationName="Test Script" briefDescription="This artifact contains the step-by-step instructions that realize a test, enabling its execution. These may take the form of either documented textual instructions that are executed manually or computer readable instructions that enable automated test execution." hasMultipleOccurrences="true" superActivities="_0nz79clgEdmt3adZL5Dmdw">
+      <methodElementProperty xmi:id="_2GQagav_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <checklists href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0Z9tMMlgEdmt3adZL5Dmdw"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0aDz0MlgEdmt3adZL5Dmdw"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0j5sUMlgEdmt3adZL5Dmdw"/>
+      <templates href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_tbZwgPgxEdu8HsJNEbr7wQ"/>
+      <WorkProduct href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0ZfMEMlgEdmt3adZL5Dmdw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_nykLZL3SEdqfrv3k16plXw" name="implement_test_scripts" guid="_nykLZL3SEdqfrv3k16plXw" presentationName="Implement Test Scripts" briefDescription="Implement Test Scripts to validate a Build of the solution. Organize Test Scripts into suites, and collaborate to ensure appropriate depth and breadth of test feedback." superActivities="_0nz79clgEdmt3adZL5Dmdw" additionallyPerformedBy="_Xrrj0ASqEdy6Meh4O3uDnA _Xr0twASqEdy6Meh4O3uDnA _Xr0twQSqEdy6Meh4O3uDnA" mandatoryInput="_a8fNUFY2EdqI9sTOt2pjHw" optionalInput="_a_F1YFY2EdqI9sTOt2pjHw _ny2fQL3SEdqfrv3k16plXw _os33gL3SEdqfrv3k16plXw _Xr0twgSqEdy6Meh4O3uDnA" output="_a_F1YFY2EdqI9sTOt2pjHw" performedPrimarilyBy="_a6qBUFY2EdqI9sTOt2pjHw">
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0kF5kMlgEdmt3adZL5Dmdw"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0j5sUMlgEdmt3adZL5Dmdw"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0aDz0MlgEdmt3adZL5Dmdw"/>
+      <Task href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0jO98MlgEdmt3adZL5Dmdw"/>
+      <selectedSteps href="uma://_NrbRUKeqEdmKDbQuyzCoqQ#_dR9MIPc-EduFDJ8n2O_2Dw"/>
+      <selectedSteps href="uma://_NrbRUKeqEdmKDbQuyzCoqQ#_lUpQMPc-EduFDJ8n2O_2Dw"/>
+      <selectedSteps href="uma://_NrbRUKeqEdmKDbQuyzCoqQ#_VN5M0KuSEdmhFZtkg1nakg"/>
+      <selectedSteps href="uma://_NrbRUKeqEdmKDbQuyzCoqQ#_WvBoYKuSEdmhFZtkg1nakg"/>
+      <selectedSteps href="uma://_NrbRUKeqEdmKDbQuyzCoqQ#_X0dmcKuSEdmhFZtkg1nakg"/>
+      <selectedSteps href="uma://_NrbRUKeqEdmKDbQuyzCoqQ#_Y-ABYKuSEdmhFZtkg1nakg"/>
+      <selectedSteps href="uma://_NrbRUKeqEdmKDbQuyzCoqQ#_1gt2MPc-EduFDJ8n2O_2Dw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ny2fQL3SEdqfrv3k16plXw" name="build" guid="_ny2fQL3SEdqfrv3k16plXw" presentationName="Build" briefDescription="An operational version of a system or part of a system that demonstrates a subset of the capabilities to be provided in the final product." superActivities="_0nz79clgEdmt3adZL5Dmdw">
+      <methodElementProperty xmi:id="_2GQagqv_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <concepts href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_B3xkEPD0EdqYgerqi84oCA"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_SM4YIL6dEdqti4GwqTkbsQ"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_i8bUEL6cEdqti4GwqTkbsQ"/>
+      <WorkProduct href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0YuXEMlgEdmt3adZL5Dmdw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_oR39mb3SEdqfrv3k16plXw" name="run_tests" guid="_oR39mb3SEdqfrv3k16plXw" presentationName="Run Tests" briefDescription="Run the appropriate tests scripts, analyze results, articulate issues, and communicate test results to the team." superActivities="_0nz79clgEdmt3adZL5Dmdw" mandatoryInput="_ny2fQL3SEdqfrv3k16plXw _a_F1YFY2EdqI9sTOt2pjHw" output="_oSQYEL3SEdqfrv3k16plXw _os33gL3SEdqfrv3k16plXw" performedPrimarilyBy="_a6qBUFY2EdqI9sTOt2pjHw">
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0aDz0MlgEdmt3adZL5Dmdw"/>
+      <Task href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0jVEkMlgEdmt3adZL5Dmdw"/>
+      <selectedSteps href="uma://_NrbRUqeqEdmKDbQuyzCoqQ#_xnl4oA_hEdyi96l9YvaMVA"/>
+      <selectedSteps href="uma://_NrbRUqeqEdmKDbQuyzCoqQ#_3Fd2kA_hEdyi96l9YvaMVA"/>
+      <selectedSteps href="uma://_NrbRUqeqEdmKDbQuyzCoqQ#_gV408KuSEdmhFZtkg1nakg"/>
+      <selectedSteps href="uma://_NrbRUqeqEdmKDbQuyzCoqQ#_0XzAwDO2EduqsLmIADMQ9g"/>
+      <selectedSteps href="uma://_NrbRUqeqEdmKDbQuyzCoqQ#_i3flUBB5Edyy0ZcrPg8jlg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_oSQYEL3SEdqfrv3k16plXw" name="test_log" guid="_oSQYEL3SEdqfrv3k16plXw" presentationName="Test Log" briefDescription="This artifact collects raw output captured during a unique execution of one or more tests for a single test cycle run." superActivities="_0nz79clgEdmt3adZL5Dmdw">
+      <methodElementProperty xmi:id="_2GRooKv_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0ZlSsMlgEdmt3adZL5Dmdw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_os33gL3SEdqfrv3k16plXw" name="work_items_list" guid="_os33gL3SEdqfrv3k16plXw" presentationName="Work Items List" briefDescription="This artifact contains a list of all scheduled work to be done within the project, as well as proposed work that may affect the product in this or future projects. Each work item may contain references to information relevant to carry out the work described within the work item." superActivities="_0nz79clgEdmt3adZL5Dmdw">
+      <methodElementProperty xmi:id="_2GQag6v_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <checklists href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_xlrdEAVtEdy3F_fZDaPZVA"/>
+      <concepts href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_S80VwCNbEdyCq8v2ZO4QcA"/>
+      <examples href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_nHomIDgzEdu4E8ZdmlYjtA"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_7vEXEMA4EdqSgKaj2SZBmg"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_CGHskBEdEdqY7JB6N6CW2w"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_oVMZADSoEdy07ZJqOGUGaQ"/>
+      <templates href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_QwUJYDg0Edu4E8ZdmlYjtA"/>
+      <reports href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_ePrt8Dj3EduxovfWMDsntw"/>
+      <reports href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_uAzgkDg3Edu4E8ZdmlYjtA"/>
+      <WorkProduct href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_rGNWsCbSEdqh1LYUOGRh2A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_Xrrj0ASqEdy6Meh4O3uDnA" name="developer" guid="_Xrrj0ASqEdy6Meh4O3uDnA" presentationName="Developer" briefDescription="This role is responsible for developing a part of the system, including designing it to fit into the architecture, possibly prototyping the user-interface, and then implementing, unit-testing, and integrating the components that are part of the solution." isPlanned="false" superActivities="_0nz79clgEdmt3adZL5Dmdw" modifies="_ny2fQL3SEdqfrv3k16plXw" responsibleFor="_6Qwpgg1SEdyKD8XBf_Hbrw _6QwpgQ1SEdyKD8XBf_Hbrw _ny2fQL3SEdqfrv3k16plXw">
+      <methodElementProperty xmi:id="_2GPzcav_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <Role href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0YDosMlgEdmt3adZL5Dmdw"/>
+      <responsibleForExclude href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0WuL8slgEdmt3adZL5Dmdw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_Xr0twASqEdy6Meh4O3uDnA" name="analyst" guid="_Xr0twASqEdy6Meh4O3uDnA" presentationName="Analyst" briefDescription="The person in this role represents customer and end-user concerns by gathering input from stakeholders to understand the problem to be solved and by capturing and setting priorities for requirements." isPlanned="false" superActivities="_0nz79clgEdmt3adZL5Dmdw" responsibleFor="_Xr0twgSqEdy6Meh4O3uDnA">
+      <methodElementProperty xmi:id="_2GPzcqv_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <Role href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0VxJsMlgEdmt3adZL5Dmdw"/>
+      <responsibleForExclude href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0WVxcMlgEdmt3adZL5Dmdw"/>
+      <responsibleForExclude href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_Wn7HcNcEEdqz_d2XWoVt6Q"/>
+      <responsibleForExclude href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_W2SgEDR5EdutE_HNDTJk5Q"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_Xr0twQSqEdy6Meh4O3uDnA" name="stakeholder" guid="_Xr0twQSqEdy6Meh4O3uDnA" presentationName="Stakeholder" briefDescription="This role represents interest groups whose needs must be satisfied by the project. It is a role that may be played by anyone who is (or potentially will be) materially affected by the outcome of the project." isPlanned="false" superActivities="_0nz79clgEdmt3adZL5Dmdw">
+      <methodElementProperty xmi:id="_2GPzc6v_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <Role href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_dTa6gMAYEdqX-s4mWhkyqQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Xr0twgSqEdy6Meh4O3uDnA" name="supporting_requirements_spec" guid="_Xr0twgSqEdy6Meh4O3uDnA" presentationName="Supporting Requirements Specification" briefDescription="This artifact captures system-wide requirements not captured in scenarios or use cases, including requirements on quality attributes and global functional requirements." isPlanned="false" superActivities="_0nz79clgEdmt3adZL5Dmdw">
+      <methodElementProperty xmi:id="_2GQahKv_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <checklists href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_Vael8CGMEdu3VKXZx45D3A"/>
+      <checklists href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_jxn9EO0HEdqHTdbLTmC5IQ"/>
+      <concepts href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_VXZ5wO0IEdqHTdbLTmC5IQ"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_wr24gNcGEdqz_d2XWoVt6Q"/>
+      <templates href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_ItYXcNa9Edqrw4BYKyYKiA"/>
+      <WorkProduct href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_BVh9cL-CEdqb7N6KIeDL8Q"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_6QwpgA1SEdyKD8XBf_Hbrw" name="integrate_and_create_build" guid="_6QwpgA1SEdyKD8XBf_Hbrw" presentationName="Integrate and Create Build" briefDescription="This task describes how to integrate all changes made by developers into the code base and perform the minimal testing to validate the build." superActivities="_0nz79clgEdmt3adZL5Dmdw" mandatoryInput="_6QwpgQ1SEdyKD8XBf_Hbrw _6Qwpgg1SEdyKD8XBf_Hbrw _a_F1YFY2EdqI9sTOt2pjHw" output="_ny2fQL3SEdqfrv3k16plXw" performedPrimarilyBy="_Xrrj0ASqEdy6Meh4O3uDnA">
+      <concepts href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_1QU9MAIoEdyLh7vsrHZ4YA"/>
+      <concepts href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_B3xkEPD0EdqYgerqi84oCA"/>
+      <concepts href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0cEmAMlgEdmt3adZL5Dmdw"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_SM4YIL6dEdqti4GwqTkbsQ"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_i8bUEL6cEdqti4GwqTkbsQ"/>
+      <Task href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_Dq0GQAIoEdyLh7vsrHZ4YA"/>
+      <selectedSteps href="uma://-3MMugrRt4H5NPnZe38OAjA#_xVY94A06EdyKD8XBf_Hbrw"/>
+      <selectedSteps href="uma://-3MMugrRt4H5NPnZe38OAjA#_hbwWQA07EdyKD8XBf_Hbrw"/>
+      <selectedSteps href="uma://-3MMugrRt4H5NPnZe38OAjA#_S5vB0A08EdyKD8XBf_Hbrw"/>
+      <selectedSteps href="uma://-3MMugrRt4H5NPnZe38OAjA#_1yKnAA1BEdyKD8XBf_Hbrw"/>
+      <selectedSteps href="uma://-3MMugrRt4H5NPnZe38OAjA#_Vf5kEA1CEdyKD8XBf_Hbrw"/>
+      <selectedStepsExclude href="uma://-3MMugrRt4H5NPnZe38OAjA#_Dm_bEA09EdyKD8XBf_Hbrw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_6QwpgQ1SEdyKD8XBf_Hbrw" name="implementation" guid="_6QwpgQ1SEdyKD8XBf_Hbrw" presentationName="Implementation" briefDescription="Software code files, data files, and supporting files such as online help files that represent the raw parts of a system that can be built." isPlanned="false" superActivities="_0nz79clgEdmt3adZL5Dmdw">
+      <methodElementProperty xmi:id="_2GSPsKv_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <checklists href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_OhJKUNWsEduaE6F4-SvXzg"/>
+      <concepts href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0lnRMMqOEduwrYVlQ9zp3w"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0Y0dsMlgEdmt3adZL5Dmdw"/>
+      <WorkProduct href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0YoQcMlgEdmt3adZL5Dmdw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_6Qwpgg1SEdyKD8XBf_Hbrw" name="developer_test" guid="_6Qwpgg1SEdyKD8XBf_Hbrw" presentationName="Developer Test" briefDescription="The instructions that validate individual software components perform as specified." isPlanned="false" hasMultipleOccurrences="true" superActivities="_0nz79clgEdmt3adZL5Dmdw">
+      <methodElementProperty xmi:id="_2GRooav_Eem8vdVoHclNtA" name="descriptor_createdByReference" value="true"/>
+      <guidelines href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0Y6kUMlgEdmt3adZL5Dmdw"/>
+      <WorkProduct href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0YuXEclgEdmt3adZL5Dmdw"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_0nz79clgEdmt3adZL5Dmdw" name="test_solution" guid="_0nz79clgEdmt3adZL5Dmdw" presentationName="Test Solution" briefDescription="From a system perspective, test and evaluate the developed requirements." hasMultipleOccurrences="true" breakdownElements="_a6qBUFY2EdqI9sTOt2pjHw _a8fNUFY2EdqI9sTOt2pjHw _a_F1YFY2EdqI9sTOt2pjHw _nykLZL3SEdqfrv3k16plXw _ny2fQL3SEdqfrv3k16plXw _6QwpgA1SEdyKD8XBf_Hbrw _oR39mb3SEdqfrv3k16plXw _oSQYEL3SEdqfrv3k16plXw _os33gL3SEdqfrv3k16plXw _Xrrj0ASqEdy6Meh4O3uDnA _Xr0twASqEdy6Meh4O3uDnA _Xr0twQSqEdy6Meh4O3uDnA _Xr0twgSqEdy6Meh4O3uDnA _6QwpgQ1SEdyKD8XBf_Hbrw _6Qwpgg1SEdyKD8XBf_Hbrw">
+      <methodElementProperty xmi:id="_2GWhIKv_Eem8vdVoHclNtA" name="process_synFree" value="true"/>
+      <presentation xmi:id="_mtb-6vL5Edm6Nvont3uinw" href="uma://_mtb-6vL5Edm6Nvont3uinw#_mtb-6vL5Edm6Nvont3uinw"/>
+      <defaultContext href="uma://_pIuNEKv_Eem8vdVoHclNtA#_0u-T4clgEdmt3adZL5Dmdw"/>
+      <validContext href="uma://_pIuNEKv_Eem8vdVoHclNtA#_0u-T4clgEdmt3adZL5Dmdw"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

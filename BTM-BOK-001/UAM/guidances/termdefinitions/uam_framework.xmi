@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-epbIwDwnxArU-_KUKub2Bw" name="new_term_definition,_sxLsgLX-EeSeNe6SxZNlbg" guid="-epbIwDwnxArU-_KUKub2Bw" changeDate="2015-02-16T12:10:39.270-0500" version="7.5.1">
+  <mainDescription>See:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_architecture_framework_7FD8EB33.html&quot;&#xD;
+guid=&quot;_6rcwQMI3EeKSedlRPHdUIQ&quot;>Term Definition: Architecture Framework&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

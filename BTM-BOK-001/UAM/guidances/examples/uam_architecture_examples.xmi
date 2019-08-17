@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-P8QZc3T4Ot20iLxdVKCxsA" name="uam_architecture_examples,_PYMCsP9oEdyU-O6u7AAPVw" guid="-P8QZc3T4Ot20iLxdVKCxsA" changeDate="2015-02-05T12:59:11.745-0500" changeDescription="new" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    There are four example ThuNorTech architectures are defined. One at the Enterprise level (EA), one at the Business Line&#xD;
+    level (BL), one at the Business Domain level (BD) and a &quot;simple&quot; architecture focused on the Research Business Line IP&#xD;
+    network.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Example architectures home: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/supportingmaterials/eg_root_70F32FBD.html&quot; guid=&quot;_0ovEoL29EeKqPucu4ytM0A&quot;>ThuNorTech&#xD;
+    Architectures&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

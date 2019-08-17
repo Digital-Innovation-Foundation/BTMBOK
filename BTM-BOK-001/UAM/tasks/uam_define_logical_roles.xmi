@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UsFgoBVfFY2agzuIoGcgHw" name="uam_define_logical_roles,_JjJAYN42Edyg17nU3bVmlA" guid="-UsFgoBVfFY2agzuIoGcgHw" authors="DW Enstrom" changeDate="2014-10-24T09:49:06.763-0400" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot;>This task defines, at the logical level, the actors and roles involved in the architecture in question.&#xD;
+    Roles (and associated actors) are very important to any business in terms of the business activities and processes that&#xD;
+    the roles execute. This model directly impacts upon the structure of the systems, tasks and processes with which the&#xD;
+    roles interact. Actors interact with the system through roles, therefore these relationships are also explored and&#xD;
+    defined.&lt;/font>&lt;/span>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot;>The Business&amp;nbsp;Roles Model and Logical Process Model are used, along with input from stakeholders, to&#xD;
+    define and refine the Logical Roles Model.&lt;/font>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_lVSfYN47Edyg17nU3bVmlA" name="Define the logical actors and roles" guid="_lVSfYN47Edyg17nU3bVmlA">
+    <sectionDescription>&lt;p>&#xD;
+    Based upon the Business Roles Model, Business Process Model and Logical Process Model, define or refine the Logical&#xD;
+    Roles Model, adding more detail definitions and their interactions with logical level activities. The refinement, and&#xD;
+    perhaps decomposition into more detailed tasks (or sub-processes) will result in the refinement of actors and roles,&#xD;
+    and perhaps the identification of new roles.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Refine the need for security domains and zones (see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/whitepapers/uam_security_reference_model_3EA07B63.html&quot;&#xD;
+    guid=&quot;_KGs_oMX8EdyDYN2-y9-AqA&quot;>Whitepaper: A Reference Model for Enterprise Security&lt;/a>), which may be viewed as the&#xD;
+    need for specific&amp;nbsp;&quot;roles&quot;, for example a business's Internet presence may be viewed as a logical actor and role&#xD;
+    (&quot;online banker&quot; for example)&amp;nbsp;accessible to all, whereas the business's Intranet (&quot;teller banker&quot; for example)&#xD;
+    will only be accessible by employees.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_IFQMcN4-Edyg17nU3bVmlA" name="Refine the role relationships" guid="_IFQMcN4-Edyg17nU3bVmlA">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Using the Business Roles Model, Business Process Model, Logical Process Model&amp;nbsp;or other sources of information,&#xD;
+    determine if there are interactions between roles. These interactions, which are executed and supported through one or&#xD;
+    more activities (tasks or processes), should confirm the workflow defined in the Logical Process Model. Consult the&#xD;
+    Logical Process Model to be sure that&amp;nbsp;all interactions are defined and are consistent.&amp;nbsp;The objective is to&#xD;
+    understand how roles collaborate in executing tasks and processes, which will influence design choices later on and may&#xD;
+    also result in the refinement of roles (i.e. combining of roles or separation into two or more roles).&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_K7vRYN4-Edyg17nU3bVmlA" name="Evaluate your results" guid="_K7vRYN4-Edyg17nU3bVmlA">
+    <sectionDescription>A Logical Roles Model is complete only when it describes every role involved in the business processes (within the given&#xD;
+scope) and the associated actors. Before you finish, make sure the model exhibits the characteristic properties of a good&#xD;
+model. See: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/checklists/uam_actor_B0306C90.html&quot;&#xD;
+guid=&quot;_29AN0OPqEdy7f9KmjDtwsA&quot;>Checklist: Actor and Role Checklist&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/guidances/guidelines/uam_logical_roles_model_9E48402E.html&quot; guid=&quot;_JE2zEO63Edy8F4k6ANL48Q&quot;>Guideline:&#xD;
+Logical Roles Model&lt;/a>.</sectionDescription>
+  </sections>
+  <purpose>&lt;p style=&quot;MARGIN: 0in 0in 6pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+    This task finds and defines the roles involved in the architecture in question. Specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the logical level roles;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the logical level actors;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine relationships that need to be supported between roles, if any;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine relationships needed between roles and actors;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the structure of actors&amp;nbsp;and of roles, if any;&amp;nbsp;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the logical level&amp;nbsp;activities and tasks&amp;nbsp;that the roles interact with.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

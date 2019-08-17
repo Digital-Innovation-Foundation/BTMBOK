@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YwSu2GrIw0bOT5ypJE_o_g" name="uam_Message_Send,_rAujUGxDEeSS8ckFlGqwKQ" guid="-YwSu2GrIw0bOT5ypJE_o_g" changeDate="2015-02-11T12:54:25.259-0500" version="2.0">
+  <mainDescription>Defines a (Business) Send Message. A Send Message represents the content of a communication between two&#xD;
+&lt;em>Participants&lt;/em>. In BPMN 2.0, a Message is a graphical decorator. An &lt;em>ItemDefinition&lt;/em> is used to specify the&#xD;
+Message structure&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.</mainDescription>
+  <representationOptions>A Receive Send represents the content of a communication between two Participants, the originating end.&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Message_Send&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Class&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Message.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>itemRef: ItemDefinition [0..1]&lt;/strong>&amp;nbsp;- An &lt;em>ItemDefinition&lt;/em> is used to define the “payload”&#xD;
+        of the Message.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Part of the message flow definitions with other message flow elements; constraints are defined in BPMN.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        See BPMN v2.0&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+        guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

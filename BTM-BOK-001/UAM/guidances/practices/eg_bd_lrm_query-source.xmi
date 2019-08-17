@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EEsAxDdRHiboW8zvG0NUnA" name="eg_bd_lrm_query-source,_x1P0oLnJEeOWHuN2LhNl_Q" guid="-EEsAxDdRHiboW8zvG0NUnA" changeDate="2015-02-07T13:21:02.041-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Query Source BD Logical Roles Model&quot; src=&quot;./resources/BD-Logical-LRM-Source.png&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Query Source BD Logical Roles Model&lt;/strong>&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Customer Researcher Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The adhoc subprocess Query Source Info&amp;nbsp;allows the Customer Researcher&amp;nbsp;to query Reports and Source&#xD;
+    Information, get the results and review the returned information. They may do additional queries for&amp;nbsp;until&#xD;
+    completed.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the Query Reports, Query Source&amp;nbsp;and Review Reports, Review Source&amp;nbsp;activities.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;h3>&#xD;
+    Research Writer Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The adhoc subprocess Query Source Info&amp;nbsp;allows the Research Writer&amp;nbsp;to query Source Information, get the&#xD;
+    results and review the returned information. They may do additional queries for&amp;nbsp;Source Information until&#xD;
+    completed. Research Writers produce Research Reports that address information needs of customers based upon completed&#xD;
+    research. The Report Writers reviews the research information provided by Research Analysts and determines if: enough&#xD;
+    information is there to produce a report, insufficient information&amp;nbsp;was provided, or the report task is not&#xD;
+    required (for various reasons). If&amp;nbsp; there is insufficient information available at this time, addition research&#xD;
+    may be done.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the Query Reports and Review Reports&amp;nbsp;activities.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Research Analyst Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The adhoc subprocess Query Source and Query Reports allows the Research Analyst to query Source Information and&#xD;
+    Research Reports, get the results and review the returned information. They may do additional queries&#xD;
+    for&amp;nbsp;information until completed. Research Analysts do the research prior to a report being written. If the&#xD;
+    analysis of the source information results in the discovery of information that addresses a Customer Information Need a&#xD;
+    new Report Task&amp;nbsp;is created&amp;nbsp;that forms the basis for the report. A draft report may be written as well.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the Query Reports, query Source&amp;nbsp;and Review Reports, Review Source&amp;nbsp;activities.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

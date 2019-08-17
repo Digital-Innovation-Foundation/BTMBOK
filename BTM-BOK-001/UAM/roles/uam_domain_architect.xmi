@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-OEMmpKv6_cL9puLgzOM6Hw" name="uam_domain_architect,_YrJ-UMIcEdyMpOiGFnM_WA" guid="-OEMmpKv6_cL9puLgzOM6Hw" authors="David W Enstrom " changeDate="2014-09-21T15:35:46.687-0400" changeDescription="Update description." version="2.0.1">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p>&#xD;
+    The business domain or business line architect has overall responsibility for architecture for a business domain or&#xD;
+    business line respectively. This includes identifying and documenting the architecturally significant aspects of&#xD;
+    the&amp;nbsp;business domain or line.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The rationale for the main architecture decisions have to be the result of&amp;nbsp;finding the right balance between&#xD;
+    competing factors, including the concerns of various stakeholders, risks, constraints and technologies. The models&#xD;
+    developed and decisions made need be&amp;nbsp;agreed upon, validated and communicated to all the interested parties at the&#xD;
+    business domain level.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <skills>&lt;p>&#xD;
+    A person acting&amp;nbsp;in this role&amp;nbsp;must be a good facilitator and have excellent communication skills. The IT&#xD;
+    architect also needs to have the ability to comprehend and makes sense of a large body of knowledge (i.e. IT&#xD;
+    technologies &lt;em>&lt;strong>and&lt;/strong>&lt;/em> the business as well) and create the IT architecture models that capture&#xD;
+    this information.&amp;nbsp;Excellent knowledge of the business domain or business line&amp;nbsp;is therefore essential, along&#xD;
+    with an extensive knowledge of IT technologies. The line/domain architect needs to be familiar with the tools used to&#xD;
+    capture the models of the architecture and with the main technological aspects of potential solutions.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A line/domain architect should be prepared to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Assess the situation of the&amp;nbsp;business domain/line;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understand&amp;nbsp;the domain's or line's&amp;nbsp;requirements, strategies and goals;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understand the current enterprise architecture and business line architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Facilitate and lead the modeling of the target domain/line architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Discuss and facilitate a business re-engineering effort, if needed;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understand the technical sides of the solutions;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Take part in defining IT architectures and solution approaches for resulting systems.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+  <assignmentApproaches>&lt;p>&#xD;
+    Depending upon the size and scope of the enterprise, consider assigning the Enterprise Architect, and&amp;nbsp;Domain or&#xD;
+    Line&amp;nbsp;Architect roles to the same person. However, in large organization with large business domains or business&#xD;
+    line separate IT architects will be required.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Business Unit IT architecture responsibilities may also be assigned to the Business Line architect, depending upon the&#xD;
+    size of the organization.&#xD;
+&lt;/p></assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

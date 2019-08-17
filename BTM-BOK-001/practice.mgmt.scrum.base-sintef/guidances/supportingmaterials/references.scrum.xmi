@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TMAqqwL18VXjxXqVxv9bbA" name="scrum_references,_8PMFQF5hEd22Gu98eFOlrQ" guid="-TMAqqwL18VXjxXqVxv9bbA" changeDate="2013-03-06T04:45:20.547-0500">
+  <mainDescription>&lt;h4>&#xD;
+    Scrum (Essentials)&#xD;
+&lt;/h4>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ken Schwaber, Jeff Sutherland, &quot;Scrum Guide&quot;, October 2011. &lt;a&#xD;
+        href=&quot;http://www.scrum.org/Portals/0/Documents/Scrum%20Guides/Scrum_Guide.pdf&quot;>http://www.scrum.org/Portals/0/Documents/Scrum%20Guides/Scrum_Guide.pdf&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-fi_gff5Yj8VSosM8hd6T-Q" name="uam_templates,_Jr7vEMeEEdyBSO6dC2FdkA" guid="-fi_gff5Yj8VSosM8hd6T-Q" changeDate="2015-11-30T15:50:04.197-0500" version="2.0">
+  <mainDescription>&lt;p>&#xD;
+    These templates cover a wide range of needs, from documentation outlines, plan outlines, to the definition of UAM IT&#xD;
+    architecture outlines.&#xD;
+&lt;/p>&lt;a id=&quot;XE_UAM__templates&quot; name=&quot;XE_UAM__templates&quot;>&lt;/a>&lt;a id=&quot;XE_Templates&quot; name=&quot;XE_Templates&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

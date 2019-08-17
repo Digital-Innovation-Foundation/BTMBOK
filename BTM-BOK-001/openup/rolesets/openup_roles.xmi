@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_Tb5J8O8NEdmKSqa_gSYthg" name="openup_roles,_TZIJ0O8NEdmKSqa_gSYthg" guid="_Tb5J8O8NEdmKSqa_gSYthg" changeDate="2007-07-30T17:03:24.256-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Software is created by people with different interests and skills. A healthy team environment enables effective&#xD;
+    collaboration and requires a culture engaged in creativity and positive change. Roles are the human face of the&#xD;
+    software development process but traditional descriptions can be constraining. New points of view on traditional&#xD;
+    software project roles are needed to leverage collaboration instead of increasing communication channels.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Roles do not represent individual responsibilities over tasks or deliverables but are instead “hats” that people can&#xD;
+    put on when working together. Each role is not limited to describing the primary performer of some task, instead the&#xD;
+    roles include a perspective on collaboration by providing additional performers for each task. Playing one or more of&#xD;
+    these roles can help teams express different points of view when creating a solution. This perspective on roles&#xD;
+    empowers a new generation of software development processes, more focused on people interaction. Nobody does great&#xD;
+    software alone but a team working together can do extraordinary things.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This page allows you to navigate the published configuration from the perspective of &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+    href=&quot;./../../base_concepts/guidances/termdefinitions/role_37A0C602.html&quot; guid=&quot;_yUefQNnmEdmO6L4XMImrsA&quot;>roles&lt;/a>. You&#xD;
+    can see the roles that have been included, and visit each role page to see its definition and relationships to other&#xD;
+    elements.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Main roles in OpenUP and their interaction&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img height=&quot;350&quot; alt=&quot;Main roles in OpenUP and their interaction&quot; src=&quot;./resources/OpenUp1_350.jpg&quot; width=&quot;350&quot;&#xD;
+    usemap=&quot;#map7&quot; border=&quot;0&quot; /> &lt;map id=&quot;Map7&quot; name=&quot;Map7&quot;>&#xD;
+        &lt;area shape=&quot;rect&quot; alt=&quot;Stakeholder&quot; coords=&quot;144,5,207,62&quot; href=&quot;./../../openup/roles/stakeholder_9FFD4106.html&quot;&#xD;
+        guid=&quot;_dTa6gMAYEdqX-s4mWhkyqQ&quot; />&#xD;
+        &lt;area shape=&quot;poly&quot; alt=&quot;Tester&quot; coords=&quot;336,242,310,287,254,256,278,209&quot;&#xD;
+        href=&quot;./../../openup/roles/tester_9859B590.html&quot; guid=&quot;_0ZM4MclgEdmt3adZL5Dmdw&quot; />&#xD;
+        &lt;area shape=&quot;rect&quot; alt=&quot;Developer&quot; coords=&quot;148,282,201,347&quot; href=&quot;./../../openup/roles/developer_C633AB7.html&quot;&#xD;
+        guid=&quot;_0YDosMlgEdmt3adZL5Dmdw&quot; />&#xD;
+        &lt;area shape=&quot;poly&quot; alt=&quot;Architect&quot; coords=&quot;66,199,14,232,40,283,96,249&quot;&#xD;
+        href=&quot;./../../openup/roles/architect_E7A12309.html&quot; guid=&quot;_0X9iEMlgEdmt3adZL5Dmdw&quot; />&#xD;
+        &lt;area shape=&quot;poly&quot; alt=&quot;Project Manager&quot; coords=&quot;11,118,68,146,99,91,50,52&quot;&#xD;
+        href=&quot;./../../openup/roles/project_manager_E657F936.html&quot; guid=&quot;_0a0o0MlgEdmt3adZL5Dmdw&quot; />&#xD;
+        &lt;area shape=&quot;poly&quot; alt=&quot;Analyst&quot; coords=&quot;258,99,312,66,338,114,284,145&quot;&#xD;
+        href=&quot;./../../openup/roles/analyst_39D7C49B.html&quot; guid=&quot;_0VxJsMlgEdmt3adZL5Dmdw&quot; />&#xD;
+        &lt;area shape=&quot;circle&quot; alt=&quot;Communication and Collaboration&quot; coords=&quot;176,176,47&quot;&#xD;
+        href=&quot;./../../openup/customcategories/collab_commun_layer_A3CDA6EF.html&quot; guid=&quot;_r8cVIEmbEdu0xduwSKie-w&quot; />&#xD;
+        &lt;area shape=&quot;poly&quot; alt=&quot;Management&quot; coords=&quot;85,219,70,163,115,89,169,72,169,117,124,144,120,197&quot;&#xD;
+        href=&quot;./../../openup/customcategories/management_layer_DF9A1A7F.html&quot; guid=&quot;_Aoz2gEmcEdu0xduwSKie-w&quot; />&#xD;
+        &lt;area shape=&quot;poly&quot; alt=&quot;Intent&quot; coords=&quot;181,116,223,143,229,196,264,219,283,160,245,94,181,70&quot;&#xD;
+        href=&quot;./../../openup/customcategories/intent_layer_33C0EF8F.html&quot; guid=&quot;_57_ZMEmbEdu0xduwSKie-w&quot; />&#xD;
+        &lt;area shape=&quot;poly&quot; alt=&quot;Solution&quot; coords=&quot;129,211,176,235,221,210,257,231,214,271,133,272,94,232&quot;&#xD;
+        href=&quot;./../../openup/customcategories/solution_layer_8AA9BF96.html&quot; guid=&quot;_HEVvgEmcEdu0xduwSKie-w&quot; />&#xD;
+    &lt;/map>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

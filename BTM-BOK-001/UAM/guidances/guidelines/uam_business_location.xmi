@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-JuDnDldWZ3V2tCPC1Sz93Q" name="uam_business_location,_h4H5AOSeEdyYxtlRIMoTnw" guid="-JuDnDldWZ3V2tCPC1Sz93Q" authors="DW Enstrom" changeDate="2014-04-10T11:50:01.825-0400" changeDescription="new" version="1.0.0">
+  <mainDescription>&lt;h3>&#xD;
+    Introduction&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    In &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/concepts/uam_it_architecture_193573CD.html&quot;&#xD;
+    guid=&quot;_XTWLgN_kEdynr9jlfK-aMA&quot;>Concept: IT Architecture&lt;/a>&amp;nbsp;outlined the concept of &lt;i>viewpoints (views and&#xD;
+    aspects)&lt;/i> that are used to describe the IT architecture of a &quot;system&quot;.&amp;nbsp;A Business Location is one of the&#xD;
+    aspects, or vertical slices through the architecture, that defines and models a view that is useful in understanding&#xD;
+    the enterprise and its operation. Note that &lt;em>location&lt;/em> has a physical connotation, which is used in this view of&#xD;
+    the system, but it is abstracted to the three different levels in the IT architecture, namely &lt;em>business&lt;/em>,&#xD;
+    &lt;em>logical&lt;/em> and &lt;em>technology&lt;/em>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    At the &lt;em>business&lt;/em> level described here, the notion of location is used to identify and describe conceptual&#xD;
+    locations at which the system (or enterprise) has a presence. The Business Locations Model supports this viewpoint by&#xD;
+    describing what business activities are carried on at the defined enterprise locations, and organizes them into a&#xD;
+    simple model. See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/guidelines/uam_business_locations_model_BF632121.html&quot;&#xD;
+    guid=&quot;_LEYwkOSgEdyYxtlRIMoTnw&quot;>Guideline: Business Locations Model&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Locations&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    A&amp;nbsp;&lt;b>location&lt;/b> represents the initial, abstract, somewhat &lt;i>physical&lt;/i> partitioning and distribution of the&#xD;
+    system, and is concerned with the geographic placement of (conceptual level) resources (buildings, points-of-presence,&#xD;
+    and other notions) along with the business activities provided there. A locality expresses notionally where business&#xD;
+    process are supported, thus there is a strong connection between &lt;em>business location&lt;/em> and &lt;em>business&#xD;
+    activity&lt;/em>.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The semantics of locality implies a tighter grouping of&amp;nbsp;activities without defining exact geographic locations, or&#xD;
+    how the activity is to be supported. It is conceivable for very complex, very large systems, that there might&amp;nbsp;be&#xD;
+    locations that decompose to finer-grained localities (just as a system might contain subsystems).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The description of a location includes a general indication of the conceptual&amp;nbsp;&lt;i>type&lt;/i> of&amp;nbsp;location being&#xD;
+    defined (e.g. Headquarters, factory, point-of-presence, etc.) along with the business activities supported&amp;nbsp;at the&#xD;
+    location.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Finally, the communications between locations is also defined ... in this case, at a business level, simple links with&#xD;
+    no technical details are defined with optional definition of processes that traverse these links.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

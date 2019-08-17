@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LHwtLtqTOJv5zK9gKmR0vA" name="uam_getting started,_kRaWsMd1EdyBSO6dC2FdkA" guid="-LHwtLtqTOJv5zK9gKmR0vA" authors="DW Enstrom" changeDate="2018-03-27T09:11:56.853-0400" changeDescription="Revise for UAM" version="2.0.1">
+  <mainDescription>&lt;p style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    The Unified Architecture Method (UAM) is described in this web site and is defined using the Unified Method&#xD;
+    Architecture (UMA) notations and structures. UAM&amp;nbsp;is stand-alone and new material, however some supporting&#xD;
+    material&amp;nbsp;is referenced. The references are typically to useful external concepts, content, and guidance.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A very good source for understanding IT architecture in general and UAM is the book&amp;nbsp;&lt;font size=&quot;2&quot;>&lt;strong>&lt;em>A&#xD;
+    Simplified Approach to IT Architecture with BPMN - A Coherent Methodology for Modeling Every Level of the&#xD;
+    Enterprise&lt;/em>&lt;/strong>.&lt;/font> See the cover below.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Book Cover&quot; src=&quot;./resources/Cover-final-front-square_s.jpg&quot; width=&quot;279&quot; height=&quot;279&quot;&#xD;
+    usemap=&quot;#map1522162574442&quot; />&lt;map id=&quot;map1522162574442&quot; name=&quot;map1522162574442&quot;>&#xD;
+        &lt;area title=&quot;Purchase the book directly from Amazon (new tab)&quot;&#xD;
+        href=&quot;https://www.amazon.ca/Simplified-Approach-Architecture-BPMN/dp/1491784970&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;Purchase the book directly from Amazon (new tab)&quot; target=&quot;_blank&quot; coords=&quot;4,6,274,276&quot; />&#xD;
+    &lt;/map>&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p>&#xD;
+    In a nutshell, the book and UAM, clarifies what IT architecture is, where it fits within the enterprise, how to produce&#xD;
+    valid IT architectures, and how to apply the resulting models to advance the goals of the enterprise. Also, with IT&#xD;
+    security constantly in the news (there seems to be another incident almost every week) IT architectures must include&#xD;
+    this aspect. This book, and the associated UAM Methodology, integrate IT security right into your IT architecture.&#xD;
+    &lt;em>Regardless of the methodology that you use, read this book to understand IT architectures and how to integrate IT&#xD;
+    security into your models!&lt;/em> The book is available for purchase directly from &lt;strong>&lt;a&#xD;
+    title=&quot;Purchase from Amazon (new tab)&quot;&#xD;
+    href=&quot;http://www.amazon.com/Simplified-Approach-Architecture-Bpmn-Methodology/dp/1491784970?ie=UTF8&amp;amp;*Version*=1&amp;amp;*entries*=0&quot;&#xD;
+     target=&quot;_blank&quot;>&lt;u>&lt;font color=&quot;#0066CC&quot;>Amazon&lt;/font>&lt;/u>&lt;/a>&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The pages referenced above are good starting points for understanding UAM. They are summarized as follows:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>IT Architecture&amp;nbsp;&lt;/strong>-&amp;nbsp;definitions of IT architecture, engineering, form, and function;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>UAM Overview&lt;/strong> - a quick overview of UAM and some of its base concepts and constructs;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Key IT Architecture Principles&lt;/strong> - are best practices in understanding and using&amp;nbsp;UAM&#xD;
+        for&amp;nbsp;creating and documenting IT architectures;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Governance&lt;/strong> - managing the UAM and its deliverables is vital to making the IT architecture&#xD;
+        successful;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Method Architecture Fundamentals&amp;nbsp;&lt;/strong>- UMA is the construct used to define the UAM processes and&#xD;
+        deliverables. This overview of UMA defines the concepts, notations,&amp;nbsp;and terminology used for representing&#xD;
+        methods, method content, processes and deliverables, which makes learning the UAM much easier.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

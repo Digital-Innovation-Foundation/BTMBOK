@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-sbgEqOKZxzgMAtiG95ZutQ" name="uam_logical_location,_mIiNkOxaEdytvcf-4U2D3Q" guid="-sbgEqOKZxzgMAtiG95ZutQ" authors="DW Enstrom" changeDate="2014-07-16T12:50:12.876-0400" version="1.0.0">
+  <mainDescription>&lt;h3>&#xD;
+    Introduction&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    In &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/concepts/uam_it_architecture_193573CD.html&quot;&#xD;
+    guid=&quot;_XTWLgN_kEdynr9jlfK-aMA&quot;>Concept: IT Architecture&lt;/a>&amp;nbsp;we&amp;nbsp;find the idea of &lt;i>viewpoints (views and&#xD;
+    aspects)&lt;/i> from which a &quot;system&quot; can be modeled. A Logical Location is one of the aspects, or vertical slices through&#xD;
+    the system, that defines and models a perspective that is useful in understanding the system and its operation. Note&#xD;
+    that &lt;em>location&lt;/em> has a physical connotation, which is used in this view of the system, but it is abstracted to&#xD;
+    the three different levels of the architecture, namely &lt;em>Business (conceptual)&lt;/em>, &lt;em>Logical (logical)&lt;/em> and&#xD;
+    &lt;em>Technology (physical)&lt;/em>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    At the &lt;em>Logical&lt;/em> level described here, the notion of location is used to identify and describe the classes of&#xD;
+    location at which the system under study has a presence. The Logical Locations Model supports this viewpoint by&#xD;
+    describing the locations along with what activities are carried on at the defined locations, and organizes them into a&#xD;
+    simple model. See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/guidelines/uam_logical_locations_model_C5E9456.html&quot;&#xD;
+    guid=&quot;_Fb2ngOSwEdyYxtlRIMoTnw&quot;>Guideline: Logical Locations Model&lt;/a>.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Locations&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    A&amp;nbsp;&lt;b>location&lt;/b> represents the initial, abstract, somewhat &lt;i>physical&lt;/i> partitioning and distribution of the&#xD;
+    system, and is concerned with the geographic placement of (logical level) resources (buildings, points-of-presence, and&#xD;
+    other notions) along with the activities provided there. A locality expresses notionally where business process are&#xD;
+    supported, thus there is a strong connection between &lt;em>logical location&lt;/em> and &lt;em>logical activity&lt;/em>, which&#xD;
+    includes the connectivity (communications) between locations.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The semantics of locality implies a tighter grouping of&amp;nbsp;activities without defining exact geographic locations, or&#xD;
+    how the activity is to be supported. It is conceivable for very complex, very large systems (i.e., enterprises), that&#xD;
+    there might&amp;nbsp;be locations that decompose to finer-grained localities (just as a system might contain subsystems).&#xD;
+    The description of a location includes a general indication of the&amp;nbsp;&lt;i>type&lt;/i> of&amp;nbsp;location being defined&#xD;
+    (e.g., Headquarters, factory, point-of-presence, etc.) along with the business activities supported&amp;nbsp;at the&#xD;
+    location. Finally, the communications between locations is also defined, in this case at a logical level (simple links&#xD;
+    with generic details defined such as protocols, generic technologies, etc.), with optional definition of processes that&#xD;
+    traverse these links. Non-functional aspects should be captured as well, such as latencies, transactions volumes and&#xD;
+    frequencies, data rates, etc.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Logical Locations Model captures this aspect of the system through a great many modeling elements. These elements&#xD;
+    start with high-level logical concepts, such as a building or more generic type of locations, but much more&#xD;
+    detail&amp;nbsp;may then be added in order to describe the network, the communications and other &quot;locations&quot; aspects. For a&#xD;
+    description of the locations aspect modeling elements see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/supportingmaterials/uam_lpl_simple_AB1449E6.html&quot;&#xD;
+    guid=&quot;_uOZlsEWJEeOfR_FtRm9PUg&quot;>Supporting Material: LPL Summary&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

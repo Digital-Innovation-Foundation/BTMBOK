@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-355gw3Cs_QMsbnU1NYZcxQ" name="uam_define_logical_processes,_ZnzBINQBEdyTfZVjf0InKw" guid="-355gw3Cs_QMsbnU1NYZcxQ" authors="DW Enstrom" changeDate="2015-02-23T14:19:12.375-0500" changeDescription="UAM update." version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    This task defines, at the logical level, the processes involved in the architecture in question. Also, and very&#xD;
+    important, is the definition of standard business vocabulary that is used to describe and discuss the business and the&#xD;
+    solution. Also added at the logical level are the roles associated with the activities and tasks that define the&#xD;
+    processes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Business Process Model is used along with input from stakeholders to define and refine the Logical Process Model.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_Z8p0kNwJEdy9s_D5ysfZfg" name="Define logical processes and tasks" guid="_Z8p0kNwJEdy9s_D5ysfZfg">
+    <sectionDescription>&lt;p>&#xD;
+    The &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/workproducts/uam_business_process_model_6C759973.html&quot;&#xD;
+    guid=&quot;_aIO8AMOrEdyILM4NThxMFg&quot;>Artifact: Business Process Model&lt;/a>&amp;nbsp;conceptually defines the processes within the&#xD;
+    system and the contained tasks and activities. Now this conceptual view is further analyzed and a logical view created.&#xD;
+    We are creating a model&amp;nbsp;at the&amp;nbsp;logical level (see:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/concepts/uam_levels_and_views_499BC4B8.html&quot; guid=&quot;_W4UEAMqpEdy25fQyv59CjQ&quot;>Concept:&#xD;
+    Architecture Perspectives and Viewpoints&lt;/a>) with a focus on the &lt;em>tasks&lt;/em> and &lt;em>activities&lt;/em> and how&#xD;
+    they&amp;nbsp;define the business processes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Processes are driven by events that the system must deal with. Look at these events and the processes that they&#xD;
+    trigger. Identify the activities and processes and their sequence as the event is responded to, and model the&#xD;
+    interactions between them and their inputs and outputs (in terms of&amp;nbsp;logical entities).&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_WFPvsN4uEdyg17nU3bVmlA" name="Describe the logical organization of the processes" guid="_WFPvsN4uEdyg17nU3bVmlA">
+    <sectionDescription>&lt;p>&#xD;
+    The term organization in this context has nothing to do with the management structure of the system or enterprise. It&#xD;
+    is the organization of the identified tasks and processes based upon cohesiveness and other grouping criteria. It is&#xD;
+    expected for example that HR or Financial activities and processes would have high-coupling, and are therefore grouped&#xD;
+    under their respective domains or sub-domains. In effect what we are doing is double checking the business level model&#xD;
+    of the system's processes and activities, since the organization at the logical level should be directly reflected in&#xD;
+    the structure at the business level.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Other structures may be discovered, for example when the high-level business activities are decomposed into more&#xD;
+    detail, there may be sub-processes (or tasks) that are closely related.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_IWXvcN4vEdyg17nU3bVmlA" name="Check for reuse" guid="_IWXvcN4vEdyg17nU3bVmlA">
+    <sectionDescription>Many business level activities, when decomposed into more detailed logical level activities, may have activities in common,&#xD;
+or even sub-processes in common. It may not be obvious, due to the vagarities of names and descriptions, therefore it is&#xD;
+useful to have a look at the completed model from this perspective. Focusing on input and output artifacts is a useful&#xD;
+approach.</sectionDescription>
+  </sections>
+  <sections xmi:id="_1nPhYN4vEdyg17nU3bVmlA" name="Look for location dependencies" guid="_1nPhYN4vEdyg17nU3bVmlA">
+    <sectionDescription>As an aid in the development of the Logical Locations Model, look for location dependencies within the tasks and processes.&#xD;
+An &quot;ATM&quot; service for example needs to be deployed to a location of use to the customer. Define these locations and the&#xD;
+activities supported at them. Consulting the Locations model is also useful in that processes may span locations, which&#xD;
+needs to be understood if they are to be properly supported and function correctly.</sectionDescription>
+  </sections>
+  <sections xmi:id="_4vqcUN5aEdyg17nU3bVmlA" name="Evaluate your results" guid="_4vqcUN5aEdyg17nU3bVmlA">
+    <sectionDescription>&lt;p>&#xD;
+    Validate the interactions between activities, and the inputs and outputs of the activities (in terms of&amp;nbsp;logical&#xD;
+    entities), to ensure consistency with the Logical Data Model and Logical Roles Model. Process walk-throughs are a very&#xD;
+    good way to do this.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    This task finds and defines the activities (namely processes and tasks) involved in the architecture in question.&#xD;
+    Specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define or refine the logical level activities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define or refine the logical level processes; the relationships that need to be supported between tasks;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally define or refine the important logical level&amp;nbsp;entities involved with the tasks and processes.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_NqSB0KeqEdmKDbQuyzCoqQ" name="build,_0YuXEMlgEdmt3adZL5Dmdw" guid="_NqSB0KeqEdmKDbQuyzCoqQ" changeDate="2007-01-30T15:24:06.639-0500">
+  <mainDescription>&lt;p>&#xD;
+    This working version of the system is the result of putting the implementation of the system through a build process&#xD;
+    (typically an automated build script) that creates an executable version of the system, or one that runs. This&#xD;
+    executable version of the system will typically have a number of supporting files that are also considered part of this&#xD;
+    composite artifact.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+&#xD;
+    In an iterative lifecycle, each build must evolve from the previous iteration's build, adding more functionality and&#xD;
+&#xD;
+    improving quality.&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    The purpose of early builds that minimize or eliminate a risk or verify architectural decisions is to achieve&#xD;
+&#xD;
+    consistently stable builds in later iterations.&#xD;
+&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>Deliver incremental value to the user and customer, and provide a testable artifact for verification.</purpose>
+  <reasonsForNotNeeding>&lt;p>&#xD;
+&#xD;
+    There will always need to be an&amp;nbsp;operational version of the system.&#xD;
+&#xD;
+&lt;/p></reasonsForNotNeeding>
+  <representationOptions>&lt;p>&#xD;
+&#xD;
+    This work product is&amp;nbsp;almost always a composite product made up of numerous parts required to make the executable&#xD;
+&#xD;
+    system. Therefore a build is more than just executable files; it additionally includes such things as configuration&#xD;
+&#xD;
+    files, help files, and data repositories that will be put together resulting in the product that will be run by the&#xD;
+&#xD;
+    users. The specifics of those parts will vary by technology in use.&#xD;
+&#xD;
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

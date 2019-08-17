@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uganSHzXBMbW2Ur1iFtlGw" name="uam_ea_bpl_cm,_z5CBYMMgEeKSedlRPHdUIQ" guid="-uganSHzXBMbW2Ur1iFtlGw" changeDate="2015-02-07T13:59:33.684-0500" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    The Corporate Services activity (business domain) includes HR, financial services and IT provisioning, operations and&#xD;
+    support for ThuNorTech. Corporate management includes the CIO, CFO, HR and other enterprise level bodies and associated&#xD;
+    activities required to keep the enterprise functioning at a high level of proficiency. Long term strategies and&#xD;
+    business development are left to Business Development and Executive Management.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h5>&#xD;
+    Inputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Too many to list in this example.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Outputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Too many to list in this example.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ufwmus-G4LRePD7GB-Qosg" name="uam_bl_tpm,_9uBh5sJiEeKSedlRPHdUIQ" guid="-ufwmus-G4LRePD7GB-Qosg" changeDate="2014-04-01T14:51:49.622-0400" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;Distribute Research BD Process model top level&quot; src=&quot;./resources/BD-Technical-IT-Research.png&quot;&#xD;
+    usemap=&quot;#map1393254031914&quot; />&lt;map id=&quot;map1393254031914&quot; name=&quot;map1393254031914&quot;>&#xD;
+        &lt;area title=&quot;Access Information&quot; href=&quot;./../../UAM/customcategories/eg_bd_tpl_access-info_8321037D.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Access Information&quot; coords=&quot;200,75,265,119&quot; guid=&quot;_Z4lCULT2EeOxHfidXKfEcg&quot; />&#xD;
+        &lt;area title=&quot;Distribute Reports&quot; href=&quot;./../../UAM/customcategories/eg_bd_tpl_dist-reports_BAEB1831.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Distribute Reports&quot; coords=&quot;201,130,264,174&quot; guid=&quot;_a2cYwLT2EeOxHfidXKfEcg&quot; />&#xD;
+    &lt;/map>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot; src=&quot;./resources/Drill%20Down-33.jpg&quot;&#xD;
+    width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This diagram is the root of the Logical Process Model at the BD level for the &quot;IT Research - Distribute&#xD;
+    Research&quot;&amp;nbsp;portion of the ThuNorTech core business. As noted on the view above, Distribute Research includes the&#xD;
+    &quot;Access Information&quot; activities and the &quot;Distribute Reports&quot; activities.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

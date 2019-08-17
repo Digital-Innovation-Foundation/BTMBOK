@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N7nD6a_EIsWhRrMFa88T2g" name="define_general_deployment_model,_NVWRcEkUEeKu7-3cM-oErg" guid="-N7nD6a_EIsWhRrMFa88T2g" changeDate="2013-08-19T07:37:39.356-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Define General Deployment Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The cloud models and deployment architecture is defined as a session. The product owner and some representatives from&#xD;
+    the scrum teams participated in the session.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

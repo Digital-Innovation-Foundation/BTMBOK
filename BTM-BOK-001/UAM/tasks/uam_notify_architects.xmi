@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dUJZVNrtju7y7DvO8aWRmw" name="uam_notify_architects,_dMGc4MUwEdyVgeP6fyp1bg" guid="-dUJZVNrtju7y7DvO8aWRmw" authors="DW Enstrom" changeDate="2014-10-27T11:39:07.769-0400" version="2.0.0">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p>&#xD;
+    The purpose of this activity is to publish an Architecture Decision (AD), specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Move the &lt;em>&lt;strong>approved&lt;/strong>&lt;/em> or &lt;em>&lt;strong>rejected&lt;/strong>&lt;/em> ADs to a searchable repository;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Notify architects, managers, designers and implementors of the new decision.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    A searchable repository, open to all in the enterprise, will make it easy to find decisions of interest, and to&#xD;
+    validate plans against enterprise (or business line, business domain or project)&amp;nbsp;standards and decisions. Having a&#xD;
+    notification mechanism aids in communications and compliance.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_z4NzAMUxEdyVgeP6fyp1bg" name="Publish the Architectural Decision" guid="_z4NzAMUxEdyVgeP6fyp1bg">
+    <sectionDescription>The approved or rejected architectural decision is moved to a searchable repository, such as a web page or a records&#xD;
+management repository. The repository should be searchable and open to all in the enterprise to ensure that they properly&#xD;
+communicated.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Ej5GIMUyEdyVgeP6fyp1bg" name="Notify All Architects" guid="_Ej5GIMUyEdyVgeP6fyp1bg">
+    <sectionDescription>All architects, and other interested parties such as project managers and other managers or notified of the new decision.</sectionDescription>
+  </sections>
+  <purpose>This task publishes Architectural Decisions (AD) and notifies all architects and other stakeholders. Documenting important&#xD;
+architectural decisions and providing a searchable repository of decisions will help guide other architects, managers and&#xD;
+implementors in being compliant with enterprise and business domain standards and solutions. They also provide a source of&#xD;
+information for re-visiting decisions over time.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

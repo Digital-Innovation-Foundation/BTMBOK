@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0t8DY7r_w1S0ZHEzpVZ3mg" name="validation_and_verification_infrastructure,_FxNEX15BEeKVU8eUCvi3Og" guid="-0t8DY7r_w1S0ZHEzpVZ3mg" changeDate="2013-08-23T04:09:01.989-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Validation and Verification Infrastructure&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It defines the computing elements to be used during the validation and verification activities&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

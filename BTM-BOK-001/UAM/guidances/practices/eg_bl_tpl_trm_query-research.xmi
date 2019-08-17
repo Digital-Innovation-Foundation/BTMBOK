@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gVBgCD27nkfKSol0Nn-iNQ" name="eg_bl_tpl_trm_query-research,_3cUuMK7OEeOfb9LJ2eX1Vg" guid="-gVBgCD27nkfKSol0Nn-iNQ" changeDate="2015-02-07T13:57:52.284-0500" version="7.5.1">
+  <problem>&lt;br />&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Query Research Reports Process with Roles in context&quot; src=&quot;./resources/BL-Technical-TRM-Query-Reports.png&quot; />&#xD;
+&lt;/p>&lt;br />&#xD;
+IT Research BL Query of Research Reports by select Customers and ThuNorTech researchers to provide information in support&#xD;
+of their Information Needs and ad-hoc interests.</problem>
+  <goals>&lt;h3>&#xD;
+    Customer Research&amp;nbsp;Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Query Research Reports&amp;nbsp;adhoc subprocess&amp;nbsp;allows the Customer Researcher to query Research Reports, get the&#xD;
+    results and review the returned reports. They may then do additional queries for&amp;nbsp;reports until completed. Customer&#xD;
+    Researchers have, through this role, a limited access to Research Reports.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    This role interacts with the Query Research Reports ad-hoc activity: Query Reports and Review Reports.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Research&amp;nbsp;Writer Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Query Research Reports&amp;nbsp;adhoc subprocess&amp;nbsp;allows the Research Writer to query Research Reports, get the&#xD;
+    results and review the returned reports. They may then do additional queries for&amp;nbsp;reports until completed.&amp;nbsp;&#xD;
+    Research Writers have, through this role,&amp;nbsp;full access to Research Reports.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    This role interacts with the Query Research Reports ad-hoc activity: Query Reports and Review Reports.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

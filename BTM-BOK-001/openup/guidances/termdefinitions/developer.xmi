@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-802sCZ4lJcejyRbhLmkxkw" name=",_-61a8EvOEdunZcj9T5hrMQ" guid="-802sCZ4lJcejyRbhLmkxkw" changeDate="2007-04-16T15:00:42.849-0400" version="1.0.0">
+  <mainDescription>Role representing someone&amp;nbsp;responsible for developing a part of the system, including designing it to fit into the&#xD;
+architecture, and then implementing, unit-testing, and integrating the components that are part of the solution.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

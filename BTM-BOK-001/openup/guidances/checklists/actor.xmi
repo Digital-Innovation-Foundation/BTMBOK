@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_KEldgMM1EdmSIPI87WLu3g" name="actor,_0VrDEMlgEdmt3adZL5Dmdw" guid="_KEldgMM1EdmSIPI87WLu3g" changeDate="2005-07-07T16:18:05.934-0400">
+  <sections xmi:id="_ytiigAYQEdubLa3RRn5f4A" name="Have you found all the actors" guid="_ytiigAYQEdubLa3RRn5f4A">
+    <sectionDescription>Have you accounted for all roles in the systems environment?&amp;nbsp; See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../openup/guidances/guidelines/find_and_outline_actors_and_ucs_BB5516A9.html&quot; guid=&quot;_eyL0wCu-EdqSxKAVa9kmvA&quot;>Guideline: Find and Outline Actors and Use Cases&lt;/a>&amp;nbsp;for some questions that may help&#xD;
+identify actors.</sectionDescription>
+  </sections>
+  <sections xmi:id="_AcjQMAYREdubLa3RRn5f4A" name="Is each actor involved with at least one use case" guid="_AcjQMAYREdubLa3RRn5f4A">
+    <sectionDescription>If you cannot identify a use case associated with a given actor perhaps the actor should be removed, or perhaps you are&#xD;
+missing a use case.</sectionDescription>
+  </sections>
+  <sections xmi:id="_P3mo8AYREdubLa3RRn5f4A" name="Can you identify at least two people, or external systems, that would play the role of a particular actor" guid="_P3mo8AYREdubLa3RRn5f4A">
+    <sectionDescription>If you cannot, check if the role that the actor represents is part of another actor.&amp;nbsp; If that is the case, you should&#xD;
+merge the actors.</sectionDescription>
+  </sections>
+  <sections xmi:id="_b640oAYREdubLa3RRn5f4A" name="Will a particular actor use the system in several completely different ways" guid="_b640oAYREdubLa3RRn5f4A">
+    <sectionDescription>&lt;p>&#xD;
+    If true, you should probably have more than one actor.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_iOHtQAYREdubLa3RRn5f4A" name="Does the actor have several completely different purposes for using the system" guid="_iOHtQAYREdubLa3RRn5f4A">
+    <sectionDescription>If true, there may be more than one actor.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ptfB0AYREdubLa3RRn5f4A" name="Have you considered maintenance and administrative roles" guid="_ptfB0AYREdubLa3RRn5f4A">
+    <sectionDescription>It is common to focus on the daily users of the system, and forget about administrative and maintenance roles such as&#xD;
+setting up user accounts, managing access rights, performing backups, etc.&amp;nbsp; Ensure you have captured these actors.</sectionDescription>
+  </sections>
+  <sections xmi:id="_2i_UoAYREdubLa3RRn5f4A" name="Does each actor have a clear description of its role" guid="_2i_UoAYREdubLa3RRn5f4A">
+    <sectionDescription>Each actor should have a short description of the role and the main goal the actor has in using the system.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

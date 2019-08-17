@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IkQgaEVsFq-xbZqTZZb1Gw" name=",_nzyf4NTREeK_xckCJAmBKQ" guid="-IkQgaEVsFq-xbZqTZZb1Gw">
+  <sections xmi:id="_92ePwNTYEeK_xckCJAmBKQ" name="Identify business or mission goals" guid="_92ePwNTYEeK_xckCJAmBKQ"/>
+  <sections xmi:id="_Dc7h8NTZEeK_xckCJAmBKQ" name="Identify key business processes or mission threads that support these goals" guid="_Dc7h8NTZEeK_xckCJAmBKQ"/>
+  <sections xmi:id="_FM6R0NTZEeK_xckCJAmBKQ" name="Identify common steps or tasks in these processes or threads" guid="_FM6R0NTZEeK_xckCJAmBKQ"/>
+  <sections xmi:id="_Gt6KgNTZEeK_xckCJAmBKQ" name="Identify functionality from the legacy system to support these steps/tasks" guid="_Gt6KgNTZEeK_xckCJAmBKQ"/>
+  <sections xmi:id="_H6B_YNTZEeK_xckCJAmBKQ" name="Negotiate to select a number of the steps as candidate services" guid="_H6B_YNTZEeK_xckCJAmBKQ"/>
+</org.eclipse.epf.uma:TaskDescription>

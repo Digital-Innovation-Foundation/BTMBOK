@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-dSsSFqCPkKtkJ-5Sz0QIwA" name="uam_multitier,_U75A8EGqEeOfR_FtRm9PUg" guid="-dSsSFqCPkKtkJ-5Sz0QIwA" changeDate="2015-11-08T15:42:05.358-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    Multitier architecture (often referred to as n-tier architecture) is a client–server architecture in which&#xD;
+    presentation, application processing, and data management functions are logically separated (&lt;a&#xD;
+    href=&quot;http://en.wikipedia.org/wiki/Multitier_architecture&quot; target=&quot;_blank&quot;>Wikipedia 2013&lt;/a>).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Also see: &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/customcategories/uam_arch_patterns_4A176C92.html&quot;&#xD;
+    guid=&quot;_scgugKpBEeSFIOC-Wm7nrA&quot;>Architectural Patterns&lt;/a>.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

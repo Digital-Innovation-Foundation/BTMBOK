@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-63hEgTUmqxbBXtjdWX8w0A" name="uam_define_simple_models,_hxcK4MrDEdy25fQyv59CjQ" guid="-63hEgTUmqxbBXtjdWX8w0A" changeDate="2014-11-05T12:39:15.292-0500" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    This simplified approach to producing an architecture does not come without a cost. Important analysis is not done, and&#xD;
+    therefore detail will be missing or aspects not examined properly.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This approach is faster because it leverages existing information such as:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Documentation on existing systems;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Documentation on existing architectures;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Documented and relevant architectural decisions;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Enterprise or industry architectural patterns.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    This approach simplifies the documentation required for the architecture, namely fewer models and simpler models. The&#xD;
+    &quot;simple&quot; IT architecture is typically focused on one or two aspects; &lt;em>Location&lt;/em> for example, to re-architect the&#xD;
+    IP network.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;em>&lt;strong>Note&lt;/strong>&lt;/em>: Simple models are only defined at the Logical or Technical level since existing&#xD;
+    documentation may not include the business level, and the focus is at the Logical or Technical levels due to the&#xD;
+    urgency and time constraints placed on the project.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>This approach should only be followed if there is real urgency, since many valuable steps are skipped or analysis is&#xD;
+limited&amp;nbsp;and therefore detail will be missing from the final result. It's a question of balancing the risk of not&#xD;
+completing the architecture in time versus leaving out important analysis that may come back to cause problems down the&#xD;
+road.</keyConsiderations>
+  <sections xmi:id="_4SZjAMtKEdy25fQyv59CjQ" name="Gather and analyse existing documention " guid="_4SZjAMtKEdy25fQyv59CjQ">
+    <sectionDescription>&lt;p>&#xD;
+    The context for this&amp;nbsp;task is defined by the Business Scope, existing architectures or system&#xD;
+    descriptions,&amp;nbsp;and the Architectural Decisions Summary just produced. This is the set of existing information that&#xD;
+    now needs to be analyzed in detail and leveraged to produce the required architecture. The output from the analysis&#xD;
+    will be a set of architectural components to be used in the new architecture,&amp;nbsp;which can then be organized into a&#xD;
+    consistent and well-structured IT architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The&amp;nbsp;architectural components are extracted&amp;nbsp;from existing documentation including existing IT&#xD;
+    architectures.&amp;nbsp;&#xD;
+&lt;/p>Typically the Business level is omitted since these IT architectures are often focused at the Logical level or even&#xD;
+only at&amp;nbsp;the Technical level. The down-side is that this will severely limit traceability of the architecture back to&#xD;
+business requirements.&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_GqlXQMtQEdy25fQyv59CjQ" name="Structure components" guid="_GqlXQMtQEdy25fQyv59CjQ">
+    <sectionDescription>&lt;p>&#xD;
+    The set of architectural components to be used are now structured in terms of interdependencies and interactions,&#xD;
+    completing the summary of the architecture. This structuring also needs to comply with the architectural pattern(s)&#xD;
+    chosen as applicable.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The end result is then analyzed to ensure that it is complete and consistent.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Corrections are made for consistency problems, then any gaps in the architecture are identified.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Missing components are&amp;nbsp;defined and placed into the proper context and relationships within the model.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>Many times there is pressure to quickly advance a new or revised architecture, for business reasons or due to external&#xD;
+environmental pressures. This task defines a way to accomplish this, mainly by leveraging existing work and simplifying the&#xD;
+output.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

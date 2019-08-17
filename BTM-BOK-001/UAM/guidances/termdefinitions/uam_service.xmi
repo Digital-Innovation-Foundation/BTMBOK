@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-C3ebgADTG0S05DFE3n8K1g" name="uam_service,_xN8HcMJMEeKSedlRPHdUIQ" guid="-C3ebgADTG0S05DFE3n8K1g" changeDate="2013-05-21T15:29:52.480-0400" version="7.5.1">
+  <mainDescription>A set of related software or hardware functions that supply a value added capability to a system and that can be reused for&#xD;
+different purposes, together with the policies that should control its usage. Also see &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_service_953F1F11.html&quot; guid=&quot;_RheooMI_EeKSedlRPHdUIQ&quot;>Business&#xD;
+Service&lt;/a>&lt;/em>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

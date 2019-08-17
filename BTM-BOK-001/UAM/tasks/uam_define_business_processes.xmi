@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BMlzmXoijCNh3w0qpKBXVA" name="uam_define_business_processes,_aHihwMRWEdy5rfgJUcfXdA" guid="-BMlzmXoijCNh3w0qpKBXVA" authors="DW Enstrom" changeDate="2014-10-21T14:26:47.519-0400" changeDescription="Change 'function' to 'activity' to synch to BPMN notation." version="2.0.1">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot;>This task defines, at the business level, the business&amp;nbsp;processes involved in the architecture in&#xD;
+    question. Also, and very important, is the definition of standard business vocabulary that is used to describe and&#xD;
+    discuss the business activities and processes.&lt;/font>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot;>To find candidate business processes examine business descriptions and other sources of business process&#xD;
+    information.&lt;/font>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>The business processes identified during this task are high-level, but their definition must be precise, and agreed by&#xD;
+stakeholders.</keyConsiderations>
+  <sections xmi:id="_B9jGIMRaEdy5rfgJUcfXdA" name="Identify activities from the business descriptions and scenarios" guid="_B9jGIMRaEdy5rfgJUcfXdA">
+    <sectionDescription>&lt;p>&#xD;
+    Typically this is done by detailing business scenarios. Within UAM &quot;use-cases&quot; are not recommended nor used since they&#xD;
+    are greatly misunderstood and often abused. Just define scenarios, with the help of business experts, refine them and&#xD;
+    combine them as required. Start with a wide general view of the system and added detail as the models are developed.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Not that only external actors are defined at this point. The analysis (and architectural decisions) required to specify&#xD;
+    &quot;roles&quot; are left until the Logical level of analysis.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Optionally, during the definition of business processes various business entities, business rules and business events&#xD;
+    may be identified. This should not be onerous ... simply identify the main elements that are important to the business.&#xD;
+    Greater definition of these elements is again left until the Logical level analysis.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_ABPfkMRcEdy5rfgJUcfXdA" name="Refine activity and process specifications  " guid="_ABPfkMRcEdy5rfgJUcfXdA">
+    <sectionDescription>&lt;p>&#xD;
+    Sometimes simple process definitions are not enough to capture the activities with the system. In this case&amp;nbsp;a&#xD;
+    number of&amp;nbsp;interacting process may be defined. Within BPMN these are defines as &quot;conversations&quot; ... but UAM&#xD;
+    simplifies this type of complex interaction to be a set of interactive processes. We are defining IT architectures,&#xD;
+    therefore the level of detail (and therefore the number of design-level decisions) is reduced to a manageable level.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ensure that the interactions with the &quot;system&quot; are complete and that they are organized in such a way as to make the&#xD;
+    understandable and manageable.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_w0hy4MRdEdy5rfgJUcfXdA" name="Evaluate your results" guid="_w0hy4MRdEdy5rfgJUcfXdA">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    The&amp;nbsp;Business Process Model is complete only when it describes everything the business performs (within the given&#xD;
+    scope). Ensure that&amp;nbsp;the Business Process Model exhibits the characteristic properties of a good model diagram,&#xD;
+    see: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/guidelines/uam_business_process_model_D051CAFD.html&quot;&#xD;
+    guid=&quot;_HHxlUOSFEdy7f9KmjDtwsA&quot;>Guideline: Business Process Model&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Evaluate each workflow by&amp;nbsp;doing a walkthrough. This&amp;nbsp;is where&amp;nbsp;the person responsible for the business&#xD;
+    process (business expert) leads one or two members of the team through the business workflow. It is recommended to use&#xD;
+    a specific scenario ... or a few, to ensure coverage.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p style=&quot;MARGIN: 0in 0in 6pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+    This task finds and defines the business processes involved in the system, specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the business activities and tasks;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the external Actors&amp;nbsp;involved with the system;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the business processes; the relationships that need to be supported between business&#xD;
+            activities and tasks;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Optionally, define or refine the business entities involved with the activities, tasks and processes.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

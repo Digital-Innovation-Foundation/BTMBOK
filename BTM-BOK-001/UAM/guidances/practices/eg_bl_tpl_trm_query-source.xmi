@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f6TFyz2BUqU1t6Tiz6XjHw" name="eg_bl_tpl_trm_query-source,_yfUosK7OEeOfb9LJ2eX1Vg" guid="-f6TFyz2BUqU1t6Tiz6XjHw" changeDate="2015-02-07T13:58:10.358-0500" version="7.5.1">
+  <problem>&lt;br />&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Query Source Information Process with Roles in context&quot;&#xD;
+    src=&quot;./resources/BL-Technical-TRM-Query-Source.png&quot; />&#xD;
+&lt;/p>&lt;br />&#xD;
+IT Research BL Query of Source Information by select Customers and ThuNorTech researchers to provide information in support&#xD;
+of their Information Needs and ad-hoc interests.</problem>
+  <goals>&lt;h3>&#xD;
+    Customer Research&amp;nbsp;Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Query&amp;nbsp;Source Information&amp;nbsp;adhoc subprocess&amp;nbsp;allows the Customer Researcher to query Source&#xD;
+    Information, get the results and review the returned information. They may then do additional queries until completed.&#xD;
+    Customer Researchers have, through this role, a limited access to Source Information.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    This role interacts with the Query Source Information ad-hoc activity: Query Source and Review Source.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Research&amp;nbsp;Writer Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Query Source Information adhoc subprocess&amp;nbsp;allows the Research Writer to query Source Information, get the&#xD;
+    results and review the returned information. They may then do additional queries until completed. Research Writers&#xD;
+    have, through this role, full access to Source Information.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    This role interacts with the Query Source Information ad-hoc activity: Query Source and Review Source.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

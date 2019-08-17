@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-p0GGwGNG5O8Dn6O6ZzivIw" name="report_acceptance_test_result,{52D6E875-C46B-454B-A39C-CEC21603AF5C}" guid="-p0GGwGNG5O8Dn6O6ZzivIw" version="1.0.0">
+  <sections xmi:id="_oH6dkGE-EdqnIZeW8YpHcA" name=" General " guid="_oH6dkGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Prep&quot; name=&quot;Prep&quot;>&lt;/a> 
+&lt;p>
+    This activity communicates to the whole team the progress they have made. As this is a major factor in motivation, XP
+    teams very often use big, visible charts to show their progress. These charts are very often placed in the open
+    workspace and visible to anyone who enters the team area.
+&lt;/p>
+&lt;p>
+    A suitable chart would track the number of customer tests defined and running by iteration. The vertical axis is the
+    number of tests; the horizontal axis is the iteration number.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_report_customer_test_result__activity_definition&quot; name=&quot;XE_report_customer_test_result__activity_definition&quot;>&lt;/a>&#xD;
+&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Provide the team with a clear understanding of progress.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

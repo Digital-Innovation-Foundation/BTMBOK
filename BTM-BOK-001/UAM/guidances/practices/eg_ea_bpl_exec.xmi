@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cvr5ZfBJO69ETdEQocg2ZA" name="uam_ea_bpl_bod,_8yPdwMMgEeKSedlRPHdUIQ" guid="-cvr5ZfBJO69ETdEQocg2ZA" changeDate="2015-02-07T14:01:54.560-0500" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    The Enterprise Management business activity (business domain) includes the board of directors, CIO, CFO, and other&#xD;
+    management processes and activities within ThuNorTech. The board of directors and other bodies and associated processes&#xD;
+    and activities involved in running the enterprise.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h5>&#xD;
+    Inputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Too many to list in this example.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Outputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Too many to list in this example.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

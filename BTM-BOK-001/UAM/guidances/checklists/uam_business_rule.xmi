@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NGA23ApGtbHd2sLobiYHuA" name="uam_business_rule,_zIv30FIWEeOcVJX_gvTjyg" guid="-NGA23ApGtbHd2sLobiYHuA" version="7.5.1">
+  <mainDescription>At the Business level, rules are kept simple and described in natural language based upon input from business experts. No&#xD;
+structure&amp;nbsp;is defined, this is left until the Logical level. The objective is to make this model easily consumable by&#xD;
+business people, with the goal to ensuring that this level is understood and agreed to by all stakeholders.</mainDescription>
+  <sections xmi:id="_7btcQGXmEeSFL7Sh0MlmKA" name="Clear name and description" guid="_7btcQGXmEeSFL7Sh0MlmKA">
+    <sectionDescription>Ensure that the name for the rule conveys its meaning and that the description supports this meaning. Business experts and&#xD;
+stakeholders are key to ensuring that this is the case.</sectionDescription>
+  </sections>
+  <sections xmi:id="_H74YQGXnEeSFL7Sh0MlmKA" name="Rule ownership is defined" guid="_H74YQGXnEeSFL7Sh0MlmKA">
+    <sectionDescription>In this age of totally interconnected systems it is imperative that the owners of rules are identified since they must be&#xD;
+involved in making decisions regarding their meaning and usage, along with who is the authority for updates.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Om1-8GXoEeSFL7Sh0MlmKA" name="Usage is described" guid="_Om1-8GXoEeSFL7Sh0MlmKA">
+    <sectionDescription>Ensure that the usage of the rule is defined and if possible where it is used (i.e. the process and activities).</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

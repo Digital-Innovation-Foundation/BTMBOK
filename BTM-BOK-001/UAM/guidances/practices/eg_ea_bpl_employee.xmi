@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-ZvpwSrPGO0XbVvWXqb1JDQ" name="new_bpl_entity,_h72LcMMSEeKSedlRPHdUIQ" guid="-ZvpwSrPGO0XbVvWXqb1JDQ" changeDate="2013-05-22T15:51:32.301-0400">
+  <problem>Employees of ThuNorTech produce Research Papers from raw and open source information largely gathered from the Internet and&#xD;
+other similar sources and sent to ThuNorTech through various methods.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

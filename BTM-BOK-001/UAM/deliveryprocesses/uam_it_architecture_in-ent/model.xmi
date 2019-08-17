@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_YOJiUKfREeS8vLSVufajPQ" guid="_YOJiUKfREeS8vLSVufajPQ">
+    <resourceDescriptors xmi:id="_YOJiUafREeS8vLSVufajPQ" id="-An7GwUvEdxXgDf5obDFYtg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_vhx7gK8REeSUf-NO_1Ayag" id="-KqzmIfFD4KL05FMNXAb8rg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_EwjEQK-fEeSUf-NO_1Ayag" id="-knu3Kvvnkg3C06tnI06eOg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Ewk5cK-fEeSUf-NO_1Ayag" id="-dUFvMF9AhMNquQVAIa9YSg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_lj7ocLBoEeSUf-NO_1Ayag" id="-Twxmb8JIkRnslbH3f4QN6w" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_lkBvELBoEeSUf-NO_1Ayag" id="-YFEskhNftZ84Gs5HCh168Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_-26EYLBvEeSUf-NO_1Ayag" id="-RmWHJaBQ99OtQbCD6-g8Zg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Oss7kLB0EeSgVPmVL1L5GQ" id="-fkO_j6OMWFO3RRtchVkOqA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_oBPsgLB1EeSgVPmVL1L5GQ" id="-3QdwnKJQyl-c_dKET0ahow" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_cQLcwLB2EeSgVPmVL1L5GQ" id="-7w4U3vvXJIJgdypSEp_JIw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_TnxnELB3EeSgVPmVL1L5GQ" id="-qWqpDeRAdFvHJY0dAV3syw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_1tbBQLB4EeSgVPmVL1L5GQ" id="-bwXy7syES5dC_pjclLI4aw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_GxPuoLB5EeSgVPmVL1L5GQ" id="-2ROaND5m53fN6BasjS916g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_rGLD0LB6EeSgVPmVL1L5GQ" id="-3-D4fpjV-T4HcYkZCPfbpg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_UH-0ULB7EeSgVPmVL1L5GQ" id="-ZghTU092WhqVAdbPzlg3Kw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_lNVWQLB8EeSgVPmVL1L5GQ" id="-FyDbof0fdQJgt7y9nFaNbQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_fRPV0LB9EeSgVPmVL1L5GQ" id="-F3WL2euSPlwz8MMJhK2Hxg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_gKKvoLCCEeSgVPmVL1L5GQ" id="-0Z7QxGBGZiW9bcylZ6YhkA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_tERRwLCGEeSgVPmVL1L5GQ" id="-VspzfNJk79g14txZXejnkQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_1iGkQLCHEeSgVPmVL1L5GQ" id="-pNIOj-BnNZ-ljYEBF6qZRA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_EUZzkLCLEeSgVPmVL1L5GQ" id="-wk7wl4p-gCSpnxPCp4SOOA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_YHA_kKfREeS8vLSVufajPQ" name="uam_it_architecture_in-ent" guid="_YHA_kKfREeS8vLSVufajPQ">
+    <methodElementProperty xmi:id="_YHA_kqfREeS8vLSVufajPQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_Dvq2gKfSEeS8vLSVufajPQ" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_iTWPgK8KEeSUf-NO_1Ayag" name="uam_ent_planning" guid="_iTWPgK8KEeSUf-NO_1Ayag">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_iTW2kK8KEeSUf-NO_1Ayag" name="uam_ent_planning" guid="_iTW2kK8KEeSUf-NO_1Ayag" presentationName="Enterprise Planning" briefDescription="Businesses have their own planning processes. This generic view illustrates where IT architects can add value to these planning processes and decisions." superActivities="_YHA_kafREeS8vLSVufajPQ" isOngoing="true" breakdownElements="_hlHwMK8NEeSUf-NO_1Ayag _odA1EK8NEeSUf-NO_1Ayag _odA1Ea8NEeSUf-NO_1Ayag _odA1Eq8NEeSUf-NO_1Ayag _odA1E68NEeSUf-NO_1Ayag _odA1FK8NEeSUf-NO_1Ayag _odA1Fa8NEeSUf-NO_1Ayag _odA1Fq8NEeSUf-NO_1Ayag _rke8UK8NEeSUf-NO_1Ayag _rke8Ua8NEeSUf-NO_1Ayag _7ke_wK8OEeSUf-NO_1Ayag _nfG7AK8QEeSUf-NO_1Ayag _5blHoK8QEeSUf-NO_1Ayag _4ystQK8REeSUf-NO_1Ayag _2QpKwK8SEeSUf-NO_1Ayag _ZMQOgK8SEeSUf-NO_1Ayag _9NluwK8SEeSUf-NO_1Ayag _CD4vUK8TEeSUf-NO_1Ayag _qqWQALBlEeSUf-NO_1Ayag _NqtJgLBoEeSUf-NO_1Ayag _REbMcLBqEeSUf-NO_1Ayag _HPy0MLBrEeSUf-NO_1Ayag">
+        <presentation xmi:id="-qWqpDeRAdFvHJY0dAV3syw" href="uma://-An7GwUvEdxXgDf5obDFYtg#-qWqpDeRAdFvHJY0dAV3syw"/>
+        <roadmaps href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_p0Js0OCrEdynr9jlfK-aMA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_hlHwMK8NEeSUf-NO_1Ayag" name="uam_business_planning" guid="_hlHwMK8NEeSUf-NO_1Ayag" presentationName="Business Planning" briefDescription="Business planning means many things to many people. Here it is defined as the activities that results in the production of the Business Objectives, Business Strategy and other business level planning documentation." isPlanned="true" superActivities="_iTW2kK8KEeSUf-NO_1Ayag" isOngoing="true" isSynchronizedWithSource="false" mandatoryInput="_odA1EK8NEeSUf-NO_1Ayag _odA1Ea8NEeSUf-NO_1Ayag _odA1Eq8NEeSUf-NO_1Ayag _odA1E68NEeSUf-NO_1Ayag _odA1FK8NEeSUf-NO_1Ayag _odA1Fa8NEeSUf-NO_1Ayag _odA1Fq8NEeSUf-NO_1Ayag _rke8UK8NEeSUf-NO_1Ayag" optionalInput="_rke8Ua8NEeSUf-NO_1Ayag" output="_odA1E68NEeSUf-NO_1Ayag _odA1FK8NEeSUf-NO_1Ayag _odA1Fa8NEeSUf-NO_1Ayag _odA1EK8NEeSUf-NO_1Ayag _odA1Ea8NEeSUf-NO_1Ayag _odA1Eq8NEeSUf-NO_1Ayag _odA1Fq8NEeSUf-NO_1Ayag" performedPrimarilyBy="_qqWQALBlEeSUf-NO_1Ayag">
+        <presentation xmi:id="-knu3Kvvnkg3C06tnI06eOg" href="uma://-An7GwUvEdxXgDf5obDFYtg#-knu3Kvvnkg3C06tnI06eOg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_odA1EK8NEeSUf-NO_1Ayag" name="uam_in_business-goals" guid="_odA1EK8NEeSUf-NO_1Ayag" presentationName="Business Goals" briefDescription="Business Goals are observable and measurable end results of having one or more Business Objectives achieved within a defined timeframe. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_UFscsEKbEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_odA1Ea8NEeSUf-NO_1Ayag" name="uam_in_business-mm" guid="_odA1Ea8NEeSUf-NO_1Ayag" presentationName="Business Motivation Model" briefDescription="Business Motivation Model provides a scheme or structure for developing, communicating, and managing business plans in an organized manner. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_VkC3wEKgEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_odA1Eq8NEeSUf-NO_1Ayag" name="uam_in_business-model" guid="_odA1Eq8NEeSUf-NO_1Ayag" presentationName="Business Model" briefDescription="Business Model is a description of the business that includes how it will make money; a description that will allow a bank to make an informed investment decision. No notions of computing or technology are permitted in this description. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_zYdtUEKhEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_odA1E68NEeSUf-NO_1Ayag" name="uam_in_business-objective" guid="_odA1E68NEeSUf-NO_1Ayag" presentationName="Business Objective " briefDescription="A Business Objective is a specific result that the enterprise aims to achieve within a  defined time frame. Objectives are concrete and easier to measure than goals. Objectives are basic to all business planning and strategic activities and serve as the basis for creating policy and evaluating performance. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_dMewIEKdEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_odA1FK8NEeSUf-NO_1Ayag" name="uam_in_business-strategy" guid="_odA1FK8NEeSUf-NO_1Ayag" presentationName="Business Strategy" briefDescription="Business Strategy is the approach chosen to achieve a desired future goal or objective. It may be viewed as simply long-term planning. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_lhAVoEKeEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_odA1Fa8NEeSUf-NO_1Ayag" name="uam_in_business-vision" guid="_odA1Fa8NEeSUf-NO_1Ayag" presentationName="Business Vision" briefDescription="The Business Vision is a description of what an organization would like to achieve or accomplish in the mid-term or long-term. It serves as a guide for choosing current and future courses of action regarding many aspects of business transformation and implementation. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_z5DykEKZEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_odA1Fq8NEeSUf-NO_1Ayag" name="uam_in_mission" guid="_odA1Fq8NEeSUf-NO_1Ayag" presentationName="Business Mission" briefDescription="The Business Mission defines the purpose of a company, its reason for existing (e.g. its products and services), which drives its Business Motivation Model, plans and strategies. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_TxtSEEKNEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_rke8UK8NEeSUf-NO_1Ayag" name="uam_in_it-strategy" guid="_rke8UK8NEeSUf-NO_1Ayag" presentationName="IT Strategy" briefDescription="The businesses IT Strategy is the overall plan which consists of objective(s), principles and tactics relating to use of the technologies within the organization. This strategy focuses on the technologies and their use within the organization. The strategy is typically written down in a document. It is produced outside of UAM but is a very important input since it defines constraints for the IT architect." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FGDEwEMjEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_rke8Ua8NEeSUf-NO_1Ayag" name="uam_in_legislation" guid="_rke8Ua8NEeSUf-NO_1Ayag" presentationName="Policies and Laws" briefDescription="The business defines policies to govern activities within the company; these, along with current applicable laws define constraints that need to be addressed. They are produced outside of UAM but are very important inputs since they define constraints for the IT architect." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_SCcR4EKjEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_7ke_wK8OEeSUf-NO_1Ayag" name="uam_bus_need" guid="_7ke_wK8OEeSUf-NO_1Ayag" presentationName="Business Need" briefDescription="A Business Need, defined through this task, is the first preliminary step that the organization takes towards a change to the business." isPlanned="true" superActivities="_iTW2kK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_v-LHIK8SEeSUf-NO_1Ayag" isSynchronizedWithSource="false" mandatoryInput="_odA1E68NEeSUf-NO_1Ayag _odA1FK8NEeSUf-NO_1Ayag _odA1EK8NEeSUf-NO_1Ayag" optionalInput="_odA1Ea8NEeSUf-NO_1Ayag _odA1Eq8NEeSUf-NO_1Ayag _odA1Fa8NEeSUf-NO_1Ayag _rke8UK8NEeSUf-NO_1Ayag _rke8Ua8NEeSUf-NO_1Ayag _odA1Fq8NEeSUf-NO_1Ayag" output="_5blHoK8QEeSUf-NO_1Ayag" performedPrimarilyBy="_qqWQALBlEeSUf-NO_1Ayag">
+        <presentation xmi:id="-dUFvMF9AhMNquQVAIa9YSg" href="uma://-An7GwUvEdxXgDf5obDFYtg#-dUFvMF9AhMNquQVAIa9YSg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_nfG7AK8QEeSUf-NO_1Ayag" name="uam_gate-0" guid="_nfG7AK8QEeSUf-NO_1Ayag" presentationName="Gate 0" briefDescription="A Business Need has been defined. It is now reviewed and approved. " superActivities="_iTW2kK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_yTUZkK8SEeSUf-NO_1Ayag" requiredResults="_5blHoK8QEeSUf-NO_1Ayag">
+        <presentation xmi:id="-KqzmIfFD4KL05FMNXAb8rg" href="uma://-An7GwUvEdxXgDf5obDFYtg#-KqzmIfFD4KL05FMNXAb8rg"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_5blHoK8QEeSUf-NO_1Ayag" name="uam_in_business-need" guid="_5blHoK8QEeSUf-NO_1Ayag" presentationName="Business Need" briefDescription="A Business Need is a specific outcome that the enterprise aims to achieve within a defined time frame. " isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_JdR7kK8PEeSUf-NO_1Ayag"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4ystQK8REeSUf-NO_1Ayag" name="uam_in_business-opportunity" guid="_4ystQK8REeSUf-NO_1Ayag" presentationName="Business Opportunity" briefDescription="A Business Opportunity takes the business requirement, or Business Need, and further develops it in terms of the business solution and may include very rough costs and benefits. " isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1TyWYK8REeSUf-NO_1Ayag"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_ZMQOgK8SEeSUf-NO_1Ayag" name="uam_gate-1" guid="_ZMQOgK8SEeSUf-NO_1Ayag" presentationName="Gate 1" briefDescription="A Business Opportunity has been defined. It is now reviewed and approved. " superActivities="_iTW2kK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_6B0WUK8SEeSUf-NO_1Ayag" requiredResults="_4ystQK8REeSUf-NO_1Ayag">
+        <methodElementProperty xmi:id="_1lTQ0K-YEeSUf-NO_1Ayag" name="wbe_GlobalPresentedAfter" value="_2QpKwK8SEeSUf-NO_1Ayag"/>
+        <presentation xmi:id="-fkO_j6OMWFO3RRtchVkOqA" href="uma://-An7GwUvEdxXgDf5obDFYtg#-fkO_j6OMWFO3RRtchVkOqA"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_v-LHIK8SEeSUf-NO_1Ayag" guid="_v-LHIK8SEeSUf-NO_1Ayag" pred="_hlHwMK8NEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_yTUZkK8SEeSUf-NO_1Ayag" guid="_yTUZkK8SEeSUf-NO_1Ayag" pred="_7ke_wK8OEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_2QpKwK8SEeSUf-NO_1Ayag" name="uam_bus_Opp" guid="_2QpKwK8SEeSUf-NO_1Ayag" presentationName="Business Opportunity" briefDescription="A Business Opportunity takes the business requirement, or Business Need, and further develops it in terms of the business solution and may include very rough costs and benefits. " isPlanned="true" superActivities="_iTW2kK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_48KV0K8SEeSUf-NO_1Ayag" isSynchronizedWithSource="false" mandatoryInput="_5blHoK8QEeSUf-NO_1Ayag" optionalInput="_odA1EK8NEeSUf-NO_1Ayag _odA1Ea8NEeSUf-NO_1Ayag _odA1Eq8NEeSUf-NO_1Ayag _odA1E68NEeSUf-NO_1Ayag _4ystQK8REeSUf-NO_1Ayag _odA1FK8NEeSUf-NO_1Ayag _odA1Fa8NEeSUf-NO_1Ayag _rke8Ua8NEeSUf-NO_1Ayag _odA1Fq8NEeSUf-NO_1Ayag" output="_4ystQK8REeSUf-NO_1Ayag" performedPrimarilyBy="_qqWQALBlEeSUf-NO_1Ayag">
+        <methodElementProperty xmi:id="_1lTQ0q-YEeSUf-NO_1Ayag" name="wbe_GlobalPresentedAfter" value="_nfG7AK8QEeSUf-NO_1Ayag"/>
+        <presentation xmi:id="-Twxmb8JIkRnslbH3f4QN6w" href="uma://-An7GwUvEdxXgDf5obDFYtg#-Twxmb8JIkRnslbH3f4QN6w"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_48KV0K8SEeSUf-NO_1Ayag" guid="_48KV0K8SEeSUf-NO_1Ayag" pred="_nfG7AK8QEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_6B0WUK8SEeSUf-NO_1Ayag" guid="_6B0WUK8SEeSUf-NO_1Ayag" pred="_2QpKwK8SEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_9NluwK8SEeSUf-NO_1Ayag" name="uam_bus_case" guid="_9NluwK8SEeSUf-NO_1Ayag" presentationName="Business Case" briefDescription="A Business Case takes the Business Opportunity, and describes the opportunity (or problem), and develops the plans needed to prepare for an upcoming project. The Business Case facilitates the evaluation, comparison and prioritization of competing alternatives." isPlanned="true" superActivities="_iTW2kK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_AU1MgK8TEeSUf-NO_1Ayag" isSynchronizedWithSource="false" additionallyPerformedBy="_NqtJgLBoEeSUf-NO_1Ayag" assistedBy="_HPy0MLBrEeSUf-NO_1Ayag" mandatoryInput="_4ystQK8REeSUf-NO_1Ayag" optionalInput="_odA1EK8NEeSUf-NO_1Ayag _odA1Ea8NEeSUf-NO_1Ayag _odA1Eq8NEeSUf-NO_1Ayag _odA1E68NEeSUf-NO_1Ayag _odA1FK8NEeSUf-NO_1Ayag _odA1Fa8NEeSUf-NO_1Ayag _rke8UK8NEeSUf-NO_1Ayag _rke8Ua8NEeSUf-NO_1Ayag _odA1Fq8NEeSUf-NO_1Ayag" output="_REbMcLBqEeSUf-NO_1Ayag" performedPrimarilyBy="_qqWQALBlEeSUf-NO_1Ayag">
+        <methodElementProperty xmi:id="_1lTQ0a-YEeSUf-NO_1Ayag" name="wbe_GlobalPresentedAfter" value="_ZMQOgK8SEeSUf-NO_1Ayag"/>
+        <presentation xmi:id="-YFEskhNftZ84Gs5HCh168Q" href="uma://-An7GwUvEdxXgDf5obDFYtg#-YFEskhNftZ84Gs5HCh168Q"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_AU1MgK8TEeSUf-NO_1Ayag" guid="_AU1MgK8TEeSUf-NO_1Ayag" pred="_ZMQOgK8SEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_CD4vUK8TEeSUf-NO_1Ayag" name="uam_gate-2" guid="_CD4vUK8TEeSUf-NO_1Ayag" presentationName="Gate 2" briefDescription="A Business Case has been defined. It is now reviewed and approved. " superActivities="_iTW2kK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_K1kAUK8TEeSUf-NO_1Ayag" requiredResults="_REbMcLBqEeSUf-NO_1Ayag">
+        <presentation xmi:id="-3QdwnKJQyl-c_dKET0ahow" href="uma://-An7GwUvEdxXgDf5obDFYtg#-3QdwnKJQyl-c_dKET0ahow"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_K1kAUK8TEeSUf-NO_1Ayag" guid="_K1kAUK8TEeSUf-NO_1Ayag" pred="_9NluwK8SEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_qqWQALBlEeSUf-NO_1Ayag" name="uam_bus_manager" guid="_qqWQALBlEeSUf-NO_1Ayag" presentationName="Business Manager" briefDescription="This role represents the involvement of management in the IT architecture process. These managers also represent the high-level business stakeholders for the architecture. " isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag" modifies="_odA1E68NEeSUf-NO_1Ayag _odA1FK8NEeSUf-NO_1Ayag _odA1Fa8NEeSUf-NO_1Ayag _odA1EK8NEeSUf-NO_1Ayag _odA1Ea8NEeSUf-NO_1Ayag _odA1Eq8NEeSUf-NO_1Ayag _odA1Fq8NEeSUf-NO_1Ayag _5blHoK8QEeSUf-NO_1Ayag _4ystQK8REeSUf-NO_1Ayag _REbMcLBqEeSUf-NO_1Ayag">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_gqcDMKjDEeSFIOC-Wm7nrA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_NqtJgLBoEeSUf-NO_1Ayag" name="uam_enterprise_architect" guid="_NqtJgLBoEeSUf-NO_1Ayag" presentationName="Enterprise Architect" briefDescription="This role is responsible for enterprise level architectures, being involved in all the significant decisions regarding structure, behavior, interfaces, constraints and trade-offs at the enterprise level." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_XTWLgN_kEdynr9jlfK-aMA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#__TrU8NBOEdymj4NXv8-FYA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W4UEAMqpEdy25fQyv59CjQ"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PjkWoObaEdyjVoHXO3Mbfg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WjnjMFCREeOcVJX_gvTjyg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1pvrENTUEdyTfZVjf0InKw"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Z0M4gMK1Edy4DtCs1YI90Q"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PYMCsP9oEdyU-O6u7AAPVw"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_G1fJUOMCEdy7f9KmjDtwsA"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_sn4YIGjyEeS7ieerwXbTqg"/>
+        <supportingMaterials href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W0ahoM9uEdymj4NXv8-FYA"/>
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_0yThIMIaEdyMpOiGFnM_WA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WY_zYMKpEdy4DtCs1YI90Q"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_tjC3QMOdEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ON-wgPIOEdyIELoltz1wKA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_q3sZAMqoEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ifSCYNQFEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Py-hINT-EdyakOJbsHza1A"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Tms8ENWbEdyLINQdtlJihw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_uHNBcNM5EdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kuzOANNBEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_nOvbEMOyEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_aVecgE4mEeOcVJX_gvTjyg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1DXogLO2EeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_REbMcLBqEeSUf-NO_1Ayag" name="uam_in_business-case" guid="_REbMcLBqEeSUf-NO_1Ayag" presentationName="Business Case" briefDescription="A Business Case takes the Business Opportunity, and describes the opportunity (or problem), and develops the plans needed to prepare for an upcoming project. The Business Case facilitates the evaluation, comparison and prioritization of competing alternatives." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ohmTcLBoEeSUf-NO_1Ayag"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_HPy0MLBrEeSUf-NO_1Ayag" name="uam_support" guid="_HPy0MLBrEeSUf-NO_1Ayag" presentationName="Architecture Support" briefDescription="This role is responsible for managing the documents, and other workproducts, that describe the IT architecture, architecture decisions and other aspects." isPlanned="false" superActivities="_iTW2kK8KEeSUf-NO_1Ayag">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_QR1yEMmzEdyU89e0dKAsrw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_J8vp4MoDEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ON-wgPIOEdyIELoltz1wKA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_m51KkLeeEeSeNe6SxZNlbg"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_u11fsK8KEeSUf-NO_1Ayag" name="uam_proj_planning" guid="_u11fsK8KEeSUf-NO_1Ayag">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_u12GwK8KEeSUf-NO_1Ayag" name="uam_proj_planning" guid="_u12GwK8KEeSUf-NO_1Ayag" presentationName="Project Life-Cycle" briefDescription="The project life-cycle includes a number of steps, with milestone reviews along the way. These milestones are where IT architects aid in ensuring that projects fit in with existing IT, and that they follow IT standards, the IT strategy, and standard patterns. Businesses have their own planning processes, but this generic view illustrates where IT architects can add value to these planning processes and decisions." superActivities="_YHA_kafREeS8vLSVufajPQ" isOngoing="true" linkToPredecessor="_a1MYkLCOEeSgVPmVL1L5GQ" breakdownElements="_WUq2sLBtEeSUf-NO_1Ayag _dzlfULBtEeSUf-NO_1Ayag _iM8FMLBtEeSUf-NO_1Ayag _lyGOALBtEeSUf-NO_1Ayag _oa3AALBtEeSUf-NO_1Ayag _tiu4wLBtEeSUf-NO_1Ayag _wtGjALBtEeSUf-NO_1Ayag _1ZR-QLBtEeSUf-NO_1Ayag _ed2u4LBuEeSUf-NO_1Ayag _iOWlALBuEeSUf-NO_1Ayag _iOWlAbBuEeSUf-NO_1Ayag _kckwELBuEeSUf-NO_1Ayag _opNvoLBuEeSUf-NO_1Ayag _opNvobBuEeSUf-NO_1Ayag _opNvorBuEeSUf-NO_1Ayag _opNvo7BuEeSUf-NO_1Ayag _opNvpLBuEeSUf-NO_1Ayag _opNvpbBuEeSUf-NO_1Ayag _opNvprBuEeSUf-NO_1Ayag _opNvp7BuEeSUf-NO_1Ayag _opNvqLBuEeSUf-NO_1Ayag _opNvqbBuEeSUf-NO_1Ayag _opNvqrBuEeSUf-NO_1Ayag _opNvq7BuEeSUf-NO_1Ayag _ve2xwLBuEeSUf-NO_1Ayag _CodDYLBwEeSUf-NO_1Ayag _IDbn4LB8EeSgVPmVL1L5GQ _L_RyYLB8EeSgVPmVL1L5GQ _L_RyYbB8EeSgVPmVL1L5GQ _L_RyYrB8EeSgVPmVL1L5GQ _CUxKALB-EeSgVPmVL1L5GQ _zSbkgLCDEeSgVPmVL1L5GQ _oEJcQLCFEeSgVPmVL1L5GQ _V4w5ULkqEeSeNe6SxZNlbg">
+        <presentation xmi:id="-7w4U3vvXJIJgdypSEp_JIw" href="uma://-An7GwUvEdxXgDf5obDFYtg#-7w4U3vvXJIJgdypSEp_JIw"/>
+        <roadmaps href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_p0Js0OCrEdynr9jlfK-aMA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WUq2sLBtEeSUf-NO_1Ayag" name="uam_proj_charter" guid="_WUq2sLBtEeSUf-NO_1Ayag" presentationName="Project Charter" briefDescription="The Project Requirement or Charter defines the &quot;system&quot; to be architected and built. It outlines the roles and responsibilities of the participants, including stakeholders. It defines the project objectives and the authorities of the project manager. It is produced outside of UAM but is an important input into its processes." isPlanned="true" superActivities="_u12GwK8KEeSUf-NO_1Ayag" isOngoing="true" isSynchronizedWithSource="false" additionallyPerformedBy="_iOWlALBuEeSUf-NO_1Ayag _iOWlAbBuEeSUf-NO_1Ayag _CodDYLBwEeSUf-NO_1Ayag" mandatoryInput="_kckwELBuEeSUf-NO_1Ayag" optionalInput="_opNvoLBuEeSUf-NO_1Ayag _opNvobBuEeSUf-NO_1Ayag _opNvorBuEeSUf-NO_1Ayag _opNvo7BuEeSUf-NO_1Ayag _opNvpLBuEeSUf-NO_1Ayag _opNvpbBuEeSUf-NO_1Ayag _opNvprBuEeSUf-NO_1Ayag _opNvp7BuEeSUf-NO_1Ayag _opNvqLBuEeSUf-NO_1Ayag _opNvqbBuEeSUf-NO_1Ayag _opNvqrBuEeSUf-NO_1Ayag _opNvq7BuEeSUf-NO_1Ayag" output="_ve2xwLBuEeSUf-NO_1Ayag" performedPrimarilyBy="_ed2u4LBuEeSUf-NO_1Ayag">
+        <presentation xmi:id="-RmWHJaBQ99OtQbCD6-g8Zg" href="uma://-An7GwUvEdxXgDf5obDFYtg#-RmWHJaBQ99OtQbCD6-g8Zg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_dzlfULBtEeSUf-NO_1Ayag" name="uam_gate-3" guid="_dzlfULBtEeSUf-NO_1Ayag" presentationName="Gate 3" briefDescription="A Project Charter or Requirement has been defined. It is now reviewed and approved. " superActivities="_u12GwK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_B81lcLBuEeSUf-NO_1Ayag" requiredResults="_ve2xwLBuEeSUf-NO_1Ayag">
+        <presentation xmi:id="-3-D4fpjV-T4HcYkZCPfbpg" href="uma://-An7GwUvEdxXgDf5obDFYtg#-3-D4fpjV-T4HcYkZCPfbpg"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_iM8FMLBtEeSUf-NO_1Ayag" name="uam_system_design" guid="_iM8FMLBtEeSUf-NO_1Ayag" presentationName="System Design" briefDescription="The system architecture is produced and reviewed, which includes the completed Business, Logical, and Technical perspectives." isPlanned="true" superActivities="_u12GwK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_Ca72sLBuEeSUf-NO_1Ayag" isSynchronizedWithSource="false" additionallyPerformedBy="_iOWlALBuEeSUf-NO_1Ayag _iOWlAbBuEeSUf-NO_1Ayag _IDbn4LB8EeSgVPmVL1L5GQ" assistedBy="_L_RyYLB8EeSgVPmVL1L5GQ _L_RyYbB8EeSgVPmVL1L5GQ _L_RyYrB8EeSgVPmVL1L5GQ" mandatoryInput="_ve2xwLBuEeSUf-NO_1Ayag" optionalInput="_opNvoLBuEeSUf-NO_1Ayag _kckwELBuEeSUf-NO_1Ayag _opNvobBuEeSUf-NO_1Ayag _opNvorBuEeSUf-NO_1Ayag _opNvo7BuEeSUf-NO_1Ayag _opNvpLBuEeSUf-NO_1Ayag _opNvpbBuEeSUf-NO_1Ayag _opNvprBuEeSUf-NO_1Ayag _opNvp7BuEeSUf-NO_1Ayag _opNvqLBuEeSUf-NO_1Ayag _opNvqbBuEeSUf-NO_1Ayag _opNvqrBuEeSUf-NO_1Ayag _opNvq7BuEeSUf-NO_1Ayag" output="_V4w5ULkqEeSeNe6SxZNlbg" performedPrimarilyBy="_ed2u4LBuEeSUf-NO_1Ayag">
+        <presentation xmi:id="-FyDbof0fdQJgt7y9nFaNbQ" href="uma://-An7GwUvEdxXgDf5obDFYtg#-FyDbof0fdQJgt7y9nFaNbQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_lyGOALBtEeSUf-NO_1Ayag" name="uam_gate-4" guid="_lyGOALBtEeSUf-NO_1Ayag" presentationName="Gate 4" briefDescription="The IT architecture for a project has been defined, or is under development. This review ensures that it fits in with current systems and standards." superActivities="_u12GwK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_C1Y-ELBuEeSUf-NO_1Ayag" requiredResults="_V4w5ULkqEeSeNe6SxZNlbg">
+        <presentation xmi:id="-ZghTU092WhqVAdbPzlg3Kw" href="uma://-An7GwUvEdxXgDf5obDFYtg#-ZghTU092WhqVAdbPzlg3Kw"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_oa3AALBtEeSUf-NO_1Ayag" name="Implementation" guid="_oa3AALBtEeSUf-NO_1Ayag" presentationName="Implementation" briefDescription="The system implementation is underway, or has concluded. During the implementation, the IT architecture or design is controlled, and changes managed." isPlanned="true" superActivities="_u12GwK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_DTxjMLBuEeSUf-NO_1Ayag" isSynchronizedWithSource="false" additionallyPerformedBy="_iOWlALBuEeSUf-NO_1Ayag _iOWlAbBuEeSUf-NO_1Ayag _L_RyYbB8EeSgVPmVL1L5GQ _IDbn4LB8EeSgVPmVL1L5GQ" assistedBy="_L_RyYrB8EeSgVPmVL1L5GQ _L_RyYLB8EeSgVPmVL1L5GQ" mandatoryInput="_ve2xwLBuEeSUf-NO_1Ayag _V4w5ULkqEeSeNe6SxZNlbg" optionalInput="_CUxKALB-EeSgVPmVL1L5GQ" output="_oEJcQLCFEeSgVPmVL1L5GQ" performedPrimarilyBy="_ed2u4LBuEeSUf-NO_1Ayag">
+        <presentation xmi:id="-VspzfNJk79g14txZXejnkQ" href="uma://-An7GwUvEdxXgDf5obDFYtg#-VspzfNJk79g14txZXejnkQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_tiu4wLBtEeSUf-NO_1Ayag" name="uam_gate-5" guid="_tiu4wLBtEeSUf-NO_1Ayag" presentationName="Gate 5" briefDescription="The system is being implemented. This review ensures that the resulting system fits in with current systems and standards." superActivities="_u12GwK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_D0jVALBuEeSUf-NO_1Ayag" requiredResults="_CUxKALB-EeSgVPmVL1L5GQ _V4w5ULkqEeSeNe6SxZNlbg">
+        <presentation xmi:id="-F3WL2euSPlwz8MMJhK2Hxg" href="uma://-An7GwUvEdxXgDf5obDFYtg#-F3WL2euSPlwz8MMJhK2Hxg"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_wtGjALBtEeSUf-NO_1Ayag" name="uam_tto" guid="_wtGjALBtEeSUf-NO_1Ayag" presentationName="Transition to Operations" briefDescription="The implementation phase of the project is complete, now the system transitions to operations." isPlanned="true" superActivities="_u12GwK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_ESz-ULBuEeSUf-NO_1Ayag" isSynchronizedWithSource="false" additionallyPerformedBy="_L_RyYbB8EeSgVPmVL1L5GQ _IDbn4LB8EeSgVPmVL1L5GQ _iOWlAbBuEeSUf-NO_1Ayag" assistedBy="_L_RyYLB8EeSgVPmVL1L5GQ _L_RyYrB8EeSgVPmVL1L5GQ" mandatoryInput="_ve2xwLBuEeSUf-NO_1Ayag _V4w5ULkqEeSeNe6SxZNlbg" optionalInput="_opNvoLBuEeSUf-NO_1Ayag _kckwELBuEeSUf-NO_1Ayag _opNvobBuEeSUf-NO_1Ayag _opNvorBuEeSUf-NO_1Ayag _opNvo7BuEeSUf-NO_1Ayag _opNvpLBuEeSUf-NO_1Ayag _opNvpbBuEeSUf-NO_1Ayag _opNvprBuEeSUf-NO_1Ayag _opNvp7BuEeSUf-NO_1Ayag _opNvqLBuEeSUf-NO_1Ayag _oEJcQLCFEeSgVPmVL1L5GQ _opNvqbBuEeSUf-NO_1Ayag _opNvqrBuEeSUf-NO_1Ayag _opNvq7BuEeSUf-NO_1Ayag" output="_oEJcQLCFEeSgVPmVL1L5GQ" performedPrimarilyBy="_ed2u4LBuEeSUf-NO_1Ayag">
+        <presentation xmi:id="-pNIOj-BnNZ-ljYEBF6qZRA" href="uma://-An7GwUvEdxXgDf5obDFYtg#-pNIOj-BnNZ-ljYEBF6qZRA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="_1ZR-QLBtEeSUf-NO_1Ayag" name="uam_gate-6" guid="_1ZR-QLBtEeSUf-NO_1Ayag" presentationName="Gate 6" briefDescription="The system has been designed and built. Now the system is transitioned to operations, which includes this system acceptance milestone review." superActivities="_u12GwK8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_Exp2cLBuEeSUf-NO_1Ayag" requiredResults="_zSbkgLCDEeSgVPmVL1L5GQ _CUxKALB-EeSgVPmVL1L5GQ _V4w5ULkqEeSeNe6SxZNlbg">
+        <presentation xmi:id="-0Z7QxGBGZiW9bcylZ6YhkA" href="uma://-An7GwUvEdxXgDf5obDFYtg#-0Z7QxGBGZiW9bcylZ6YhkA"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_B81lcLBuEeSUf-NO_1Ayag" guid="_B81lcLBuEeSUf-NO_1Ayag" pred="_WUq2sLBtEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Ca72sLBuEeSUf-NO_1Ayag" guid="_Ca72sLBuEeSUf-NO_1Ayag" pred="_dzlfULBtEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_C1Y-ELBuEeSUf-NO_1Ayag" guid="_C1Y-ELBuEeSUf-NO_1Ayag" pred="_iM8FMLBtEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_DTxjMLBuEeSUf-NO_1Ayag" guid="_DTxjMLBuEeSUf-NO_1Ayag" pred="_lyGOALBtEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_D0jVALBuEeSUf-NO_1Ayag" guid="_D0jVALBuEeSUf-NO_1Ayag" pred="_oa3AALBtEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ESz-ULBuEeSUf-NO_1Ayag" guid="_ESz-ULBuEeSUf-NO_1Ayag" pred="_tiu4wLBtEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Exp2cLBuEeSUf-NO_1Ayag" guid="_Exp2cLBuEeSUf-NO_1Ayag" pred="_wtGjALBtEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_ed2u4LBuEeSUf-NO_1Ayag" name="uam_tech_manager" guid="_ed2u4LBuEeSUf-NO_1Ayag" presentationName="Technical Manager" briefDescription="This role represents the involvement of management in the IT architecture process. These managers also represent the high-level technical stakeholders for the architecture. " isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag" modifies="_ve2xwLBuEeSUf-NO_1Ayag _V4w5ULkqEeSeNe6SxZNlbg _oEJcQLCFEeSgVPmVL1L5GQ">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ytv_AKjAEeSFIOC-Wm7nrA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_iOWlALBuEeSUf-NO_1Ayag" name="uam_domain_architect" guid="_iOWlALBuEeSUf-NO_1Ayag" presentationName="Business Line or Business Domain Architect" briefDescription="This role is responsible for Business Line or Business Domain level IT architectures, being involved in all the significant decisions regarding structure, behavior, interfaces, constraints and trade-offs at the business line or business domain level. " isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <methodElementProperty xmi:id="_xw-3EDEKEeicW7C4KlClUw" name="descriptor_customization" value="2"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_XTWLgN_kEdynr9jlfK-aMA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#__TrU8NBOEdymj4NXv8-FYA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W4UEAMqpEdy25fQyv59CjQ"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PjkWoObaEdyjVoHXO3Mbfg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WjnjMFCREeOcVJX_gvTjyg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1pvrENTUEdyTfZVjf0InKw"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PYMCsP9oEdyU-O6u7AAPVw"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Z0M4gMK1Edy4DtCs1YI90Q"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_G1fJUOMCEdy7f9KmjDtwsA"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_sn4YIGjyEeS7ieerwXbTqg"/>
+        <supportingMaterials href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W0ahoM9uEdymj4NXv8-FYA"/>
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_YrJ-UMIcEdyMpOiGFnM_WA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WY_zYMKpEdy4DtCs1YI90Q"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_tjC3QMOdEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ifSCYNQFEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Py-hINT-EdyakOJbsHza1A"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Tms8ENWbEdyLINQdtlJihw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_uHNBcNM5EdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kuzOANNBEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_nOvbEMOyEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ON-wgPIOEdyIELoltz1wKA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_q3sZAMqoEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_aVecgE4mEeOcVJX_gvTjyg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1DXogLO2EeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_iOWlAbBuEeSUf-NO_1Ayag" name="uam_enterprise_architect" guid="_iOWlAbBuEeSUf-NO_1Ayag" presentationName="Enterprise Architect" briefDescription="This role is responsible for enterprise level architectures, being involved in all the significant decisions regarding structure, behavior, interfaces, constraints and trade-offs at the enterprise level." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_XTWLgN_kEdynr9jlfK-aMA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#__TrU8NBOEdymj4NXv8-FYA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W4UEAMqpEdy25fQyv59CjQ"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PjkWoObaEdyjVoHXO3Mbfg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WjnjMFCREeOcVJX_gvTjyg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1pvrENTUEdyTfZVjf0InKw"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Z0M4gMK1Edy4DtCs1YI90Q"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PYMCsP9oEdyU-O6u7AAPVw"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_G1fJUOMCEdy7f9KmjDtwsA"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_sn4YIGjyEeS7ieerwXbTqg"/>
+        <supportingMaterials href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W0ahoM9uEdymj4NXv8-FYA"/>
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_0yThIMIaEdyMpOiGFnM_WA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WY_zYMKpEdy4DtCs1YI90Q"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_tjC3QMOdEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ON-wgPIOEdyIELoltz1wKA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_q3sZAMqoEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ifSCYNQFEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Py-hINT-EdyakOJbsHza1A"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Tms8ENWbEdyLINQdtlJihw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_uHNBcNM5EdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kuzOANNBEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_nOvbEMOyEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_aVecgE4mEeOcVJX_gvTjyg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1DXogLO2EeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kckwELBuEeSUf-NO_1Ayag" name="uam_in_business-case" guid="_kckwELBuEeSUf-NO_1Ayag" presentationName="Business Case" briefDescription="A Business Case takes the Business Opportunity, and describes the opportunity (or problem), and develops the plans needed to prepare for an upcoming project. The Business Case facilitates the evaluation, comparison and prioritization of competing alternatives." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ohmTcLBoEeSUf-NO_1Ayag"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvoLBuEeSUf-NO_1Ayag" name="uam_in_arch-priniciples" guid="_opNvoLBuEeSUf-NO_1Ayag" presentationName="Architecture Principles" briefDescription="Architecture Principles are general rules and guidelines, seldom amended, that inform and support the way in which an organization sets about fulfilling its mission. They are produced outside of UAM but are very important inputs since they define constraints for the IT architect." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_w3NQEEMmEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvobBuEeSUf-NO_1Ayag" name="uam_in_business-goals" guid="_opNvobBuEeSUf-NO_1Ayag" presentationName="Business Goals" briefDescription="Business Goals are observable and measurable end results of having one or more Business Objectives achieved within a defined timeframe. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_UFscsEKbEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvorBuEeSUf-NO_1Ayag" name="uam_in_business-mm" guid="_opNvorBuEeSUf-NO_1Ayag" presentationName="Business Motivation Model" briefDescription="Business Motivation Model provides a scheme or structure for developing, communicating, and managing business plans in an organized manner. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_VkC3wEKgEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvo7BuEeSUf-NO_1Ayag" name="uam_in_business-model" guid="_opNvo7BuEeSUf-NO_1Ayag" presentationName="Business Model" briefDescription="Business Model is a description of the business that includes how it will make money; a description that will allow a bank to make an informed investment decision. No notions of computing or technology are permitted in this description. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_zYdtUEKhEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvpLBuEeSUf-NO_1Ayag" name="uam_in_business-need" guid="_opNvpLBuEeSUf-NO_1Ayag" presentationName="Business Need" briefDescription="A Business Need is a specific outcome that the enterprise aims to achieve within a defined time frame. " isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_JdR7kK8PEeSUf-NO_1Ayag"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvpbBuEeSUf-NO_1Ayag" name="uam_in_business-objective" guid="_opNvpbBuEeSUf-NO_1Ayag" presentationName="Business Objective " briefDescription="A Business Objective is a specific result that the enterprise aims to achieve within a  defined time frame. Objectives are concrete and easier to measure than goals. Objectives are basic to all business planning and strategic activities and serve as the basis for creating policy and evaluating performance. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_dMewIEKdEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvprBuEeSUf-NO_1Ayag" name="uam_in_business-opportunity" guid="_opNvprBuEeSUf-NO_1Ayag" presentationName="Business Opportunity" briefDescription="A Business Opportunity takes the business requirement, or Business Need, and further develops it in terms of the business solution and may include very rough costs and benefits. " isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1TyWYK8REeSUf-NO_1Ayag"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvp7BuEeSUf-NO_1Ayag" name="uam_in_business-strategy" guid="_opNvp7BuEeSUf-NO_1Ayag" presentationName="Business Strategy" briefDescription="Business Strategy is the approach chosen to achieve a desired future goal or objective. It may be viewed as simply long-term planning. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_lhAVoEKeEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvqLBuEeSUf-NO_1Ayag" name="uam_in_business-vision" guid="_opNvqLBuEeSUf-NO_1Ayag" presentationName="Business Vision" briefDescription="The Business Vision is a description of what an organization would like to achieve or accomplish in the mid-term or long-term. It serves as a guide for choosing current and future courses of action regarding many aspects of business transformation and implementation. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_z5DykEKZEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvqbBuEeSUf-NO_1Ayag" name="uam_in_it-strategy" guid="_opNvqbBuEeSUf-NO_1Ayag" presentationName="IT Strategy" briefDescription="The businesses IT Strategy is the overall plan which consists of objective(s), principles and tactics relating to use of the technologies within the organization. This strategy focuses on the technologies and their use within the organization. The strategy is typically written down in a document. It is produced outside of UAM but is a very important input since it defines constraints for the IT architect." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FGDEwEMjEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvqrBuEeSUf-NO_1Ayag" name="uam_in_legislation" guid="_opNvqrBuEeSUf-NO_1Ayag" presentationName="Policies and Laws" briefDescription="The business defines policies to govern activities within the company; these, along with current applicable laws define constraints that need to be addressed. They are produced outside of UAM but are very important inputs since they define constraints for the IT architect." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_SCcR4EKjEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_opNvq7BuEeSUf-NO_1Ayag" name="uam_in_mission" guid="_opNvq7BuEeSUf-NO_1Ayag" presentationName="Business Mission" briefDescription="The Business Mission defines the purpose of a company, its reason for existing (e.g. its products and services), which drives its Business Motivation Model, plans and strategies. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_TxtSEEKNEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_ve2xwLBuEeSUf-NO_1Ayag" name="uam_in_project-reqmt" guid="_ve2xwLBuEeSUf-NO_1Ayag" presentationName="Project Requirement" briefDescription="The Project Charter or Requirement defines the &quot;system&quot; to be architected and built. It outlines the roles and responsibilities of the participants, including stakeholders. It defines the project objectives and the authorities of the project manager. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <methodElementProperty xmi:id="_xw-QADEKEeicW7C4KlClUw" name="descriptor_customization" value="2"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1R2GQEKgEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_CodDYLBwEeSUf-NO_1Ayag" name="uam_bus_manager" guid="_CodDYLBwEeSUf-NO_1Ayag" presentationName="Business Manager" briefDescription="This role represents the involvement of management in the IT architecture process. These managers also represent the high-level business stakeholders for the architecture. " isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_gqcDMKjDEeSFIOC-Wm7nrA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_IDbn4LB8EeSgVPmVL1L5GQ" name="uam_project_architect" guid="_IDbn4LB8EeSgVPmVL1L5GQ" presentationName="Business Unit or Project Architect" briefDescription="This role is responsible for Business Unit or Project level IT architectures, being involved in all the significant decisions regarding structure, behavior, interfaces, constraints and trade-offs at the business unit or project level." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WjnjMFCREeOcVJX_gvTjyg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PjkWoObaEdyjVoHXO3Mbfg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_XTWLgN_kEdynr9jlfK-aMA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#__TrU8NBOEdymj4NXv8-FYA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W4UEAMqpEdy25fQyv59CjQ"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1pvrENTUEdyTfZVjf0InKw"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Z0M4gMK1Edy4DtCs1YI90Q"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PYMCsP9oEdyU-O6u7AAPVw"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_G1fJUOMCEdy7f9KmjDtwsA"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_sn4YIGjyEeS7ieerwXbTqg"/>
+        <supportingMaterials href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W0ahoM9uEdymj4NXv8-FYA"/>
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_fzTQwFCPEeOcVJX_gvTjyg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WY_zYMKpEdy4DtCs1YI90Q"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ON-wgPIOEdyIELoltz1wKA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ifSCYNQFEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_tjC3QMOdEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_q3sZAMqoEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_uHNBcNM5EdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_aVecgE4mEeOcVJX_gvTjyg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kuzOANNBEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Py-hINT-EdyakOJbsHza1A"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Tms8ENWbEdyLINQdtlJihw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_nOvbEMOyEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1DXogLO2EeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_L_RyYLB8EeSgVPmVL1L5GQ" name="uam_business-expert" guid="_L_RyYLB8EeSgVPmVL1L5GQ" presentationName="Business Expert" briefDescription="This role provides detailed guidance and advice to IT architects on the current state of the business and on its direction and future state. They also represent the business, that is, they are the business stakeholders." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_QDA0sEgdEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_L_RyYbB8EeSgVPmVL1L5GQ" name="uam_it-expert" guid="_L_RyYbB8EeSgVPmVL1L5GQ" presentationName="IT Expert" briefDescription="This role provides detailed guidance and advice to IT architects on the current state of technology and on its direction and future state. They also represent the technical stakeholders." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_d5H60EgbEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_L_RyYrB8EeSgVPmVL1L5GQ" name="uam_support" guid="_L_RyYrB8EeSgVPmVL1L5GQ" presentationName="Architecture Support" briefDescription="This role is responsible for managing the documents, and other workproducts, that describe the IT architecture, architecture decisions and other aspects." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_QR1yEMmzEdyU89e0dKAsrw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_J8vp4MoDEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ON-wgPIOEdyIELoltz1wKA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_m51KkLeeEeSeNe6SxZNlbg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_CUxKALB-EeSgVPmVL1L5GQ" name="uam_ad_repository" guid="_CUxKALB-EeSgVPmVL1L5GQ" presentationName="Architectural Decision Repository" briefDescription="The Architectural Decisions Repository stores all versions of enterprise, business domain and other levels of Architectural Decisions. It also stores all the derived data and metadata associated with the files and directories. It is not really a Work Product, in the UMA sense, but a part of the infrastructure supporting UAM." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_sn4YIGjyEeS7ieerwXbTqg"/>
+        <templates href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_691yINWpEdyLINQdtlJihw"/>
+        <templates href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kTjToMKyEdy4DtCs1YI90Q"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_J8vp4MoDEdy25fQyv59CjQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_zSbkgLCDEeSgVPmVL1L5GQ" name="uam_in_project-accept" guid="_zSbkgLCDEeSgVPmVL1L5GQ" presentationName="System Acceptance" briefDescription="The &quot;system&quot; has been designed and built. Now the system is transitioned to operations, which includes a system acceptance." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_4dqIsLCCEeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_oEJcQLCFEeSgVPmVL1L5GQ" name="uam_in_change-request" guid="_oEJcQLCFEeSgVPmVL1L5GQ" presentationName="Change Request" briefDescription="The &quot;system&quot; is under construction, or is in operation. An issue or problem requires a change to the system or the system architecture or design. This artifact documents this issue and the desired change." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1UDokLCEEeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_a1MYkLCOEeSgVPmVL1L5GQ" guid="_a1MYkLCOEeSgVPmVL1L5GQ" pred="_iTW2kK8KEeSUf-NO_1Ayag"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_V4w5ULkqEeSeNe6SxZNlbg" name="uam_IT_architecture" guid="_V4w5ULkqEeSeNe6SxZNlbg" presentationName="IT Architecture" briefDescription="This deliverable defines the Work Products included in the final deliverable that completes the definition of the IT architecture at the specified level, namely, Business, Logical, or Technical." isPlanned="false" superActivities="_u12GwK8KEeSUf-NO_1Ayag">
+        <templates href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_691yINWpEdyLINQdtlJihw"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Rr74ELkgEeSeNe6SxZNlbg"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_aVecgE4mEeOcVJX_gvTjyg"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kuzOANNBEdyTfZVjf0InKw"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ifSCYNQFEdyTfZVjf0InKw"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Py-hINT-EdyakOJbsHza1A"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_nOvbEMOyEdyILM4NThxMFg"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1DXogLO2EeSgVPmVL1L5GQ"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Tms8ENWbEdyLINQdtlJihw"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_19yZ0K8KEeSUf-NO_1Ayag" name="uam_change_mgmt" guid="_19yZ0K8KEeSUf-NO_1Ayag">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_19zA4K8KEeSUf-NO_1Ayag" name="uam_change_mgmt" guid="_19zA4K8KEeSUf-NO_1Ayag" presentationName="Change Management" briefDescription="This milestone is where IT architects aid in ensuring that the evolution of existing IT follows IT standards, the IT strategy, and standard patterns. Businesses have their own planning processes, but this generic view illustrates where IT architects can add value to this planning process and resulting decisions." superActivities="_YHA_kafREeS8vLSVufajPQ" isOngoing="true" breakdownElements="_9nCo4LB4EeSgVPmVL1L5GQ __orJcLB4EeSgVPmVL1L5GQ _g15osLCMEeSgVPmVL1L5GQ _m86qQLCMEeSgVPmVL1L5GQ _m86qQbCMEeSgVPmVL1L5GQ _m86qQrCMEeSgVPmVL1L5GQ _uSmeYLCMEeSgVPmVL1L5GQ _w1GQULCMEeSgVPmVL1L5GQ _0EQ7ALCMEeSgVPmVL1L5GQ _0EQ7AbCMEeSgVPmVL1L5GQ _0EQ7ArCMEeSgVPmVL1L5GQ _0EQ7A7CMEeSgVPmVL1L5GQ _12BzkLCMEeSgVPmVL1L5GQ _12BzkbCMEeSgVPmVL1L5GQ _jGSDgLkqEeSeNe6SxZNlbg _oq3tcLkqEeSeNe6SxZNlbg">
+        <presentation xmi:id="-bwXy7syES5dC_pjclLI4aw" href="uma://-An7GwUvEdxXgDf5obDFYtg#-bwXy7syES5dC_pjclLI4aw"/>
+        <roadmaps href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_p0Js0OCrEdynr9jlfK-aMA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_9nCo4LB4EeSgVPmVL1L5GQ" name="Change Request" guid="_9nCo4LB4EeSgVPmVL1L5GQ" presentationName="Change Request" briefDescription="The system implementation has concluded and the system is in operation. The system implementation, its IT architecture and design are controlled, and changes managed." isPlanned="true" superActivities="_19zA4K8KEeSUf-NO_1Ayag" isOngoing="true" isSynchronizedWithSource="false" additionallyPerformedBy="_0EQ7ALCMEeSgVPmVL1L5GQ _0EQ7AbCMEeSgVPmVL1L5GQ _0EQ7ArCMEeSgVPmVL1L5GQ _0EQ7A7CMEeSgVPmVL1L5GQ" assistedBy="_12BzkLCMEeSgVPmVL1L5GQ _12BzkbCMEeSgVPmVL1L5GQ" mandatoryInput="_g15osLCMEeSgVPmVL1L5GQ _jGSDgLkqEeSeNe6SxZNlbg _oq3tcLkqEeSeNe6SxZNlbg" optionalInput="_m86qQLCMEeSgVPmVL1L5GQ _m86qQbCMEeSgVPmVL1L5GQ _m86qQrCMEeSgVPmVL1L5GQ" output="_uSmeYLCMEeSgVPmVL1L5GQ" performedPrimarilyBy="_w1GQULCMEeSgVPmVL1L5GQ">
+        <presentation xmi:id="-wk7wl4p-gCSpnxPCp4SOOA" href="uma://-An7GwUvEdxXgDf5obDFYtg#-wk7wl4p-gCSpnxPCp4SOOA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="__orJcLB4EeSgVPmVL1L5GQ" name="Gate 7" guid="__orJcLB4EeSgVPmVL1L5GQ" presentationName="Gate 7" briefDescription="A change is needed to a system in operation. This review ensures that the resulting change fits in with current systems and standards." superActivities="_19zA4K8KEeSUf-NO_1Ayag" isOngoing="true" linkToPredecessor="_Nd5nULCOEeSgVPmVL1L5GQ" requiredResults="_uSmeYLCMEeSgVPmVL1L5GQ">
+        <presentation xmi:id="-2ROaND5m53fN6BasjS916g" href="uma://-An7GwUvEdxXgDf5obDFYtg#-2ROaND5m53fN6BasjS916g"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_g15osLCMEeSgVPmVL1L5GQ" name="uam_ad_repository" guid="_g15osLCMEeSgVPmVL1L5GQ" presentationName="Architectural Decision Repository" briefDescription="The Architectural Decisions Repository stores all versions of enterprise, business domain and other levels of Architectural Decisions. It also stores all the derived data and metadata associated with the files and directories. It is not really a Work Product, in the UMA sense, but a part of the infrastructure supporting UAM." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_sn4YIGjyEeS7ieerwXbTqg"/>
+        <templates href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_691yINWpEdyLINQdtlJihw"/>
+        <templates href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kTjToMKyEdy4DtCs1YI90Q"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_J8vp4MoDEdy25fQyv59CjQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_m86qQLCMEeSgVPmVL1L5GQ" name="uam_in_it-strategy" guid="_m86qQLCMEeSgVPmVL1L5GQ" presentationName="IT Strategy" briefDescription="The businesses IT Strategy is the overall plan which consists of objective(s), principles and tactics relating to use of the technologies within the organization. This strategy focuses on the technologies and their use within the organization. The strategy is typically written down in a document. It is produced outside of UAM but is a very important input since it defines constraints for the IT architect." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FGDEwEMjEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_m86qQbCMEeSgVPmVL1L5GQ" name="uam_in_project-accept" guid="_m86qQbCMEeSgVPmVL1L5GQ" presentationName="System Acceptance" briefDescription="The &quot;system&quot; has been designed and built. Now the system is transitioned to operations, which includes a system acceptance." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_4dqIsLCCEeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_m86qQrCMEeSgVPmVL1L5GQ" name="uam_in_project-reqmt" guid="_m86qQrCMEeSgVPmVL1L5GQ" presentationName="Project Requirement" briefDescription="The Project Charter or Requirement defines the &quot;system&quot; to be architected and built. It outlines the roles and responsibilities of the participants, including stakeholders. It defines the project objectives and the authorities of the project manager. It is produced outside of UAM but is an important input into its processes." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <methodElementProperty xmi:id="_xw-3ETEKEeicW7C4KlClUw" name="descriptor_customization" value="2"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1R2GQEKgEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_uSmeYLCMEeSgVPmVL1L5GQ" name="uam_in_change-request" guid="_uSmeYLCMEeSgVPmVL1L5GQ" presentationName="Change Request" briefDescription="The &quot;system&quot; is under construction, or is in operation. An issue or problem requires a change to the system or the system architecture or design. This artifact documents this issue and the desired change." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_FZyWwJkIEeW4JN7mz-XSZg"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1UDokLCEEeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_w1GQULCMEeSgVPmVL1L5GQ" name="uam_tech_manager" guid="_w1GQULCMEeSgVPmVL1L5GQ" presentationName="Technical Manager" briefDescription="This role represents the involvement of management in the IT architecture process. These managers also represent the high-level technical stakeholders for the architecture. " isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag" modifies="_uSmeYLCMEeSgVPmVL1L5GQ">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ytv_AKjAEeSFIOC-Wm7nrA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_0EQ7ALCMEeSgVPmVL1L5GQ" name="uam_it-expert" guid="_0EQ7ALCMEeSgVPmVL1L5GQ" presentationName="IT Expert" briefDescription="This role provides detailed guidance and advice to IT architects on the current state of technology and on its direction and future state. They also represent the technical stakeholders." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_d5H60EgbEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_0EQ7AbCMEeSgVPmVL1L5GQ" name="uam_domain_architect" guid="_0EQ7AbCMEeSgVPmVL1L5GQ" presentationName="Business Line or Business Domain Architect" briefDescription="This role is responsible for Business Line or Business Domain level IT architectures, being involved in all the significant decisions regarding structure, behavior, interfaces, constraints and trade-offs at the business line or business domain level. " isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <methodElementProperty xmi:id="_xw-QATEKEeicW7C4KlClUw" name="descriptor_customization" value="2"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_XTWLgN_kEdynr9jlfK-aMA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#__TrU8NBOEdymj4NXv8-FYA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W4UEAMqpEdy25fQyv59CjQ"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PjkWoObaEdyjVoHXO3Mbfg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WjnjMFCREeOcVJX_gvTjyg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1pvrENTUEdyTfZVjf0InKw"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PYMCsP9oEdyU-O6u7AAPVw"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Z0M4gMK1Edy4DtCs1YI90Q"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_G1fJUOMCEdy7f9KmjDtwsA"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_sn4YIGjyEeS7ieerwXbTqg"/>
+        <supportingMaterials href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W0ahoM9uEdymj4NXv8-FYA"/>
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_YrJ-UMIcEdyMpOiGFnM_WA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WY_zYMKpEdy4DtCs1YI90Q"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_tjC3QMOdEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ifSCYNQFEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Py-hINT-EdyakOJbsHza1A"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Tms8ENWbEdyLINQdtlJihw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_uHNBcNM5EdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kuzOANNBEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_nOvbEMOyEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ON-wgPIOEdyIELoltz1wKA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_q3sZAMqoEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_aVecgE4mEeOcVJX_gvTjyg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1DXogLO2EeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_0EQ7ArCMEeSgVPmVL1L5GQ" name="uam_enterprise_architect" guid="_0EQ7ArCMEeSgVPmVL1L5GQ" presentationName="Enterprise Architect" briefDescription="This role is responsible for enterprise level architectures, being involved in all the significant decisions regarding structure, behavior, interfaces, constraints and trade-offs at the enterprise level." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_XTWLgN_kEdynr9jlfK-aMA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#__TrU8NBOEdymj4NXv8-FYA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W4UEAMqpEdy25fQyv59CjQ"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PjkWoObaEdyjVoHXO3Mbfg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WjnjMFCREeOcVJX_gvTjyg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1pvrENTUEdyTfZVjf0InKw"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Z0M4gMK1Edy4DtCs1YI90Q"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PYMCsP9oEdyU-O6u7AAPVw"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_G1fJUOMCEdy7f9KmjDtwsA"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_sn4YIGjyEeS7ieerwXbTqg"/>
+        <supportingMaterials href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W0ahoM9uEdymj4NXv8-FYA"/>
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_0yThIMIaEdyMpOiGFnM_WA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WY_zYMKpEdy4DtCs1YI90Q"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_tjC3QMOdEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ON-wgPIOEdyIELoltz1wKA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_q3sZAMqoEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ifSCYNQFEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Py-hINT-EdyakOJbsHza1A"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Tms8ENWbEdyLINQdtlJihw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_uHNBcNM5EdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kuzOANNBEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_nOvbEMOyEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_aVecgE4mEeOcVJX_gvTjyg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1DXogLO2EeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_0EQ7A7CMEeSgVPmVL1L5GQ" name="uam_project_architect" guid="_0EQ7A7CMEeSgVPmVL1L5GQ" presentationName="Business Unit or Project Architect" briefDescription="This role is responsible for Business Unit or Project level IT architectures, being involved in all the significant decisions regarding structure, behavior, interfaces, constraints and trade-offs at the business unit or project level." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WjnjMFCREeOcVJX_gvTjyg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PjkWoObaEdyjVoHXO3Mbfg"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_XTWLgN_kEdynr9jlfK-aMA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#__TrU8NBOEdymj4NXv8-FYA"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W4UEAMqpEdy25fQyv59CjQ"/>
+        <concepts href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1pvrENTUEdyTfZVjf0InKw"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Z0M4gMK1Edy4DtCs1YI90Q"/>
+        <examples href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_PYMCsP9oEdyU-O6u7AAPVw"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_G1fJUOMCEdy7f9KmjDtwsA"/>
+        <guidelines href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_sn4YIGjyEeS7ieerwXbTqg"/>
+        <supportingMaterials href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_W0ahoM9uEdymj4NXv8-FYA"/>
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_fzTQwFCPEeOcVJX_gvTjyg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_WY_zYMKpEdy4DtCs1YI90Q"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ON-wgPIOEdyIELoltz1wKA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ifSCYNQFEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_tjC3QMOdEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_q3sZAMqoEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_uHNBcNM5EdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_aVecgE4mEeOcVJX_gvTjyg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kuzOANNBEdyTfZVjf0InKw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Py-hINT-EdyakOJbsHza1A"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Tms8ENWbEdyLINQdtlJihw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_nOvbEMOyEdyILM4NThxMFg"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1DXogLO2EeSgVPmVL1L5GQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_12BzkLCMEeSgVPmVL1L5GQ" name="uam_business-expert" guid="_12BzkLCMEeSgVPmVL1L5GQ" presentationName="Business Expert" briefDescription="This role provides detailed guidance and advice to IT architects on the current state of the business and on its direction and future state. They also represent the business, that is, they are the business stakeholders." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_QDA0sEgdEeShYIpiBstbOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_12BzkbCMEeSgVPmVL1L5GQ" name="uam_support" guid="_12BzkbCMEeSgVPmVL1L5GQ" presentationName="Architecture Support" briefDescription="This role is responsible for managing the documents, and other workproducts, that describe the IT architecture, architecture decisions and other aspects." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <Role href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_QR1yEMmzEdyU89e0dKAsrw"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_J8vp4MoDEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ON-wgPIOEdyIELoltz1wKA"/>
+        <responsibleForExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_m51KkLeeEeSeNe6SxZNlbg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Nd5nULCOEeSgVPmVL1L5GQ" guid="_Nd5nULCOEeSgVPmVL1L5GQ" pred="_9nCo4LB4EeSgVPmVL1L5GQ"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_jGSDgLkqEeSeNe6SxZNlbg" name="uam_IT_architecture" guid="_jGSDgLkqEeSeNe6SxZNlbg" presentationName="IT Architecture" briefDescription="This deliverable defines the Work Products included in the final deliverable that completes the definition of the IT architecture at the specified level, namely, Business, Logical, or Technical." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <templates href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_691yINWpEdyLINQdtlJihw"/>
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Rr74ELkgEeSeNe6SxZNlbg"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_RRS6gMqQEdy25fQyv59CjQ"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_aVecgE4mEeOcVJX_gvTjyg"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_kuzOANNBEdyTfZVjf0InKw"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_ifSCYNQFEdyTfZVjf0InKw"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Py-hINT-EdyakOJbsHza1A"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_nOvbEMOyEdyILM4NThxMFg"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_1DXogLO2EeSgVPmVL1L5GQ"/>
+        <deliverablePartsExclude href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_Tms8ENWbEdyLINQdtlJihw"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_oq3tcLkqEeSeNe6SxZNlbg" name="uam_model_repository" guid="_oq3tcLkqEeSeNe6SxZNlbg" presentationName="Model Repository" briefDescription="The Model Repository stores all versions of enterprise, business domain and other levels of IT architectures. It also stores all the &quot;specification&quot; work products. It is not really a Work Product, in the UMA sense, but a part of the infrastructure supporting UAM." isPlanned="false" superActivities="_19zA4K8KEeSUf-NO_1Ayag">
+        <WorkProduct href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_m51KkLeeEeSeNe6SxZNlbg"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_YHA_kafREeS8vLSVufajPQ" name="uam_it_architecture_in-ent" guid="_YHA_kafREeS8vLSVufajPQ" presentationName="UAM in the Enterprise" briefDescription="This delivery process defines the recommended integration of UAM governance with existing IT planning and management process within the enterprise. Generic planning and management processes are defined to identify where IT architects and UAM deliverables will help improve decision making." shapeicon="deliveryprocesses/resources/UAMIcon32.png" nodeicon="deliveryprocesses/resources/UAM_Icon.png" hasMultipleOccurrences="true" isOngoing="true" breakdownElements="_iTW2kK8KEeSUf-NO_1Ayag _u12GwK8KEeSUf-NO_1Ayag _19zA4K8KEeSUf-NO_1Ayag">
+      <methodElementProperty xmi:id="_xxB6YDEKEeicW7C4KlClUw" name="process_synFree" value="true"/>
+      <presentation xmi:id="-An7GwUvEdxXgDf5obDFYtg" href="uma://-An7GwUvEdxXgDf5obDFYtg#-An7GwUvEdxXgDf5obDFYtg"/>
+      <roadmaps href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_p0Js0OCrEdynr9jlfK-aMA"/>
+      <roadmaps href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_0TknkGjpEeS7ieerwXbTqg"/>
+      <roadmaps href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_-b0P0FLMEeOqX59KziSQkQ"/>
+      <defaultContext href="uma://_pIuNEKv_Eem8vdVoHclNtA#_qZD9sMLQEdy4DtCs1YI90Q"/>
+      <validContext href="uma://_pIuNEKv_Eem8vdVoHclNtA#_qZD9sMLQEdy4DtCs1YI90Q"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

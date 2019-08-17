@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N_A3a4KFML6T529HCXOO8w" name="sprint_backlog,_Q5Ki8OF8Edyp34pwdTOSVQ" guid="-N_A3a4KFML6T529HCXOO8w" changeDate="2013-03-07T04:33:00.409-0500">
+  <mainDescription>&lt;h3>&#xD;
+    Sprint Backlog&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog is the set of Product Backlog items selected for the Sprint plus a plan for delivering the product&#xD;
+    Increment and realizing the Sprint Goal. The Sprint Backlog is a forecast by the Development Team about what&#xD;
+    functionality will be in the next Increment and the work needed to deliver that functionality.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog defines the work the Development Team will perform to turn Product Backlog items into a “Done”&#xD;
+    Increment. The Sprint Backlog makes visible all of the work that the Development Team identifies as necessary to meet&#xD;
+    the Sprint Goal.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog is a plan with enough detail that changes in progress can be understood in the Daily Scrum. The&#xD;
+    Development Team modifies Sprint Backlog throughout the Sprint, and the Sprint Backlog emerges during the Sprint. This&#xD;
+    emergence occurs as the Development Team works through the plan and learns more about the work needed to achieve the&#xD;
+    Sprint Goal.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As new work is required, the Development Team adds it to the Sprint Backlog. As work is performed or completed, the&#xD;
+    estimated remaining work is updated. When elements of the plan are deemed unnecessary, they are removed. Only the&#xD;
+    Development Team can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time&#xD;
+    picture of the work that the Development Team plans to accomplish during the Sprint, and it belongs solely to the&#xD;
+    Development Team.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Monitoring Sprint Progress&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    At any point in time in a Sprint, the total work remaining in the Sprint Backlog items can be summed. The Development&#xD;
+    Team tracks this total work remaining at least for every Daily Scrum. The Development Team tracks these sums daily and&#xD;
+    projects the likelihood of achieving the Sprint Goal. By tracking the remaining work throughout the Sprint, the&#xD;
+    Development Team can manage its progress.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum does not consider the time spent working on Sprint Backlog Items. The work remaining and date are the only&#xD;
+    variables of interest.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

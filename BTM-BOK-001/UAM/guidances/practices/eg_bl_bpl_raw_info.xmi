@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-J2sjSEqpNbChj1wBGo0W9A" name="new_bpl_entity,_Go3o0MMaEeKSedlRPHdUIQ" guid="-J2sjSEqpNbChj1wBGo0W9A" changeDate="2015-02-07T13:35:28.673-0500" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    &lt;a id=&quot;documentationSection&quot; name=&quot;documentationSection&quot;>&lt;/a>&lt;a id=&quot;documentationSection&quot;&#xD;
+    name=&quot;documentationSection&quot;>&lt;/a>This raw and open source information, gathered from the Internet and other sources, is&#xD;
+    what the research papers are based upon. Large amounts of raw information are gathered, stored and analyzed in the&#xD;
+    process of creating a research result. Raw information may be supplied by Partners and is also provided through&#xD;
+    subscriptions with information providers (e.g. Symantec for IT security information). &lt;a id=&quot;documentationSection&quot;&#xD;
+    name=&quot;documentationSection&quot;>&lt;/a>Open sources of information (e.g. company publication and descriptions of products,&#xD;
+    newspaper articles, etc.) are used as the basis for Research Reports.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h5>&#xD;
+    Attributes&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    none&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Relationships&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Employees author or produce&amp;nbsp;Reports.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

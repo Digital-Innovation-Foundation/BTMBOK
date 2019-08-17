@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QiwR4exZDL7IUhu36m0VPg" name="uam_technical_location,_cGSvQGX_EeSFL7Sh0MlmKA" guid="-QiwR4exZDL7IUhu36m0VPg" changeDate="2014-11-06T16:43:04.308-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    At the Technical level, locations are physical and therefore there is much more detail added to their definitions. For&#xD;
+    example, at Point-of-Presence (or ATM) will be defined in detail &lt;em>including&lt;/em> the specifics of their locations&#xD;
+    (deployment details). The activities or services provided at each location and the communications (relationships)&#xD;
+    between locations are defined in more detail, including non-functional aspects (i.e. bandwidths, volumes, and latency&#xD;
+    requirements).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The objective is to make this model easily understandable and usable by&amp;nbsp;technical people, but also to ensure that&#xD;
+    this level is understood and agreed to by all stakeholders.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_cGSvQWX_EeSFL7Sh0MlmKA" name="Clear name and description" guid="_cGSvQWX_EeSFL7Sh0MlmKA">
+    <sectionDescription>Ensure that the name for each location conveys its meaning and that the description supports this meaning. Business experts&#xD;
+and stakeholders are key to ensuring that this is the case, but Technical level technical details are included.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cGSvQmX_EeSFL7Sh0MlmKA" name="Activities and services are defined" guid="_cGSvQmX_EeSFL7Sh0MlmKA">
+    <sectionDescription>Define the services and activities provided at the location. This directly relates to the Technical Process Model where&#xD;
+these processes and activities are defined. The specifics of how and where activities and services are provided are&#xD;
+defined, with possible references to the Process Model.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cGSvRGX_EeSFL7Sh0MlmKA" name="Relationships (communications) between locations defined" guid="_cGSvRGX_EeSFL7Sh0MlmKA">
+    <sectionDescription>Relationships between&amp;nbsp;locations support the business: they support the business processes and the provision of&#xD;
+services to employees and customers. These relationships are define in terms of the type of communications and&#xD;
+characteristic such as importance (availability, etc.) and volumes. Logical level details are added such as protocols,&#xD;
+bandwidths, and allowed latencies.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cGSvQ2X_EeSFL7Sh0MlmKA" name="Structure complex locations" guid="_cGSvQ2X_EeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    A hierarchical set of model works very well to capture complex locations. Abstract these complex locations, and&#xD;
+    drill-down into the detail through hierarchies.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

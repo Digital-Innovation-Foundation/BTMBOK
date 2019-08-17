@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7gEOFFavlkSqwIoTNrvfJA" name="define_release_plan,{D755C076-8E63-4A24-89AA-A7D64E368B90}" guid="-7gEOFFavlkSqwIoTNrvfJA" version="1.0.0">
+  <sections xmi:id="_oOauMGE-EdqnIZeW8YpHcA" name="Preparation " guid="_oOauMGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Prep&quot; name=&quot;Prep&quot;>&lt;/a> 
+&lt;p>
+    The steps for this activity are part of XP release planning. In order for this activity to be successful, the following
+    preconditions should be met:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        The customer has enough user stories at present to fill at least one release.
+    &lt;/li>
+    &lt;li>
+        The customer understands the user stories very well.
+    &lt;/li>
+    &lt;li>
+        The customer has defined acceptance criteria for the stories.
+    &lt;/li>
+    &lt;li>
+        All team members that will be involved in developing the stories should be present.
+    &lt;/li>
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_oOauMWE-EdqnIZeW8YpHcA" name="Customer Presents the User Stories " guid="_oOauMWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    The customer describes each story to the team and explains the conditions under which the story is going to be
+    considered complete.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oOauMmE-EdqnIZeW8YpHcA" name="Developers Estimate the User Stories " guid="_oOauMmE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    The developers discuss each story and come up with an estimate based on their experience. High-level design discussions
+    take place as developers try to understand the story and discuss different ways of implementing it. In some cases, the
+    team will not be able to provide a reasonable estimate:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        They do not understand the story: the team should be asking more questions&amp;nbsp;to the customer.
+    &lt;/li>
+    &lt;li>
+        The story is too big: the developers don't have a good grasp of the scope. It should be broken down into smaller
+        stories.
+    &lt;/li>
+    &lt;li>
+        They don't know how to do it: they will need to do some research first.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    Be careful to avoid analysis paralysis. The first few times the team estimates stories, it may take as long as an hour
+    to estimate a story. The second story should take less time. Your goal should be to be able to estimate a story in only
+    a few minutes.
+&lt;/p>
+&lt;p>
+    As a rule of thumb, story estimates should not exceed the iteration length based on a pair of people dedicated to the
+    story. When stories exceed the iteration length, the customer splits the story.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oOg00GE-EdqnIZeW8YpHcA" name="Customer Prioritizes Stories " guid="_oOg00GE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step3&quot; name=&quot;Step3&quot;>&lt;/a> 
+&lt;p>
+    Once all the stories have an estimated cost, the customer can prioritize the stories into the release plan.The customer
+    organizes stories into iterations and sequences of iterations into releases. The sum of all story points in each
+    iteration cannot exceed the team's velocity. At the beginning of the project, you will have to guess the team's
+    velocity. Try one third of the ideal programmer time available in an iteration. After a few iterations, revisit the
+    plan and use the team's measured velocity. See more on release planning in the &lt;a class=&quot;elementLinkWithUserText&quot;
+    href=&quot;./../../xp/guidances/guidelines/planning_game,6.7335956461328426E-307.html&quot;
+    guid=&quot;6.7335956461328426E-307&quot;>planning game guideline&lt;/a>.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_define_release__activity_definition&quot; name=&quot;XE_define_release__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To estimate the content and delivery date for a release of the product.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

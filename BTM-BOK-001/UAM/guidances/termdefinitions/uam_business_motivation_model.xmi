@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-i_h32TlmWAS996iOXG72bQ" name="uam_business_motivation_model,_CE3mIMI-EeKSedlRPHdUIQ" guid="-i_h32TlmWAS996iOXG72bQ" changeDate="2013-05-21T13:44:13.041-0400" version="7.5.1">
+  <mainDescription>OMG defines the Business Motivation Model as:&amp;nbsp;&lt;br />&#xD;
+&amp;nbsp;&lt;br />&#xD;
+“[A] specification [that] provides a scheme or structure for developing, communicating, and managing business plans in an&#xD;
+organized manner. Specifically, the Business Motivation Model does all of the following: &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        It identifies factors that motivate the establishing of business plans.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        It identifies and defines the elements of business plans.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        It indicates how all these factors and elements inter-relate.”&amp;nbsp; (&lt;a href=&quot;http://www.omg.org/spec/#BM&quot;&#xD;
+        target=&quot;_blank&quot;>OMG 2010&lt;/a>)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Other definitions broaden this concept and meaning: “The Enterprise Business Motivation Model (EBMM) is a conceptual&#xD;
+    information model, described using UML, that captures the relationships between the business drivers, business models,&#xD;
+    business processes, and business units that make up a typical commercial organization (&lt;a&#xD;
+    href=&quot;http://motivationmodel.com/&quot; target=&quot;_blank&quot;>Malik 2009&lt;/a>).” The OMG definition has been around for a number of&#xD;
+    years; however there is no consensus in this evolving area.&lt;br />&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

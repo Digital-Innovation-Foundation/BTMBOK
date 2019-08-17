@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FaP3sC0JKNPzZHOkS-UW0A" name="test_first_design,_s7YkUBD2EdyfbNOwzwtrjw" guid="-FaP3sC0JKNPzZHOkS-UW0A" changeDate="2007-06-05T17:58:02.750-0400">
+  <mainDescription>&lt;p>&#xD;
+    Test-first design is the practice of writing&amp;nbsp;developer tests and&amp;nbsp;implementation code concurrently and at a&#xD;
+    very fine level of granularity.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In test-first design, the developer first writes a small portion of a&amp;nbsp;developer test, and then writes just&#xD;
+    enough&amp;nbsp;implementation code to make that&amp;nbsp;developer test compile and execute. Then they write a little bit more&#xD;
+    of the test and then add enough code to make that new bit compile and pass. This cycle can last somewhere between 30&#xD;
+    seconds and five minutes. Rarely does it grow to ten minutes. In each cycle, the tests come first. Once a unit test is&#xD;
+    done, the&amp;nbsp;developer goes on to the next test until there are no more tests to be written for the implementation of&#xD;
+    the work item currently under development.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The practice of test-first&amp;nbsp;design changes how&amp;nbsp;the developer&amp;nbsp;thinks. Tests are not written as an&#xD;
+    afterthought. Instead, developer tests are written as part of the everyday, every minute way of building software.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    What are&amp;nbsp;the advantages of test-first design?&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Assumptions in the design are analyzed before the implementation code is written. To write developer tests, an&#xD;
+        examination must be made of the behavior of each piece of code to be written, correct and incorrect behaviors must&#xD;
+        be defined. In&amp;nbsp;a way, writing the tests before the code can be considered a version of detailed design.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Code units designed&amp;nbsp;for testability up front are cleaner and more loosely coupled.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Errors&amp;nbsp;are found earlier. Errors or gaps in the requirements and design are identified before coding begins&#xD;
+        when it could be more tempting to move ahead based on assumptions.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A clearer&amp;nbsp;collaboration strategy between the developer and others that might be responsible for the&#xD;
+        requirements, architecture, and design is put in place.&amp;nbsp;During the creation of the tests, there must be a&#xD;
+        meeting of the minds as to what&amp;nbsp;has been specified. After that, the implementation can carry on with&#xD;
+        confidence that there is a shared vision of what the code should do.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        There are unambiguous criteria for completion of the code. When the tests pass, the code is working as specified.&#xD;
+        Non-functional quality dimensions can be dealt with separately, but there is a clear moment when the code behaves&#xD;
+        correctly.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The technique drives the developer to work in smaller increments with faster quality feedback. At any time the&#xD;
+        developer is just one test away from having error-free code.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        There is a separation of concerns and effort between getting code working and improving the quality of the code&#xD;
+        that already runs correctly. Separating out these two areas of concern provides focus and time management support&#xD;
+        to a developer who in one pass over the implementation makes it pass the tests as simply as possible and then in a&#xD;
+        subsequent pass, looks for areas to improve.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

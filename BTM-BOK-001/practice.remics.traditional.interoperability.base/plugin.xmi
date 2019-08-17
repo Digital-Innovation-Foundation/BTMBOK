@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MRenMMCTEemv0a6P8REMBA" guid="_MRenMMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MRenMsCTEemv0a6P8REMBA" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/interoperability.xmi"/>
+    <resourceDescriptors xmi:id="_MRenM8CTEemv0a6P8REMBA" id="-gulMFsqtGcj-M0sUP-P6Gw" uri="tasks/Identify_interoperability_problems_scenarios.xmi"/>
+    <resourceDescriptors xmi:id="_MRnxIMCTEemv0a6P8REMBA" id="-fMROuynjQ1IJ4fBlb14iWA" uri="tasks/define_interoperability_related_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_MRnxIcCTEemv0a6P8REMBA" id="-44wYW_sRgXamrvfDcpz4Ww" uri="tasks/perform_interoperability_analysis.xmi"/>
+    <resourceDescriptors xmi:id="_MRnxIsCTEemv0a6P8REMBA" id="-sewmHs4XFy3iAWCdNDYOgw" uri="tasks/implement_interoperability_components.xmi"/>
+    <resourceDescriptors xmi:id="_MRnxI8CTEemv0a6P8REMBA" id="-iB0KAmeaEEbNq9oL4NUIlw" uri="tasks/interoperability_monitoring.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_x_nakMvjEeCphdH9-OcbCA" name="practice.remics.traditional.interoperability.base" guid="_x_nakMvjEeCphdH9-OcbCA" changeDate="2013-01-11T07:18:53.139-0500">
+    <methodElementProperty xmi:id="_MReAIMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_nakcvjEeCphdH9-OcbCA" name="Content" guid="_x_nakcvjEeCphdH9-OcbCA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_naksvjEeCphdH9-OcbCA" name="Categories" guid="_x_naksvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_nak8vjEeCphdH9-OcbCA" name="Domains" guid="_x_nak8vjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_nalMvjEeCphdH9-OcbCA" name="Disciplines" guid="_x_nalMvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_nalcvjEeCphdH9-OcbCA" name="RoleSets" guid="_x_nalcvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_nalsvjEeCphdH9-OcbCA" name="WP Types" guid="_x_nalsvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_nal8vjEeCphdH9-OcbCA" name="Tools" guid="_x_nal8vjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_namMvjEeCphdH9-OcbCA" name="StandardCategories" guid="_x_namMvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_namcvjEeCphdH9-OcbCA" name="CustomCategories" guid="_x_namcvjEeCphdH9-OcbCA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_namsvjEeCphdH9-OcbCA" name="Hidden" guid="_x_namsvjEeCphdH9-OcbCA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_x_nam8vjEeCphdH9-OcbCA" name="Custom Categories" guid="_x_nam8vjEeCphdH9-OcbCA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x_nanMvjEeCphdH9-OcbCA" name="CoreContent" guid="_x_nanMvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_3cXMQP4ZEeCPJr8QQpNd-A" name="interoperability" guid="_3cXMQP4ZEeCPJr8QQpNd-A" presentationName="Interoperability">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_6Wdl4P4ZEeCPJr8QQpNd-A" name="interoperability" guid="_6Wdl4P4ZEeCPJr8QQpNd-A" presentationName="Interoperability" briefDescription="This activity address the iteroperability problems that may appear as part of the migration to the cloud and the implementation of addtional features during the migration effort." contentReferences="_T0SGQP4pEeC6H_i-fGXOUw _NwbGYP4pEeC6H_i-fGXOUw _bpfvAP4pEeC6H_i-fGXOUw _gS5jEP4pEeC6H_i-fGXOUw _X7dXAP4pEeC6H_i-fGXOUw">
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NwbGYP4pEeC6H_i-fGXOUw" name="Identify_interoperability_problems_scenarios" guid="_NwbGYP4pEeC6H_i-fGXOUw" presentationName="Identify interoperability problems/scenarios">
+            <presentation xmi:id="-gulMFsqtGcj-M0sUP-P6Gw" href="uma://-gulMFsqtGcj-M0sUP-P6Gw#-gulMFsqtGcj-M0sUP-P6Gw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_sm3QYMvnEeCphdH9-OcbCA"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_nVBIsP4uEeC6H_i-fGXOUw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_rpcLQP4uEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_XtUkoP46EeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_T0SGQP4pEeC6H_i-fGXOUw" name="define_interoperability_related_requirements" guid="_T0SGQP4pEeC6H_i-fGXOUw" presentationName="Define interoperability related requirements">
+            <presentation xmi:id="-fMROuynjQ1IJ4fBlb14iWA" href="uma://-fMROuynjQ1IJ4fBlb14iWA#-fMROuynjQ1IJ4fBlb14iWA"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_WDevcP4uEeC6H_i-fGXOUw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_sm3QYMvnEeCphdH9-OcbCA"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_XtUkoP46EeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_X7dXAP4pEeC6H_i-fGXOUw" name="perform_interoperability_analysis" guid="_X7dXAP4pEeC6H_i-fGXOUw" presentationName="perform interoperability analysis ">
+            <presentation xmi:id="-44wYW_sRgXamrvfDcpz4Ww" href="uma://-44wYW_sRgXamrvfDcpz4Ww#-44wYW_sRgXamrvfDcpz4Ww"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_LoQswP45EeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_p6LzIP45EeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bpfvAP4pEeC6H_i-fGXOUw" name="implement_interoperability_components" guid="_bpfvAP4pEeC6H_i-fGXOUw" presentationName="Implement interoperability components ">
+            <presentation xmi:id="-sewmHs4XFy3iAWCdNDYOgw" href="uma://-sewmHs4XFy3iAWCdNDYOgw#-sewmHs4XFy3iAWCdNDYOgw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_XtUkoP46EeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_OJvd8P4sEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_0Q8MkP4uEeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gS5jEP4pEeC6H_i-fGXOUw" name="interoperability_monitoring" guid="_gS5jEP4pEeC6H_i-fGXOUw" presentationName="Interoperability monitoring">
+            <presentation xmi:id="-iB0KAmeaEEbNq9oL4NUIlw" href="uma://-iB0KAmeaEEbNq9oL4NUIlw#-iB0KAmeaEEbNq9oL4NUIlw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_XtUkoP46EeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_GRVrYP45EeC6H_i-fGXOUw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_x_nancvjEeCphdH9-OcbCA" name="CapabilityPatterns" guid="_x_nancvjEeCphdH9-OcbCA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_x_nansvjEeCphdH9-OcbCA" name="DeliveryProcesses" guid="_x_nansvjEeCphdH9-OcbCA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_x_nan8vjEeCphdH9-OcbCA" name="ProcessContributions" guid="_x_nan8vjEeCphdH9-OcbCA"/>
+    <bases href="uma://_bvPv0MvjEeCphdH9-OcbCA#_bvPv0MvjEeCphdH9-OcbCA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

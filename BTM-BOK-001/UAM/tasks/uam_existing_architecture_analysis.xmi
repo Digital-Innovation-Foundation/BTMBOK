@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LF4VyUO4KZCUlSQ1SO7ZJg" name="uam_existing_architecture_analysis,_r4ENsMqkEdy25fQyv59CjQ" guid="-LF4VyUO4KZCUlSQ1SO7ZJg" authors="DW Enstrom " changeDate="2014-11-05T17:15:20.870-0500" changeDescription="new" version="1.0.2">
+  <mainDescription>&lt;p>&#xD;
+    Existing Architecture Analysis is the process of leveraging existing architectural assets (e.g. existing architecture&#xD;
+    definitions within the enterprise) as well as industry or enterprise standards, models and assets in order speed up the&#xD;
+    definition of a new IT architecture. Using&amp;nbsp;this bottom-up approach, Existing Architecture Analysis identifies and&#xD;
+    validates candidate roles, functions, entities, locations&amp;nbsp;and flows. Technical constraints related to existing&#xD;
+    systems should also be evaluated, again for speeding up the architecture process and for risk management&#xD;
+    purposes.&amp;nbsp;Analyzing technical and enterprise (AD)&amp;nbsp;constraints should be done early in this analysis.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If an Architectural Summary has already been defined, then this task (following the steps defined below) updates it&#xD;
+    based upon the new and revised IT Architecture models.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_mcWhAMqmEdy25fQyv59CjQ" name="Identify Components &amp; Patterns" guid="_mcWhAMqmEdy25fQyv59CjQ">
+    <sectionDescription>&lt;p>&#xD;
+    This first step involves a quick review of existing architecture or project documentation of existing assets. The&#xD;
+    architectural components, in terms of business entities, business processes, business locations and business roles are&#xD;
+    identified. Similarly the components at the logical and technology layers are identified and documentation extracted&#xD;
+    (i.e. logical/technical data, logical/technical processes, logical/technical systems and logical/technical roles).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Architectural patterns are also identified (e.g. n-tier or client-server, etc.).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Enough information is extracted to support the next step.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_s8IA0MqmEdy25fQyv59CjQ" name="Document Components &amp; Patterns" guid="_s8IA0MqmEdy25fQyv59CjQ">
+    <sectionDescription>&lt;p>&#xD;
+    This step uses the extracted information from the previous step to produce an architectural summary document. The&#xD;
+    relevant architectural components, in terms of business entities, business functions, business locations and business&#xD;
+    roles are documented. Architectural patterns are also documented (e.g.n-tier or client-server, etc.).&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_wJNA0MqmEdy25fQyv59CjQ" name="Structure Components &amp; Patterns" guid="_wJNA0MqmEdy25fQyv59CjQ">
+    <sectionDescription>The now documented architectural components are structured in terms of interdependencies and interactions, completing the&#xD;
+summary of the architectural extract.</sectionDescription>
+  </sections>
+  <purpose>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        To identify the architectural components and patterns of existing solutions;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To document those applicable to the context of the analysis;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To define the structure and&amp;nbsp;dependencies of these components.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

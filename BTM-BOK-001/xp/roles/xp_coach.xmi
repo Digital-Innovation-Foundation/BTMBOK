@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gAMIwaLmqX7bf6GLCqwB-g" name="xp_coach,{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}" guid="-gAMIwaLmqX7bf6GLCqwB-g" changeDate="2006-11-09T16:28:38.381-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp_coach__role_definition&quot; name=&quot;XE_xp_coach__role_definition&quot;>&lt;/a>&lt;a id=&quot;Description&quot; name=&quot;Description&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}&quot;>XP Coach&lt;/a> role helps a team stay on&#xD;
+    process and helps the team to learn. A coach brings an outside perspective to help a team see themselves more clearly.&#xD;
+    The coach will help balance the needs of delivering the project while improving the use of the practices. A coach or&#xD;
+    team of coaches supports the Customer Team, the Developer Team, and the Organization.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The decisions that coaches make should always stem from the XP values (communication, simplicity, feedback, and&#xD;
+    courage) and usually move toward the XP practices. As such, familiarity with the values and practices is a&#xD;
+    prerequisite. The coach must command the respect required to lead the respective teams. The coach must possess people&#xD;
+    skills and be effective in influencing the actions of the teams.&#xD;
+&lt;/p></mainDescription>
+  <skills>&lt;a id=&quot;Skills&quot; name=&quot;Skills&quot;>&lt;/a> 
+&lt;p>
+    The &lt;a class=&quot;PresentationName&quot; href=&quot;./../../xp/roles/xp_coach,{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}.html&quot; guid=&quot;{9C440605-FF0E-4D37-A774-BBF8B5F47AB6}&quot;>XP Coach&lt;/a> uses many different techniques. The coach is a mentor,
+    working side by side with team members on their tasks. The coach is a facilitator, helping achieve more effective team
+    performance. The coach is a conduit, reinforcing communication within the team and across teams.
+&lt;/p></skills>
+</org.eclipse.epf.uma:RoleDescription>

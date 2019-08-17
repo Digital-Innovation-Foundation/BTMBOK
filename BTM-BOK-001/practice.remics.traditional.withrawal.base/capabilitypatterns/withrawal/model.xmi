@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MQtyMMCTEemv0a6P8REMBA" guid="_MQtyMMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MQtyMcCTEemv0a6P8REMBA" id="-lZQsKtAsEhvBH9ONT4Zzdw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_MQwOcMCTEemv0a6P8REMBA" id="-x2tA1nbiiLxvaQQTdBGWOw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_MQwOccCTEemv0a6P8REMBA" id="-3Lr0qNd2c74c7mk-iNPM5Q" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_J3EsIDO9EeK5hZv7WCtlvg" name="withrawal" guid="_J3EsIDO9EeK5hZv7WCtlvg">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Ll4-YDO9EeK5hZv7WCtlvg" name="identify_withdrawal_procedures" guid="_Ll4-YDO9EeK5hZv7WCtlvg" presentationName="Identify withdrawal procedures" superActivities="_J3EsITO9EeK5hZv7WCtlvg" output="_Ll5lcTO9EeK5hZv7WCtlvg">
+      <presentation xmi:id="-lZQsKtAsEhvBH9ONT4Zzdw" href="uma://-lZQsKtAsEhvBH9ONT4Zzdw#-lZQsKtAsEhvBH9ONT4Zzdw"/>
+      <Task href="uma://_nuiMUMvjEeCphdH9-OcbCA#_lb1LwP4pEeC6H_i-fGXOUw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Ll5lcDO9EeK5hZv7WCtlvg" name="implement_withdrawal_procedures" guid="_Ll5lcDO9EeK5hZv7WCtlvg" presentationName="Implement withdrawal procedures" superActivities="_J3EsITO9EeK5hZv7WCtlvg" mandatoryInput="_Ll5lcTO9EeK5hZv7WCtlvg" output="_Ll5lczO9EeK5hZv7WCtlvg _Ll5ldTO9EeK5hZv7WCtlvg">
+      <presentation xmi:id="-x2tA1nbiiLxvaQQTdBGWOw" href="uma://-lZQsKtAsEhvBH9ONT4Zzdw#-x2tA1nbiiLxvaQQTdBGWOw"/>
+      <Task href="uma://_nuiMUMvjEeCphdH9-OcbCA#_qRR3wP4pEeC6H_i-fGXOUw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Ll5lcTO9EeK5hZv7WCtlvg" name="withdrawal_infrastructure" guid="_Ll5lcTO9EeK5hZv7WCtlvg" presentationName="Withdrawal Infrastructure" isPlanned="false" superActivities="_J3EsITO9EeK5hZv7WCtlvg">
+      <methodElementProperty xmi:id="_MQwOcsCTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_bvPv0MvjEeCphdH9-OcbCA#_22bVMP47EeC6H_i-fGXOUw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Ll5lczO9EeK5hZv7WCtlvg" name="component_description" guid="_Ll5lczO9EeK5hZv7WCtlvg" presentationName="Component Description" isPlanned="false" superActivities="_J3EsITO9EeK5hZv7WCtlvg">
+      <methodElementProperty xmi:id="_MQwOc8CTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_bvPv0MvjEeCphdH9-OcbCA#_OJvd8P4sEeC6H_i-fGXOUw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Ll5ldTO9EeK5hZv7WCtlvg" name="component_implementation_design" guid="_Ll5ldTO9EeK5hZv7WCtlvg" presentationName="Component Implementation Design" isPlanned="false" superActivities="_J3EsITO9EeK5hZv7WCtlvg">
+      <methodElementProperty xmi:id="_MQwOdMCTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_bvPv0MvjEeCphdH9-OcbCA#_0Q8MkP4uEeC6H_i-fGXOUw"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_J3EsITO9EeK5hZv7WCtlvg" name="withrawal" guid="_J3EsITO9EeK5hZv7WCtlvg" presentationName="withrawal" breakdownElements="_Ll4-YDO9EeK5hZv7WCtlvg _Ll5lcDO9EeK5hZv7WCtlvg _Ll5lcTO9EeK5hZv7WCtlvg _Ll5lczO9EeK5hZv7WCtlvg _Ll5ldTO9EeK5hZv7WCtlvg">
+      <presentation xmi:id="-3Lr0qNd2c74c7mk-iNPM5Q" href="uma://-lZQsKtAsEhvBH9ONT4Zzdw#-3Lr0qNd2c74c7mk-iNPM5Q"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

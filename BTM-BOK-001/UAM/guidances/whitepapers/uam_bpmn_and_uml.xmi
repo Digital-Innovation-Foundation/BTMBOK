@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-2lxfJU-epSt3PNFZ4D9BXA" name="new_whitepaper,_HP2u0JRBEeSlyo3TTf8Big" guid="-2lxfJU-epSt3PNFZ4D9BXA" changeDate="2015-10-17T09:38:20.423-0400" version="7.5.1">
+  <mainDescription>&lt;a id=&quot;XE_BPMN__and_UML&quot; name=&quot;XE_BPMN__and_UML&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The research work of Wil van der Aalst, Arthur ter Hofstede, Bartek Kiepuszewski, and Alistair Barros has resulted in&#xD;
+    the identification of 21 workflow patterns that describe the behavior of business processes. The referenced&amp;nbsp;paper&#xD;
+    reviews how two graphical process modeling notations, the BPMN Business Process Diagram from the Business Process&#xD;
+    Management Initiative (BPMI), and the UML 2.0 Activity Diagram from the Object Management Group (OMG), can represent&#xD;
+    the workflow patterns. The solutions of the two notations are compared for technical ability to represent the patterns&#xD;
+    as well as their readability.&#xD;
+&lt;/p></mainDescription>
+  <attachments>&lt;a href=&quot;http://www.bptrends.com/process-modeling-notations-and-workflow-patterns/&quot;>Process Modeling Notations and Workflow Patterns &lt;/a>|&lt;a href=&quot;http://www.workflowpatterns.com/documentation/&quot;>Workflow Patterns documentation&lt;/a></attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

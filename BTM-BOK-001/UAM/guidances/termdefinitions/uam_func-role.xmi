@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rFQixAoe9FWIUCTkITUtpA" name="new_term_definition,_8Uq7sPvGEeOyDIZvZjuaLg" guid="-rFQixAoe9FWIUCTkITUtpA" changeDate="2014-11-24T11:41:57.104-0500" version="7.5.1">
+  <mainDescription>A Role tied to a subject’s primary job function within the organization, but not necessarily reported in the human&#xD;
+resources system. Therefore, all organizational roles in the enterprise are functional roles, but not all functional roles&#xD;
+are organizational roles, for example &lt;i>HR Manager&lt;/i>, or &lt;i>Financial Analyst&lt;/i> — they are defined as a noun within&#xD;
+UAM. Also see definitions for: &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_role_F41637E3.html&quot; guid=&quot;_4cjbMOPNEdy7f9KmjDtwsA&quot;>Role&lt;/a>, &lt;a&#xD;
+class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_context-role_B9C4F862.html&quot;&#xD;
+guid=&quot;_1lsiQPvGEeOyDIZvZjuaLg&quot;>Contextual Role&lt;/a> and &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_function_DF78CF3E.html&quot; guid=&quot;_wPHXcMI7EeKSedlRPHdUIQ&quot;>Business&#xD;
+Function&lt;/a>. Also see: &lt;a href=&quot;http://en.wikipedia.org/wiki/Role-based_access_control&quot; target=&quot;_blank&quot;>Role-Based Access&#xD;
+Control&lt;/a>&amp;nbsp;on Wikipedia. &#xD;
+&lt;p>&#xD;
+    In order to avoid confusion between functional roles and contextual roles the following conventions have been adopted:&#xD;
+    Functional and organizational roles will always be expressed as nouns (e.g. &lt;em>TigerTeam&lt;/em>); Contextual roles will&#xD;
+    always be expressed as verbs (e.g. &lt;em>Collaborating&lt;/em>). This rule reflects the core differences between the role&#xD;
+    types: functional (and organizational) roles really do refer to persons, places, or things; contextual roles are&#xD;
+    actions performed by a subject on an object.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Roles are used as the fundamental method for defining access permissions to protected objects (i.e. RBAC, see: &lt;a&#xD;
+    href=&quot;http://en.wikipedia.org/wiki/Role-based_access_control&quot; target=&quot;_blank&quot;>Role-Based Access Control&lt;/a>&amp;nbsp;on&#xD;
+    Wikipedia).&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-z1vXT_JPCuw62mQI0DEUqA" name="eg_bl_lpl_part-location,_ciQBJpsJEeOMG9JzPmKf0Q" guid="-z1vXT_JPCuw62mQI0DEUqA" changeDate="2015-02-07T13:17:44.235-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;ThuNorTech Partner Locations Model&quot; src=&quot;./resources/BL-Logical-LLM-Partner.png&quot; width=&quot;372&quot;&#xD;
+    height=&quot;200&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the Activities and other elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot;&#xD;
+    src=&quot;./resources/Drill%20Down-33.jpg&quot; width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p></problem>
+  <goals>&lt;h4>&#xD;
+    Partner&amp;nbsp;Zone&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Defines the ThuNorTech's point of presence at a Partner's site. This is a typical view, with details adapted to each&#xD;
+    Partner's situation and environment. The Internet is a separate Domain, and may be used to support the HQ-Partner Comms&#xD;
+    shown, however the ThuNorTech presence at select Customers and Partners are part of the ThuNorTech Domain since they&#xD;
+    define the policies and rules around their&amp;nbsp; access and use. Features are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A ThuNorTech supplied and managed desktop located at the Partner's location, used to provided liaison&amp;nbsp;and&#xD;
+        support for the partnership.;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A ThuNorTech supplied and supported printer located at the Partner's site;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A communication link to ThuNorTech HQ, that may be composed of multiple WAN links or other details.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></goals>
+</org.eclipse.epf.uma:PracticeDescription>

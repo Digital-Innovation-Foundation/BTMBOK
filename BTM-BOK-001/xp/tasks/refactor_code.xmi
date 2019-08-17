@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IoT5LZUu3vnNFp-pwPUMHA" name="refactor_code,{3DD335BB-45F6-49C7-B17A-90652C73A485}" guid="-IoT5LZUu3vnNFp-pwPUMHA" version="1.0.0">
+  <sections xmi:id="_oCr_UGE-EdqnIZeW8YpHcA" name="Identify Poor Design " guid="_oCr_UGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    While developing, requirements change and previous design decisions can be invalidated. A new feature is added, you get
+    it to work, but the structure and clarity of the code can degrade. You could leave it, and the design will slowly rot,
+    or you could improve the design on the spot. Refactoring is about improving the design.
+&lt;/p>
+&lt;p>
+    A simple design has these four characteristics, listed in priority order:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        The system runs all the tests.
+    &lt;/li>
+    &lt;li>
+        It contains no duplicate code.
+    &lt;/li>
+    &lt;li>
+        The code states the programmers' intent very clearly.
+    &lt;/li>
+    &lt;li>
+        It contains the fewest possible number of classes and methods.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    A good resource for gaining refactoring knowledge is Martin Fowler's book: &lt;i>Refactoring - Improving the Design of
+    Existing Code&lt;/i> [&lt;a class=&quot;elementLinkWithUserText&quot;
+    href=&quot;./../../xp/guidances/supportingmaterials/xp_and_agile_process_references,6.191633934532389E-306.html#FOW99&quot;
+    guid=&quot;6.191633934532389E-306&quot;>FOW99&lt;/a>]. Martin discusses the idea of bad code smells, how to detect them, what harm
+    they will do to your software, and how to fix them.
+&lt;/p>
+&lt;p>
+    During development, you should look at the code refactoring with an open mind and find its weaknesses. Clarify the
+    code; fix what needs to be fixed. As you discover these smells, you should work to eliminate them before proceeding to
+    the next test case. Save some time before you check-in your code to step back and look it over. Identify duplicate code
+    sections and places where the design intent is not clear.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oCr_UWE-EdqnIZeW8YpHcA" name="Refactor " guid="_oCr_UWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    Refactoring involves making changes to your code which improve its structure without modifying its behavior. Martin
+    Fowler's Refactoring book lists over sixty refactorings to handle particular code situations. The goal of each of them
+    is to reduce duplication in the code base and increase clarity. Leave your code clean, simple, and free from
+    duplication.
+&lt;/p>
+&lt;p>
+    As the structure of your code base evolves, you choose names which aid your understanding of the functionality
+    specified by the code. This system of names becomes the vocabulary for your team's discussion of design.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_refactor_code__activity_definition&quot; name=&quot;XE_refactor_code__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To keep the design of the system clear and ready for change.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

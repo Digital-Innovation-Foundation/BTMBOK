@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ODwfL_76q1BqIbnUPrKd7Q" name="uam_logical_activity,_szZX-GX6EeSFL7Sh0MlmKA" guid="-ODwfL_76q1BqIbnUPrKd7Q" changeDate="2014-11-06T16:36:47.898-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    Logical activities and processes are at the heart of any IT architecture and care should be taken to ensure that they&#xD;
+    are accurately captured.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    An important objective is to make this model easily consumable by business people, with the goal to ensuring that this&#xD;
+    level is understood and agreed to by all stakeholders.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_szZX-mX6EeSFL7Sh0MlmKA" name="Clear name and description" guid="_szZX-mX6EeSFL7Sh0MlmKA">
+    <sectionDescription>Ensure that the name for the activity or process conveys its meaning and that the description supports this meaning.&#xD;
+Business experts and stakeholders are key to ensuring that this is the case, however the prime audience is now technical&#xD;
+people, therefore a more technical approach is taken to their structure and definition.</sectionDescription>
+  </sections>
+  <sections xmi:id="_szZX_GX6EeSFL7Sh0MlmKA" name="Process ownership is defined" guid="_szZX_GX6EeSFL7Sh0MlmKA">
+    <sectionDescription>In this age of totally interconnected systems it is imperative that the owners of activities and processes are identified&#xD;
+since they must be involved in making decisions regarding the implementation, usage and protections afforded to them.&#xD;
+Business experts provide advice on their definitions, but the process owners make final decisions especially where there is&#xD;
+confusion or when important aspects need be updated.</sectionDescription>
+  </sections>
+  <sections xmi:id="_szZX-WX6EeSFL7Sh0MlmKA" name="Business events and the process" guid="_szZX-WX6EeSFL7Sh0MlmKA">
+    <sectionDescription>Logical Processes are often triggered by Logical Entities, the arrival of an Invoice for example will trigger the &quot;Bill&#xD;
+Payment&quot; process. This should be captured at an appropriate level of detail.</sectionDescription>
+  </sections>
+  <sections xmi:id="_szZX-2X6EeSFL7Sh0MlmKA" name="Define important entities" guid="_szZX-2X6EeSFL7Sh0MlmKA">
+    <sectionDescription>Activities and processes produce and consume entities, if this is important then the entities and this usage should be&#xD;
+captured. Having a lot of entities on the process diagram gets very confusing and doesn't add value, so only add them to&#xD;
+the process model diagram if they are important to understanding the model.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MmAswMCTEemv0a6P8REMBA" guid="_MmAswMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MmAswsCTEemv0a6P8REMBA" id="-l2KcymlFwMtkERAVxqxmQg" uri="guidances/toolmentors/redseeds_user_guide.xmi"/>
+    <resourceDescriptors xmi:id="_MmAsw8CTEemv0a6P8REMBA" id="-I3y0J3LKJWUBXDV0gED5fQ" uri="tasks/complete_the_code.assign.xmi"/>
+    <resourceDescriptors xmi:id="_MmKdwMCTEemv0a6P8REMBA" id="-4l3DawaVMajTCfyJgKUPkw" uri="tasks/psm_transformation.assign.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_6sDqEFmFEeKrerZnFJznjw" name="toolmentor.remics.migrate.extend_redseeds-tecnalia" guid="_6sDqEFmFEeKrerZnFJznjw" changeDate="2013-01-15T02:48:24.717-0500">
+    <methodElementProperty xmi:id="_Ml-3kMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqEVmFEeKrerZnFJznjw" name="Content" guid="_6sDqEVmFEeKrerZnFJznjw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqElmFEeKrerZnFJznjw" name="Categories" guid="_6sDqElmFEeKrerZnFJznjw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqE1mFEeKrerZnFJznjw" name="Domains" guid="_6sDqE1mFEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqFFmFEeKrerZnFJznjw" name="Disciplines" guid="_6sDqFFmFEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqFVmFEeKrerZnFJznjw" name="RoleSets" guid="_6sDqFVmFEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqFlmFEeKrerZnFJznjw" name="WP Types" guid="_6sDqFlmFEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqF1mFEeKrerZnFJznjw" name="Tools" guid="_6sDqF1mFEeKrerZnFJznjw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_-Q2mgFmFEeKrerZnFJznjw" name="redseeds.assign" guid="_-Q2mgFmFEeKrerZnFJznjw" variabilityType="contributes" toolMentors="_SFf1sFmGEeKrerZnFJznjw">
+            <methodElementProperty xmi:id="_Ml-3kcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_Ml-3ksCTEemv0a6P8REMBA" name="CategoryElementsSortType" value="Alphabetic"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Tool" href="uma://__52BoEUNEeKK_ttnBPx9Rg#_1FdckEUOEeKK_ttnBPx9Rg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqGFmFEeKrerZnFJznjw" name="StandardCategories" guid="_6sDqGFmFEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqGVmFEeKrerZnFJznjw" name="CustomCategories" guid="_6sDqGVmFEeKrerZnFJznjw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqGlmFEeKrerZnFJznjw" name="Hidden" guid="_6sDqGlmFEeKrerZnFJznjw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_6sDqG1mFEeKrerZnFJznjw" name="Custom Categories" guid="_6sDqG1mFEeKrerZnFJznjw"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqHFmFEeKrerZnFJznjw" name="CoreContent" guid="_6sDqHFmFEeKrerZnFJznjw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_It_TwFmGEeKrerZnFJznjw" name="tool_mentors" guid="_It_TwFmGEeKrerZnFJznjw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_KhR2UFmGEeKrerZnFJznjw" name="redseeds" guid="_KhR2UFmGEeKrerZnFJznjw">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_SFf1sFmGEeKrerZnFJznjw" name="redseeds_user_guide" guid="_SFf1sFmGEeKrerZnFJznjw" presentationName="RedSeeDS: User Guide" briefDescription="RedSeeDS: User Guide">
+              <methodElementProperty xmi:id="_Ml-3k8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-l2KcymlFwMtkERAVxqxmQg" href="uma://-l2KcymlFwMtkERAVxqxmQg#-l2KcymlFwMtkERAVxqxmQg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vTgOQF7nEeKFRuoPceMYcQ" name="complete_the_code.assign" guid="_vTgOQF7nEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_SFf1sFmGEeKrerZnFJznjw">
+              <presentation xmi:id="-I3y0J3LKJWUBXDV0gED5fQ" href="uma://-I3y0J3LKJWUBXDV0gED5fQ#-I3y0J3LKJWUBXDV0gED5fQ"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_mKqTQEkWEeKu7-3cM-oErg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vTgOQV7nEeKFRuoPceMYcQ" name="psm_transformation.assign" guid="_vTgOQV7nEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_SFf1sFmGEeKrerZnFJznjw">
+              <presentation xmi:id="-4l3DawaVMajTCfyJgKUPkw" href="uma://-4l3DawaVMajTCfyJgKUPkw#-4l3DawaVMajTCfyJgKUPkw"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_mK0EREkWEeKu7-3cM-oErg"/>
+            </contentElements>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6sDqHVmFEeKrerZnFJznjw" name="CapabilityPatterns" guid="_6sDqHVmFEeKrerZnFJznjw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6sDqHlmFEeKrerZnFJznjw" name="DeliveryProcesses" guid="_6sDqHlmFEeKrerZnFJznjw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6sDqH1mFEeKrerZnFJznjw" name="ProcessContributions" guid="_6sDqH1mFEeKrerZnFJznjw"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_gAWK4PNHEeGUHqJDPoQpuw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

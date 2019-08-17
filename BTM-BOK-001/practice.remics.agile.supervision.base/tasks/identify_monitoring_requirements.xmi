@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B_39FviiNpF0p_WUbjtVng" name="identify_monitoring_requirements,_iDIhYP25EeK8HINtOGo1Xg" guid="-B_39FviiNpF0p_WUbjtVng" changeDate="2013-08-23T05:15:44.317-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Identify Monitoring Requirements&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Identifiy those requirements related with the continous monitoring of the status of the resulting system&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x05puHrfnI2GiFD_nAKN_g" name="new_term_definition,_KWfjQMIsEeKSedlRPHdUIQ" guid="-x05puHrfnI2GiFD_nAKN_g" changeDate="2015-02-16T12:14:10.950-0500" version="7.5.1">
+  <mainDescription>A generic term for work that a company or organization performs via business processes. An activity can be atomic or&#xD;
+non-atomic (compound) (&lt;a href=&quot;http://www.uml.org/&quot; target=&quot;_blank&quot;>OMG 2011&lt;/a>). Also known as a business activity, it&#xD;
+is an element that produces and consumes entities to yield a business benefit, and may be a simple task or a complete&#xD;
+process or set of processes. Business roles may or may not interact with an activity. &#xD;
+&lt;p>&#xD;
+    Also see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspect_activity_D2963DA2.html&quot; guid=&quot;_eTntIMI5EeKSedlRPHdUIQ&quot;>Term&#xD;
+    Definition: Aspect: Activity&lt;/a>.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

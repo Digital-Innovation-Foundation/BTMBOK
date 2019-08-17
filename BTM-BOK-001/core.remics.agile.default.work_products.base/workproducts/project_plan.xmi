@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sxgibFCKPVjX1dCeb6Lorw" name="project_plan,_YAkHIN_nEeKdMZ3N0jsS2w" guid="-sxgibFCKPVjX1dCeb6Lorw" changeDate="2013-08-08T12:22:28.459-0400">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>Project Plan&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Project Plan in the REMICS Agile methodology is oriented to define the overall approach of the modernization&#xD;
+    project. It will contain:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The scrum strategy:Due to the complexity of migration proyects it might&amp;nbsp;be necessary&amp;nbsp;to organaise more&#xD;
+        than one parallel scrum with one or more teams working on them.&amp;nbsp; &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                number of scrums&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                number of teams&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                sprint duration&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Budget information&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                aproximate budget&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                aproximate cost of each team for a sprint&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

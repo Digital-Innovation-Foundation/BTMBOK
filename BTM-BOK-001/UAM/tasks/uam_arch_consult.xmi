@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sVG0O7unTViILSEoA76vCg" name="uam_arch_consult,_vcFmkGOLEeSFL7Sh0MlmKA" guid="-sVG0O7unTViILSEoA76vCg" authors="DW Enstrom" changeDate="2014-11-03T14:30:16.816-0500" changeDescription="new" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    After an IT architecture is defined and analyzed, it is then used to consult with stakeholders. This consultation&#xD;
+    should take place in multiple fora:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Technical level reviews with technical stakeholders;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Business level (and non-technical manager) stakeholders;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Operations (and&amp;nbsp;optionally maintenance) stakeholders.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Each of these consultations will naturally have different objectives and focus. Actions are documented,&#xD;
+    assigned&amp;nbsp;and tracked.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_vcFmk2OLEeSFL7Sh0MlmKA" name="General Recommendations " guid="_vcFmk2OLEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The IT architecture has been reviewed (to ensure completeness etc.) and analyzed (to look for optimizations,&#xD;
+    refinements, etc.). Now the completed IT architecture is presented to stakeholders to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Educate these stakeholders on the architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Solicit feedback from them on the IT architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide information to them on optimizations and other findings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe the&amp;nbsp;implications of these solutions;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identify opportunities presented by proposed new approaches or technologies;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Refine short and long term strategies (both business and technical&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Clarify and define priorities moving forward.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_vcFmkmOLEeSFL7Sh0MlmKA" name="IT Architecture Presentation" guid="_vcFmkmOLEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The IT architecture is presented to the stakeholders in a logical fashion, with feedback solicited as it is described.&#xD;
+    The following&amp;nbsp;aspects are suggested&amp;nbsp;as a starting point:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Overall scope, context and structure;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe optimizations and other findings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe the&amp;nbsp;implications of the solutions and findings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identify opportunities presented by proposed new approaches or technologies.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The feedback provided is captured for discussion and agreement in the next step.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_FP6bEGOTEeSFL7Sh0MlmKA" name="Discuss and Agree Findings" guid="_FP6bEGOTEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    After presentation of the overall architecture and the findings from various reviews, analysis and feedback, the&#xD;
+    optimizations and opportunities are defined and agreed:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Agree that optimizations and other findings are correct;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Agree the&amp;nbsp;implications of the solutions and findings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Agree the opportunities presented by proposed new approaches or technologies;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Compile a list of actions coming out of these agreements.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The Review Record captures these agreements and actions.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_vcFmkWOLEeSFL7Sh0MlmKA" name="Assign Responsibilities" guid="_vcFmkWOLEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    After the consultations, allocate responsibility for each issue or action&amp;nbsp;identified in the Review Record.&#xD;
+    &quot;Responsibility&quot; in this case may not be to progress the action, but to coordinate additional investigation of&#xD;
+    alternatives, or to coordinate the execution of the action if it is far-reaching or broad in scope.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    The purpose of consulting with stakeholders (not involved in the creation of the IT architecture) is to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Educate these stakeholders on the architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Solicit feedback from them on the IT architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide information to them on optimizations and other findings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Clarify and define priorities moving forward.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

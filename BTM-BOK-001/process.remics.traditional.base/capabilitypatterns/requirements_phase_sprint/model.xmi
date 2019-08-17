@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MI22sMCTEemv0a6P8REMBA" guid="_MI22sMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MI22scCTEemv0a6P8REMBA" id="-A-oGhVASuTGu8vg-lRgz7w" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_JsGswMveEeCphdH9-OcbCA" name="requirements_phase_sprint" guid="_JsGswMveEeCphdH9-OcbCA">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_dteJUMveEeCphdH9-OcbCA" name="Describe the System" guid="_dteJUMveEeCphdH9-OcbCA">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_dteJUcveEeCphdH9-OcbCA" name="Describe the System" guid="_dteJUcveEeCphdH9-OcbCA" presentationName="Describe the System" superActivities="_JsGswcveEeCphdH9-OcbCA" breakdownElements="_2I-SEMviEeCphdH9-OcbCA"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_2I-SEMviEeCphdH9-OcbCA" name="identify_reusable_parts" guid="_2I-SEMviEeCphdH9-OcbCA" presentationName="Identify Reusable Parts" superActivities="_dteJUcveEeCphdH9-OcbCA">
+        <Task href="uma://_IQcqQMviEeCphdH9-OcbCA#_Y77JEMviEeCphdH9-OcbCA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IEgnYMvfEeCphdH9-OcbCA" name="s" guid="_IEgnYMvfEeCphdH9-OcbCA">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_IEgnYcvfEeCphdH9-OcbCA" name="s" guid="_IEgnYcvfEeCphdH9-OcbCA" presentationName="Identify Actors" superActivities="_JsGswcveEeCphdH9-OcbCA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Mp5eIMvfEeCphdH9-OcbCA" name="Identify Additional Requirements" guid="_Mp5eIMvfEeCphdH9-OcbCA">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_Mp5eIcvfEeCphdH9-OcbCA" name="Identify Additional Requirements" guid="_Mp5eIcvfEeCphdH9-OcbCA" presentationName="Identify Additional Requirements" superActivities="_JsGswcveEeCphdH9-OcbCA" breakdownElements="_9HRg8MviEeCphdH9-OcbCA"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_9HRg8MviEeCphdH9-OcbCA" name="identify_reusable_parts" guid="_9HRg8MviEeCphdH9-OcbCA" presentationName="Identify Reusable Parts" superActivities="_Mp5eIcvfEeCphdH9-OcbCA">
+        <Task href="uma://_IQcqQMviEeCphdH9-OcbCA#_Y77JEMviEeCphdH9-OcbCA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Wwf6sMvfEeCphdH9-OcbCA" name="Extablish Validation Criteria" guid="_Wwf6sMvfEeCphdH9-OcbCA">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_Wwf6scvfEeCphdH9-OcbCA" name="Extablish Validation Criteria" guid="_Wwf6scvfEeCphdH9-OcbCA" presentationName="Extablish Validation Criteria" superActivities="_JsGswcveEeCphdH9-OcbCA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eSj98MvfEeCphdH9-OcbCA" name="Elaborate Glossary" guid="_eSj98MvfEeCphdH9-OcbCA">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_eSj98cvfEeCphdH9-OcbCA" name="Elaborate Glossary" guid="_eSj98cvfEeCphdH9-OcbCA" presentationName="Elaborate Glossary" superActivities="_JsGswcveEeCphdH9-OcbCA"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_JsGswcveEeCphdH9-OcbCA" name="requirements_phase_sprint" guid="_JsGswcveEeCphdH9-OcbCA" presentationName="Requirements Phase Sprint" breakdownElements="_dteJUcveEeCphdH9-OcbCA _IEgnYcvfEeCphdH9-OcbCA _Mp5eIcvfEeCphdH9-OcbCA _Wwf6scvfEeCphdH9-OcbCA _eSj98cvfEeCphdH9-OcbCA" defaultContext="_SXnLsMlqEeCrm66MgLsmlQ" validContext="_SXnLsMlqEeCrm66MgLsmlQ">
+      <presentation xmi:id="-A-oGhVASuTGu8vg-lRgz7w" href="uma://-A-oGhVASuTGu8vg-lRgz7w#-A-oGhVASuTGu8vg-lRgz7w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

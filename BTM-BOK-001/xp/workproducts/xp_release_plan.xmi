@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mMZ9KUhiFwBbzSFjq_tO4A" name="xp_release_plan,{CA77FBD2-04DD-4010-B2AA-03E1E7C66B0B}" guid="-mMZ9KUhiFwBbzSFjq_tO4A" changeDate="2005-12-02T10:44:11.027-0500" version="1.0.0">
+  <purpose>&lt;a id=&quot;XE_xp_release_plan__artifact_definition&quot; name=&quot;XE_xp_release_plan__artifact_definition&quot;>&lt;/a>&lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;>&lt;/a>&lt;a id=&quot;XE_xp_release_plan__purpose_of&quot; name=&quot;XE_xp_release_plan__purpose_of&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{CA77FBD2-04DD-4010-B2AA-03E1E7C66B0B}&quot;>XP Release Plan&lt;/a> is the longer term&#xD;
+    project view. It organizes estimated stories into iterations and groups iterations into releases. The releases defined&#xD;
+    by the customer contain enough value to deliver the software to the end users of the product. The bias in ordering&#xD;
+    stories and defining releases is to deliver the most business value possible by the release date.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

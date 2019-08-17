@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qw1zzcdgS16heKCPSMtXNA" name="new_term_definition,_wzGykF5YEd22Gu98eFOlrQ" guid="-qw1zzcdgS16heKCPSMtXNA" changeDate="2008-07-30T13:00:08.468-0400">
+  <mainDescription>&lt;p>&#xD;
+    The Daily Scrum is a 15-minute time-boxed event for the Development Team to synchronize activities and create a plan&#xD;
+    for the next 24 hours.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

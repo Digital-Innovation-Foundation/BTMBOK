@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-CaP9P13wwBgjLWfOsEVTIQ" name="uam_lp_elements,_Go6AsMDkEeOx56fQBc88vA" guid="-CaP9P13wwBgjLWfOsEVTIQ" changeDate="2014-11-15T13:21:36.562-0500" version="2.0">
+  <mainDescription>&lt;a id=&quot;XE_Work_Products__Logical_elements&quot; name=&quot;XE_Work_Products__Logical_elements&quot;>&lt;/a>There are too many modeling&#xD;
+elements to list in this summary, please consult: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/guidances/supportingmaterials/uam_lpl_simple_AB1449E6.html&quot; guid=&quot;_uOZlsEWJEeOfR_FtRm9PUg&quot;>Supporting&#xD;
+Material: LPL Summary&lt;/a>.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

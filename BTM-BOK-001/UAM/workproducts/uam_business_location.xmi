@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-o7i41lIdoIT9dlV6cQSaDQ" name="uam_business_location,_ZB_koM6LEdymj4NXv8-FYA" guid="-o7i41lIdoIT9dlV6cQSaDQ" authors="DW Enstrom" changeDate="2015-02-11T15:24:02.484-0500" changeDescription="New" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Business Locations are identified early in the process of modeling a business. It is not a simple analysis in the first&#xD;
+    instance; locations are generalized in order to simplify the model and in turn simplify implementation. Analysis of&#xD;
+    locations must be done in order to categorize them and ultimately define generalizations.&#xD;
+&lt;/p>&lt;br /></mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    A Business Location is the generic or conceptual level locations at which the system (business) under study has a&#xD;
+    presence. Each location is defined in terms of the Business Activities present and provided at the location along with&#xD;
+    the types of communications required and provided between these locations.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Location&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Node&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the location.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>activities: Activities[0..*]&lt;/strong>&amp;nbsp;- A list of the business activities provides at the location,&#xD;
+        which relates directly to the Business Process Model and how the business (or system under study) wants to deliver&#xD;
+        its products and services.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>nonFunctional: string&lt;/strong>&amp;nbsp;- Defines things such as business importance, survivability, and&#xD;
+        availability requirements of the location.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>description: string&lt;/strong>&amp;nbsp;- A description of the location in terms of building, address or other&#xD;
+        distinguishing characteristics.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned operations;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned behaviors;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        May have relationships with only Business Domains, Business Roles or with other Business Entities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        May communicate with other Locations via Business Communications;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        All owned properties shall be public.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

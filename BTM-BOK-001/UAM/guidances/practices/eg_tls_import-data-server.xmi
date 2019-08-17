@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OBcZ2SZ7t0E_L4zR2Ps7AQ" name="eg_tls_import-data-server,_q_vXsJsEEeOMG9JzPmKf0Q" guid="-OBcZ2SZ7t0E_L4zR2Ps7AQ" changeDate="2015-02-07T14:45:14.320-0500" version="7.5.1">
+  <problem>&lt;br />&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Import Data Service Applications&quot; src=&quot;./resources/Simple-Network-Technical-TLM-Apps-Import-Data.png&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The applications shown are hosted on this server that supports the IT Research through the importation of source&#xD;
+    information. Note that the required infrastructure services (i.e. workflow services, etc.) are not shown, just the&#xD;
+    (custom)&amp;nbsp;application level deployments.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Portal Server&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This server supports the&amp;nbsp;ThuNorTech importing of Source Information and Partner information into the HQ&#xD;
+    Domain.&amp;nbsp;The server(s) are:&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Name&lt;/strong> - Import-Data&lt;br />&#xD;
+    &lt;strong>Make&lt;/strong> - HP&lt;br />&#xD;
+    &lt;strong>Model&lt;/strong> - Integrity NonStop BladeSystem NB50000c and NS2002 Server&lt;br />&#xD;
+    &lt;strong>Location&lt;/strong> - Rm C302&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Connects to the&amp;nbsp; ImportApps1 and ImportApps2 routers.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

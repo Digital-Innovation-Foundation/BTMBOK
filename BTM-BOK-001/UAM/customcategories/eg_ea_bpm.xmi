@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bjmfxJOWM_tWNO8ARJVlUg" name="eg_ea_bpm,_7AbXYMJbEeKSedlRPHdUIQ" guid="-bjmfxJOWM_tWNO8ARJVlUg" changeDate="2015-02-06T14:40:13.110-0500" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;ThuNorTech Enterprise Architecture Context Diagram&quot; src=&quot;./resources/EA-Business-Context.png&quot;&#xD;
+    usemap=&quot;#map1392996672942&quot; />&lt;map id=&quot;map1392996672942&quot; name=&quot;map1392996672942&quot;>&#xD;
+        &lt;area title=&quot;ThuNorTech Executive Management&quot;&#xD;
+        href=&quot;./../../UAM/customcategories/eg_ea_ent_management_A5667BAB.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech Executive Management&quot; coords=&quot;123,77,184,123&quot; guid=&quot;_X7TewJmWEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;ThuNorTech Corporate Services&quot; href=&quot;./../../UAM/customcategories/eg_ea_corp_srvcs_3C582CAD.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;ThuNorTech Corporate Services&quot; coords=&quot;121,141,187,186&quot; guid=&quot;_QxIOEMMhEeKSedlRPHdUIQ&quot; />&#xD;
+        &lt;area title=&quot;ThuNorTech IT Research Business Line&quot;&#xD;
+        href=&quot;./../../UAM/customcategories/eg_ea_it_research_E108C3D8.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech IT Research Business Line&quot; coords=&quot;203,77,279,124&quot; guid=&quot;_rt9LcMMiEeKSedlRPHdUIQ&quot; />&#xD;
+        &lt;area title=&quot;ThuNorTech IT Solutions Business Line&quot;&#xD;
+        href=&quot;./../../UAM/customcategories/eg_ea_it_solutions_93C14602.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech IT Solutions Business Line&quot; coords=&quot;203,141,278,188&quot; guid=&quot;_PV1oUJmXEeOJEracaeLisg&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot; src=&quot;./resources/Drill%20Down-33.jpg&quot;&#xD;
+    width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This diagram is the root of the EA level Business Process Model, containing the definitions or linking to the various&#xD;
+    diagrams that define this aspect. ThuNorTech has the usual corporate management activities as well as&#xD;
+    corporate&amp;nbsp;services. The two &quot;Business Lines&quot; (BL) of ThuNorTech, as shown above,&amp;nbsp;are &quot;IT Research&quot; and &quot;IT&#xD;
+    Solutions&quot;.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Layers are added to create a hierarchy with&amp;nbsp;more detailed views of the activity provided as you drill down.&#xD;
+    Clicking on the activity (as noted above) takes you to this nested diagram. This same approach is used to link to&#xD;
+    the&amp;nbsp;'leaf activities' that are form the basis for the logical model at the completion of the business level&#xD;
+    Process Model, and which form the top layer of the Logical Process Model.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Layering the process model to deal with complexity is of value. Start with a top layer of activities that are&#xD;
+    abstractions of larger constructs, with the next layer of detail showing more detailed activities. This&#xD;
+    top-level&amp;nbsp;diagram is used to hide complexity, so these activities&amp;nbsp;should be viewed as only a very simple&#xD;
+    start at understanding and documenting the business.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    There are four separate areas described within the Business: Enterprise Management, Corporate Services, the IT Research&#xD;
+    BL and the IT Solutions BL. The main Actors are shown along with the Internet Domain, which is an important part of how&#xD;
+    ThuNorTech does business.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Note:&lt;/strong> At the enterprise (EA) level this top-down model of the organization is based upon a Business&#xD;
+    Function view. That is, the major functional areas of the organization are identified such as Executive Management,&#xD;
+    Financial Management, Human Resources, and in this case the two business lines &quot;IT Research&quot; and &quot;IT Solutions&quot;. Lower&#xD;
+    level architectures work best if switched to a &quot;service&quot; viewpoint: the services (and products) provided to Customers.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

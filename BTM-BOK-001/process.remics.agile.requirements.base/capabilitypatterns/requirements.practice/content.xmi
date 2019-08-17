@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-grIAOZ09eORgadY8YjQE0w" name="identify_additional_requirements,_-bzAEP25EeK8HINtOGo1Xg" guid="-grIAOZ09eORgadY8YjQE0w">
+    <keyConsiderations>Modelling by two techniques can&amp;nbsp;be applied</keyConsiderations>
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Usually migration implies also the introduction of new features or the modification of some of the existing ones. Based on the System idea and the preliminary system description identify the new and the changing features. These changing features may include both functional and non-functional changes.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>These functionalities will be represented as UML use cases, and they will include a description that optionally could incorporate an activity or a sequence diagram. The result from this work will be the System Requirements requested by the entity that will pay for the system.&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oHTeAQUieGxrtDAnr1-WpA" name="scrum_team,_ArZhkQDjEeOBVZ2G27rUkQ" guid="-oHTeAQUieGxrtDAnr1-WpA">
+    <refinedDescription>&lt;h3>&#xD;
+    Scrum Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Scrum Team consists of a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/product_owner_10E7BD3.html&quot; guid=&quot;_QcnRMOF5Edyp34pwdTOSVQ&quot;>Product&#xD;
+    Owner&lt;/a>, the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/development_team_2BE2D5BF.html&quot;&#xD;
+    guid=&quot;_EChNoBC0EeGhfJHCQDJMKQ&quot;>Development Team&lt;/a>, and a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/scrum_master_357FCB70.html&quot; guid=&quot;_Bw-twOF6Edyp34pwdTOSVQ&quot;>Scrum&#xD;
+    Master&lt;/a>. Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish&#xD;
+    their work, rather than being directed by others outside the team. Cross-functional teams have all competencies needed&#xD;
+    to accomplish the work without depending on others not part of the team. The team model in Scrum is designed to&#xD;
+    optimize flexibility, creativity, and productivity.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. Incremental&#xD;
+    deliveries of “Done” product ensure a potentially useful version of working product is always available.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7cxCpMgikZC04ore_AI_Aw" name="describe_the_system,_fuhvkP27EeK8HINtOGo1Xg" guid="-7cxCpMgikZC04ore_AI_Aw">
+    <refinedDescription>&lt;SPAN lang=EN-GB>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>A preliminary description is necessary, so with the System Idea, and some additional information, a description of the system will be obtained. The System Idea could come from inside the company or outside (a customer). Regarding to the additional information, if any is needed; it could be obtained through several means such as surveys, meetings and market reviews.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>One of the objectives of this preliminary description is to serve as a basis for the evaluation of the feasibility of the system. Therefore, during this activity it is possible that more than one description is developed in order to allow the evaluation of different alternatives. Another objective of the System Description is to serve as a brief summary of the nature of the service. It will be useful to acquire a quick idea about the system that it is going to be developed without having to read the entire System Requirements document. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/SPAN></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-STjn_Ga5KRHHKZNFU58_-w" name="define_general_deployment_model,_hop58P27EeK8HINtOGo1Xg" guid="-STjn_Ga5KRHHKZNFU58_-w">
+    <refinedDescription>The cloud models and deployment architecture is defined as a session. The product owner and some representatives from the&#xD;
+scrum teams participated in the session.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-L6i8Wek2ZltS6W1-47ga5w" name="apply_techniques_to_evaluate_feasibility,_JlVOYP28EeK8HINtOGo1Xg" guid="-L6i8Wek2ZltS6W1-47ga5w">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>In a migrated system not all the parts are equally reusable; in fact there are many different ways to reuse components. In some cases the best way to reuse a component may be to wrap it, in other cases to reengineer, in other cases to replace with an external one, and in other cases to implement from scratch, etc. The SMART method provides a methodology to evaluate the feasibility of the different approaches, providing valuable information for this decision making process.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wcsJKbG_9Aut3oI6cidiUw" name="system_idea,_xy16qAA1EeO8guHzeWZLgg" guid="-wcsJKbG_9Aut3oI6cidiUw">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>System Idea&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The system idea is a document that contains a description of the future system mainly from the prespective of the&#xD;
+    product owner. The content of the document depends largely on the kind of system to be migrated, but among other&#xD;
+    specific issues it should address:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The new ways in which the stakeholder will interact with the new system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The parts of the system that will be migrated.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Constraints in the migration of those&amp;nbsp;parts.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HyIHpYR0gi3k4WYwDvR7ew" name="scrum_team,_AtE8kQDjEeOBVZ2G27rUkQ" guid="-HyIHpYR0gi3k4WYwDvR7ew">
+    <refinedDescription>&lt;h3>&#xD;
+    Scrum Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Scrum Team consists of a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/product_owner_10E7BD3.html&quot; guid=&quot;_QcnRMOF5Edyp34pwdTOSVQ&quot;>Product&#xD;
+    Owner&lt;/a>, the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/development_team_2BE2D5BF.html&quot;&#xD;
+    guid=&quot;_EChNoBC0EeGhfJHCQDJMKQ&quot;>Development Team&lt;/a>, and a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/scrum_master_357FCB70.html&quot; guid=&quot;_Bw-twOF6Edyp34pwdTOSVQ&quot;>Scrum&#xD;
+    Master&lt;/a>. Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish&#xD;
+    their work, rather than being directed by others outside the team. Cross-functional teams have all competencies needed&#xD;
+    to accomplish the work without depending on others not part of the team. The team model in Scrum is designed to&#xD;
+    optimize flexibility, creativity, and productivity.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. Incremental&#xD;
+    deliveries of “Done” product ensure a potentially useful version of working product is always available.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fkZi2FapXObNNq6jI0UGKw" name="elaborate_glossary,_8JxHg0kZEeK7P-8D6a3Ujw" guid="-fkZi2FapXObNNq6jI0UGKw">
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Gather the system terminology in a Glossary which supports the non-ambiguous use of the terms&#xD;
+    related with the system.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SvUrs730SiiPn1x6vNOJBw" name="establish_validation_criteria,_8JxHhEkZEeK7P-8D6a3Ujw" guid="-SvUrs730SiiPn1x6vNOJBw">
+    <keyConsiderations>Executed together with the requirements identification</keyConsiderations>
+    <refinedDescription>&lt;SPAN lang=EN-GB>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Specify the indicators which will demonstrate that the system operates perfectly and that it meets the requirements. This will be obtained agreeing with the user the set of Validation Criteria that will be used in the acceptance test of the system. It is difficult to obtain an agreement of the validation criteria but it is crucial to establish an end to the project.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/SPAN></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PHcEvf8fkdCZLx3a6_66wQ" name="identify_actors,_8JxHhUkZEeK7P-8D6a3Ujw" guid="-PHcEvf8fkdCZLx3a6_66wQ">
+    <refinedDescription>&lt;SPAN lang=EN-GB>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the gathered information in the System Description and the System Requirements it should agree with stakeholders (especially with the one that will pay the system) which actors are required to take part in the final solution. An actor is any person, machine, entity and so on that interacts with the system. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/SPAN></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lDiBAG62a9bTJibj3gbIDA" name="system_idea,_xysJsAA1EeO8guHzeWZLgg" guid="-lDiBAG62a9bTJibj3gbIDA">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>System Idea&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The system idea is a document that contains a description of the future system mainly from the prespective of the&#xD;
+    product owner. The content of the document depends largely on the kind of system to be migrated, but among other&#xD;
+    specific issues it should address:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The new ways in which the stakeholder will interact with the new system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The parts of the system that will be migrated.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Constraints in the migration of those&amp;nbsp;parts.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ge4CJtVqhf-OseSbf5Nv2w" name="sprint_review.extends,_IZAYcQAdEeOzWuayk7hhLg" guid="-Ge4CJtVqhf-OseSbf5Nv2w">
+    <refinedDescription>&lt;h3>&#xD;
+    Sprint Review&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed.&#xD;
+    During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that&#xD;
+    and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done.&#xD;
+    This is an informal meeting, and the presentation of the Increment is intended to elicit feedback and foster&#xD;
+    collaboration.&lt;br />&#xD;
+    &lt;br />&#xD;
+    This is a four-hour time-boxed meeting for one-month Sprints. Proportionately less time is allocated for shorter&#xD;
+    Sprints. For example, two week Sprints have two-hour Sprint Reviews.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Review includes the following elements:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The Product Owner identifies what has been “Done” and what has not been “Done”;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The Development Team discusses what went well during the Sprint, what problems it ran into, and how those problems&#xD;
+        were solved;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The Development Team demonstrates the work that it has “Done” and answers questions about the Increment;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The Product Owner discusses the Product Backlog as it stands. He or she projects likely completion dates based on&#xD;
+        progress to date; and,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The entire group collaborates on what to do next, so that the Sprint Review provides valuable input to subsequent&#xD;
+        Sprint Planning Meetings.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The result of the Sprint Review is a revised Product Backlog that defines the probable Product Backlog items for the&#xD;
+    next Sprint. The Product Backlog may also be adjusted overall to meet new opportunities.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LknrjBDji-eioa6_OA4YBw" name="scrum_team,_ApuGkQDjEeOBVZ2G27rUkQ" guid="-LknrjBDji-eioa6_OA4YBw">
+    <refinedDescription>&lt;h3>&#xD;
+    Scrum Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Scrum Team consists of a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/product_owner_10E7BD3.html&quot; guid=&quot;_QcnRMOF5Edyp34pwdTOSVQ&quot;>Product&#xD;
+    Owner&lt;/a>, the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/development_team_2BE2D5BF.html&quot;&#xD;
+    guid=&quot;_EChNoBC0EeGhfJHCQDJMKQ&quot;>Development Team&lt;/a>, and a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/scrum_master_357FCB70.html&quot; guid=&quot;_Bw-twOF6Edyp34pwdTOSVQ&quot;>Scrum&#xD;
+    Master&lt;/a>. Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish&#xD;
+    their work, rather than being directed by others outside the team. Cross-functional teams have all competencies needed&#xD;
+    to accomplish the work without depending on others not part of the team. The team model in Scrum is designed to&#xD;
+    optimize flexibility, creativity, and productivity.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. Incremental&#xD;
+    deliveries of “Done” product ensure a potentially useful version of working product is always available.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-GrmJridKnPX7pxXzsEivDw" name="requirement_scrum,_xsG88TO8EeK5hZv7WCtlvg" guid="-GrmJridKnPX7pxXzsEivDw"/>
+</xmi:XMI>

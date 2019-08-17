@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b6d8OCZIK_IkyURuezKW3Q" name="new_term_definition,_8fmioLX9EeSeNe6SxZNlbg" guid="-b6d8OCZIK_IkyURuezKW3Q" changeDate="2015-02-19T13:40:16.638-0500" version="7.5.1">
+  <mainDescription>A Domain, or Security Domain, is an environment or context that is defined by security policies, security models, and&#xD;
+security architecture, including a set of resources and set of system entities that are authorized to access the resources.&#xD;
+A domain is managed by a single &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_authority_E741E5D4.html&quot; guid=&quot;_gwEsAMI6EeKSedlRPHdUIQ&quot;>Authority&lt;/a>,&#xD;
+and may contain one or more sub-domains. Different sub-domains are created when security models or policies (and possibly&#xD;
+architecture) are significantly different from one domain to the other, or are conflicting. Separate domains provide&#xD;
+clearer separation of concerns and ease policy enforcement and system management. Synonyms: security domain or policy&#xD;
+domain. Also see: &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/reusableassets/uam_pattern_IT-security_204F8FB4.html&quot; guid=&quot;_Z4fMMKmdEeSFIOC-Wm7nrA&quot;>IT&#xD;
+Security Reference Model&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

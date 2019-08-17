@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-mDOxkVwlwtzMfeDj8CaJxA" name="new_role_set,_PeB_sEgaEeShYIpiBstbOQ" guid="-mDOxkVwlwtzMfeDj8CaJxA" changeDate="2015-11-30T13:36:42.773-0500" version="2.0">
+  <mainDescription>&lt;a id=&quot;XE_Roles__Experts&quot; name=&quot;XE_Roles__Experts&quot;>&lt;/a>The IT architecture typically models the future state of the&#xD;
+business, from a technology perspective. Where does technology need to go within the enterprise in order to properly&#xD;
+support the business? This demands a very good understanding of the business; a level of understanding that can only be&#xD;
+attained from business experts. These experts know the portion of the business being modeled, but hopefully also understand&#xD;
+where the business and its processes are going in the future. This knowledge must then be married with an in-depth&#xD;
+knowledge of IT technologies, how they support the business and how they can support the future business. This is the job&#xD;
+of the IT architects: to take all this information and synthesize a model of the future state of the business.&lt;a&#xD;
+id=&quot;XE_UAM__experts&quot; name=&quot;XE_UAM__experts&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XJ5fkoe6We8VkS8f_uMrlA" name="new_custom_category,_3nsogLT0EeOxHfidXKfEcg" guid="-XJ5fkoe6We8VkS8f_uMrlA" changeDate="2014-03-31T15:34:04.170-0400" version="7.5.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;Distribute Research Business Domain, Access Information Process&quot;&#xD;
+    src=&quot;./resources/BD-Logical-Res-Access-Information.png&quot; usemap=&quot;#map1393085152211&quot; />&lt;map id=&quot;map1393085152211&quot;&#xD;
+    name=&quot;map1393085152211&quot;>&#xD;
+        &lt;area title=&quot;Query Research&quot; href=&quot;./../../UAM/guidances/practices/eg_bd_lpl_query-research_84CE4CCD.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Query Research&quot; coords=&quot;220,225,296,279&quot; guid=&quot;_RwdYH5tBEeOMG9JzPmKf0Q&quot; />&#xD;
+        &lt;area title=&quot;Query Source Information&quot; href=&quot;./../../UAM/guidances/practices/eg_bd_lpl_query-source_E74F6501.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Query Source Information&quot; coords=&quot;221,297,297,352&quot; guid=&quot;_RwdYIJtBEeOMG9JzPmKf0Q&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot; src=&quot;./resources/Drill%20Down-33.jpg&quot;&#xD;
+    width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Researcher Analysts&amp;nbsp;and select Customer Researchers formulate queries to search for Reports of interest.&#xD;
+    Report Access Rules mitigate their access based upon Customer subscriptions, CSR access rights and other security&#xD;
+    policies. Similarly, access is provided to source information for CSRs and select customers. Source Access Rules&#xD;
+    mitigate their access based upon Customer subscriptions, CSR access rights and other security policies.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-110FQ-WN7KPLU13JMzdRgA" name="new_bpl_business_rule,_3IR3MMbnEeK4P8KZ6MNYcg" guid="-110FQ-WN7KPLU13JMzdRgA" changeDate="2013-05-27T12:11:59.213-0400">
+  <problem>This element represents a collection of business rules governing access by customer to the research Reports provided by&#xD;
+ThuNorTech. These rules are used by various systems and activities to ensure that Customers have access to the information&#xD;
+provided under their prescriptions.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

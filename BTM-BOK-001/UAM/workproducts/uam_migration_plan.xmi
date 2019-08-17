@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-W5D0Ldg7XuRo7uk5b3hwVw" name="uam_migration_plan,_kuzOANNBEdyTfZVjf0InKw" guid="-W5D0Ldg7XuRo7uk5b3hwVw" authors="DW Enstrom" changeDate="2015-12-01T14:31:39.493-0500" changeDescription="New&#x9;" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The migration plan defines the steps required to move the IT architecture from it's current state to the target&#xD;
+    architecture. The plan does not include any resource estimates, just a description of the required steps. Resourcing&#xD;
+    and other issues are to be address by a project manager or other similar implementation planning effort.&#xD;
+&lt;/p>&lt;a id=&quot;XE_Migration_Plan&quot; name=&quot;XE_Migration_Plan&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The migration plan is based upon a dependency analysis that identified the relationships between the items defined in&#xD;
+    the gap analysis. This logically ordered the gaps based upon the business needs and priorities, the state of the&#xD;
+    current systems, and upon the implementation dependencies in the target architecture.&lt;br />&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    This artifact describes a &lt;a id=&quot;XE_Migration_Plan&quot; name=&quot;XE_Migration_Plan&quot;>Migration Plan&lt;/a> from the current state&#xD;
+    to the target architecture. This plan is based upon dependencies between:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Components in the existing architecture;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Components in the target architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Components in an existing architecture and those in a target architecture.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Each step required to move the IT architecture from the current state to the target architecture is described.&#xD;
+&lt;/p></purpose>
+  <briefOutline>&lt;p>&#xD;
+    The migration document is composed of five basic parts, plus a glossary. The outline of the document is:&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    1. Introduction&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Identifies the purpose, background, and objectives of the migration plan.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    2. Overall Plan&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    The overall plan is outlined, with each step defined and in sequence. Dependencies are also defined.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    3. Data Migration&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    This section defines any special considerations with respect to the need to migrate data to a new model or to a new&#xD;
+    repository.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    4. Business Processes&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    This section defines any special considerations with respect to the need to migrate to new business processes.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    5. Systems&amp;nbsp;Deployment&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    This section defines any special considerations with respect to the need to migrate to new business processes.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    6. Glossary&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    The glossary defines important terms used in the architecture or project.&#xD;
+&lt;/p></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

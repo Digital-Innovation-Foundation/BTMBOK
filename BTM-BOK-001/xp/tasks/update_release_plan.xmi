@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YO16TebjP7U0gkcYg7OY_A" name="update_release_plan,{18BF87E6-5849-4091-AFE2-FC4F0C3887B1}" guid="-YO16TebjP7U0gkcYg7OY_A" version="1.0.0">
+  <sections xmi:id="_oO6dcGE-EdqnIZeW8YpHcA" name="Gather the Information " guid="_oO6dcGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    The most recent count of completed story points in an iteration is the team's velocity. The number of story points
+    completed in an iteration will change over time. Consequently, the team's velocity also changes. If the team's velocity
+    increases, more work can be done in each iteration. If the team's velocity decreases, less work can be done in each
+    iteration.
+&lt;/p>
+&lt;p>
+    As the team progresses through the project, the team's understanding of the problem is improved. Customers will add new
+    stories and remove others. Programmers may need to change story estimates. Consequently, the release plan should be
+    revisited periodically (every few iterations or as needed).
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oO6dcWE-EdqnIZeW8YpHcA" name="Update the Plan " guid="_oO6dcWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    Using the most recent velocity, the latest story estimates, and the customer's most recent view of priority, a new
+    release plan is established.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oO6dcmE-EdqnIZeW8YpHcA" name="Communicate the Plan " guid="_oO6dcmE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step3&quot; name=&quot;Step3&quot;>&lt;/a> 
+&lt;p>
+    Once the plan is updated, it is critical that the whole team be aware of it. This is usually really easy as the whole
+    team was involved in the revision of the release plan. The plan will show the team the progress they are making
+    (morale), and they will have a clear understanding of the new target they are shooting for (team cohesion).The plan
+    must be realistic and alive.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_revise_release_plan__activity_definition&quot; name=&quot;XE_revise_release_plan__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ensure the release plan reflects our improved understanding of the coming releases.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

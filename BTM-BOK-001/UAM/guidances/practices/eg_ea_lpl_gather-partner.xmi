@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hJqd9lCbtC-yRpooE69MRQ" name="eg_ea_lpl_gather-partner,_Mq8Q4JmuEeOJEracaeLisg" guid="-hJqd9lCbtC-yRpooE69MRQ" changeDate="2015-02-07T14:30:26.686-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Gather Partner Information Process&quot; src=&quot;resources/EA-Logical-Res-Gather-Partner-Info.png&quot; width=&quot;524&quot;&#xD;
+    height=&quot;371&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the Activities and other elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot;&#xD;
+    src=&quot;./resources/Drill%20Down-33.jpg&quot; width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p></problem>
+  <goals>&lt;h4>&#xD;
+    Publish Reports and Information to Web&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Reports prepared as a result of research into specific topics or lab studies are formatted, metadata added and then&#xD;
+    published.&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        The system adds metadata such as access rights, cross-references to Source Information and Information Needs labels&#xD;
+        (topic, subject, vendor, authors, version, date of publication).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The system converts and saves the report into publication formats for web, email attachment, mobile devices and&#xD;
+        hardcopy mail.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The system posts the report in each of the formats in the ‘web holdings’ data store for access by clients.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;h5>&#xD;
+    Inputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Report in standard format&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Outputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Published Report in publication format, Metadata.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Exceptions&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    None.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    State Changes&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Report Published&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_rUis8LBKEdm7Eph_l9Cn9w" name="refine_the_architecture,_0gRJgMlgEdmt3adZL5Dmdw" guid="_rUis8LBKEdm7Eph_l9Cn9w" changeDate="2007-06-25T04:26:23.781-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+&#xD;
+    This task&amp;nbsp;builds on&amp;nbsp;the work&amp;nbsp;performed during&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/tasks/outline_the_architecture_FF123A81.html&quot; guid=&quot;_0f-1oMlgEdmt3adZL5Dmdw&quot;>Task: Outline the Architecture&lt;/a>.&amp;nbsp;The objective is to&amp;nbsp;make the architectural&#xD;
+&#xD;
+    decisions necessary to support the objectives for the current iteration of the project. The decisions&amp;nbsp;taken as&#xD;
+&#xD;
+    part of this task&amp;nbsp;are concrete and unambiguous. They are captured in the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/architecture_notebook_9BB92433.html&quot; guid=&quot;_0XAf0MlgEdmt3adZL5Dmdw&quot;>Architecture Notebook&lt;/a>&amp;nbsp;and communicated across the team.&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    This task is applied iteratively; iterations after the first will need to take account of the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/design_D677D182.html&quot; guid=&quot;_0WuL8slgEdmt3adZL5Dmdw&quot;>Design&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/build_95D7D8FD.html&quot; guid=&quot;_0YuXEMlgEdmt3adZL5Dmdw&quot;>Build&lt;/a>&amp;nbsp;products that have been developed so far.&#xD;
+&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+&#xD;
+    The architect should perform this task&amp;nbsp;through collaboration with the whole&amp;nbsp;team to promote consensus and a&#xD;
+&#xD;
+    common understanding of the overall solution. The architect should be working to coordinate and guide the technical&#xD;
+&#xD;
+    activities of the team, rather than seeking to do all the work alone.&amp;nbsp;The architect should place emphasis&amp;nbsp;on&#xD;
+&#xD;
+    involving&amp;nbsp;the developer(s) throughout this task.&#xD;
+&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_G_k1kBaqEduSTJywppIxVQ" name="Identify architecturally significant design elements" guid="_G_k1kBaqEduSTJywppIxVQ">
+    <sectionDescription>&lt;p align=&quot;left&quot;>&#xD;
+    Refine the key abstractions&amp;nbsp;into concrete&amp;nbsp;design elements (such as classes and&amp;nbsp;subsystems)&amp;nbsp;and&#xD;
+    provide at least a name and brief description for each. Add them to the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/design_D677D182.html&quot; guid=&quot;_0WuL8slgEdmt3adZL5Dmdw&quot;>Design&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_0qoQ8CikEduQBKSg5n118w" name="Refine architectural mechanisms" guid="_0qoQ8CikEduQBKSg5n118w">
+    <sectionDescription>&lt;p>&#xD;
+    Refine&amp;nbsp;each prioritized architectural mechanism into a design&amp;nbsp;state (see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/concepts/arch_mech_2932DFB6.html&quot; guid=&quot;_mzxI0A4LEduibvKwrGxWxA&quot;>Concept: Architectural Mechanism&lt;/a>).&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Review the objectives of the current iteration to identify which mechanisms actually need to be delivered in software.&#xD;
+    Work with the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/developer_C633AB7.html&quot; guid=&quot;_0YDosMlgEdmt3adZL5Dmdw&quot;>Developer&lt;/a> to&amp;nbsp;those refine mechanisms into an implementation state.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_xIIVkMUbEdu5GrwIlTJV7g" name="Map the software to the hardware" guid="_xIIVkMUbEdu5GrwIlTJV7g">
+    <sectionDescription>Map the architecturally significant design elements to the target deployment environment. Work with hardware and network&#xD;
+specialists to ensure that the hardware is sufficient to meet the needs of the system; and that any new hardware is&#xD;
+available in time.</sectionDescription>
+  </sections>
+  <sections xmi:id="_LsyLkBaqEduSTJywppIxVQ" name="Define development architecture and test architecture" guid="_LsyLkBaqEduSTJywppIxVQ">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the development and test architectures are defined.&amp;nbsp;Note any architecturally significant differences&#xD;
+    between these environments and work with the team to devise strategies to mitigate any risks these may introduce.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_P28vkMP3EdmWKcx6ixEiwg" name="Update the architecture" guid="_P28vkMP3EdmWKcx6ixEiwg">
+    <sectionDescription>&lt;p>&#xD;
+    Update the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/architecture_notebook_9BB92433.html&quot; guid=&quot;_0XAf0MlgEdmt3adZL5Dmdw&quot;>Architecture Notebook&lt;/a>&amp;nbsp;to reflect any changes made during development.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Zlw-QMP3EdmWKcx6ixEiwg" name="Validate the architecture" guid="_Zlw-QMP3EdmWKcx6ixEiwg">
+    <sectionDescription>&lt;p>&#xD;
+    Make sure that the architecture supports the requirements and the needs of the team.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Development work should be performed to&amp;nbsp;produce a&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/build_95D7D8FD.html&quot; guid=&quot;_0YuXEMlgEdmt3adZL5Dmdw&quot;>Build&lt;/a> that shows that the&#xD;
+    software architecture is viable. This should provide the definitive basis for validating the suitability&amp;nbsp;of the&#xD;
+    architecture.&amp;nbsp;As the software&amp;nbsp;should be developed iteratively, more than one increment of the build may be&#xD;
+    required to prove the architecture.&amp;nbsp;During the early stages of the project it may be&amp;nbsp;acceptable for the&#xD;
+    software to have a incomplete or prototypical feel, as it&amp;nbsp;will be&amp;nbsp;primarily concerned with baselining the&#xD;
+    architecture to provide a stable foundation for the&amp;nbsp;remaining development work.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_aRCI0MP3EdmWKcx6ixEiwg" name="Communicate decisions" guid="_aRCI0MP3EdmWKcx6ixEiwg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that those who need to act upon the architectural work&amp;nbsp;understand&amp;nbsp;it and are able to work with&#xD;
+    it.&amp;nbsp;Make sure that the description of the architecture clearly conveys not only the solution but also the&#xD;
+    motivation and objectives related to the&amp;nbsp;decisions that have been made in shaping the architecture. This will make&#xD;
+    it easier for others to understand the architecture and to adapt it over time.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

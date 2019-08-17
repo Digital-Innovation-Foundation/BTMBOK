@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MfGzgMCTEemv0a6P8REMBA" guid="_MfGzgMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MfHakMCTEemv0a6P8REMBA" id="-FMstdILpzVpKNqoByWWcoA" uri="guidances/toolmentors/mediation_framework_installation_guide.xmi"/>
+    <resourceDescriptors xmi:id="_MfMTEMCTEemv0a6P8REMBA" id="-l2KcymlFwMtkERAVxqxmQg" uri="guidances/toolmentors/mediation_framework_user_guide.xmi"/>
+    <resourceDescriptors xmi:id="_MfOvUMCTEemv0a6P8REMBA" id="-aRxN8TlzkESsebGXjotxFg" uri="guidances/toolmentors/mediation_framework_about.xmi"/>
+    <resourceDescriptors xmi:id="_MfRLkMCTEemv0a6P8REMBA" id="-sewmHs4XFy3iAWCdNDYOgw" uri="tasks/implement_interoperability_components.assign.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_aXpWIEUOEeKK_ttnBPx9Rg" name="toolmentor.remics.control_supervise.extend_interoperability_framework-sintef" guid="_aXpWIEUOEeKK_ttnBPx9Rg" changeDate="2013-01-15T02:05:47.750-0500">
+    <methodElementProperty xmi:id="_Me9CgMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+    <methodElementProperty xmi:id="_Me9CgcCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWIUUOEeKK_ttnBPx9Rg" name="Content" guid="_aXpWIUUOEeKK_ttnBPx9Rg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWIkUOEeKK_ttnBPx9Rg" name="Categories" guid="_aXpWIkUOEeKK_ttnBPx9Rg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWI0UOEeKK_ttnBPx9Rg" name="Domains" guid="_aXpWI0UOEeKK_ttnBPx9Rg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWJEUOEeKK_ttnBPx9Rg" name="Disciplines" guid="_aXpWJEUOEeKK_ttnBPx9Rg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWJUUOEeKK_ttnBPx9Rg" name="RoleSets" guid="_aXpWJUUOEeKK_ttnBPx9Rg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWJkUOEeKK_ttnBPx9Rg" name="WP Types" guid="_aXpWJkUOEeKK_ttnBPx9Rg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWJ0UOEeKK_ttnBPx9Rg" name="Tools" guid="_aXpWJ0UOEeKK_ttnBPx9Rg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_yklPsEUYEeKK_ttnBPx9Rg" name="mediation_framework.assign" guid="_yklPsEUYEeKK_ttnBPx9Rg" variabilityType="contributes" toolMentors="_q8T2wEUYEeKK_ttnBPx9Rg _vMaaAEUYEeKK_ttnBPx9Rg _G9ud0EU_EeKK_ttnBPx9Rg">
+            <methodElementProperty xmi:id="_Me9CgsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_Me9Cg8CTEemv0a6P8REMBA" name="CategoryElementsSortType" value="Alphabetic"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Tool" href="uma://__52BoEUNEeKK_ttnBPx9Rg#_AJyssEUPEeKK_ttnBPx9Rg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWKEUOEeKK_ttnBPx9Rg" name="StandardCategories" guid="_aXpWKEUOEeKK_ttnBPx9Rg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWKUUOEeKK_ttnBPx9Rg" name="CustomCategories" guid="_aXpWKUUOEeKK_ttnBPx9Rg">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWKkUOEeKK_ttnBPx9Rg" name="Hidden" guid="_aXpWKkUOEeKK_ttnBPx9Rg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_aXpWK0UOEeKK_ttnBPx9Rg" name="Custom Categories" guid="_aXpWK0UOEeKK_ttnBPx9Rg"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aXpWLEUOEeKK_ttnBPx9Rg" name="CoreContent" guid="_aXpWLEUOEeKK_ttnBPx9Rg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mZnusEUYEeKK_ttnBPx9Rg" name="tool_mentors" guid="_mZnusEUYEeKK_ttnBPx9Rg">
+          <methodElementProperty xmi:id="_Me9ChMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oLulgEUYEeKK_ttnBPx9Rg" name="interoperability_framework" guid="_oLulgEUYEeKK_ttnBPx9Rg">
+            <methodElementProperty xmi:id="_Me9ChcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_q8T2wEUYEeKK_ttnBPx9Rg" name="mediation_framework_installation_guide" guid="_q8T2wEUYEeKK_ttnBPx9Rg" presentationName="Mediation Framework: Installation Guide" briefDescription="Mediation Framework: Installation Guide">
+              <methodElementProperty xmi:id="_Me9ChsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-FMstdILpzVpKNqoByWWcoA" href="uma://-FMstdILpzVpKNqoByWWcoA#-FMstdILpzVpKNqoByWWcoA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_vMaaAEUYEeKK_ttnBPx9Rg" name="mediation_framework_user_guide" guid="_vMaaAEUYEeKK_ttnBPx9Rg" presentationName="Mediation Framework: User Guide" briefDescription="Mediation Framework: User Guide">
+              <methodElementProperty xmi:id="_Me9Ch8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-l2KcymlFwMtkERAVxqxmQg" href="uma://-l2KcymlFwMtkERAVxqxmQg#-l2KcymlFwMtkERAVxqxmQg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_G9ud0EU_EeKK_ttnBPx9Rg" name="mediation_framework_about" guid="_G9ud0EU_EeKK_ttnBPx9Rg" presentationName="Mediation Framework: About" briefDescription="Mediation Framework: About">
+              <methodElementProperty xmi:id="_Me9CiMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-aRxN8TlzkESsebGXjotxFg" href="uma://-aRxN8TlzkESsebGXjotxFg#-aRxN8TlzkESsebGXjotxFg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4AZUoF7hEeKFRuoPceMYcQ" name="implement_interoperability_components.assign" guid="_4AZUoF7hEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_G9ud0EU_EeKK_ttnBPx9Rg _q8T2wEUYEeKK_ttnBPx9Rg _vMaaAEUYEeKK_ttnBPx9Rg">
+              <presentation xmi:id="-sewmHs4XFy3iAWCdNDYOgw" href="uma://-sewmHs4XFy3iAWCdNDYOgw#-sewmHs4XFy3iAWCdNDYOgw"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_J5jLMFjGEeKc_ty_5LPMaw#_WdUNwljGEeKc_ty_5LPMaw"/>
+            </contentElements>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_aXpWLUUOEeKK_ttnBPx9Rg" name="CapabilityPatterns" guid="_aXpWLUUOEeKK_ttnBPx9Rg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_aXpWLkUOEeKK_ttnBPx9Rg" name="DeliveryProcesses" guid="_aXpWLkUOEeKK_ttnBPx9Rg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_aXpWL0UOEeKK_ttnBPx9Rg" name="ProcessContributions" guid="_aXpWL0UOEeKK_ttnBPx9Rg"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_J5jLMFjGEeKc_ty_5LPMaw#_J5jLMFjGEeKc_ty_5LPMaw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

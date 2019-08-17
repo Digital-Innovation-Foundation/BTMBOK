@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x6blSswBaTENPULWe17RLg" name="new_custom_category,_wZrlsMJcEeKSedlRPHdUIQ" guid="-x6blSswBaTENPULWe17RLg" changeDate="2014-03-21T15:01:27.846-0400" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;ThuNorTech Top Level LRM&quot; src=&quot;./resources/EA-Logical-LRM-Top.png&quot; width=&quot;249&quot; height=&quot;83&quot;&#xD;
+    usemap=&quot;#map1392919479354&quot; />&lt;map id=&quot;map1392919479354&quot; name=&quot;map1392919479354&quot;>&#xD;
+        &lt;area title=&quot;ThuNorTech Enterprise LRM&quot; href=&quot;./../../UAM/customcategories/eg_ea_it-res-lrm_E4B72249.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;ThuNorTech Enterprise LRM&quot; coords=&quot;20,-2,102,54&quot; guid=&quot;_S-kUYJpZEeO7n_hZ4c37dQ&quot; />&#xD;
+        &lt;area title=&quot;ThuNorTech Enterprise LRM&quot; href=&quot;./../../UAM/customcategories/eg_ea_it-sol-lrm_83BB8C6B.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;ThuNorTech Enterprise LRM&quot; coords=&quot;152,-2,224,52&quot; guid=&quot;_azGnsJpZEeO7n_hZ4c37dQ&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the Activities and other elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot;&#xD;
+    src=&quot;./resources/Drill%20Down-33.jpg&quot; width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This is the root for the Enterprise level (EA) Logical Roles Model for IT Research and IT Solutions.&amp;nbsp;Due to the&#xD;
+    complexity and differences there are two separate Logical Roles Models defined, one for each Business Line.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Click above on the desired LRM to view it.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

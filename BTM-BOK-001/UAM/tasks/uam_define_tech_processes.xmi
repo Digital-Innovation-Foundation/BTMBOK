@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hAW_5htcP_woJVxkyyir-g" name="uam_define_tech_processes,_FKe34N5TEdyg17nU3bVmlA" guid="-hAW_5htcP_woJVxkyyir-g" authors="DW Enstrom" changeDate="2015-02-05T11:59:28.275-0500" changeDescription="new" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot;>This task defines, at the technical level, the business&amp;nbsp;processes and tasks involved in the&#xD;
+    architecture in question. Also, and very important, is the definition of standard vocabulary that is used to describe&#xD;
+    and discuss the business and the solution.&lt;/font>&lt;/span>&amp;nbsp; Also the roles associated with the activities and tasks&#xD;
+    are refined at the technical level with the view to making them usable for Roles Based Access Control (RBAC).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot;>The Logical Process Model is used along with input from stakeholders and experts&amp;nbsp;to define and&#xD;
+    refine the Technical Process Model.&lt;/font>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_bkJ9sN5VEdyg17nU3bVmlA" name="Define technical processes and tasks" guid="_bkJ9sN5VEdyg17nU3bVmlA">
+    <sectionDescription>&lt;p>&#xD;
+    The logical view of the business processes and tasks is further analyzed and a technical view created. We are creating&#xD;
+    a model&amp;nbsp;at the&amp;nbsp;logical level (see:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/concepts/uam_levels_and_views_499BC4B8.html&quot; guid=&quot;_W4UEAMqpEdy25fQyv59CjQ&quot;>Concept:&#xD;
+    Architecture Perspectives and Viewpoints&lt;/a>) with a focus on the &lt;em>tasks&lt;/em> and &lt;em>activities&lt;/em> and how&#xD;
+    they&amp;nbsp;define the business processes.What technical patterns, approaches and technologies will support the model,&#xD;
+    will support the &lt;em>business&lt;/em>? &amp;nbsp;Document these Architectural Decisions, and verify through walk-throughs and&#xD;
+    consultation with technical and business experts that the models and technologies will perform as required.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Processes are driven by events that the system must deal with. Look at these events and the processes that they&#xD;
+    trigger. Identify the activities and processes and their sequence as the event is responded to, and model the&#xD;
+    interactions between them and their inputs and outputs (in terms of&amp;nbsp;technical entities).&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_hgbAcN5YEdyg17nU3bVmlA" name="Review and document the technical organization of the processes" guid="_hgbAcN5YEdyg17nU3bVmlA">
+    <sectionDescription>Describe the organization of the identified&amp;nbsp;activities and processes based upon cohesiveness and other grouping&#xD;
+criteria. This is a refinement of the logical level model, with the addition of technical details, which may have an impact&#xD;
+upon the structure of the tasks and processes. For example, a technical solution may require refactoring of the activities&#xD;
+or processes. &#xD;
+&lt;p>&#xD;
+    Other structures may be discovered, for example when the logical tasks are decomposed into more technical detail, there&#xD;
+    may be activities or processes that are closely related or identical.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_LRDU0FuVEeSU46-vxLGKFw" name="Check for reuse" guid="_LRDU0FuVEeSU46-vxLGKFw">
+    <sectionDescription>Many logical level activities, when decomposed into more detailed technical level activities, may have activities in&#xD;
+common, or even sub-processes in common. It may not be obvious, due to the vagarities of names and descriptions, therefore&#xD;
+it is useful to have a look at the completed model from this perspective. Focusing on input and output artifacts is a&#xD;
+useful approach.</sectionDescription>
+  </sections>
+  <sections xmi:id="_CcEFoN5aEdyg17nU3bVmlA" name="Look for location dependencies" guid="_CcEFoN5aEdyg17nU3bVmlA">
+    <sectionDescription>As an aid in the development of the Technical Locations Model, look for location dependencies within the activities and&#xD;
+processes. Define these locations and the activities supported at them. Consulting the&amp;nbsp;Logical&amp;nbsp;Locations Model&#xD;
+and Technical Locations Model&amp;nbsp;is also useful in that processes may span locations, which needs to be understood if&#xD;
+they are to be properly supported and function correctly. Technical details discovered and related will aid in the&#xD;
+technical design of both the Process and the Locations model.</sectionDescription>
+  </sections>
+  <sections xmi:id="_aXJQoN5YEdyg17nU3bVmlA" name="Evaluate your results" guid="_aXJQoN5YEdyg17nU3bVmlA">
+    <sectionDescription>&lt;p>&#xD;
+    Validate the interactions between activities, and the inputs and outputs of the activities (in terms of&amp;nbsp;technical&#xD;
+    entities), to ensure consistency with the Technical Entity Model and Technical Roles Model.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p style=&quot;MARGIN: 0in 0in 6pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+    This task finds and defines the activities (processes and tasks) involved in the architecture in question. Specifically&#xD;
+    to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the Technical level activities;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the Technical level processes including the relationships that need to be supported between&#xD;
+            activities and tasks;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Optionally define or refine the Technical level&amp;nbsp;entities involved with the tasks and processes.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

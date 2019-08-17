@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-er2Yd5gAP-5QUDEmmnew9g" name="test_automation,_wO3VoCdhEeOTCL_zSXDR_Q" guid="-er2Yd5gAP-5QUDEmmnew9g" changeDate="2013-09-30T09:11:51.970-0400" version="7.2.0">
+  <additionalInfo>&lt;h3>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/h3></additionalInfo>
+  <problem>&lt;p>&#xD;
+    The purpose of this activity area is to automate testing for its iterative application as the system is being&#xD;
+    developed.&#xD;
+&lt;/p></problem>
+  <goals>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Speed up the testing procedure&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Repeat the testing patterns&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></goals>
+</org.eclipse.epf.uma:PracticeDescription>

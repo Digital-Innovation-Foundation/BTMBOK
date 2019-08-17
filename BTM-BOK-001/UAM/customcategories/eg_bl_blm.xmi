@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-n3WYCJRj9fj5C68aAPb11w" name="new_custom_category,_VDfQoMJcEeKSedlRPHdUIQ" guid="-n3WYCJRj9fj5C68aAPb11w" changeDate="2015-02-06T15:00:33.384-0500" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;ThuNorTech IT Research Business Locations Model&quot; src=&quot;./resources/BL-Business-BLM.png&quot;&#xD;
+    usemap=&quot;#map1393002802980&quot; />&lt;map id=&quot;map1393002802980&quot; name=&quot;map1393002802980&quot;>&#xD;
+        &lt;area title=&quot;ThuNorTech Headquarters Location&quot;&#xD;
+        href=&quot;./../../UAM/guidances/practices/eg_bl_bpl_hq-location_8BD59798.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;ThuNorTech Headquarters Location&quot; coords=&quot;11,64,57,125&quot; guid=&quot;_ciNk4ZsJEeOMG9JzPmKf0Q&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot; src=&quot;./resources/Drill%20Down-33.jpg&quot;&#xD;
+    width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This is the root of the IT Research Business Locations Model for ThuNorTech, containing the definitions or linking to&#xD;
+    the various diagrams that define this aspect. This view looks very much like the EA level view since ThuNorTech&#xD;
+    headquarters houses this business line. Likewise, this BL also requires links with its Partners and Customers.&#xD;
+    ThuNorTech has employees located at and integrated with Partners and Customers at their sites. Access is provided for&#xD;
+    these deployed employees, and to certain Partners' and Customers' employees, to ThuNorTech facilities in support of&#xD;
+    their&amp;nbsp; IT technology research needs or IT solution implementations and the support provided by ThuNorTech. The&#xD;
+    business level locations model is typically quite simple, as shown here.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The locations model works best if layering is used to deal with complexity and to provide views appropriate for the&#xD;
+    audience and objectives, and comprehension is greatly improved. The &quot;leaf&quot; nodes in this business level model define&#xD;
+    the starting point for the logical level models.&amp;nbsp;&lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;h3>&#xD;
+    Customer Location&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    ThuNorTech has a presence at some customer locations in order to provide tailored and personal support and access to&#xD;
+    Research.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Publications, distribution and web-based access to reports are provided.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    This zone is connected to the HQ location.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Partner Location&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    ThuNorTech has a presence at some partner locations in order to provide support&amp;nbsp;to the sharing of source material.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Coordination and provision&amp;nbsp;of information and material in support of ThuNorTech services.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    This zone is connected to the HQ location.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

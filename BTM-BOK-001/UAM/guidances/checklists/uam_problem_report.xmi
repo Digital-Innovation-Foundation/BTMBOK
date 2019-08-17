@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bor9NiM5Sq-0xIcTCLBvzA" name="uam_problem_report,_h1PsgKfeEeS8vLSVufajPQ" guid="-bor9NiM5Sq-0xIcTCLBvzA" changeDate="2015-01-29T12:47:30.808-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in ensuring that the Problem Report is&amp;nbsp;comprehensive, that the issue is&#xD;
+    properly captured.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_h1PsgqfeEeS8vLSVufajPQ" name="Appropriate experts consulted" guid="_h1PsgqfeEeS8vLSVufajPQ">
+    <sectionDescription>Ensure that all experts associated with the problem have had their say in identifying and&amp;nbsp;defining the issue.</sectionDescription>
+  </sections>
+  <sections xmi:id="_h1Psg6feEeS8vLSVufajPQ" name="Issue or decision clear" guid="_h1Psg6feEeS8vLSVufajPQ">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the described problem is clearly defined and agreed.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_h1PsgafeEeS8vLSVufajPQ" name="Follow-on action and POC" guid="_h1PsgafeEeS8vLSVufajPQ">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the follow-on action is executed (i.e., the problem is forwarded to the appropriate IT architect for&#xD;
+    action) and that a point of contact for the issue is agreed and defined.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

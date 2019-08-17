@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f9YylbaBfAK7kFZ0wCySMg" name="sprint_retrospective_meeting,_veyn3l5UEd22Gu98eFOlrQ" guid="-f9YylbaBfAK7kFZ0wCySMg" changeDate="2013-03-07T03:56:59.451-0500">
+  <mainDescription>The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be&#xD;
+enacted during the next Sprint. &lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MLq6IMCTEemv0a6P8REMBA" guid="_MLq6IMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MLq6IcCTEemv0a6P8REMBA" id="-hDwxO3njfDdVZxTd4Lw4qg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_MLt9cMCTEemv0a6P8REMBA" id="-b4HPRVX6aLhwBHUrSle91A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_MLwZsMCTEemv0a6P8REMBA" id="-c1epdiwIwDZ9DhLeOLkLhw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_MLy18MCTEemv0a6P8REMBA" id="-WiioPD8MbA5CQt-nRrT2kw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_ML0rIMCTEemv0a6P8REMBA" id="-XTPiLgBNPbS1uCrZOq4sJg" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_eqI20MvnEeCphdH9-OcbCA" name="Requirements" guid="_eqI20MvnEeCphdH9-OcbCA">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gaA5AMvnEeCphdH9-OcbCA" name="describe_the_system" guid="_gaA5AMvnEeCphdH9-OcbCA" presentationName="Describe the system" briefDescription="A preliminary description is necessary, so with the System Idea, and some additional information, a description of the system will be obtained. The System Idea could come from inside the company or outside (a customer). Regarding to the additional information, if any is needed; it could be obtained through several means such as surveys, meetings and market reviews.&#xD;&#xA;" superActivities="_eqI20cvnEeCphdH9-OcbCA" additionallyPerformedBy="_g2vb0MvoEeCphdH9-OcbCA" optionalInput="_7hNTUcvoEeCphdH9-OcbCA" output="_MF308cvoEeCphdH9-OcbCA" performedPrimarilyBy="_g2vb0svoEeCphdH9-OcbCA _g2vb0cvoEeCphdH9-OcbCA">
+      <presentation xmi:id="-hDwxO3njfDdVZxTd4Lw4qg" href="uma://-hDwxO3njfDdVZxTd4Lw4qg#-hDwxO3njfDdVZxTd4Lw4qg"/>
+      <Task href="uma://_eYseUMvjEeCphdH9-OcbCA#_pFbb4MvlEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_gwVHQMvnEeCphdH9-OcbCA" name="elaborate_glossary" guid="_gwVHQMvnEeCphdH9-OcbCA" presentationName="Elaborate Glossary" superActivities="_eqI20cvnEeCphdH9-OcbCA">
+      <presentation xmi:id="-b4HPRVX6aLhwBHUrSle91A" href="uma://-hDwxO3njfDdVZxTd4Lw4qg#-b4HPRVX6aLhwBHUrSle91A"/>
+      <Task href="uma://_eYseUMvjEeCphdH9-OcbCA#_TkWqoMvmEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_hDOOEMvnEeCphdH9-OcbCA" name="establish_validation_criteria" guid="_hDOOEMvnEeCphdH9-OcbCA" presentationName="Establish Validation Criteria" briefDescription="Specify the indicators which will demonstrate that the system operates perfectly and that it meets the requirements. This will be obtained agreeing with the user the set of Validation Criteria that will be used in the acceptance test of the system. It is difficult to obtain an agreement of the validation criteria but it is crucial to establish an end to the project.&#xD;&#xA;" superActivities="_eqI20cvnEeCphdH9-OcbCA" linkToPredecessor="_LEpMAcvpEeCphdH9-OcbCA">
+      <presentation xmi:id="-c1epdiwIwDZ9DhLeOLkLhw" href="uma://-hDwxO3njfDdVZxTd4Lw4qg#-c1epdiwIwDZ9DhLeOLkLhw"/>
+      <Task href="uma://_eYseUMvjEeCphdH9-OcbCA#_cjNcAMvmEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_hcqo0MvnEeCphdH9-OcbCA" name="identify_actors" guid="_hcqo0MvnEeCphdH9-OcbCA" presentationName="Identify Actors" briefDescription="Usually a migration implies also the introduction of new features or the modification of some of the existing ones. Based on the System idea and the preliminary system description identify the new and the changing features. These changing features may include both functional and non-functional changes.&#xD;&#xA;" superActivities="_eqI20cvnEeCphdH9-OcbCA">
+      <presentation xmi:id="-WiioPD8MbA5CQt-nRrT2kw" href="uma://-hDwxO3njfDdVZxTd4Lw4qg#-WiioPD8MbA5CQt-nRrT2kw"/>
+      <Task href="uma://_eYseUMvjEeCphdH9-OcbCA#_6gZd8MvlEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_hzks8MvnEeCphdH9-OcbCA" name="identify_additional_requirements" guid="_hzks8MvnEeCphdH9-OcbCA" presentationName="Identify Additional Requirements " superActivities="_eqI20cvnEeCphdH9-OcbCA" linkToPredecessor="_JdirUcvpEeCphdH9-OcbCA _KZpuQcvpEeCphdH9-OcbCA">
+      <Task href="uma://_eYseUMvjEeCphdH9-OcbCA#__kN9IMvlEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_MF308MvoEeCphdH9-OcbCA" name="Glossary" guid="_MF308MvoEeCphdH9-OcbCA" presentationName="glossary" isPlanned="false" superActivities="_eqI20cvnEeCphdH9-OcbCA">
+      <WorkProduct href="uma://_bvPv0MvjEeCphdH9-OcbCA#_70AwAMvnEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_MF308cvoEeCphdH9-OcbCA" name="system_description" guid="_MF308cvoEeCphdH9-OcbCA" presentationName="System Description" isPlanned="false" superActivities="_eqI20cvnEeCphdH9-OcbCA">
+      <WorkProduct href="uma://_bvPv0MvjEeCphdH9-OcbCA#_sm3QYMvnEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_MF308svoEeCphdH9-OcbCA" name="system_requirements" guid="_MF308svoEeCphdH9-OcbCA" presentationName="System Requirements" isPlanned="false" superActivities="_eqI20cvnEeCphdH9-OcbCA">
+      <WorkProduct href="uma://_bvPv0MvjEeCphdH9-OcbCA#_xyCUwMvnEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_MF3088voEeCphdH9-OcbCA" name="validation_criteria" guid="_MF3088voEeCphdH9-OcbCA" presentationName="Validation Criteria" isPlanned="false" superActivities="_eqI20cvnEeCphdH9-OcbCA">
+      <WorkProduct href="uma://_bvPv0MvjEeCphdH9-OcbCA#_4lzuoMvnEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_g2vb0MvoEeCphdH9-OcbCA" name="analyst" guid="_g2vb0MvoEeCphdH9-OcbCA" presentationName="Analyst" isPlanned="false" superActivities="_eqI20cvnEeCphdH9-OcbCA">
+      <Role href="uma://_bvPv0MvjEeCphdH9-OcbCA#_AfakoMvnEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_g2vb0cvoEeCphdH9-OcbCA" name="project_ leader" guid="_g2vb0cvoEeCphdH9-OcbCA" presentationName="Project Leader" isPlanned="false" superActivities="_eqI20cvnEeCphdH9-OcbCA" modifies="_MF308cvoEeCphdH9-OcbCA">
+      <Role href="uma://_bvPv0MvjEeCphdH9-OcbCA#_PhOhgMvoEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_g2vb0svoEeCphdH9-OcbCA" name="user" guid="_g2vb0svoEeCphdH9-OcbCA" presentationName="User" isPlanned="false" superActivities="_eqI20cvnEeCphdH9-OcbCA" modifies="_MF308cvoEeCphdH9-OcbCA">
+      <Role href="uma://_bvPv0MvjEeCphdH9-OcbCA#_OOEQgMvoEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7hNTUcvoEeCphdH9-OcbCA" name="system_idea" guid="_7hNTUcvoEeCphdH9-OcbCA" presentationName="System Idea" isPlanned="false" superActivities="_eqI20cvnEeCphdH9-OcbCA">
+      <methodElementProperty xmi:id="_ML48kMCTEemv0a6P8REMBA" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_bvPv0MvjEeCphdH9-OcbCA#_vpMjgMvoEeCphdH9-OcbCA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_JdirUcvpEeCphdH9-OcbCA" guid="_JdirUcvpEeCphdH9-OcbCA" pred="_gaA5AMvnEeCphdH9-OcbCA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_KZpuQcvpEeCphdH9-OcbCA" guid="_KZpuQcvpEeCphdH9-OcbCA" pred="_hcqo0MvnEeCphdH9-OcbCA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LEpMAcvpEeCphdH9-OcbCA" guid="_LEpMAcvpEeCphdH9-OcbCA" pred="_hzks8MvnEeCphdH9-OcbCA"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_eqI20cvnEeCphdH9-OcbCA" name="Requirements" guid="_eqI20cvnEeCphdH9-OcbCA" presentationName="Requirements" breakdownElements="_gaA5AMvnEeCphdH9-OcbCA _gwVHQMvnEeCphdH9-OcbCA _hDOOEMvnEeCphdH9-OcbCA _hcqo0MvnEeCphdH9-OcbCA _hzks8MvnEeCphdH9-OcbCA _MF308MvoEeCphdH9-OcbCA _MF308cvoEeCphdH9-OcbCA _MF308svoEeCphdH9-OcbCA _MF3088voEeCphdH9-OcbCA _g2vb0MvoEeCphdH9-OcbCA _g2vb0cvoEeCphdH9-OcbCA _g2vb0svoEeCphdH9-OcbCA _7hNTUcvoEeCphdH9-OcbCA" defaultContext="_SXnLsMlqEeCrm66MgLsmlQ" validContext="_SXnLsMlqEeCrm66MgLsmlQ">
+      <presentation xmi:id="-XTPiLgBNPbS1uCrZOq4sJg" href="uma://-hDwxO3njfDdVZxTd4Lw4qg#-XTPiLgBNPbS1uCrZOq4sJg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

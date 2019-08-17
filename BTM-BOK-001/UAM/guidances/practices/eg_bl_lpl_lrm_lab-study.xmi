@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-dpHXrZ15gmJutHhegHEhCg" name="eg_lpl_lrm_lab-study,_c_jb0K7LEeOnpNaz6NPWjg" guid="-dpHXrZ15gmJutHhegHEhCg" changeDate="2015-02-07T13:41:34.292-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Perform Lab Study Process with Roles in context&quot; src=&quot;./resources/BL-Logical-LRM-Lab-Study.png&quot; />&amp;nbsp;&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Lab Team Lead Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Responsible for planning lab studies, getting the resources necessary and managing the lab studies.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the Check-out Next Lab Study, Request&amp;nbsp;Demo Products and&amp;nbsp;Plan Study&amp;nbsp;activities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Lab Engineer Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Involved with the many activities necessary to do a lab study.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the activities Receive and Log Demo Products, Prepare Test Scripts, Setup Test Equipment Analyze Test Results and&#xD;
+    Write Tech Report.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Tech Writer Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Tech Writer takes the&amp;nbsp;draft Tech Report and produces the final report and releases it for&#xD;
+    publication.&amp;nbsp;They also edit and publish Research Reports.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the Edit Tech Report activity.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

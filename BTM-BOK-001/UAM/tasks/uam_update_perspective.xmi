@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-u5GvMganWBL0DofKFpEpnQ" name="uam_update_perspective,_w0cYIGUhEeSFL7Sh0MlmKA" guid="-u5GvMganWBL0DofKFpEpnQ" authors="DW Enstrom " changeDate="2014-11-05T14:36:54.115-0500" changeDescription="new" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    This task updates the views in a defined IT architecture. The update is required after:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The solution to a problem is defined;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A change to the business has been defined;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A new technology is to be introduced that requires an update to the IT architecture.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The specifics of the required update is defined in an &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/workproducts/uam_architectural_decision_E4B96628.html&quot; guid=&quot;_WY_zYMKpEdy4DtCs1YI90Q&quot;>Artifact:&#xD;
+    Architectural Decision&lt;/a>&amp;nbsp;(AD), however additional ADs may be defined if required. All views are updated as&#xD;
+    needed.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>The business entities identified during this task are high-level, but their definition must be very precise, and agreed by&#xD;
+stakeholders.</keyConsiderations>
+  <sections xmi:id="_w0cYJmUhEeSFL7Sh0MlmKA" name="Update the Context and Scope" guid="_w0cYJmUhEeSFL7Sh0MlmKA">
+    <sectionDescription>The context diagram defines the system's boundary, showing external actors along with an initial definition of internal&#xD;
+activities that the actors interact with to accomplish a task ... this is updated if necessary. The Architectural GLossary&#xD;
+may also require updating.</sectionDescription>
+  </sections>
+  <sections xmi:id="_w0cYIWUhEeSFL7Sh0MlmKA" name="Update the Entity Model" guid="_w0cYIWUhEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Update the entity model:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Identify the new entities involved in the updated system, if any;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Review all relationships (only simple associations at the Business level) between entities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identify and describe the attributes of the entity;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Optionally define operations and events.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Check to ensure that the model is consistent and complete. Validate technical choices with domain experts, technical&#xD;
+    experts and other stakeholders. Technical choices made need to be documented and justified in Architectural Decisions&#xD;
+    (see: &lt;a class=&quot;elementLink&quot; href=&quot;./../../UAM/workproducts/uam_architectural_decision_E4B96628.html&quot;&#xD;
+    guid=&quot;_WY_zYMKpEdy4DtCs1YI90Q&quot;>Architectural Decision&lt;/a>).&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_w0cYImUhEeSFL7Sh0MlmKA" name="Update the Process Model" guid="_w0cYImUhEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Update the process model:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Identify activities from the new or revised business descriptions and scenarios;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Adjust&amp;nbsp;the logical organization of the processes if needed;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Look for location dependencies;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Check for reuse.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Validate the interactions between activities, and the inputs and outputs of the activities (in terms of&amp;nbsp;entities),&#xD;
+    to ensure consistency with the Entity Model and Roles Model.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_w0cYJGUhEeSFL7Sh0MlmKA" name="Update the Locations Model" guid="_w0cYJGUhEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Update the locations model:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Collect&amp;nbsp;information about the new locations, or update current locations;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Update the locations model;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Add or update locations relationships.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;span>A Locations Model is complete only when it describes every location that the system has a presence at (within the&#xD;
+    given scope) at a consistent level of detail. Before you finish, make sure the locations model exhibits the&#xD;
+    characteristic properties of a good model.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The logical or physical segmentation of the network is defined in terms of &quot;domains&quot; and &quot;zones&quot; as defined in &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/whitepapers/uam_security_reference_model_3EA07B63.html&quot;&#xD;
+    guid=&quot;_KGs_oMX8EdyDYN2-y9-AqA&quot;>Whitepaper: A Reference Model for Enterprise Security&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_w0cYJWUhEeSFL7Sh0MlmKA" name="Update the Roles Model" guid="_w0cYJWUhEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Update the roles model:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Update&amp;nbsp;the actors and roles, or add new ones&amp;nbsp;as needed;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Refine the actor and role relationships as needed.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    A Roles Model is complete only when it describes every actor involved in business processes (within the given scope).&#xD;
+    See: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/checklists/uam_actor_B0306C90.html&quot;&#xD;
+    guid=&quot;_29AN0OPqEdy7f9KmjDtwsA&quot;>Checklist: Actor and Role Checklist&lt;/a>&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/guidelines/uam_user-actor-role_8210ACA7.html&quot; guid=&quot;_r8jW8OPQEdy7f9KmjDtwsA&quot;>Guideline:&#xD;
+    Users, Actors and Roles&lt;/a>,&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/guidelines/uam_business_roles_model_BD5A0B4F.html&quot;&#xD;
+    guid=&quot;__WBY8OY0EdyjVoHXO3Mbfg&quot;>Guideline: Business Roles Model&lt;/a>, &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/guidelines/uam_logical_roles_model_9E48402E.html&quot; guid=&quot;_JE2zEO63Edy8F4k6ANL48Q&quot;>Guideline:&#xD;
+    Logical Roles Model&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/guidelines/uam_technical_roles_model_2810123A.html&quot;&#xD;
+    guid=&quot;_NNxk0O-qEdy8F4k6ANL48Q&quot;>Guideline: Technical Roles Model&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_w0cYI2UhEeSFL7Sh0MlmKA" name="Evaluate your results" guid="_w0cYI2UhEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>&#xD;
+    Before you finish, make sure the model exhibits the characteristic properties of a good model.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    This task&amp;nbsp;updates the views in the defined IT architecture at a specified level (perspective). Specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+            Update the Entity Model;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt&quot;>&#xD;
+            &lt;div class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+                Update the Process Model;&#xD;
+            &lt;/div>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt&quot;>&#xD;
+            &lt;div class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+                Update the Location Model;&#xD;
+            &lt;/div>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt&quot;>&#xD;
+            &lt;div class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+                &lt;div class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+                    Update the Roles Model;&#xD;
+                &lt;/div>&#xD;
+            &lt;/div>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt&quot;>&#xD;
+            &lt;div class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+                Optionally:&#xD;
+            &lt;/div>&#xD;
+        &lt;/div>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt&quot;>&#xD;
+                    &lt;div class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+                        Update the Architecture Glossary;&#xD;
+                    &lt;/div>&#xD;
+                &lt;/div>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt&quot;>&#xD;
+                    &lt;div class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+                        Define additional Architectural Decisions.&amp;nbsp;&#xD;
+                    &lt;/div>&#xD;
+                &lt;/div>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

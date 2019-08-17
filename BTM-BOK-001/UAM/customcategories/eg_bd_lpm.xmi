@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-loa0fL0ps3_I094qkBCmlQ" name="uam_bl_lpm,_9uA62MJiEeKSedlRPHdUIQ" guid="-loa0fL0ps3_I094qkBCmlQ" changeDate="2014-03-31T15:32:37.262-0400" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;Distribute Research BD Process model top level&quot;&#xD;
+    src=&quot;./resources/BD-Logical-IT-Research-Dist-Research.png&quot; usemap=&quot;#map1393022942323&quot; />&lt;map id=&quot;map1393022942323&quot;&#xD;
+    name=&quot;map1393022942323&quot;>&#xD;
+        &lt;area title=&quot;Access Information&quot; href=&quot;./../../UAM/customcategories/eg_bd_lpl_access_info_ACA9EFEF.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Access Information&quot; coords=&quot;200,75,265,121&quot; guid=&quot;_3nsogLT0EeOxHfidXKfEcg&quot; />&#xD;
+        &lt;area title=&quot;new_custom_category&quot; href=&quot;./../../UAM/customcategories/eg_bd_lpl_dist-reports_EB4AD7FA.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;new_custom_category&quot; coords=&quot;200,129,263,175&quot; guid=&quot;_X-Nc0LT1EeOxHfidXKfEcg&quot; />&#xD;
+    &lt;/map>&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot; src=&quot;./resources/Drill%20Down-33.jpg&quot;&#xD;
+    width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This diagram is the root of the Logical Process Model at the BD level for the &quot;IT Research - Distribute&#xD;
+    Research&quot;&amp;nbsp;portion of the ThuNorTech core business. As noted on the view above, Distribute Research includes the&#xD;
+    &quot;Access Information&quot; activities and the &quot;Distribute Reports&quot; activities.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

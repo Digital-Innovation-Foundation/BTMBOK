@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZJCv_8meTQrTXr8ZYs4YlQ" name="new_supporting_material,_yz06YDKaEeiAt8AuY4zgEg" guid="-ZJCv_8meTQrTXr8ZYs4YlQ" changeDate="2018-03-28T11:15:43.077-0400">
+  <mainDescription>&lt;p>&#xD;
+    The keyword index provides the ability to look-up topics in the method website based on keywords or topics. At the time&#xD;
+    the pages are created, keywords are identified which allows the keyword index to be built. The top frame of the keyword&#xD;
+    index window allows topics beginning with a letter or number to be displayed. The lower frame displays a list of topics&#xD;
+    and their related links. Clicking on a link causes the related page to be displayed in the main frame of the published&#xD;
+    site browser window.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;Select the Index within the tree navigation side panel&quot; src=&quot;resources/Index-view.png&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-A-n9tMOsjXzCTHnRl4WyhA" name="uam_model_repository,_m51KkLeeEeSeNe6SxZNlbg" guid="-A-n9tMOsjXzCTHnRl4WyhA" authors="DW Enstrom" changeDate="2015-02-18T14:06:56.119-0500" changeDescription="new" version="2.0.1">
+  <mainDescription>&lt;h3>&#xD;
+    Organization of Models&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The enterprise that owns the IT architectures needs to decide how they are to be classified and organized for easy&#xD;
+    search and retrieval by&amp;nbsp;IT architects, designers and implementation people. Although the creation and storage of&#xD;
+    models is currently outside the scope of UAM, it is suggestion that they be organized in a widely available searchable&#xD;
+    repository on the corporate Intranet. It could also be implemented as a segmented area within the corporate document&#xD;
+    management facility, but this may limit functionality depending upon the modeling tool used.&amp;nbsp;The&#xD;
+    repository&amp;nbsp;will promote the maintenance and reuse of IT architectures, with all the benefits that follow.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Contents&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This repository holds all IT architectures developed by the enterprise, including all perspectives and views at all&#xD;
+    levels. Having one repository supports the integration, reuse, and maintenance of defined models.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Other &quot;specification&quot; documentation is also&amp;nbsp;stored in this repository.&amp;nbsp; See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/workproducttypes/uam_specification_E6EE1B76.html&quot; guid=&quot;_uXMfoMKuEdy4DtCs1YI90Q&quot;>Work Product Kind:&#xD;
+    UAM Specifications&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Integration with architecture development tools and system development and implementation&amp;nbsp;tools would be an asset.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;a id=&quot;XE_Model_Repository&quot; name=&quot;XE_Model_Repository&quot;>&lt;/a>&lt;a id=&quot;XE_UAM__repository&quot; name=&quot;XE_UAM__repository&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The Model Repository stores all IT architectural artifacts, regardless as to whether they are enterprise level ,&#xD;
+    business domain level or lower level. The repository is an enterprise level resource that is used by all architects,&#xD;
+    designers, implementers and project managers in the enterprise.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Depending on the size of&amp;nbsp;the organization&amp;nbsp;there could be multiple repositories geographically distributed,&#xD;
+    however&amp;nbsp;it is used and viewed as a&amp;nbsp;single logical repository. The number of models and documents in the&#xD;
+    repository should be relatively low, but they need to be organized and searchable by all IT architects and&#xD;
+    stakeholders.&#xD;
+&lt;/p></purpose>
+  <representationOptions>&lt;p>&#xD;
+    The model repository is not a critical part of the enterprise infrastructure and as such can be on any server, however&#xD;
+    it is an important resource. The data volumes are low as well as the numbers of queries expected. However, the&#xD;
+    repository must be available to all architects, project managers, analysts and implementers across the enterprise.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The repository needs to support and be integrated with the IT architecture development tool, and permit&#xD;
+    &lt;em>check-in&lt;/em> and &lt;em>check-out&lt;/em> capabilities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>&lt;em>Note:&lt;/em>&lt;/strong> The model repository should maintain model (and other&#xD;
+    documentation)&amp;nbsp;&lt;em>author&lt;/em>, &lt;em>revision&lt;/em> and &lt;em>date&lt;/em> information automatically.&#xD;
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

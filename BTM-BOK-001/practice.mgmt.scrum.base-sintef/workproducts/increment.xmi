@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-r4CP_1w3uk0ClgSnUrm80w" name="potentially_shippable_product_incremement,__uNYkPVgEdyMdecrgpMbRg" guid="-r4CP_1w3uk0ClgSnUrm80w" changeDate="2013-03-07T04:42:29.687-0500">
+  <mainDescription>&lt;h3>&#xD;
+    Increment&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Increment is the sum of all the Product Backlog items completed during a Sprint and all previous Sprints. At the&#xD;
+    end of a Sprint, the new Increment must be “Done,” which means it must be in useable condition and meet the Scrum&#xD;
+    Team’s &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/guidances/concepts/definition_of_done_B52B998F.html&quot;&#xD;
+    guid=&quot;_tprjYBCzEeGhfJHCQDJMKQ&quot;>Definition of &quot;Done&quot;&lt;/a>. It must be in useable condition regardless of whether the&#xD;
+    Product Owner decides to actually release it.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

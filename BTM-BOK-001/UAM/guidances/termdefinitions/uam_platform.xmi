@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Q_3cqmzDSwt1ILw3s7aNLQ" name="new_term_definition,_tGQ84MJLEeKSedlRPHdUIQ" guid="-Q_3cqmzDSwt1ILw3s7aNLQ" changeDate="2013-05-21T15:22:14.200-0400" version="7.5.1">
+  <mainDescription>A software infrastructure implemented with a specific technology (UNIX platform, CORBA platform, Windows platform) on&#xD;
+specified hardware technology (&lt;a href=&quot;http://www.omg.org/mda/&quot; target=&quot;_blank&quot;>OMG, MDA&amp;nbsp;2001&lt;/a>).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

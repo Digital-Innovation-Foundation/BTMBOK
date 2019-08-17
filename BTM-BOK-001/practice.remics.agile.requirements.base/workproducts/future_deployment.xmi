@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-krvL0tEYuSzf4sYxUPEIpQ" name="future_deployment,_mE4_QP28EeK8HINtOGo1Xg" guid="-krvL0tEYuSzf4sYxUPEIpQ" changeDate="2013-08-19T06:36:00.888-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Future Deployment&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The future deployment describes de location of the main parts of the future system in the public and private computing&#xD;
+    infrastructures.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

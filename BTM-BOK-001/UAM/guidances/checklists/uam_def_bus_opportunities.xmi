@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-j273xGyH4y3pn7t-wDYSTw" name="uam_def_bus_opportunities,_7pd7UGqPEeS7ieerwXbTqg" guid="-j273xGyH4y3pn7t-wDYSTw" changeDate="2014-11-12T11:53:11.587-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in ensuring that the Business Opportunity Analysis is&amp;nbsp;comprehensive, that&#xD;
+    the issues or decisions are properly captured and that follow-on actions are also agreed to ensure that issues are&#xD;
+    resolved and updated made as decided during the review.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_7pd7UWqPEeS7ieerwXbTqg" name="Appropriate experts involved" guid="_7pd7UWqPEeS7ieerwXbTqg">
+    <sectionDescription>Ensure that all IT experts associated with the this new or update IT technology have had their say in the analysis, that&#xD;
+all of their suggested impacts are recorded, and follow-on actions (if any) are defined. IT experts may have detailed&#xD;
+insights into the possibilities presented by the technology but at this level the business experts are the key&#xD;
+participants, since they will understand the business motivations and cost/benefit models.</sectionDescription>
+  </sections>
+  <sections xmi:id="_7pd7U2qPEeS7ieerwXbTqg" name="Defined opportunity is clear" guid="_7pd7U2qPEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the described business opportunity is clearly defined and understood and that the level or importance of it&#xD;
+    is understood. Cost implications are also included: outline the business motivations.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_7pd7UmqPEeS7ieerwXbTqg" name="Follow-on action" guid="_7pd7UmqPEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the follow-on actions, if any, are clearly defined and assigned.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kQ00T5naPZ3HLs4hwPxIEQ" name="new_role_set,_oXOBUFCJEeOcVJX_gvTjyg" guid="-kQ00T5naPZ3HLs4hwPxIEQ" changeDate="2015-02-20T14:54:39.173-0500" version="2.0.1">
+  <mainDescription>&lt;a id=&quot;XE_Roles__IT_Architects&quot; name=&quot;XE_Roles__IT_Architects&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    This role set lists the IT architects, which do IT Architecture; the primary roles for the Unified Architecture Method.&#xD;
+    There are&amp;nbsp;normally three primary&amp;nbsp;roles defined by the scope of their responsibilities within the enterprise,&#xD;
+    namely the Enterprise Architect who typically works for the CIO, the Domain or Business Line Architects who typically&#xD;
+    work for the VPs of the business line or business domain, and the Business Unit and Project IT architects responsible&#xD;
+    for business unit or IT project architectures. Depending upon the size of the organization, there may be just an&#xD;
+    enterprise architect, or there may be an enterprise architect, plus domain architects for each business domain within&#xD;
+    the enterprise, plus business unit and project architects.&#xD;
+&lt;/p>&lt;a id=&quot;XE_UAM__IT_architects&quot; name=&quot;XE_UAM__IT_architects&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    A suggested governance structure for this organization of architects, and their work products,&amp;nbsp;is define here: &lt;a&#xD;
+    class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/roadmaps/uam_governance_60575AE0.html&quot;&#xD;
+    guid=&quot;_p0Js0OCrEdynr9jlfK-aMA&quot;>Roadmap: Governance&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

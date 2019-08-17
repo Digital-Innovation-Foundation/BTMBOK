@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TyeSTgXhgKeXcAk-phrvXQ" name="uam_bl_bp,_9t_sscJiEeKSedlRPHdUIQ" guid="-TyeSTgXhgKeXcAk-phrvXQ" changeDate="2014-03-19T13:06:03.860-0400" version="2.0.1">
+  <mainDescription>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; border=&quot;0&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td width=&quot;108&quot;>&#xD;
+                &lt;strong>Click on the framework to view a&amp;nbsp;specific model (aspect) that defines this&#xD;
+                architecture.&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img border=&quot;0&quot; alt=&quot;Business Perspective&quot; src=&quot;./resources/pers_bus.png&quot; usemap=&quot;#map1369174482969&quot; />&lt;map&#xD;
+                id=&quot;map1369174482969&quot; name=&quot;map1369174482969&quot;>&#xD;
+                    &lt;area title=&quot;ThuNorTech BL BEM&quot; href=&quot;./../../UAM/customcategories/eg_bl_bem_5AECFDC1.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BL BEM&quot; coords=&quot;112,71,216,121&quot; guid=&quot;_9uATwMJiEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BL BPM&quot; href=&quot;./../../UAM/customcategories/eg_bl_bpm_BCFDC7AC.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BL BPM&quot; coords=&quot;226,72,328,118&quot; guid=&quot;_9uATw8JiEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BL BLM&quot; href=&quot;./../../UAM/customcategories/eg_bl_blm_E17F3F6.html&quot; shape=&quot;rect&quot;&#xD;
+                    alt=&quot;ThuNorTech BL BLM&quot; coords=&quot;343,71,447,125&quot; guid=&quot;_9uATxcJiEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BL BRM&quot; href=&quot;./../../UAM/customcategories/eg_bl_brm_818FA9CB.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BL BRM&quot; coords=&quot;457,72,564,121&quot; guid=&quot;_9uATx8JiEeKSedlRPHdUIQ&quot; />&#xD;
+                &lt;/map>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&lt;br />&#xD;
+This is the root package for the Business Perspective at the Business Line level (i.e. the IT Research BL), containing the&#xD;
+four aspects of this perspective, with each aspect or view&amp;nbsp;being linked to above.&lt;br />&#xD;
+&lt;br />&#xD;
+This diagram may be used as a navigation point into the set of detailed views for each aspect.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

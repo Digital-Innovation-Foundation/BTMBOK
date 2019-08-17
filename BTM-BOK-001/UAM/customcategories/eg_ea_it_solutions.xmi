@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hKQpXWz2inFbKieyLr6i_A" name="eg_ea_it_solutions,_PV1oUJmXEeOJEracaeLisg" guid="-hKQpXWz2inFbKieyLr6i_A" changeDate="2014-03-20T16:45:58.493-0400" version="7.5.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;ThuNorTech IT Solutions Activities&quot; src=&quot;./resources/EA-Business-IT-Solutions.png&quot;&#xD;
+    usemap=&quot;#map1392996840708&quot; />&lt;map id=&quot;map1392996840708&quot; name=&quot;map1392996840708&quot;>&#xD;
+        &lt;area title=&quot;Customer Relationship Management&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_bpl_crm_EF67E3E2.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Customer Relationship Management&quot; coords=&quot;164,65,228,108&quot; guid=&quot;_HTebwJmUEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;Consulting Services&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_bpl_conslt-svcs_EEC3E96C.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Consulting Services&quot; coords=&quot;277,64,339,110&quot; guid=&quot;_FOoSUJmYEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;Solution Support&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_bpl_soln-support_3D3FFF8D.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Solution Support&quot; coords=&quot;163,120,227,166&quot; guid=&quot;_RPkUoJmYEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;Solution Implementation&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_bpl_soln-impl_6609C99B.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Solution Implementation&quot; coords=&quot;269,139,347,184&quot; guid=&quot;_ZsZ-EJmYEeOJEracaeLisg&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the Activities and other elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot;&#xD;
+    src=&quot;./resources/Drill%20Down-33.jpg&quot; width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The IT Solutions business line (BL) of ThuNorTech provides IT solution to customers. This includes&#xD;
+    consultation,&amp;nbsp;implementation and support.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

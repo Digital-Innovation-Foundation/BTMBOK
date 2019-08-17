@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-f3ZYF9O7YB9vSBIlrAse_w" name="new_role,_QDA0sEgdEeShYIpiBstbOQ" guid="-f3ZYF9O7YB9vSBIlrAse_w" changeDate="2014-09-29T17:15:44.663-0400">
+  <mainDescription>&lt;p>&#xD;
+    The IT architect that develop UAM architecture need to obtain an in-depth knowledge of the portion of the business&#xD;
+    being modeled. They must rely on business experts for guidance and advice. This advice is provided during the&#xD;
+    development of architectures, normally at the Business level and sometimes at the Logical level, in order to ensure&#xD;
+    that the architectures are accurate reflections of the future state of the business.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The&amp;nbsp;business experts involved have an intimate knowledge of the current business process and ideally some&#xD;
+    knowledge of the desired future state of the business. The level of detail desired and required depends upon the size&#xD;
+    and complexity of the &quot;system&quot;, namely the context of the IT architecture.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MzcqLl4hRPuNMBD5El7v3w" name="uam_security_reference_model,_KGs_oMX8EdyDYN2-y9-AqA" guid="-MzcqLl4hRPuNMBD5El7v3w" changeDate="2015-02-13T13:44:20.572-0500" version="2.0">
+  <mainDescription>&lt;a id=&quot;XE_Security__Reference_Model&quot; name=&quot;XE_Security__Reference_Model&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    This paper describes a reference model, in UML, for (enterprise) IT security. This framework defines a logical approach&#xD;
+    to enterprise security, but more importantly provides a cohesive structure for the definition and implementation of&#xD;
+    security services. The complete framework is described, but with a focus on subjects, and protected objects and how&#xD;
+    access is controlled. Multiple layers of security are defined, building upon the “defence in depth” concept, augmented&#xD;
+    with “domain” and “zone” concepts and associated protections. The dynamic use of roles is described, a concept that&#xD;
+    along with “user self-service” provides a practical approach for the management and use of roles for access control.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    An expanded version of this IT architecture &lt;em>pattern&lt;/em> is here: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/reusableassets/uam_pattern_IT-security_204F8FB4.html&quot; guid=&quot;_Z4fMMKmdEeSFIOC-Wm7nrA&quot;>IT&#xD;
+    Security Reference Model&lt;/a>&#xD;
+&lt;/p></mainDescription>
+  <attachments>&lt;a href=&quot;http://en.wikipedia.org/wiki/Reference_model&quot;>Reference Model Definition (Wikipedia)&lt;/a>|resources/A-Reference-Model-for-Enterprise-Security_ICEIS-2007.pdf</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

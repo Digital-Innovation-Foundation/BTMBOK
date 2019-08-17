@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xU3D-VqAQ5CnjMrYDhdnTw" name="uam_architectural_decision,_Z0M4gMK1Edy4DtCs1YI90Q" guid="-xU3D-VqAQ5CnjMrYDhdnTw" authors="DW Enstrom " changeDate="2015-01-25T17:05:38.444-0500" changeDescription="new AD example" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    Various formats are provided below: Microsoft Word (.docx and .doc), PDF (.pdf) and Open XML Paper Specification&#xD;
+    (.xps).&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/AD-example_MOF.pdf|resources/AD-example_MOF.doc|resources/AD-example_MOF.docx</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

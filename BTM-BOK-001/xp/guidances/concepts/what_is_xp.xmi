@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nO38_JQ9G3FQvNlAT5Agqg" name="what_is_xp,9.251272550276345E-306" guid="-nO38_JQ9G3FQvNlAT5Agqg" changeDate="2006-11-08T18:33:57.947-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp__what_is_it&quot; name=&quot;XE_xp__what_is_it&quot;>&lt;/a>&lt;a id=&quot;XE_what_is__xp&quot; name=&quot;XE_what_is__xp&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    Kent Beck, author of &lt;i>Extreme Programming Explained&lt;/i> [&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../xp/guidances/supportingmaterials/xp_and_agile_process_references.html#BEC00&quot; guid=&quot;6.191633934532389E-306&quot;>BEC00&lt;/a>], says, &quot;XP is a light-weight methodology for small-to-medium-sized teams&#xD;
+    developing software in the face of vague or rapidly changing requirements.&quot; Simply stated, XP is a set of &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../xp/guidances/concepts/xp_values.html&quot; guid=&quot;1.076140803519123E-306&quot;>values&lt;/a>, &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../xp/guidances/concepts/xp_rights.html&quot; guid=&quot;3.036332011267074E-306&quot;>rights,&lt;/a>&#xD;
+    and best &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../xp/customcategories/xp_best_practices.html&quot; guid=&quot;4.315031901943112E-306&quot;>practices&lt;/a> that support each other in incrementally developing software.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    When a team is developing software with XP, the customer creates stories that describe the functionality of the&#xD;
+    software. These stories are very lightweight use-cases. They are small units of functionality that require less than&#xD;
+    one or two weeks to implement. Programmers estimate the stories, and, based upon those estimates, the customer decides&#xD;
+    which stories to do first.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Development is done iteratively and incrementally. Every two weeks, the programming team delivers working stories to&#xD;
+    the customer. Then the customer chooses another two weeks worth of work. The system grows in functionality, piece by&#xD;
+    piece, steered by the customer. Progress is measured and tracked based on the observable behavior of the team.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    XP relies on evolutionary design and testing techniques that maintain a high quality design while new functionality is&#xD;
+    being added. These techniques avoid the mess of unmaintainable code through continuous review, an emphasis on&#xD;
+    simplicity, and the backstop of nearly universal test coverage.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Programmers work on their programming tasks in pairs. The pair share a single workstation and work together to write a&#xD;
+    single piece of code. Both partners are equally engaged in the writing. The keyboard moves back and forth between them&#xD;
+    frequently.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    XP programmers practice Test-Driven Development. In short, they write unit tests prior to writing production code.&#xD;
+    However, this is done in very tiny increments. Tiny portions of a test are written first, and then just enough&#xD;
+    production code is written to make those portions pass. This continues iteratively until everything that can be&#xD;
+    practically tested has been tested.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    XP focuses on continuous delivery of tested, running software from the first day of the project to the last. Delivery&#xD;
+    of real software, combined with simple but frequent planning, provides stakeholders with a clear view of what is done&#xD;
+    and what will be done. This enables the business to steer the project to an on-time shipment of the best possible&#xD;
+    software that can be completed in the time available.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

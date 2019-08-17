@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0iRnQW0M9QDTNqWNijBB5A" name="track_task_completion,{3D22CC4B-ABC4-4CFE-9ACF-C9615E01382C}" guid="-0iRnQW0M9QDTNqWNijBB5A" version="1.0.0">
+  <sections xmi:id="_oON54GE-EdqnIZeW8YpHcA" name=" General " guid="_oON54GE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Prep&quot; name=&quot;Prep&quot;>&lt;/a> 
+&lt;p>
+    Ideally tracking stories is much better than tracking tasks even at the iteration level since the stories can be proved
+    to work through the acceptance tests and tasks can't. However, when there are few stories in the iteration, some teams
+    also use tasks to help them gain a sense of progress.
+&lt;/p>
+&lt;p>
+    The tracker simply tracks how many tasks have been done during the iteration and how many are left. This information is
+    readily available during the stand-up meetings. Half way through the iteration, the team should have done about half
+    the tasks (in terms of the task cost estimates). If not, it is a sign that the iteration plan needs some tweaking. If
+    the team is not going as fast as planned, the tweaking may consist of removing one of the stories from the iteration.
+    If they are going faster than planned, then the team can ask the customer to bring a new story into the iteration. This
+    is how the team iteration velocity will fluctuate over time.
+&lt;/p>
+&lt;p>
+    On a regular basis, the tracker presents the progress the team is making in the iteration. This information can be
+    presented in the form of a big, visible chart hanging in the team's open workspace. Progress is often presented as the
+    number of tasks or stories done vs. planned for the iteration.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_track_iteration_progress__activity_definition&quot; name=&quot;XE_track_iteration_progress__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Track the progress during the iteration.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oxvj4WhVGIMO__CEscoS1A" name="uam_actor,_29AN0OPqEdy7f9KmjDtwsA" guid="-oxvj4WhVGIMO__CEscoS1A" authors="DW Enstrom" changeDate="2014-06-24T10:42:48.501-0400" changeDescription="new" version="1.0.0">
+  <mainDescription>An actor, associated with a &quot;user&quot; (person) interacts with the &quot;system&quot; through one or more roles. A role&amp;nbsp;is equated&#xD;
+to and defined by the behavior (and by extension the responsibilities) of&amp;nbsp;the associated activity. A role can be&#xD;
+assumed by any kind of actor, either human or a system. An role may be associated with&amp;nbsp;only one activity, but there&#xD;
+may be multiple roles associated with the activity.&amp;nbsp;An actor can be associated with&amp;nbsp;multiple physical people (or&#xD;
+systems). &#xD;
+&lt;p>&#xD;
+    The Unified Architecture Method includes three levels of abstraction (perspectives) for actors and roles: Business,&#xD;
+    Logical, and Technology.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This checklist defines things to look for when defining actors, to ensure that they are well-defined, that the model is&#xD;
+    complete and that it is consistent.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_NH8JgOPsEdy7f9KmjDtwsA" name="Have you found all the actors and roles?" guid="_NH8JgOPsEdy7f9KmjDtwsA">
+    <sectionDescription>That is, have you accounted for and modeled all roles in the system's environment? Everything in the business environment&#xD;
+interactions—both human and mechanical—is modeled with actors and associated roles. You cannot be sure of finding every&#xD;
+actor until you have found and described every business activity/service. Each activity could have at least one&#xD;
+direct&amp;nbsp;role associated, except at the Business Level where just actors are identified, in general (roles are defined&#xD;
+at the Logical Level).</sectionDescription>
+  </sections>
+  <sections xmi:id="_T9fFAOPsEdy7f9KmjDtwsA" name="Is each role is associated with at least one business activity? " guid="_T9fFAOPsEdy7f9KmjDtwsA">
+    <sectionDescription>&lt;p>&#xD;
+    Remove any roles (and possibly the actor) not mentioned&amp;nbsp;in or associated with a&amp;nbsp;business activity. Many&#xD;
+    (most) activities have associated roles—ensure that roles have not been missed.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_-CCwYPuuEeOyDIZvZjuaLg" name=" Does each business service (process) have an associated actor?" guid="_-CCwYPuuEeOyDIZvZjuaLg">
+    <sectionDescription>&lt;p>&#xD;
+    Actors require some sort of result (service) from the system, and therefore if there is a service provided and no actor&#xD;
+    defined there is likely a problem. Each actor expresses an interaction (request for service) and is not associated with&#xD;
+    a&amp;nbsp;specific person (and it may not actually be a person). You should be able to name at least two persons that can&#xD;
+    play the role of each actor. If you can't, you may have modeled a person, not a actor and roles. Of course, there are&#xD;
+    situations in which you can find only one person who can play a role. Each actor models something that interacts&#xD;
+    with&amp;nbsp;business, either external (e.g. Customer) or internal (e.g., employee).&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_47JqoOPsEdy7f9KmjDtwsA" name="Are there at least two people who would perform the role (activity) of a particular actor?" guid="_47JqoOPsEdy7f9KmjDtwsA">
+    <sectionDescription>If not, check if the role the actor assumes is modeled by another one. If so, you should merge the role/actor with the&#xD;
+other role/actor.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ItwnwOPtEdy7f9KmjDtwsA" name="Do any actors play similar roles?" guid="_ItwnwOPtEdy7f9KmjDtwsA">
+    <sectionDescription>If so, you should merge them into a single role.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ScIKgOPtEdy7f9KmjDtwsA" name="Do two actors play the same role with a business activity?" guid="_ScIKgOPtEdy7f9KmjDtwsA">
+    <sectionDescription>If so, you should use actor-generalizations to model their shared behavior, or otherwise deal with this duplication&#xD;
+(merging them perhaps).</sectionDescription>
+  </sections>
+  <sections xmi:id="_NIjioOPuEdy7f9KmjDtwsA" name="Does a particular role/actor use the business activity in several (completely different) ways?" guid="_NIjioOPuEdy7f9KmjDtwsA">
+    <sectionDescription>If so, you should probably have more than one role—or perhaps even different activities!</sectionDescription>
+  </sections>
+  <sections xmi:id="_YVvz0OPuEdy7f9KmjDtwsA" name="Do the actors have intuitive and descriptive names?" guid="_YVvz0OPuEdy7f9KmjDtwsA">
+    <sectionDescription>Can management, project people and&amp;nbsp;users&amp;nbsp;all understand the names? It is important that actor (nouns) and&#xD;
+role&amp;nbsp;names (verbs) correspond to and describe how they interact with the associated activity. If not, change them.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

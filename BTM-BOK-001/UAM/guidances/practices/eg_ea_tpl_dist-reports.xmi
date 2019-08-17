@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gzseXPr5tTy49RdPxVKueA" name="eg_ea_tpl_dist-reports,_MiPF8JpgEeO7n_hZ4c37dQ" guid="-gzseXPr5tTy49RdPxVKueA" changeDate="2015-02-07T14:38:23.004-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Distribute Reports Process&quot; src=&quot;./resources/EA-Technical-Res-Distribute-Reports.png&quot; />&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Notify Customers&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This business activity is responsible for distributing Research Reports to customers. There are three mechanisms&#xD;
+    supported:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    1. Push the Reports to Customers either through email with&amp;nbsp;reports being included or referenced, or by printing&#xD;
+    and mailing;&lt;br />&#xD;
+    2. Publishing the Reports to a Customer accessible repository; and&lt;br />&#xD;
+    3. Personal on-site provision and consultation through a Customer Support Researcher (CSR).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Access is also provided for Customer Support Researcher (CSR) or (select) Customers to published Reports and to Source&#xD;
+    Information (method #2 above). When Customers, Customers&amp;nbsp;needs, and subscriptions change the access control rules&#xD;
+    are updated along with the rules governing the distribution of Research Reports. Research Access Rules control the&#xD;
+    distribution and access to reports based upon Customer subscriptions.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Inputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Reports have been published, this activity periodically looks for new Reports and then notifies Customers.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Outputs&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Notification to Customers via email and&amp;nbsp;printed Reports to be mailed.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Exceptions&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    None.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    State Changes&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    None.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

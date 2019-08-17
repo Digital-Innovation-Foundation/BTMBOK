@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FT1l1S34ceXTDEqz6I5muA" name="requirements_team,_Gi9t0F5AEeKVU8eUCvi3Og" guid="-FT1l1S34ceXTDEqz6I5muA" changeDate="2013-08-21T08:36:25.468-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Requirements Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The scrum team focussed in the identification of new requirements&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

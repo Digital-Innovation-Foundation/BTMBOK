@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-Qpes9jPjelKHfPTzn8RHEw" name="uam_in_project-accept,_4dqIsLCCEeSgVPmVL1L5GQ" guid="-Qpes9jPjelKHfPTzn8RHEw" changeDate="2015-12-01T11:52:05.779-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The &quot;system&quot; has been architected and built. Now it goes through a transition to operations, which concludes in it&#xD;
+    acceptance.&#xD;
+&lt;/p>&lt;a id=&quot;XE_System_Acceptance&quot; name=&quot;XE_System_Acceptance&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    This document captures any deficiencies and other information, including items to be addressed. These action items may&#xD;
+    include updates to the IT architecture, or other documentation, to ensure that the &lt;em>as-built&lt;/em> details are&#xD;
+    reflected back into the documentation.&amp;nbsp; See the overview of inputs here: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/customcategories/uam_inputs_82560214.html&quot; guid=&quot;_UauIAGtMEeS7ieerwXbTqg&quot;>Inputs&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    There is an extensive&amp;nbsp;project process defined within enterprises. This involves the creation and review of a&#xD;
+    number of&amp;nbsp;artifacts that the IT architect needs to review, as summarized in the figure below.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;IT architecture and project deliverables and Gate reviews&quot; src=&quot;./resources/project.png&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is eventually signed by key stakeholders to signify the completion of the project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    See:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/deliveryprocesses/uam_ent_planning_1D88CE12.html&quot;&#xD;
+    guid=&quot;_iTW2kK8KEeSUf-NO_1Ayag&quot;>Activity: Enterprise Planning&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/deliveryprocesses/uam_gate-6_FF1039AA.html&quot; guid=&quot;_1ZR-QLBtEeSUf-NO_1Ayag&quot;>Milestone: Gate 6&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

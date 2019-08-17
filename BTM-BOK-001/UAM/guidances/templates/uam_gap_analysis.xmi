@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DrekVk6kB47tnhoPdb4l6A" name="uam_gap_analysis,_1sP5oNaOEdyTWqLy4FSCdg" guid="-DrekVk6kB47tnhoPdb4l6A" changeDate="2015-01-25T15:45:47.774-0500" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Various formats are provided below: Microsoft Word (.dotx and .dot), PDF (.pdf) and Open XML Paper Specification&#xD;
+    (.xps).&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/Gap-Analysis.pdf|resources/Gap-Analysis.dot|resources/Gap-Analysis.dotx|resources/Gap-Analysis.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

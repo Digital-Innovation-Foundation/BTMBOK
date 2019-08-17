@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-aWhjRmRp_1hzh1A0Ejwcpg" name="new_tpl_network,_nDL-oJpsEeO7n_hZ4c37dQ" guid="-aWhjRmRp_1hzh1A0Ejwcpg" changeDate="2015-02-07T14:36:54.722-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;ThuNorTech HQ Network Backbone&quot; src=&quot;./resources/EA-Technical-TLM-Backbone.png&quot; />&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A technical level model of the network backbone at ThuNorTech HQ. Interface points to other Zones, such as IT Research&#xD;
+    and Solutions, are identified. This&amp;nbsp;view adds descriptions for the four network structures: Data Center&#xD;
+    Distribution, Core Switches, User Distribution and WAN.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Data Center Distribution&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This portion of the IP network includes the switches that support ThuNorTech's data center. All servers and storage&#xD;
+    components connect to this structure.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Connected to the Core Switches.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Core Switches&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The core of ThuNorTech's&amp;nbsp;IP network within HQs, linking together all other portions of the network.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Redundant connections to all other portions of the network.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    User Distribution&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    ThuNorTech's desktop computers are segregated into this security zone to provide better (coarse grained) IT security&#xD;
+    within HQs.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Connected to the Core Switches.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    WAN&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    ThuNorTech's routers connecting to the Internet and elsewhere through telecommunications carriers.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Connected to the Domain PEP and to telecomm carriers.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

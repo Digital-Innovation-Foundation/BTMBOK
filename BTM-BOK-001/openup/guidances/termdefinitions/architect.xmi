@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2QB1bosN011CudkwZ0cn-g" name="architect,_wI3R4EvCEdunZcj9T5hrMQ" guid="-2QB1bosN011CudkwZ0cn-g">
+  <mainDescription>Role representing someone responsible for designing the software architecture, which includes making the key technical&#xD;
+decisions that constrain the overall design and implementation of the project</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

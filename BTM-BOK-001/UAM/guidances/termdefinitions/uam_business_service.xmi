@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HDCbsg2izWVEaa0b8hvKmA" name="uam_business_service,_RheooMI_EeKSedlRPHdUIQ" guid="-HDCbsg2izWVEaa0b8hvKmA" changeDate="2013-05-21T13:53:26.280-0400" version="7.5.1">
+  <mainDescription>Value added activities provided to customers of a business or possibly to employees. For example, purchasing products or&#xD;
+services, tracking purchases, paying for products or services, and getting help with purchased products or services.&#xD;
+Services in general terms have the key characteristics of being intangible (i.e. not physical things, therefore the&#xD;
+purchasing of product and not the product itself), perishable (one-off), inseparable (or atomic), simultaneous (provided to&#xD;
+multiple customers at the same time) and variable (each instance is unique).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

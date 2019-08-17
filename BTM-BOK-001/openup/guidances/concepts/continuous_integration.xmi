@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dhAMzNZNWufBnW0fPYQtBA" name="continuous_integration,_NApSVdtxEdq7ovUqqSoGBQ" guid="-dhAMzNZNWufBnW0fPYQtBA" changeDate="2007-06-14T13:04:57.895-0400">
+  <mainDescription>&lt;p>&#xD;
+    Continuous integration is an implementation practice where team members integrate their work with completed&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/guidances/concepts/change_set_430BF233.html&quot; guid=&quot;_1QU9MAIoEdyLh7vsrHZ4YA&quot;>Change Set&lt;/a>s from other developers, and test the application, before making their&#xD;
+    work available to others. This&amp;nbsp;enables detection of&amp;nbsp;integration errors&amp;nbsp;as&amp;nbsp;early as possible, either&#xD;
+    from compiler errors,&amp;nbsp;configuration management&amp;nbsp;system notifications,&amp;nbsp;or&amp;nbsp;failures reported by the&#xD;
+    test suite. Ideally the integration is done automatically prior to &lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/guidances/guidelines/promoting_changes_9087B764.html&quot; guid=&quot;_SM4YIL6dEdqti4GwqTkbsQ&quot;>Promoting Changes&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Continuous integration provides the following benefits:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Improved feedback. Continuous integration shows constant and demonstrable progress.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Improved error detection. Continuous integration enables you to detect and address errors early, often minutes&#xD;
+        after they’ve been injected into the product. Effective continuous integration requires automated unit testing with&#xD;
+        appropriate code coverage.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Improved collaboration. Continuous integration enables team members to work together safely. They know that they&#xD;
+        can make a change to their code, integrate the system, and determine very quickly whether or not their change&#xD;
+        conflicts with others.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Improved system integration. By integrating continuously throughout your project you know that you can actually&#xD;
+        build the system, thereby mitigating integration surprises at the end of the lifecycle.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Reduced&amp;nbsp;number of parallel changes that need to be merged and tested.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Reduced number of errors found during system testing. All conflicts&amp;nbsp;are resolved prior to making new change&#xD;
+        sets available, by the person who is in the best position to resolve them.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Reduced technical risk. You always have an up-to-date system against which to test.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Reduced management risk. By continuously integrating your system you know exactly how much functionality that&#xD;
+        you’ve built to date, improving your ability to predict when and if you’re actually going to be able to deliver the&#xD;
+        necessary functionality.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

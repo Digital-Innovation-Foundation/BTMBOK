@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BsXK3ZGMm-mUT0KnkdoYBg" name="change_requests,_6jdvECb3Edqh1LYUOGRh2A" guid="-BsXK3ZGMm-mUT0KnkdoYBg" changeDate="2007-02-22T15:13:54.919-0500">
+  <mainDescription>&lt;p>&#xD;
+    A change request represents any request to change a work product. This includes items commonly called defect reports,&#xD;
+    enhancement requests, requirements change request, implementation requests, and stakeholder requests.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In this process, change request are captured in the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../openup/workproducts/work_items_list_39D03CC8.html&quot; guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>Artifact: Work Items List&lt;/a>.&amp;nbsp; See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../openup/guidances/guidelines/work_items_list_32AC6ABD.html&quot; guid=&quot;_7vEXEMA4EdqSgKaj2SZBmg&quot;>Guideline: Managing Work Items&lt;/a>&amp;nbsp;for more information on the recommended&#xD;
+    attributes&amp;nbsp;of change requests.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

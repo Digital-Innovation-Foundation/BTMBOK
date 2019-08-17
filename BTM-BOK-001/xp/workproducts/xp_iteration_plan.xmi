@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-45BLJONIjGn7h4z87VXqHQ" name="xp_iteration_plan,{DC18E34B-70C1-403D-84CC-1BF117A7473D}" guid="-45BLJONIjGn7h4z87VXqHQ" changeDate="2006-11-13T16:17:43.002-0500" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{DC18E34B-70C1-403D-84CC-1BF117A7473D}&quot;>XP Iteration Plan&lt;/a> contains a list of&#xD;
+    stories selected to be implemented in the iteration. Each story is broken down into one or more engineering tasks.&#xD;
+    These tasks are sufficiently small that an individual can grasp its scope and provide a reasonable estimate. Tasks&#xD;
+    usually range from less than a day to one or two days for a single individual.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{DC18E34B-70C1-403D-84CC-1BF117A7473D}&quot;>XP Iteration Plan&lt;/a> is recorded on flip&#xD;
+    chart paper and hung on the walls of the team's open workspace. Each story for the iteration is written on a piece of&#xD;
+    flip chart paper and hung on the open workspace wall. The team brainstorms the tasks needed to complete a story. They&#xD;
+    discuss the story with the customer as needed. The team will sometimes do a quick design session to help them figure&#xD;
+    out the tasks for a given story. This is repeated for each story in the iteration. Once all stories have been broken&#xD;
+    down, individuals sign up for tasks, recording their initials and estimate next to the task.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    What makes a good &lt;a class=&quot;PresentationName&quot; guid=&quot;{DC18E34B-70C1-403D-84CC-1BF117A7473D}&quot;>XP Iteration Plan&lt;/a>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The stories have been broken down into tasks.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The tasks have been signed up for and given estimates.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stories are removed from the plan if there is too much to do.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stories are added to the plan if there is not enough to do.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <purpose>&lt;a id=&quot;XE_xp_iteration_plan__artifact_definition&quot; name=&quot;XE_xp_iteration_plan__artifact_definition&quot;>&lt;/a>&lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;>&lt;/a>&lt;a id=&quot;XE_xp_iteration_plan__purpose_of&quot; name=&quot;XE_xp_iteration_plan__purpose_of&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{DC18E34B-70C1-403D-84CC-1BF117A7473D}&quot;>XP Iteration Plan&lt;/a> steers the efforts&#xD;
+    of the team during the iteration.&lt;br />&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

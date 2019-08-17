@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rphHqeONv59sqZq_6FzE6Q" name="xp_build,{FE89AB1C-E0FE-4E7F-92B4-3FA2A0ED6222}" guid="-rphHqeONv59sqZq_6FzE6Q" changeDate="2006-11-08T19:52:31.958-0500" version="1.0.0">
+  <purpose>&lt;a id=&quot;XE_xp_build__artifact_definition&quot; name=&quot;XE_xp_build__artifact_definition&quot;>&lt;/a>&lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;>&lt;/a>&lt;a id=&quot;XE_xp_build__purpose_of&quot; name=&quot;XE_xp_build__purpose_of&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The purpose of the &lt;a class=&quot;PresentationName&quot; href=&quot;./../../xp/workproducts/xp_build.html&quot; guid=&quot;{FE89AB1C-E0FE-4E7F-92B4-3FA2A0ED6222}&quot;>XP Build&lt;/a> is to show demonstrable progress in a running system. Each&#xD;
+    &lt;a class=&quot;PresentationName&quot; href=&quot;./../../xp/workproducts/xp_build.html&quot; guid=&quot;{FE89AB1C-E0FE-4E7F-92B4-3FA2A0ED6222}&quot;>XP Build&lt;/a> incrementally shows new functionality while insuring that&#xD;
+    previous functionality has not been broken.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RJIQup9M1PvhrLTUAh7p-w" name="eg_bls,_dMbawMJpEeKSedlRPHdUIQ" guid="-RJIQup9M1PvhrLTUAh7p-w" changeDate="2015-02-06T15:16:48.611-0500" version="2.0.1">
+  <mainDescription>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; border=&quot;0&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td width=&quot;108&quot;>&#xD;
+                &lt;strong>Click on the framework to view a perspective, or to view a specific model that defines this&#xD;
+                architecture.&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img border=&quot;0&quot; alt=&quot;ThuNorTech BL Technical Perspective - IT Research Network Architecture&quot;&#xD;
+                src=&quot;./resources/UAM-FW_Tech_Loc.png&quot; usemap=&quot;#map1369236440762&quot; />&lt;map id=&quot;map1369236440762&quot;&#xD;
+                name=&quot;map1369236440762&quot;>&#xD;
+                    &lt;area title=&quot;ThuNorTech BL Technical Perspective - IT Research Network Architecture&quot;&#xD;
+                    href=&quot;./../../UAM/customcategories/eg_bls_tp_72C57BF1.html&quot; shape=&quot;rect&quot;&#xD;
+                    alt=&quot;ThuNorTech BL Technical Perspective - IT Research Network Architecture&quot; coords=&quot;5,207,106,265&quot;&#xD;
+                    guid=&quot;_dMco4MJpEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BL TLM - IT Research Network Architecture&quot;&#xD;
+                    href=&quot;./../../UAM/customcategories/eg_bls_tlm_308E5236.html&quot; shape=&quot;rect&quot;&#xD;
+                    alt=&quot;ThuNorTech BL TLM - IT Research Network Architecture&quot; coords=&quot;360,207,467,264&quot;&#xD;
+                    guid=&quot;_dMco5sJpEeKSedlRPHdUIQ&quot; />&#xD;
+                &lt;/map>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&#xD;
+&lt;p>&#xD;
+    This is the root model for a Simple Architecture at the Business Line (BL) level and is based upon the ThuNorTech IT&#xD;
+    Research Business Line level architecture. It only&amp;nbsp;contains&amp;nbsp;one perspective, the Technical level and also&#xD;
+    only the Locations aspect. &amp;nbsp;&quot;IT Research&quot; within ThuNorTech can be compared to any IT information supplier and IT&#xD;
+    solutions consultant.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    This is the root of the Unified Model at the Business Line (BL) level of a small company called ThuNorTech. This&#xD;
+    simplified architecture, based upon the ThuNorTech IT Research Business Line level architecture, is focused upon the IT&#xD;
+    network architecture within this business line and how the it should be architected to support them. Information was&#xD;
+    also obtained from the &quot;IT Research - Distribute Research&quot; business domain level architecture. Consolidation and&#xD;
+    rationalization of the network architecture was the objective. Given the objective of this simplified architecture, the&#xD;
+    results are documented in the Location Aspect in the Technical Perspective. The other aspects do not contain any models&#xD;
+    since they were superfluous to the objectives of the IT architecture study.&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ThuNorTech does research, as required by customers, on specific aspects of technology such as technology trends,&#xD;
+    technology comparisons and suppliers of technology. ThuNorTech's scope includes hardware and software aspects of&#xD;
+    information technology as well as supporting tools and technologies such as software IDEs, desktop and middleware&#xD;
+    software, and architecture tools and techniques, etc. The company also provides solutions to customers (i.e. the IT&#xD;
+    Solutions Business Line), and optionally the management and operation of these solutions.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

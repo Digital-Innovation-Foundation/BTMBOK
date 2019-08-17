@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RvdLBhKFaPwocN0WwsE1NQ" name="uam_migration_plan,_pt6QwNKbEdyTfZVjf0InKw" guid="-RvdLBhKFaPwocN0WwsE1NQ" authors="DW Enstrom" changeDate="2014-10-27T11:12:32.272-0400" changeDescription="New" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Having an understanding of the gaps between components in the existing architecture and the target architecture is the&#xD;
+    starting point for the definition of a migration plan. This information is provided from doing a&amp;nbsp;&lt;a&#xD;
+    class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/tasks/uam_gap_analysis_37973A91.html&quot;&#xD;
+    guid=&quot;_PogDkNKaEdyTfZVjf0InKw&quot;>Task: Target vs. Existing Gap Analysis&lt;/a>. The resulting gaps are also prioritized from&#xD;
+    a technical and business perspective. The next step, the analysis done here, is to understand all the dependencies&#xD;
+    between these components as outlined above.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Once these dependencies are understood, along with a thorough understanding of the business processes and technologies&#xD;
+    involved (now and in the future state), it is possible to define a migration plan. This migration plan must address&#xD;
+    technical considerations, but must also include business considerations such as their needs for new or modified&#xD;
+    capabilities and cost/benefit considerations.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_j39e4NM8EdyTfZVjf0InKw" name="Identify Architectural Dependencies" guid="_j39e4NM8EdyTfZVjf0InKw">
+    <sectionDescription>&lt;p>&#xD;
+    This step involves the analysis of the architecture to extract dependencies between components, for example that a data&#xD;
+    entity is central to a particular&amp;nbsp;process, or that a process/services deployed to a particular location.&#xD;
+    Dependencies are only noted if they will play a part in defining the migration strategy, that is, they must&#xD;
+    be&amp;nbsp;dealt with&amp;nbsp;during implementation of a new component.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is important to note that the focus of this dependency analysis is the architecture and it's structure, &lt;em>not&lt;/em>&#xD;
+    implementation dependencies (this is done in the next step). Also, both the exiting architecture and the target&#xD;
+    architecture dependencies are identified.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Capturing this information in a way that is useful for the next steps is an issue since the picture can get quite&#xD;
+    complex. Two approaches are possible:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Network (Location) Centric&lt;/strong> - this approach uses the location or network view of the architecture&#xD;
+        as the common thread for organizing the dependency information;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Process Centric&lt;/strong> - this approach uses the business process flow as the common thread for organizing&#xD;
+        the dependency information.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Either way, the information is extracted and summarized twice, once for the existing architecture and once for the&#xD;
+    target architecture.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_tZb1INM8EdyTfZVjf0InKw" name="Identify Implementation Dependencies" guid="_tZb1INM8EdyTfZVjf0InKw">
+    <sectionDescription>&lt;p>&#xD;
+    This step involves the analysis of the architecture to extract implementation dependencies between components, for&#xD;
+    example that a data repository is needed before a process or service that uses it can be constructed. Implementation&#xD;
+    dependencies are only noted if they will play a part in defining the migration strategy.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is important to note that the focus of this dependency analysis is on the implementation steps, &lt;em>not&lt;/em> the&#xD;
+    architecture and it's structure that was done in the previous step.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Again, capturing this information in a way that is useful for the next step is an issue since the picture can get quite&#xD;
+    complex. Since time is the key factor for implementation, a time-dependency view of the information is recommended.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This analysis is done once, for the target architecture, since &quot;implementation&quot; in this context means the&#xD;
+    implementation of new or changes capability that replaces or augments existing capability. The complete picture (i.e.&#xD;
+    existing and target) is defined by default.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_4gdM4NM8EdyTfZVjf0InKw" name="Define Plan" guid="_4gdM4NM8EdyTfZVjf0InKw">
+    <sectionDescription>&lt;p>&#xD;
+    This is a most difficult step since&amp;nbsp;it involves&amp;nbsp;combining information from two different analyses (i.e.&#xD;
+    Architectural structure, and implementation timeline) into a cohesive migration plan. These two views need to be&#xD;
+    brought together to define the target architecture migration plan. A timeline presentation is needed, similar to a&#xD;
+    project plan.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is recommended that the timeline defined for the target architecture implementation (defined in the previous&#xD;
+    step)&amp;nbsp;is used as the starting point. This timeline is then adjusted as required based upon:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Existing architecture dependencies;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Priorities assigned to gaps.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The resulting timeline will describe the migration plan as influenced by constraints imposed by the existing&#xD;
+    architecture dependencies, the new architecture implementation timeline, and mitigated by the prioritized gaps between&#xD;
+    them.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    This task&amp;nbsp;documents dependencies between:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Components in the existing architecture;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Components in the target architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Components in an existing architecture and those the&amp;nbsp;target architecture.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    This information is then used to formulate or update a migration plan from the current state to the target&#xD;
+    architecture.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

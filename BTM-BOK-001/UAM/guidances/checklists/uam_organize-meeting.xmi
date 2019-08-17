@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dt4C4xYhGgGO_EbOlj-VRg" name="uam_organize-meeting,_iR_1oGnzEeS7ieerwXbTqg" guid="-dt4C4xYhGgGO_EbOlj-VRg" changeDate="2014-11-10T11:13:09.326-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help insure that the&amp;nbsp;preparatory work required prior to an analysis or review&#xD;
+    of the IT architecture&amp;nbsp;with stakeholders is complete.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_iSAcs2nzEeS7ieerwXbTqg" name="Venues booked" guid="_iSAcs2nzEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the follow-on action is well-defined, agreed and assigned.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_iSAcsmnzEeS7ieerwXbTqg" name="Defined objectives of the review or analysis" guid="_iSAcsmnzEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    It is often best to keep review or analysis focused on key areas or any unresolved issues. This focus is published&#xD;
+    ahead of the meetings.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_iSAcsWnzEeS7ieerwXbTqg" name="Appropriate stakeholder involvement" guid="_iSAcsWnzEeS7ieerwXbTqg">
+    <sectionDescription>Ensure that all experts and other stakeholders for the review or analysis of the&amp;nbsp;IT architecture are invited.</sectionDescription>
+  </sections>
+  <sections xmi:id="_7Bh1AGn0EeS7ieerwXbTqg" name="Gather required documentation" guid="_7Bh1AGn0EeS7ieerwXbTqg">
+    <sectionDescription>Gather all required documentation prior to the meeting and make it available to the participants well in advance.</sectionDescription>
+  </sections>
+  <sections xmi:id="_iSAcsGnzEeS7ieerwXbTqg" name="Notify participants" guid="_iSAcsGnzEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    All required participant in the review/analysis meetings are notified well in advance. Also ensure that they are&#xD;
+    informed of any objectives and issues, and that the required documentation is provided in advance.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

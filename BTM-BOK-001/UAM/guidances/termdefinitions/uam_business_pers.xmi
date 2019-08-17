@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-E3ERFnI5jFvuRzsreSIhfQ" name="uam_business_pers,_XSD7sLYCEeSeNe6SxZNlbg" guid="-E3ERFnI5jFvuRzsreSIhfQ" changeDate="2015-02-16T12:38:02.570-0500" version="7.5.1">
+  <mainDescription>A Business level set of models of the system’s IT architecture with &lt;em>no&lt;/em> notions of computing or technology. The&#xD;
+four viewpoints (&lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspects_C681E8E1.html&quot;&#xD;
+guid=&quot;_2D_igNZSEdyTWqLy4FSCdg&quot;>Architecture Aspects&lt;/a>) defined are independent but related. The primary stakeholders are&#xD;
+business managers and business operations people. See &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/supportingmaterials/uam_overview_B2102583.html&quot; guid=&quot;_W0ahoM9uEdymj4NXv8-FYA&quot;>UAM&#xD;
+Overview&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

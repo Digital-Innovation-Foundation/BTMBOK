@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_M4ye18CTEemv0a6P8REMBA" guid="_M4ye18CTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_M4ye2cCTEemv0a6P8REMBA" id="-VXQgPCKyVgbgPTF_eyQV9g" uri="customcategories/modernization_team.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_svNI0P6FEeKkqZcrxeE32w" name="core.remics.agile.default.techniques.base" guid="_svNI0P6FEeKkqZcrxeE32w">
+    <methodElementProperty xmi:id="_M4ye0MCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI0f6FEeKkqZcrxeE32w" name="Content" guid="_svNI0f6FEeKkqZcrxeE32w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI0v6FEeKkqZcrxeE32w" name="Categories" guid="_svNI0v6FEeKkqZcrxeE32w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI0_6FEeKkqZcrxeE32w" name="Domains" guid="_svNI0_6FEeKkqZcrxeE32w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI1P6FEeKkqZcrxeE32w" name="Disciplines" guid="_svNI1P6FEeKkqZcrxeE32w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI1f6FEeKkqZcrxeE32w" name="RoleSets" guid="_svNI1f6FEeKkqZcrxeE32w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI1v6FEeKkqZcrxeE32w" name="WP Types" guid="_svNI1v6FEeKkqZcrxeE32w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI1_6FEeKkqZcrxeE32w" name="Tools" guid="_svNI1_6FEeKkqZcrxeE32w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI2P6FEeKkqZcrxeE32w" name="StandardCategories" guid="_svNI2P6FEeKkqZcrxeE32w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI2f6FEeKkqZcrxeE32w" name="CustomCategories" guid="_svNI2f6FEeKkqZcrxeE32w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI2v6FEeKkqZcrxeE32w" name="Hidden" guid="_svNI2v6FEeKkqZcrxeE32w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_svNI2_6FEeKkqZcrxeE32w" name="Custom Categories" guid="_svNI2_6FEeKkqZcrxeE32w" categorizedElements="_5Ets8P6FEeKkqZcrxeE32w"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_5Ets8P6FEeKkqZcrxeE32w" name="remics_agile_technique" guid="_5Ets8P6FEeKkqZcrxeE32w" presentationName="Remics Agile Technique" categorizedElements="_-m0DkP6FEeKkqZcrxeE32w _okwFMAAzEeO8guHzeWZLgg _voGFMAmAEeOmqbz9Sywm-g _2n2VgAmUEeOmqbz9Sywm-g _7nQZUAmVEeOmqbz9Sywm-g _HzP1AApaEeOBM7QWB5hbCw">
+            <methodElementProperty xmi:id="_M4ye0cCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_-m0DkP6FEeKkqZcrxeE32w" name="modernization_team" guid="_-m0DkP6FEeKkqZcrxeE32w" presentationName="Modernization Team" briefDescription="Corresponds to agile technique Cross-Functional or Self-Organizing or Scrum Development Team">
+            <methodElementProperty xmi:id="_M4ye0sCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-VXQgPCKyVgbgPTF_eyQV9g" href="uma://-VXQgPCKyVgbgPTF_eyQV9g#-VXQgPCKyVgbgPTF_eyQV9g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_okwFMAAzEeO8guHzeWZLgg" name="daily_scrum" guid="_okwFMAAzEeO8guHzeWZLgg" presentationName="Daily Scrum">
+            <methodElementProperty xmi:id="_M4ye08CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_voGFMAmAEeOmqbz9Sywm-g" name="modelling_by_two" guid="_voGFMAmAEeOmqbz9Sywm-g" presentationName="Modelling by Two">
+            <methodElementProperty xmi:id="_M4ye1MCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_2n2VgAmUEeOmqbz9Sywm-g" name="iterative" guid="_2n2VgAmUEeOmqbz9Sywm-g">
+            <methodElementProperty xmi:id="_M4ye1cCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7nQZUAmVEeOmqbz9Sywm-g" name="continuous_modelling" guid="_7nQZUAmVEeOmqbz9Sywm-g"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_HzP1AApaEeOBM7QWB5hbCw" name="pairing_with_a_team_member" guid="_HzP1AApaEeOBM7QWB5hbCw">
+            <methodElementProperty xmi:id="_M4ye1sCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_svNI3P6FEeKkqZcrxeE32w" name="CoreContent" guid="_svNI3P6FEeKkqZcrxeE32w"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_svNI3f6FEeKkqZcrxeE32w" name="CapabilityPatterns" guid="_svNI3f6FEeKkqZcrxeE32w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_svNI3v6FEeKkqZcrxeE32w" name="DeliveryProcesses" guid="_svNI3v6FEeKkqZcrxeE32w"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_svNI3_6FEeKkqZcrxeE32w" name="ProcessContributions" guid="_svNI3_6FEeKkqZcrxeE32w"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

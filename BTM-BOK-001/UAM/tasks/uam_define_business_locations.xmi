@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TLLgpk1BINdqoTx70ZKXGA" name="uam_define_business_locations,_L40WUMOzEdyILM4NThxMFg" guid="-TLLgpk1BINdqoTx70ZKXGA" authors="DW Enstrom" changeDate="2014-10-23T11:54:57.585-0400" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span>&lt;font face=&quot;Arial&quot;>This task finds and defines the business locations where the &quot;system&quot; being architected&#xD;
+    operates along with relationships between these locations. Also, and very important, is the definition of standard&#xD;
+    business vocabulary that is used to describe and discuss the business.&lt;/font>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span>&lt;font face=&quot;Arial&quot;>To find locations,&amp;nbsp;look at business&amp;nbsp;workflows and&amp;nbsp;business actors involved.&#xD;
+    Stakeholders are a good source for this information.&lt;/font>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>The locations identified during this task are a preliminary view, but their definition must be precise enough to permit&#xD;
+further analysis, and agreed by stakeholders.</keyConsiderations>
+  <sections xmi:id="_wMOokMO0EdyILM4NThxMFg" name="Collect information about the business locations " guid="_wMOokMO0EdyILM4NThxMFg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Business Processes may provide useful input for the identifications of business locations. Other sources are as-is&#xD;
+    documentation of the enterprise or relevant business domains or systems, as the case may be for the scope in question.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_AoQ9MMO1EdyILM4NThxMFg" name="Define the business locations" guid="_AoQ9MMO1EdyILM4NThxMFg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    When you feel you have collected enough background information, it is time to describe the locations in detail.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Start by arranging the locations it in some sort of conceptual framework. For example, for a Bank that provides ATM&#xD;
+    services, one conceptual location would be &quot;ATM&quot; ... define &lt;i>one&lt;/i> for each type of location not one for each&#xD;
+    physical instantiation. Examine the need for security domains, which may be viewed as &quot;locations&quot;, for example a&#xD;
+    business's Internet presence may be viewed as a conceptual location accessible to all (including employees), whereas&#xD;
+    the businesses Intranet will only be accessible by employees.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Q5An0MO1EdyILM4NThxMFg" name="Define the location relationships" guid="_Q5An0MO1EdyILM4NThxMFg">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Using the Business Process Model, or other sources of information, determine the services and facilities required at&#xD;
+    and between the locations. These are business level services or facilities, such as &quot;access to products and services&quot;&#xD;
+    or infrastructure services such as &quot;email&quot; and &quot;telephone&quot;. The objective is to understand what services are provided&#xD;
+    at and&amp;nbsp;between locations, which will influence design choices later on.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_XzGsIMO1EdyILM4NThxMFg" name="Evaluate your results" guid="_XzGsIMO1EdyILM4NThxMFg">
+    <sectionDescription>&lt;span>A Business Locations Model is complete only when it describes every location that the &quot;system&quot; has a presence at&#xD;
+(within the given scope). Before you finish, make sure the locations model exhibits the characteristic properties of a good&#xD;
+locations model, see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/guidances/guidelines/uam_business_locations_model_BF632121.html&quot;&#xD;
+guid=&quot;_LEYwkOSgEdyYxtlRIMoTnw&quot;>Guideline: Business Locations Model&lt;/a>.&lt;/span></sectionDescription>
+  </sections>
+  <purpose>&lt;p class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 6pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+    This task finds and defines the business locations involved in the architecture in question. Specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            To define or refine the business locations;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            To define or refine the relationships that need to be supported between business locations.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

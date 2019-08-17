@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BWG5zUGb8c25kuLJ3ck8ng" name="define_iteration_plan,{849E3635-6FCD-4FAD-A007-CA34B9998622}" guid="-BWG5zUGb8c25kuLJ3ck8ng" version="1.0.0">
+  <sections xmi:id="_oQSWcGE-EdqnIZeW8YpHcA" name="Preconditions " guid="_oQSWcGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;PreCond&quot; name=&quot;PreCond&quot;>&lt;/a> 
+&lt;p>
+    The steps for this activity are part of XP iteration planning. In order for this activity to be successful, the
+    following preconditions should be met:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;left&quot;>
+            The customer understands the user stories very well.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        The customer has defined acceptance criteria for the stories.
+    &lt;/li>
+    &lt;li>
+        All team members that will be involved in developing the stories should be present.
+    &lt;/li>
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_oQSWcWE-EdqnIZeW8YpHcA" name="Customer Presents the User Stories " guid="_oQSWcWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    The customer selects a list of user stories that he would like included in the next iteration. The stories typically
+    come from the release plan but may also include new stories that were not originally planned. The customer explains the
+    stories and the acceptance test criteria to the developers.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oQSWcmE-EdqnIZeW8YpHcA" name="Developers Break Down Stories " guid="_oQSWcmE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    The developers discuss how to implement the story and break it down into engineering tasks. Tasks should include
+    everything necessary to get the story to pass the customer's acceptance test.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oQSWc2E-EdqnIZeW8YpHcA" name="Developers Sign Up and Estimate " guid="_oQSWc2E-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step3&quot; name=&quot;Step3&quot;>&lt;/a> 
+&lt;p>
+    The developers sign up for all the tasks. The developers put estimates only for the tasks they have personally signed
+    up for.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oQSWdGE-EdqnIZeW8YpHcA" name="Customer Adjusts Iteration Plan " guid="_oQSWdGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step4&quot; name=&quot;Step4&quot;>&lt;/a> 
+&lt;p>
+    If the sum of all the task estimates is greater than the sum of all the tasks done by the team during the last
+    iteration, the customer must remove some work in order to&amp;nbsp;respect the team's iteration velocity.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_define_iteration__activity_definition&quot; name=&quot;XE_define_iteration__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Establish what can be built during the iteration, given the team's constraints.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Allow the team to manage itself at the task level.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

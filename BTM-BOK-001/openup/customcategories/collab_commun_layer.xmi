@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NMF-a9hwKjzWNfHzzseDYQ" name="collab_commun,_r8cVIEmbEdu0xduwSKie-w" guid="-NMF-a9hwKjzWNfHzzseDYQ" changeDate="2007-07-02T17:24:28.094-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The communication and collaboration layer is the foundation for OpenUP, reflecting the collaborative nature of the&#xD;
+    process. It contains all of the roles in OpenUP: stakeholder, analyst, developer, architect, tester, project manager,&#xD;
+    and any role. Team members taking on these roles need to collaborate to jointly capture and define the intent of&#xD;
+    the stakeholders, to jointly develop the solution, and to jointly manage the project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This foundational layer reflects and enables us to express the nature of self-organized teams, where team members must&#xD;
+    broaden their perspectives of what their roles are and where their responsibilities end. As an example, the&#xD;
+    analyst cannot say “I documented the requirements, now it is up to the developer to implement them.” The analyst's job&#xD;
+    is not primarily to document requirements; it is to communicate that the stakeholder intent is understood and reflected&#xD;
+    in a validated build. Documenting requirements may help you achieve that objective, but it is only one of&#xD;
+    many available tools. Other tools you can use include working with developers on the design, working with testers on what&#xD;
+    needs to be tested, and using the build to ensure that it does what the stakeholders need it to do.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To help the team collaborate effectively, the foundational collaboration layer provides you with a set of&#xD;
+    practices organized by &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/customcategories/core_principles_category_8075133D.html&quot; guid=&quot;_UCOtoMXwEduywMSzPTUUwA&quot;>core&#xD;
+    principles&lt;/a> that have been shown to motivate effective collaboration. These practices apply to work done in the&#xD;
+    other layers too.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

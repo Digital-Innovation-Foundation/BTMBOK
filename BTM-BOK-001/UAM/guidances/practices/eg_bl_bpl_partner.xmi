@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7XX5GeTirC3_6AhsS8FAww" name="new_bpl_entity,_58vUcMMZEeKSedlRPHdUIQ" guid="-7XX5GeTirC3_6AhsS8FAww" changeDate="2015-02-07T13:34:16.507-0500" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    &lt;a id=&quot;documentationSection&quot; name=&quot;documentationSection&quot;>&lt;/a>Partners of ThuNorTech provide some of the hardware and&#xD;
+    software offerings of the company. Other types of partners also provide open source information (or access to it) as&#xD;
+    well as supplying the raw information that research is largely built upon. This raw information and open source&#xD;
+    information is largely gathered from the Internet and other similar sources and sent to ThuNorTech through various&#xD;
+    methods.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h5>&#xD;
+    Attributes&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    none&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Relationships&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Partners supply Information on their products and services, they also supply raw information (e.g. test results, etc)&#xD;
+    on their products and services. THey also supply materials in support of ThuNorTech created Solutions.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

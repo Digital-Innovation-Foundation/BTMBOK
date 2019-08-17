@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WFD3nKccpkueaG15cHT-fA" name="new_supporting_material,_8tSNMPGYEdqiDINUyockoA" guid="-WFD3nKccpkueaG15cHT-fA" changeDate="2007-07-20T14:53:03.113-0400" version="1.0.0">
+  <mainDescription>&lt;h3>&#xD;
+    &lt;a id=&quot;version&quot; name=&quot;version&quot;>Version Information&lt;/a>&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    OpenUP Plug-in Version 1.0.&lt;br />&#xD;
+    Based on: Base Concepts Plug-in Version:&amp;nbsp;1.0.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Legal Statement&#xD;
+&lt;/h3>&#xD;
+&lt;p class=&quot;node&quot;>&#xD;
+    See &lt;a href=&quot;./resources/copyrite.htm&quot;>Intellectual Property Notices&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Browser Support&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    &lt;b>Note 1:&lt;/b>&amp;nbsp;EPF published Web sites&amp;nbsp;do not currently support Netscape Navigator 6.x.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b>Note 2:&lt;/b> Some versions of Microsoft Internet Explorer 4.x and Netscape Navigator 4.x may not be able to display&#xD;
+    all pages of OpenUP.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

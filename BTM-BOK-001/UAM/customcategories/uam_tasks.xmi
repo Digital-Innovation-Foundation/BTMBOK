@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-h5v-weCiJwUkOyDKsn7Y9g" name="uam_tasks,_Sa6SYMd5EdyBSO6dC2FdkA" guid="-h5v-weCiJwUkOyDKsn7Y9g" changeDate="2015-11-30T13:39:58.079-0500">
+  <mainDescription>&lt;p>&#xD;
+    UAM Tasks are organized under the following categories:&#xD;
+&lt;/p>&lt;a id=&quot;XE_UAM__Tasks&quot; name=&quot;XE_UAM__Tasks&quot;>&lt;/a>&lt;a id=&quot;XE_Tasks&quot; name=&quot;XE_Tasks&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Start an Architecture Project&lt;/strong> - tasks used to define or clarify the Context, Scope,&amp;nbsp;and&#xD;
+        Objectives of the IT architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Define a Simple Architecture&lt;/strong> - tasks involved in defining a &quot;simple&quot; architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Document an Existing Architecture&lt;/strong> - tasks involved in defining an existing architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Define the Business Perspective&lt;/strong> - tasks involved in defining the Business Perspective;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Define the Logical Perspective&lt;/strong> - tasks involved in defining the Logical Perspective;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Define the Technical Perspective&lt;/strong> - tasks involved in defining the Technical Perspective;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Using Architecture Deliverables&lt;/strong> - tasks involved in &lt;em>using&lt;/em> IT architectures;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Architectural Reviews&lt;/strong> - tasks involved in reviewing IT architectures;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Manage Architectural Decisions&lt;/strong> - tasks involved in managing Architectural Decisions;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Maintain Architectures&lt;/strong> - tasks involved in maintaining IT architectures.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iOn7_gfX_iELWRNGJ2JKPQ" name="glossary,_Wn7HcNcEEdqz_d2XWoVt6Q" guid="-iOn7_gfX_iELWRNGJ2JKPQ" changeDate="2007-04-20T14:32:20.644-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The Glossary helps you avoid miscommunication by providing two essential resources:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A central location to look for terms and abbreviations that are new to development team members&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Definitions of terms that are used in specific ways within the domain&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Definitions for the Glossary terms come from several sources, such as requirements documents, specifications, and&#xD;
+    discussions with Stakeholders and domain experts.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    In some projects that do not involve business or domain modeling, the Glossary is the primary artifact for capturing&#xD;
+    information about the project's business domain.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Although listed as an output from, and an input to tasks associated with the requirements discipline, this artifact can&#xD;
+    be updated at any time, by any role, as new terms are identified.&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>The goal is for the Glossary to provide a common vocabulary agreed upon by all Stakeholders. It can help people from&#xD;
+different functional groups reach a mutual understanding of the system. The goal is not to record all possible terms, but&#xD;
+only those that are unclear, ambiguous, or require elaboration.</purpose>
+  <impactOfNotHaving>Misunderstandings about the meanings of data items account for many failed projects. Some of them become obvious only in&#xD;
+the late stages of system testing and can b extremely expensive to correct.</impactOfNotHaving>
+  <representationOptions>&lt;p>&#xD;
+    This is a simple alphabetized listing of domain terms and their definitions. It can be captured in a spreadsheet,&#xD;
+    document, or published on a Wiki site to simplify access and maintenance.&#xD;
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

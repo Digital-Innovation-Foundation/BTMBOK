@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wyJIofwcCU9MeKzQ2ojjCg" name="initiation_team,_uD3IEADJEeOA27TYHr-uJA" guid="-wyJIofwcCU9MeKzQ2ojjCg" changeDate="2013-08-21T08:42:47.208-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Initiation Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the scrum team in charge of the initiaition&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FACTn7IfCTwD_tAjKJ6aNQ" name="ea_scan_arch_decisions,_3FtrwMn9Edy25fQyv59CjQ" guid="-FACTn7IfCTwD_tAjKJ6aNQ" changeDate="2014-10-15T15:48:00.041-0400" version="2.0.1">
+  <sections xmi:id="_74K4sMn-Edy25fQyv59CjQ" name="General Recommendations" guid="_74K4sMn-Edy25fQyv59CjQ">
+    <sectionDescription>&lt;p>&#xD;
+    Searching for relevant architecture decisions can be an onerous task, but can be very simple if the decisions are&#xD;
+    stored and indexed in a searchable repository. Having a list of important keywords or other types of categorizations&#xD;
+    defined will also aid in the search.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The primary objective is to provide the required information to the architect or implementer to ensure that the&#xD;
+    architecture or system will be compliant with the standards of the enterprise or business domain within the enterprise.&#xD;
+    Ideally this compliance is built into the define architecture and design through specifications of design or&#xD;
+    implementation constraints.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_pqXZkMoAEdy25fQyv59CjQ" name="Search the AD Repository" guid="_pqXZkMoAEdy25fQyv59CjQ">
+    <sectionDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; LINE-HEIGHT: 115%; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-CA; mso-fareast-language: EN-US; mso-bidi-language: AR-SA&quot;>A&#xD;
+search is performed on the architectural decision repository to find relevant ADs. The AD pertinent to the architectural or&#xD;
+design activity at hand are noted&amp;nbsp;and extracted into a summary document&lt;/span>.</sectionDescription>
+  </sections>
+  <purpose>The purpose of this activity is to identify architectural decisions, made by the enterprise as a whole, that define or&#xD;
+influence the architecture work at hand. The architectural decisions will guide the architects, managers and implementors&#xD;
+in being compliant with enterprise and business domain standards and solutions.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

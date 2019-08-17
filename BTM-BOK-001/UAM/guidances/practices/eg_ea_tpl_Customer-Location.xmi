@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gylfl-uMyCWIQYtzJvwcBw" name="eg_ea_tpl_Customer-Location,_ZaUxsJprEeO7n_hZ4c37dQ" guid="-gylfl-uMyCWIQYtzJvwcBw" changeDate="2015-02-07T14:38:04.440-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Customer Location Model&quot; src=&quot;./resources/EA-Technical-TLM-Customer.png&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the Activities and other elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot;&#xD;
+    src=&quot;./resources/Drill%20Down-33.jpg&quot; width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p></problem>
+  <goals>&lt;h4>&#xD;
+    Customer&amp;nbsp;Domain&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    A ThuNorTech supplied&amp;nbsp;and managed desktop is located at the Customer's location, used to provided liaison and&#xD;
+    direct support for the Customer.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    The CSR may access all ThuNorTech resources such as Research Reports and Source Information.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    A IP network link connects this setup back to ThuNorTech.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

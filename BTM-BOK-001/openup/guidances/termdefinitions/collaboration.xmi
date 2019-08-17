@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Kzkvb-KnfJTCo1rPJafgRA" name="new_term_definition,_aUGUAOIuEduy7p_Bq6eDDg" guid="-Kzkvb-KnfJTCo1rPJafgRA" changeDate="2007-04-11T20:05:56.329-0400" version="1.0.0">
+  <mainDescription>A group of people cooperating together to solve a clearly defined and meaningful business problem. High collaboration&#xD;
+requires an environment of trust where dialog is disciplined and focused on resolving the business problem.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

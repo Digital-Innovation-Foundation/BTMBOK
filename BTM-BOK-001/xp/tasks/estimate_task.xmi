@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9EbmL3qGJ_TemB83cJublQ" name="estimate_task,{EC483990-8129-4AE3-893C-0F7406C128DA}" guid="-9EbmL3qGJ_TemB83cJublQ" version="1.0.0">
+  <sections xmi:id="_oCfyEmE-EdqnIZeW8YpHcA" name="Understand the Task " guid="_oCfyEmE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    Task breakdown of a user story is done at iteration planning by the whole team. Since all team members are present,
+    they should have a fairly good understanding of the tasks. If not, the team is there to help them.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oCfyE2E-EdqnIZeW8YpHcA" name="Give an Estimate Based on Experience " guid="_oCfyE2E-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step3&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    The person giving the estimate can use his personal experience to give an estimate based on a similar task he has done
+    before. If the experience is not there, other team members can help by providing their input based on their own
+    experience. Very often, pairs will form for specific tasks at this stage. The most important aspect to keep in mind is
+    that the person responsible for the task is the one giving the estimate.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_estimate_task__activity_definition&quot; name=&quot;XE_estimate_task__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Provide a fine-grain estimate that will be used in iteration planning.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

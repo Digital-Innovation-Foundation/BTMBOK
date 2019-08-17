@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B7NmGLkpzg9M-5KHxZK5Fw" name="uam_bpmn_standard,_JqlCMOAEEdynr9jlfK-aMA" guid="-B7NmGLkpzg9M-5KHxZK5Fw" changeDate="2014-04-10T11:03:39.465-0400" version="7.2.0">
+  <mainDescription>&lt;a id=&quot;XE_BPMN__Standards&quot; name=&quot;XE_BPMN__Standards&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    Business Process Management Initiative (BPMI) has developed&amp;nbsp;the standard Business Process Model and Notation&#xD;
+    (BPMN). The primary goal of BPMN is to provide a notation that is readily understandable by all business users, from&#xD;
+    the business analysts that create the initial drafts of the processes, to the technical developers responsible for&#xD;
+    implementing the technology that will perform those processes, and finally, to the business people who will manage and&#xD;
+    monitor those processes. Thus, BPMN creates a standardized bridge for the gap between the business process design and&#xD;
+    process implementation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Another goal, but no less important, is to ensure that XML languages designed for the execution of business processes,&#xD;
+    such as BPEL4WS (Business Process Execution Language for Web Services), can be visualized with a business-oriented&#xD;
+    notation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This specification defines the notation and semantics of a Business Process Diagram (BPD) and represents the&#xD;
+    amalgamation of best practices within the business modelling community. The intent of BPMN is to standardize a business&#xD;
+    process modelling notation in the face of many different modelling notations and viewpoints. In doing so, BPMN will&#xD;
+    provide a simple means of communicating process information to other business users, process implementers, customers,&#xD;
+    and suppliers.&#xD;
+&lt;/p></mainDescription>
+  <attachments>&lt;a href=&quot;http://www.bpmn.org/&quot;>BPMN Specification and other Resources&lt;/a></attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

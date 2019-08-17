@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-qnHbt3R3f-FYKEomV3adaw" name="new_term_definition,_h0cOIEf0EeO1kIuJLP1Ztg" guid="-qnHbt3R3f-FYKEomV3adaw" changeDate="2013-11-07T16:36:02.503-0500" version="7.5.1">
+  <mainDescription>A layer, in the IT architecture sense, is: &#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        The grouping of IT architecture elements in a model at the same level of abstraction and detail.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Conversely, the organization of modeling elements at the same level of abstraction. A layer is a horizontal slice&#xD;
+        through&amp;nbsp;the architecture,&amp;nbsp;but a partition is a vertical slice through the architecture.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Also see: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_partition_574972EB.html&quot;&#xD;
+    guid=&quot;_x5Ad8Ef0EeO1kIuJLP1Ztg&quot;>Term Definition: Partition&lt;/a>&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

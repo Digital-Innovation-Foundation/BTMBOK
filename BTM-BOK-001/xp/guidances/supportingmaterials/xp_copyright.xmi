@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-31JQsY6FjFegmq-JJZdndg" name=",_XI5PQHEPEdug-a-RuUM3Hg" guid="-31JQsY6FjFegmq-JJZdndg" changeDate="2006-11-10T18:05:13.550-0500">
+  <mainDescription>Copyright (c) 2002, 2006 IBM Corporation and Object Mentor. All rights reserved. &lt;br />&#xD;
+This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which&#xD;
+accompanies this distribution, and is available at &lt;a href=&quot;http://www.eclipse.org/legal/epl-v10.html&quot; target=&quot;_blank&quot;>http://www.eclipse.org/legal/epl-v10.html&lt;/a>. &lt;br />&#xD;
+Contributors: IBM Corporation and Object Mentor - initial implementation&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

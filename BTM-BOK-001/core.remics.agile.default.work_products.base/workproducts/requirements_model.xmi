@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RVqkeXGNTKQkrWwJo_G3jw" name="requirements_model,_8RPV0N_lEeKdMZ3N0jsS2w" guid="-RVqkeXGNTKQkrWwJo_G3jw" changeDate="2013-08-19T05:59:42.833-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Requirement Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This is an agregated deliverable that holds the information about the system and the addtional requirements from the&#xD;
+    requirements practices, it also includes the information about the recovered requirements and the validation&#xD;
+    procedures&amp;nbsp;defined in the validation phase.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

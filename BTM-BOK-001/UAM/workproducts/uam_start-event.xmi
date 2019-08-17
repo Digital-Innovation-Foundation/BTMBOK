@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-dbImCUxtv8YFwdnRE3-K4Q" name="new_artifact,_o3SrwAbkEeSyDIZvZjuaLg" guid="-dbImCUxtv8YFwdnRE3-K4Q" changeDate="2015-02-11T11:06:43.284-0500" version="2.0">
+  <mainDescription>&lt;p>&#xD;
+    A Business Event is something that happens internally or externally to the system that drives the activities and&#xD;
+    processes of the system being modeled. A Start Event represents a significant occurrence in the activities of the&#xD;
+    business that requires immediate action, normally triggering actions within a Business Activity. A Start Event can be&#xD;
+    anything from a timer, a trigger in a data base, a user action of some sort, or the arrival or modification of a&#xD;
+    Business Entity or other artifact.&#xD;
+&lt;/p></mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    A Business Event is something that happens internally or externally to the system that drives the activities and&#xD;
+    processes of the system being modeled. A Start Event represents a significant occurrence in the activities of the&#xD;
+    business that requires immediate action, normally triggering actions within a Business Activity. A Start Business Event&#xD;
+    can be anything from a timer, a trigger in a data base, a user action of some sort, or the arrival or modification of a&#xD;
+    Business Entity or other artifact.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Event_Start&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» CallEvent&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the location.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>isInterrupting: boolean = true&lt;/strong>&amp;nbsp;- This attribute only applies to Start Events of Event&#xD;
+        Sub-Processes; it is ignored for other Start Events. This attribute denotes whether the Sub-Process encompassing&#xD;
+        the Event Sub-Process should be canceled or not, If the encompassing Sub- Process is not canceled, multiple&#xD;
+        instances of the Event Sub-Process can run concurrently. This attribute cannot be applied to Error Events (where&#xD;
+        it’s always true), or Compensation Events (where it doesn’t apply).&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned operations;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        May only have relationships with other Flow Elements;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned behaviors.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

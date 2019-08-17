@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kNZQ2Mr_nyfmCboprjMNTg" name="write_code,{8F6CB99A-D2EA-44BB-8CE5-F97220D44088}" guid="-kNZQ2Mr_nyfmCboprjMNTg" version="1.0.0">
+  <sections xmi:id="_oUbPkGE-EdqnIZeW8YpHcA" name=" Get a Pair Programming Partner " guid="_oUbPkGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    Pair Programming is an Extreme Programming best practice. The basic rule regarding pair programming in XP is that all
+    production code is developed in pairs. One programmer has the responsibility to complete a task. That programmer asks
+    other programmers to pair with him to complete the task. The pairings are short term, usually less than half a day.
+    Find a partner who has experience or skill you need to complete your task. Your task may include modifying a database
+    table. Ask the person on the team most knowledgeable to help you effectively use the database API. Later, you might
+    need to display the data in a GUI window, but you have not seen that part of the GUI. Get someone who knows about it to
+    help.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oUbPkWE-EdqnIZeW8YpHcA" name=" Write Failing Test Case " guid="_oUbPkWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    When looking at an Engineering Task, you should consider how to add the capability to the system. Does the system
+    require new classes? Are there classes that would be useful? Regardless of how these decisions come out, the addition
+    of functionality requires the creation of a test case. You write the test case to demonstrate that a portion of the
+    functionality you need isn't in the system. This test case should fail.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oUbPkmE-EdqnIZeW8YpHcA" name=" Write Code to Make Tests Pass " guid="_oUbPkmE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step3&quot; name=&quot;Step3&quot;>&lt;/a> 
+&lt;p>
+    When you have a failing test case, you then write only the code that is necessary to satisfy the test case. Test cases
+    should have a very narrow focus. A failing test case may trigger the creation of a new class or method named in the
+    test case, or it may simply require you to add more code to existing classes and methods.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oUbPk2E-EdqnIZeW8YpHcA" name=" Refactor Immediately " guid="_oUbPk2E-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step4&quot; name=&quot;Step4&quot;>&lt;/a> 
+&lt;p>
+    After the test case passes, go back and make the code as clean as possible. Have you added code to a method and caused
+    the method to have more than one primary job? If so, extract a method. Has a class grown too large? Consider extracting
+    a class. Have you noticed duplication? Refactor to remove it.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oUbPlGE-EdqnIZeW8YpHcA" name=" Repeat Until Engineering Task is Done " guid="_oUbPlGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step5&quot; name=&quot;Step5&quot;>&lt;/a> 
+&lt;p>
+    The preceding three steps should be done in sequence over and over until you and your pair partner are done with the
+    engineering task. It is important to refactor as you go because refactoring, even on a micro-scale, makes additional
+    work easier.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_write_code__activity_definition&quot; name=&quot;XE_write_code__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To specify the design of the system in a way which is precise enough to allow computers to generate efficient&#xD;
+        processes automatically and clear enough for people to understand during ongoing work and maintenance.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

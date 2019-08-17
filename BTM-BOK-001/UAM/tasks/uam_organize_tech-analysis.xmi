@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vbwib7FTAs6tgMJBmPwtIA" name="uam_organize_tech-analysis,_LX2QEGT7EeSFL7Sh0MlmKA" guid="-vbwib7FTAs6tgMJBmPwtIA" changeDate="2014-11-05T09:56:23.791-0500" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This task organizes the technology analysis activity by estimating the possible level of impact (i.e. Business, Logical&#xD;
+    or Technology), identifying the possible topics for discussion (i.e.&amp;nbsp;areas where&amp;nbsp;the IT architecture may be&#xD;
+    impacted)&amp;nbsp;and then gathering the appropriate materials. The venues are booked and participants notified.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_LX2QE2T7EeSFL7Sh0MlmKA" name="Estimate level of impact and topics" guid="_LX2QE2T7EeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Decide on the possible level of impact of the new technology, and aspects of the IT architecture that may be impacted.&#xD;
+    The end result is:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Level&lt;/strong> - will the analysis look at one level (e.g. Business Perspective) or multiple levels of the&#xD;
+        IT architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Topics&lt;/strong> - what specific aspects of the IT architecture will provide the focus.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Once these are agreed then the required set of source material can be defined along with the required set of&#xD;
+    participants.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_LX2QEWT7EeSFL7Sh0MlmKA" name="Gather Required Information" guid="_LX2QEWT7EeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The required information about the new technology as well as the&amp;nbsp;impacted IT&amp;nbsp;architecture is gathered. These&#xD;
+    documents should be collated and made available to those participating in the new technology analysis.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_LX2QEmT7EeSFL7Sh0MlmKA" name="Inform Attendees" guid="_LX2QEmT7EeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Each&amp;nbsp;attendee is given sufficient notice about the technology analysis meeting, and what&amp;nbsp;is expected of them&#xD;
+    in terms of both preparatory work and their involvement in the process.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    New technologies are analyzed to determine f there are benefits to their use within the system or enterprise. This task&#xD;
+    provides the preparatory work in advance of this analysis.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

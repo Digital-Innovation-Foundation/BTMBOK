@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_NqePEKeqEdmKDbQuyzCoqQ" name="test_log,_0ZlSsMlgEdmt3adZL5Dmdw" guid="_NqePEKeqEdmKDbQuyzCoqQ" changeDate="2007-05-17T12:41:34.484-0400">
+  <mainDescription>This artifact provides a detailed, typically time-based record that serves both as verification that a set of tests were&#xD;
+executed, and provides information relating to the success of those tests. The focus is creating an accurate record, which&#xD;
+enables a post-execution diagnosis of test results. This raw data will subsequently be analyzed to help determine the&#xD;
+results of some aspect of the test effort.</mainDescription>
+  <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To provide verification that a set of tests was executed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To provide information relating to the success of those tests.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+  <representationOptions>&lt;p>&#xD;
+    Since this is a collection of raw data for subsequent analysis, it can be represented in a number of ways.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Some suggestions are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        For manual tests, log the actual results on a copy of the manual Test Script&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        For automated tests, direct the output to log files that you can trace back to the automated Test Script&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Track raw results data in a test management tool.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

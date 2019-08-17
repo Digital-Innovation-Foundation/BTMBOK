@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-tSJvfSPdJom-CILoCSegHw" name="uam_current_architecture_summary,_MDqZMMqqEdy25fQyv59CjQ" guid="-tSJvfSPdJom-CILoCSegHw" changeDate="2015-10-28T09:47:18.118-0400" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    A architecture summary artifact contains a complete view of an&amp;nbsp;existing situation, the &lt;em>as-is&lt;/em>&#xD;
+    architecture. This architectural summary is then used in various ways, as input for planning a migration to a&#xD;
+    &lt;em>to-be&lt;/em> architecture through &lt;a class=&quot;elementLinkwithtype&quot;&#xD;
+    href=&quot;./../../../UAM/tasks/uam_gap_analysis_37973A91.html&quot; guid=&quot;_PogDkNKaEdyTfZVjf0InKw&quot;>Task: Target vs. Existing Gap&#xD;
+    Analysis&lt;/a> for example.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Current Architecture Summary document is composed of three basic&amp;nbsp;parts that correspond to the&amp;nbsp;three&#xD;
+    architecture aspects, plus a glossary. Note that since we are documenting an existing situation the&#xD;
+    Technical&amp;nbsp;Perspective (or level) is used.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Various formats are provided below: Microsoft Word (.dotx and .dot), PDF (.pdf) and Open XML Paper Specification&#xD;
+    (.xps).&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/Current-Architecture-Summary.dot|resources/Current-Architecture-Summary.dotx|resources/Current-Architecture-Summary.pdf|resources/Current-Architecture-Summary.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

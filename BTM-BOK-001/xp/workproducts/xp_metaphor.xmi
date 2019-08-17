@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sQUFozEqR3Gpa5PnCjFh9Q" name="xp_metaphor,{7C34EE96-C3EA-49FD-A53C-7C113B86AE01}" guid="-sQUFozEqR3Gpa5PnCjFh9Q" changeDate="2006-11-08T19:23:13.847-0500" version="1.0.0">
+  <purpose>&lt;a id=&quot;XE_metaphor_(system_of_names)__artifact_definition&quot; name=&quot;XE_metaphor_(system_of_names)__artifact_definition&quot;>&lt;/a>&lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;>&lt;/a>&lt;a id=&quot;XE_metaphor_(system_of_names)__purpose_of&quot; name=&quot;XE_metaphor_(system_of_names)__purpose_of&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{7C34EE96-C3EA-49FD-A53C-7C113B86AE01}&quot;>Metaphor (System of Names)&lt;/a> or System&#xD;
+    of Names allows the team to talk about the structure of the software in a convenient and memorable way.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

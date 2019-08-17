@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-4k6zSsLiXCbFPwqi_K_Slw" name="new_bpl_business_rule,_M4n-EMboEeK4P8KZ6MNYcg" guid="-4k6zSsLiXCbFPwqi_K_Slw" changeDate="2013-05-27T12:13:07.849-0400" version="7.5.1">
+  <problem>This element represents a collection of business rules governing access by customer to the Source Information provided by&#xD;
+ThuNorTech. These rules are used by various systems and activities to ensure that Customers only have access to the&#xD;
+information to which they are entitled, especially information covered by non-disclosure agreements.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

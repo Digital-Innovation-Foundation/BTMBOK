@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-h5FJvp_iygtvQ8NFQ53rOg" name="new_deliverable,_FDRXgFoiEeSU46-vxLGKFw" guid="-h5FJvp_iygtvQ8NFQ53rOg" changeDate="2014-10-22T15:44:35.935-0400" version="7.5.1">
+  <mainDescription>&lt;a id=&quot;XE_Package__Architecture_Review&quot; name=&quot;XE_Package__Architecture_Review&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    In support of the &quot;Review Architecture&quot; activities the required set of documentation is gathered. The basic&#xD;
+    documentation needed are the defined IT architecture view, the sets of models to be reviewed. Ancillary information is&#xD;
+    also gathered such as requirements, scope, strategy and planning documents associated with the IT architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The set of documentation gathered together (from the list below) for any given review&amp;nbsp;is dependent upon the level&#xD;
+    (i.e. Business, Logical or Technical) and type of IT architecture (i.e. Complex or Simple) being reviewed.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

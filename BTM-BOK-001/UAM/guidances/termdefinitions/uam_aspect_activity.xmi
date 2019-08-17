@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-W1JgLt20WkZobsOC9NM8xg" name="uam_aspect_activity,_eTntIMI5EeKSedlRPHdUIQ" guid="-W1JgLt20WkZobsOC9NM8xg" changeDate="2013-05-21T13:11:38.752-0400" version="7.5.1">
+  <mainDescription>The “how” aspect of the architecture, how the information (or other products of the system) is produced and consumed by&#xD;
+functions. It provides a complete picture of the business processes and applications used by the system. Also included in&#xD;
+this aspect are the “when” and “why” aspects of the architecture; the events of interest and the rules governing the&#xD;
+processes and tasks. The primary stakeholders are business analysts, process designers and other technical design&#xD;
+people.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

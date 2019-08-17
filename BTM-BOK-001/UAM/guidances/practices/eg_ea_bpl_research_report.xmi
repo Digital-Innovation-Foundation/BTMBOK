@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-dm5BIAF2hXNKjvvXFwp2Wg" name="uam_ea_bpl_research,_ROotoMMaEeKSedlRPHdUIQ" guid="-dm5BIAF2hXNKjvvXFwp2Wg" changeDate="2013-05-22T16:00:53.052-0400">
+  <problem>Research papers define the results of analysis of IT trends, IT equipment reviews, IT solutions, and tests on IT equipment&#xD;
+and solutions. More general analysis of and comparisons of technologies within specific domains are also provided (e.g.&#xD;
+Comparison of Smartphones).</problem>
+</org.eclipse.epf.uma:PracticeDescription>

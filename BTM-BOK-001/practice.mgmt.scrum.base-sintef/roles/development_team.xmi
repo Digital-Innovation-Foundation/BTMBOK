@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-04lpq0FVf2B8LgJ2RhJibg" name="new_role,_EChNoBC0EeGhfJHCQDJMKQ" guid="-04lpq0FVf2B8LgJ2RhJibg" changeDate="2013-03-06T10:08:03.628-0500">
+  <mainDescription>&lt;h3>&#xD;
+    Development Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of&#xD;
+    &quot;Done&quot; product at the end of each Sprint. Only members of the Development Team create the Increment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Development Teams are structured and empowered by the organization to organize and manage their own work. The resulting&#xD;
+    synergy optimizes the Development Team’s overall efficiency and effectiveness. Development Teams have the following&#xD;
+    characteristics:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        They are self-organizing. No one (not even the Scrum Master) tells the Development Team how to turn Product Backlog&#xD;
+        into Increments of potentially releasable functionality;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Development Teams are cross-functional, with all of the skills as a team necessary to create a product Increment;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Scrum recognizes no titles for Development Team members other than Developer, regardless of the work being&#xD;
+        performed by the person; there are no exceptions to this rule;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to&#xD;
+        the Development Team as a whole; and,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Development Teams do not contain sub-teams dedicated to particular domains like testing or business analysis.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h4>&#xD;
+    Development Team Size&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Optimal Development Team size is small enough to remain nimble and large enough to complete significant work. Fewer&#xD;
+    than three Development Team members decreases interaction and results in smaller productivity gains. Smaller&#xD;
+    Development Teams may encounter skill constraints during the Sprint, causing the Development Team to be unable to&#xD;
+    deliver a potentially releasable Increment. Having more than nine members requires too much coordination. Large&#xD;
+    Development Teams generate too much complexity for an empirical process to manage. The Product Owner and Scrum Master&#xD;
+    roles are not included in this count unless they are also executing the work of the Sprint Backlog.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

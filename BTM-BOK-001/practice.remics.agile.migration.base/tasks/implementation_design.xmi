@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xr49C5fN809-sz8U4vs7Rw" name=",_500JAP4nEeC6H_i-fGXOUw" guid="-xr49C5fN809-sz8U4vs7Rw" changeDate="2013-08-21T05:29:57.093-0400">
+  <mainDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Implementation Design&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>With the requirements, the SOA model of the architecture and the Cloud model of the deployment start&#xD;
+    implementing the design of the different components that require a model in order to be implemented.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>Pairing with a team member</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

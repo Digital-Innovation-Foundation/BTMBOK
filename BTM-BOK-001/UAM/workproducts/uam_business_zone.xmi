@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-ytfldbpSV07CSM4bCc-xPw" name="uam_business_zone,_BSK5MGxREeSS8ckFlGqwKQ" guid="-ytfldbpSV07CSM4bCc-xPw" changeDate="2014-11-14T17:43:53.973-0500">
+  <mainDescription>A Business Security Zone is an environment or context that is defined by security policies, security models, and security&#xD;
+architecture, including a set of resources and set of system entities that are authorized to access the resources. A&#xD;
+Business Zone may contain one or more sub-zones. Different sub-zones are created when security models or policies (and&#xD;
+possibly architecture) are significantly different from one zone to the other, or are conflicting. Separate Business Zones&#xD;
+provide clearer separation of concerns and ease policy enforcement and system management. Synonyms: &lt;em>security zone&lt;/em>&#xD;
+or &lt;em>policy zone&lt;/em>.</mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    A Business Security Zone is represented as a simple cloud shaped background geometric shape (of an appropriate color if&#xD;
+    desired to illustrate the fundamental nature of the Zone) with the name applied to one corner or outside the perimeter&#xD;
+    (e.g. “HR Services”).&#xD;
+&lt;/p></keyConsiderations>
+  <representationOptions>&lt;p>&#xD;
+    A Business Security Zone is an environment or context that is defined by security policies, security models, and&#xD;
+    security architecture, including a set of resources and set of system entities that are authorized to access the&#xD;
+    resources.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Zone&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Node and «metaclass» Classifier and «metaclass» Package&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Zone.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>owner: string&lt;/strong>&amp;nbsp;- The owner of the Zone normally defined as a specific organizational position&#xD;
+        within the enterprise or business line (e.g. HR) which owns the information within the Zone. Sub-zones inherit&#xD;
+        ownership from the parent Zone. The (parent Domain) Authority may delegate responsibilities to Zone owners.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>parentDomain: domain [0..1]&lt;/strong>&amp;nbsp;- The Domain within which the Zone is contained.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>parentZone: zone [0..1]&lt;/strong>&amp;nbsp;- The Zone, if any, within which the Zone is contained.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>location: string&lt;/strong>&amp;nbsp;- The location of the zone within the system or enterprise.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Zones must be wholly contained within other Zones;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Zones must be wholly contained within one Domain;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Wholly contains (classifies) Activities, Tasks, and Sub-Processes;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Zones are defined only when needed.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-akQjRWvrc3L7Y54QC2_f8g" name="uam_bpmn_resources,_RI5DUOADEdynr9jlfK-aMA" guid="-akQjRWvrc3L7Y54QC2_f8g" changeDate="2014-04-09T16:53:45.154-0400" version="7.2.0">
+  <mainDescription>&lt;a id=&quot;XE_BPMN__Resources&quot; name=&quot;XE_BPMN__Resources&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    This web site provides a number of excellent resources for learning BPMN.&#xD;
+&lt;/p></mainDescription>
+  <attachments>&lt;a href=&quot;http://www.bpmn.org/#tabs-resources&quot;>BPMN Resources available&lt;/a></attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

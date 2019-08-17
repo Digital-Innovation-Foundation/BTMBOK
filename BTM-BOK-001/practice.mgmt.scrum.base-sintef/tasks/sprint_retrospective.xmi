@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xohW6akCXeAm21kFxbyPgA" name="sprint_retrospective,_sKJ9AOF-Edyp34pwdTOSVQ" guid="-xohW6akCXeAm21kFxbyPgA" changeDate="2013-03-07T03:56:09.067-0500">
+  <mainDescription>&lt;h3>&#xD;
+    Sprint Retrospective&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to&#xD;
+    be enacted during the next Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Retrospective occurs after the Sprint Review and prior to the next Sprint Planning Meeting. This is a&#xD;
+    three-hour time-boxed meeting for one-month Sprints. Proportionately less time is allocated for shorter Sprints.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The purpose of the Sprint Retrospective is to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Inspect how the last Sprint went with regards to people, relationships, process, and tools;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identify and order the major items that went well and potential improvements; and,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Create a plan for implementing improvements to the way the Scrum Team does its work.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The Scrum Master encourages the Scrum Team to improve, within the Scrum process framework, its development process and&#xD;
+    practices to make it more effective and enjoyable for the next Sprint. During each Sprint Retrospective, the Scrum Team&#xD;
+    plans ways to increase product quality by adapting the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/guidances/concepts/definition_of_done_B52B998F.html&quot;&#xD;
+    guid=&quot;_tprjYBCzEeGhfJHCQDJMKQ&quot;>Definition of &quot;Done&quot;&lt;/a> as appropriate.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    By the end of the Sprint Retrospective, the Scrum Team should have identified improvements that it will implement in&#xD;
+    the next Sprint. Implementing these improvements in the next Sprint is the adaptation to the inspection of the Scrum&#xD;
+    Team itself. Although improvements may be implemented at any time, the Sprint Retrospective provides a formal&#xD;
+    opportunity to focus on inspection and adaptation.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-4-7L8IipJc8DD6zjLuH9rA" name="uam_business_event,_l3YHkMI7EeKSedlRPHdUIQ" guid="-4-7L8IipJc8DD6zjLuH9rA" changeDate="2013-05-21T13:26:51.296-0400" version="7.5.1">
+  <mainDescription>Defines something that happens internally or externally to the system that drives the activities and processes of the&#xD;
+system being modeled. It represents a significant occurrence in the activities of the business that requires immediate&#xD;
+action, normally triggering actions within a business activity or task. A Business Event can be anything from a timer, a&#xD;
+trigger in a data base, a user action of some sort, or the arrival of a Business Entity or other artifact.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

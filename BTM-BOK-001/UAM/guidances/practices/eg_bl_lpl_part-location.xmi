@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QaRMneiGRAbBlWEhZO5vCg" name="eg_bl_lpl_part-location,_ciQBJpsJEeOMG9JzPmKf0Q" guid="-QaRMneiGRAbBlWEhZO5vCg" changeDate="2015-02-07T13:44:10.324-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;ThuNorTech Partner Locations Model&quot; src=&quot;./resources/BL-Logical-LLM-Partner.png&quot; />&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ThuNorTech has employees located at and integrated with Partners at their sites. Access is provided for these deployed&#xD;
+    employees (and to certain Customers' employees) to ThuNorTech facilities in support of their IT technology research&#xD;
+    needs or IT solution implementations and the support provided by ThuNorTech. In this case, this access supports the&#xD;
+    management of the information flow from the Partner to THuNorTech.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Partner Location&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    ThuNorTech has a presence at some partner locations in order to provide support&amp;nbsp;to the sharing of source material.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Coordination and provision&amp;nbsp;of information and material in support of ThuNorTech services.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    This zone is connected to the HQ location.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HKOFMOLa3qoabn2uT6YDWA" name="uam_review_course,_SIW2gGN6EeSFL7Sh0MlmKA" guid="-HKOFMOLa3qoabn2uT6YDWA" changeDate="2014-11-03T11:16:40.278-0500" version="2.0.1">
+  <mainDescription>After defining the training course&amp;nbsp;the next step is to review the course to ensure it meets requirements and&#xD;
+objectives. THis is done through peer review and field testing.</mainDescription>
+  <sections xmi:id="_SIXdkWN6EeSFL7Sh0MlmKA" name="Review course material" guid="_SIXdkWN6EeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The defined course, its modules, examples, and exercises are reviewed. The reviewers are selected based upon their&#xD;
+    knowledge of the skills and knowledge taught within the course, and their general knowledge of the domain. Comments are&#xD;
+    recorded for future revision of the course material.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_SIXdkGN6EeSFL7Sh0MlmKA" name="Field test the course" guid="_SIXdkGN6EeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The course is presented to a test audience with comments and feedback from the instructor and students noted for later&#xD;
+    action.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_-6MRIGN8EeSFL7Sh0MlmKA" name="Revise the training course" guid="_-6MRIGN8EeSFL7Sh0MlmKA">
+    <sectionDescription>The training course is updated based upon the gathered comments and feedback.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    Training is an important part of implementing a system and keeping it running. IT architecture definitions are an&#xD;
+    excellent source of information for developing the required training, be it at the user level or even for developers&#xD;
+    and maintainers. This task reviews a newly defined training course to ensure that it is complete and meets objectives.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

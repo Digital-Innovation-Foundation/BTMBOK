@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-epPscxHy03BJsOjeNDtciw" name="new_tpl_mobile,_tRH5kJsGEeOMG9JzPmKf0Q" guid="-epPscxHy03BJsOjeNDtciw" changeDate="2014-04-02T14:09:57.959-0400" version="7.5.1">
+  <problem>&lt;br />&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Any Customer Device used to access IT Research&quot;&#xD;
+    src=&quot;./resources/Simple-Network-Technical-TLM-Apps-Customer-Device.png&quot; />&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The&amp;nbsp;applications (and other&amp;nbsp;requirements) for a Customer to access ThuNorTech provided Reports and Source&#xD;
+    Information includes a standard web browser and access to email. They mainly use the web browser to access the required&#xD;
+    information, with email being the method used to &quot;push&quot; information to the Customer. The minimum set of applications:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Standard web browser;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Email client.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    In addition the device needs access to the Internet, directly or via&amp;nbsp;the&amp;nbsp;Customer's Intranet, in order to&#xD;
+    access Reports and receive notifications.&#xD;
+&lt;/p></problem>
+</org.eclipse.epf.uma:PracticeDescription>

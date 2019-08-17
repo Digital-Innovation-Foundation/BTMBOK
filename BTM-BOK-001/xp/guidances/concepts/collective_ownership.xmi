@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YP0i7TC6QNgemddcj1iE7g" name="collective_ownership,9.300699588493279E-306" guid="-YP0i7TC6QNgemddcj1iE7g" changeDate="2006-11-13T17:36:27.348-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp__collective_ownership&quot; name=&quot;XE_xp__collective_ownership&quot;>&lt;/a>&lt;a id=&quot;XE_collective_ownership__practice_of&quot; name=&quot;XE_collective_ownership__practice_of&quot;>&lt;/a>&lt;a id=&quot;XE_engineering_practices__collective_ownership&quot; name=&quot;XE_engineering_practices__collective_ownership&quot;>&lt;/a> &#xD;
+&lt;h3>&#xD;
+    Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The practice of collective ownership states that any member of the team can change any piece of code in the system at&#xD;
+    any time.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Having a good suite of tests and being able to integrate continuously is critical to ensuring that this practice works&#xD;
+    well. Without the tests, it would be impossible to know that a critical piece of the system was modified improperly&#xD;
+    because of inappropriate understanding. Integrating frequently and testing ensures that such problems are caught and&#xD;
+    fixed quickly. Used with pair programming, collective code ownership is an effective way to spread the knowledge of the&#xD;
+    system across the entire team.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Benefits&#xD;
+&lt;/h3>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Shared knowledge of the code&lt;/b>: allows programmers to become familiar with more of the code and benefit from&#xD;
+        the experience of others.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Simpler code&lt;/b>: causes complex code to be found and refactored more quickly as many pairs of eyes read the&#xD;
+        same code.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Get things done quickly&lt;/b>: removes hurdles so changes can be made by those that need them when they need them.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

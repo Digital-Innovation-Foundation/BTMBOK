@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-Nhxlc0q5raLqnBMWP9Ki5w" name="new_artifact,_XGZucGw5EeSS8ckFlGqwKQ" guid="-Nhxlc0q5raLqnBMWP9Ki5w" changeDate="2015-02-11T12:50:08.207-0500" version="2.0.0">
+  <mainDescription>A Business Gateway is used to control the process flows—it is a decision point but besides branching merging is also&#xD;
+allowed. At the business level they are generic and can be anything desired, simply document the inputs and decision rules.</mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    A Business Gateway is used to control the process flows.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Gateway&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» ControlNode&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&amp;nbsp;&lt;/strong>&lt;a&#xD;
+    href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot; guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG&#xD;
+    2013)&lt;/a>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Gateway.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>gatewayDirection: GatewayDirection = Unspecified { Unspecified | Converging | Diverging | Mixed&#xD;
+        }&amp;nbsp;-&lt;/strong> An attribute that adds constraints on how the Gateway MAY be used.&lt;br />&#xD;
+        - &lt;strong>Unspecified&lt;/strong>: There are no constraints. The Gateway MAY have any number of incoming and outgoing&#xD;
+        Sequence Flows.&lt;br />&#xD;
+        - &lt;strong>Converging&lt;/strong>: This Gateway MAY have multiple incoming Sequence Flows but MUST have no more than&#xD;
+        one (1) outgoing Sequence Flow.&lt;br />&#xD;
+        - &lt;strong>Diverging&lt;/strong>: This Gateway MAY have multiple outgoing Sequence Flows but MUST have no more than one&#xD;
+        (1) incoming Sequence Flow.&lt;br />&#xD;
+        - &lt;strong>Mixed&lt;/strong>: This Gateway contains multiple outgoing and multiple incoming Sequence Flows.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>default: SequenceFlow [0..1]&lt;/strong>&amp;nbsp;&lt;strong>-&lt;/strong> The Sequence Flow that will receive a token&#xD;
+        when none of the conditionExpressions on other outgoing Sequence Flows evaluate to true. The default Sequence Flow&#xD;
+        should not have a conditionExpression. Any such Expression SHALL be ignored.&lt;br />&#xD;
+        &amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned operations;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        May only have relationships with other Flow Elements;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned behaviors.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

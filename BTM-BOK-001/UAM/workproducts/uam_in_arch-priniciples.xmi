@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WW4dIKuDvxUGSyxd5fMgpQ" name="uam_in_arch-priniciples,_w3NQEEMmEeShYIpiBstbOQ" guid="-WW4dIKuDvxUGSyxd5fMgpQ" changeDate="2015-02-09T14:09:00.968-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    Principles are general rules and guidelines, seldom amended, that inform and support the way in which an organization&#xD;
+    sets about fulfilling its mission. Information Technology (IT) principles provide guidance on the use and deployment of&#xD;
+    all IT resources and assets across the enterprise. They are developed in order to make the information environment as&#xD;
+    productive and cost-effective as possible. Architecture principles are a subset of IT principles that relate to&#xD;
+    architecture work. They reflect a level of consensus across the enterprise, and embody the spirit and thinking of the&#xD;
+    enterprise architecture.&#xD;
+&lt;/p>&lt;a id=&quot;XE_Architecture_Principles&quot; name=&quot;XE_Architecture_Principles&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    They define constraints on the IT architecture that have to be addressed. They are typically defined by the CIO, but&#xD;
+    may have other sources.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Also see:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/concepts/uam_key_principles_76BBCC24.html&quot;&#xD;
+    guid=&quot;__TrU8NBOEdymj4NXv8-FYA&quot;>Concept: Key IT Architecture Principles&lt;/a> and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/workproducts/uam_in_it-strategy_B7C3A14B.html&quot; guid=&quot;_FGDEwEMjEeShYIpiBstbOQ&quot;>Artifact: IT&#xD;
+    Strategy&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

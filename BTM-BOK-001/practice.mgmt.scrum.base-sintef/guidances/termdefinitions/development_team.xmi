@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-A8_IJGlXzVaTNlV4p1vDtw" name="new_term_definition,_5X7g8IZBEeKVEqVT82eARQ" guid="-A8_IJGlXzVaTNlV4p1vDtw">
+  <mainDescription>The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of &quot;Done&quot;&#xD;
+product at the end of each Sprint. Only members of the Development Team create the Increment.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

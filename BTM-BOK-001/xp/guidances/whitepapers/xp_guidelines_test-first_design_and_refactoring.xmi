@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_AgYWcSlbVBZOVcQfJuBnQ" name="xp_guidelines_test-first_design_and_refactoring,6.334658646686929E-306" guid="-_AgYWcSlbVBZOVcQfJuBnQ" changeDate="2006-11-29T18:11:30.669-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_XP__Test-first_Design_and_Refactoring&quot; name=&quot;XE_XP__Test-first_Design_and_Refactoring&quot;>&lt;/a> 
+&lt;address>
+    By Robert C. Martin&lt;br />
+     Object Mentor, Inc.&lt;br />
+     &lt;a href=&quot;http://www.objectmentor.com&quot; target=&quot;_blank&quot;>www.objectmentor.com&lt;/a>
+&lt;/address>
+&lt;p>
+    All Rights Reserved.
+&lt;/p>
+&lt;p>
+    A &lt;a href=&quot;resources/xprefact.pdf&quot; target=&quot;_blank&quot;>PDF version&lt;/a> of this article is available, however, you must have
+    &lt;a href=&quot;http://www.adobe.com/products/acrobat/alternate.html&quot; target=&quot;_blank&quot;>Adobe Acrobat&lt;/a> installed to view it.
+&lt;/p>
+&lt;h3>
+    Abstract&amp;nbsp;
+&lt;/h3>
+&lt;p>
+    This paper demonstrates the techniques of refactoring in the presence of test-first design and conveys a programming
+    attitude. A program is not done when it works; a program is done when it works &lt;i>and&lt;/i> when it's as simple and clean
+    as possible.
+&lt;/p>
+&lt;br />
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

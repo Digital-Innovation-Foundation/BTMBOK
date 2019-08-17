@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-_8NA5qw-2f8GW3ZwK0d5MQ" name="uam_zone,_cXe18MJMEeKSedlRPHdUIQ" guid="-_8NA5qw-2f8GW3ZwK0d5MQ" changeDate="2015-11-29T11:48:02.319-0500" version="7.5.1">
+  <mainDescription>A Zone (or Security Zone) is subdivision of a&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_domain_B5C2A3F2.html&quot; guid=&quot;_8fmioLX9EeSeNe6SxZNlbg&quot;>Domain&lt;/a> with a&#xD;
+well-defined boundary that has a common level of protection for all objects within its boundary. Zones are logical or&#xD;
+physical and are defined at any layer within the architecture, from physical zones (e.g. building / room), to&#xD;
+application-level zones (e.g. application-level access controls and protections). Typically, Zones are defined at the&#xD;
+physical, network, and application layers. A Zone can have multiple sub-zones, but can have only one super-zone. Sub-zones&#xD;
+inherit their parents’ properties (i.e. Policies that apply to the super-zone apply to the sub-zone). Zones cannot span&#xD;
+Domain or Zone boundaries.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

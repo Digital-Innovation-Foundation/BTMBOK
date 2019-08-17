@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tgxQXQy8G-BdW6dVI9DPZA" name="eg_bl_tpl_partner-info,_ciQoN5sJEeOMG9JzPmKf0Q" guid="-tgxQXQy8G-BdW6dVI9DPZA" changeDate="2015-02-07T13:52:12.328-0500" version="7.5.1">
+  <problem>&lt;br />&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;IT Research Partner Information entity details&quot; src=&quot;./resources/BL-Technical-TEM-Partner-Info.png&quot; />&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Partner Info&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    &lt;a id=&quot;documentationSection&quot; name=&quot;documentationSection&quot;>&lt;/a>&lt;a id=&quot;documentationSection&quot;&#xD;
+    name=&quot;documentationSection&quot;>&lt;/a>Partners supply company publication and descriptions of products, newspaper articles,&#xD;
+    etc. The Internet is used to find and retrieve, from&amp;nbsp;company web sites,&amp;nbsp;information on&amp;nbsp;technologies not&#xD;
+    supplied by Partners. They are used to form, support and substantiate research results.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Attributes&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    &lt;strong>partnerSrcID&lt;/strong> - the primary key for this type of source information.&lt;br />&#xD;
+    &lt;strong>partner&lt;/strong> - the partner that supplied the information.&lt;br />&#xD;
+    &lt;strong>researchReport&lt;/strong> -&amp;nbsp;the list of reports that use/reference this information.&lt;br />&#xD;
+    &lt;strong>material&lt;/strong> - the material supplied by the partner.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Relationships&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Partner Information substantiates and supports the results documented in a Research Report. This information is&#xD;
+    supplied by Partners.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

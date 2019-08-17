@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uTvk9oHZXLaqJmOO2FDmRw" name="uam_tech_impact_analysis,_v4RCUGqIEeS7ieerwXbTqg" guid="-uTvk9oHZXLaqJmOO2FDmRw" changeDate="2014-11-12T11:31:40.464-0500" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    This impact analysis looks at a new or modified technology and determines its impact if&amp;nbsp;introduced into the&#xD;
+    enterprise or system.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is similar to a &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/tasks/uam_gap_analysis_37973A91.html&quot;&#xD;
+    guid=&quot;_PogDkNKaEdyTfZVjf0InKw&quot;>Task: Target vs. Existing Gap Analysis&lt;/a>, the main difference being that only one&#xD;
+    component (i.e. the new technology) is being compared with an existing IT architecture, or a future target IT&#xD;
+    architecture as desired.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The &quot;component&quot; that defines the new technology is characterized and this component is identified within the existing&#xD;
+    or target IT architecture.&amp;nbsp;&amp;nbsp;If the Existing Architecture is not defined, then it must be defined, at some&#xD;
+    level of detail, prior to doing the analysis. Likewise for the Target Architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    IT experts, experts in the new technology, are key to doing the impact analysis. Business experts may assist in&#xD;
+    identifying any business effects, but the technology experts are the ones that will be able to identify all of the&#xD;
+    subtle, or no so subtle, impacts.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Each impact (both positive and negative)&amp;nbsp;is described in as much detail as possible, with the aim at the end to&#xD;
+    decide if the new technology provides a net benefit to the enterprise.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

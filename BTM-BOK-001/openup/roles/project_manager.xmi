@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_Fdq-8KX4EdmvhNXG0Oc2uA" name="project_manager,_0a0o0MlgEdmt3adZL5Dmdw" guid="_Fdq-8KX4EdmvhNXG0Oc2uA" changeDate="2007-05-22T22:16:24.544-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This role:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Coaches the team to drive a succesful outcome of the project and the acceptance of the product by the customer.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is accountable for the outcome of the project and the acceptance of the product by the customer.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is responsible for the evaluation of project's risks, and controling these risks through mitigation&#xD;
+        strategies.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Applies management knowledge, skills, tools and techniques to a broad range of tasks in order to deliver&amp;nbsp;the&#xD;
+        desired&amp;nbsp;result for a particular project in a timely fashion.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <skills>&lt;p>&#xD;
+    A person performing this role needs the following skills:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Leadership and team building capabilities.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Thorough experience in the software development lifecycle to coach, guide and support other team members.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Proficient in conflict resolution and problem solving techniques.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Good in presentation, facilitation, communication, and negotiation.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+  <assignmentApproaches>&lt;p>&#xD;
+&#xD;
+    This role is often played by a single person. This role is difficult to share with others, but might not consume all of&#xD;
+&#xD;
+    a person’s availability.&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;br />&#xD;
+&#xD;
+&lt;br /></assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

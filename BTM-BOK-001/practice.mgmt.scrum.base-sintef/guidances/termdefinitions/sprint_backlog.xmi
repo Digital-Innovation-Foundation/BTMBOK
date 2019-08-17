@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-d3HBqQdxKSpDApXqiQo9Iw" name="new_term_definition,_UJZQwESQEdyDx7cbCULuLg" guid="-d3HBqQdxKSpDApXqiQo9Iw" changeDate="2013-03-07T04:33:49.328-0500">
+  <mainDescription>The Sprint Backlog is the set of Product Backlog items selected for the Sprint plus a plan for delivering the product&#xD;
+Increment and realizing the Sprint Goal. The Sprint Backlog is a forecast by the Development Team about what functionality&#xD;
+will be in the next Increment and the work needed to deliver that functionality. &lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

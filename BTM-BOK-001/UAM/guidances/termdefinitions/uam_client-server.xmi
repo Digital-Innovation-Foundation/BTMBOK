@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-VplpNcADs4ij2f5ZBpbPVg" name="uam_client-server,_6j_AcEGmEeOfR_FtRm9PUg" guid="-VplpNcADs4ij2f5ZBpbPVg" changeDate="2015-11-08T15:46:04.591-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    Client-Server is a distributed application structure in computing that partitions tasks or workloads between the&#xD;
+    providers of a resource or service, called servers, and service requesters, called clients (&lt;a&#xD;
+    href=&quot;http://en.wikipedia.org/wiki/Client-server&quot; target=&quot;_blank&quot;>Wikipedia 2013&lt;/a>).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Also see: &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/customcategories/uam_arch_patterns_4A176C92.html&quot;&#xD;
+    guid=&quot;_scgugKpBEeSFIOC-Wm7nrA&quot;>Architectural Patterns&lt;/a>.&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

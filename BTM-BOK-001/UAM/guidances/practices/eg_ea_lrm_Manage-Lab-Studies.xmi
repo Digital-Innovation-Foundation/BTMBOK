@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BxAXQOnFU49s0f0xo3om9g" name="eg_ea_lrm_Manage-Lab-Studies,_z_iiQLOEEeOTralbgKSHFw" guid="-BxAXQOnFU49s0f0xo3om9g" changeDate="2015-02-07T14:35:12.003-0500" version="7.5.1">
+  <problem>&lt;br />&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Manage Lab Studies Process with Roles in context&quot;&#xD;
+    src=&quot;./resources/EA-Logical-LRM-Manage-Lab-Studies.png&quot; />&amp;nbsp;&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Lab Team Lead Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Responsible for planning lab studies, getting the resources necessary and managing the lab studies.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the Manage Lab Studies, Request&amp;nbsp;Demo Products and&amp;nbsp;Plan Study&amp;nbsp;activities.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

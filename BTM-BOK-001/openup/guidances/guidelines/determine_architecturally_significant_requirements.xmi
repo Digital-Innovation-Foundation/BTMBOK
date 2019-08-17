@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EUXQjT8DebSClO4YjNuoHw" name="determine_architecturally_significant_requirements,_D3JXMNvKEduv2KOT-Teh6w" guid="-EUXQjT8DebSClO4YjNuoHw" changeDate="2007-05-18T11:34:13.015-0400">
+  <mainDescription>&lt;p> The selection of requirements that are considered &quot;architecturally significant&quot; &#xD;
+  is driven by several key driving factors:&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &#xD;
+  &lt;li> The benefit of the requirement to stakeholders: critical, &lt;b>important&lt;/b>, &#xD;
+    or&lt;b> useful&lt;/b>. &lt;/li>&#xD;
+  &lt;li> The architectural impact of the requirement:&lt;b> none&lt;/b>, &lt;b>extends&lt;/b>, &#xD;
+    or &lt;b>modifies&lt;/b>. There may be critical requirements that have little or &#xD;
+    no impact on the architecture and low-benefit requirements that have a big &#xD;
+    impact. Low-benefit requirements with big architectural impacts should be &#xD;
+    reviewed by the project manager for possible removal from the scope of the &#xD;
+    project.&lt;/li>&#xD;
+    &#xD;
+  &lt;li> The risks to be mitigated: performance, availability of a product, and &#xD;
+    suitability of a component. &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The completion of the coverage of the architecture.&#xD;
+    &lt;/li>&#xD;
+    &#xD;
+  &lt;li> Other tactical objectives or constraints, such as demonstration to the &#xD;
+    user, and so on. &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p> There may be two requirements that hit the same components and address similar &#xD;
+  risks. If you implement A first, then B is not architecturally significant. &#xD;
+  If you implement B first, then A is not architecturally significant. Thus these &#xD;
+  attributes can depend on the iteration order and should be re-evaluated when &#xD;
+  the order changes, as well as when the requirements themselves change. &lt;/p>&#xD;
+&lt;p>&#xD;
+    Architecturally significant requirements that are poorly understood or likely to change should be prioritized for&#xD;
+    clarification and stabilization. In some cases, this means further requirements analysis should be done before&#xD;
+    implementing the requirement. In other cases, some form of prototyping may be best.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

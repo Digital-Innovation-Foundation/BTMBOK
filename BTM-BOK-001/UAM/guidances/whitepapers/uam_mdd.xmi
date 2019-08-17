@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-jNGxC5tp5mXUyV3WZDJ1UQ" name="uam_mdd,_YHV40NPyEdyTfZVjf0InKw" guid="-jNGxC5tp5mXUyV3WZDJ1UQ" changeDate="2013-11-09T13:05:06.107-0500" version="7.2.0">
+  <mainDescription>&lt;a id=&quot;XE_MDD__References&quot; name=&quot;XE_MDD__References&quot;>&lt;/a>Several of the challenges that software organizations face today&#xD;
+include an increase in the complexity of their information technology (IT) infrastructures and solutions, applications that&#xD;
+may be difficult to use, and continued pressure to achieve tight time-to-market timelines. Organizations use many&#xD;
+approaches to address these problems, including models. Models can embody critical solutions and insights and thus can be&#xD;
+seen as assets for an organization. For example, a pattern that describes a recurring problem, its recurring solution, and&#xD;
+the context in which it is relevant can be expressed as a model and shared with others. This paper presents some of the&#xD;
+steps to identify reusable models, organize them for reuse, and package, publish, and ultimately reuse them—all with a&#xD;
+focus on the benefit to the business and the alignment of IT to the needs of the business. Whereas the concepts associated&#xD;
+with reuse are not new, organizing models for reuse in the manner described herein represents more recent techniques.</mainDescription>
+  <attachments>&lt;a href=&quot;http://en.wikipedia.org/wiki/Model-driven_engineering&quot;>Model-Driven Engineering defined&lt;/a>|&lt;a href=&quot;http://www.omg.org/mda/&quot;>OMG's MDD approach - MDA&lt;/a>|&lt;a href=&quot;https://www.researchgate.net/publication/224101621_Model-driven_development_Assets_and_reuse&quot;>Model-Driven Development: Assets and Reuse&lt;/a></attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MbIScMCTEemv0a6P8REMBA" guid="_MbIScMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MbI5gMCTEemv0a6P8REMBA" id="-cGfGHqSFsvSqPwBKeoShxA" uri="disciplinegroupings/remics_disciplines.xmi"/>
+    <resourceDescriptors xmi:id="_MbNK8MCTEemv0a6P8REMBA" id="-PSRjLwuucSbqE2ylFAbF9w" uri="customcategories/practices.replaces.xmi"/>
+    <resourceDescriptors xmi:id="_MbPnMMCTEemv0a6P8REMBA" id="-BZL7M9SUWacUmnxTIShrmA" uri="customcategories/getting_started.xmi"/>
+    <resourceDescriptors xmi:id="_MbQOQMCTEemv0a6P8REMBA" id="-zuqK2tneGKchXpqLVRtwlg" uri="guidances/concepts/project_lifecycle.additon.xmi"/>
+    <resourceDescriptors xmi:id="_MbSqgMCTEemv0a6P8REMBA" id="-wyecoieomapEfPXAfnVqJg" uri="guidances/supportingmaterials/introdiction_to_remics.xmi"/>
+    <resourceDescriptors xmi:id="_MbVGwMCTEemv0a6P8REMBA" id="-HifMqnYrGs56VrczAMppqg" uri="guidances/supportingmaterials/challenges.xmi"/>
+    <resourceDescriptors xmi:id="_MbamUMCTEemv0a6P8REMBA" id="-2jzIri4gpHu21rrX3NBoEQ" uri="guidances/supportingmaterials/lifecycle.xmi"/>
+    <resourceDescriptors xmi:id="_MbdCkMCTEemv0a6P8REMBA" id="-DCNQnDkXR52uV4-NPaA8Ew" uri="guidances/supportingmaterials/principles.xmi"/>
+    <resourceDescriptors xmi:id="_Mbfe0MCTEemv0a6P8REMBA" id="-66ZlVicGZ5Yx4YKgDETNxg" uri="guidances/supportingmaterials/terminology.xmi"/>
+    <resourceDescriptors xmi:id="_MbhUAMCTEemv0a6P8REMBA" id="-NCj6Ua8eTn_txMxFO4_7yw" uri="guidances/supportingmaterials/tool_support.xmi"/>
+    <resourceDescriptors xmi:id="_MbjwQMCTEemv0a6P8REMBA" id="-id3gpeJmU5zSUE12SUm8Ag" uri="guidances/supportingmaterials/release_info_remics.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_bN9PYPW3EeG1CfjH63krNw" name="publish.remics.agile.base" guid="_bN9PYPW3EeG1CfjH63krNw" changeDate="2013-07-10T08:00:48.471-0400">
+    <methodElementProperty xmi:id="_MbDZ8MCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_MbDZ8cCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PYfW3EeG1CfjH63krNw" name="Content" guid="_bN9PYfW3EeG1CfjH63krNw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PYvW3EeG1CfjH63krNw" name="Categories" guid="_bN9PYvW3EeG1CfjH63krNw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PY_W3EeG1CfjH63krNw" name="Domains" guid="_bN9PY_W3EeG1CfjH63krNw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PZPW3EeG1CfjH63krNw" name="Disciplines" guid="_bN9PZPW3EeG1CfjH63krNw">
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_bbyakPW4EeGUg8dPeN6LMg" name="remics_disciplines" guid="_bbyakPW4EeGUg8dPeN6LMg" presentationName="Remics Disciplines" briefDescription="This is the list of disciplines in Remics, which help organize tasks.">
+            <presentation xmi:id="-cGfGHqSFsvSqPwBKeoShxA" href="uma://-cGfGHqSFsvSqPwBKeoShxA#-cGfGHqSFsvSqPwBKeoShxA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PZfW3EeG1CfjH63krNw" name="RoleSets" guid="_bN9PZfW3EeG1CfjH63krNw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PZvW3EeG1CfjH63krNw" name="WP Types" guid="_bN9PZvW3EeG1CfjH63krNw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PZ_W3EeG1CfjH63krNw" name="Tools" guid="_bN9PZ_W3EeG1CfjH63krNw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PaPW3EeG1CfjH63krNw" name="StandardCategories" guid="_bN9PaPW3EeG1CfjH63krNw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PafW3EeG1CfjH63krNw" name="CustomCategories" guid="_bN9PafW3EeG1CfjH63krNw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PavW3EeG1CfjH63krNw" name="Hidden" guid="_bN9PavW3EeG1CfjH63krNw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_bN9Pa_W3EeG1CfjH63krNw" name="Custom Categories" guid="_bN9Pa_W3EeG1CfjH63krNw" categorizedElements="_dV7zEPW4EeGUg8dPeN6LMg"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_dV7zEPW4EeGUg8dPeN6LMg" name="view_tabs_for_remics" guid="_dV7zEPW4EeGUg8dPeN6LMg" presentationName="View Tabs for Remics" shapeicon="customcategories/resources/lib_32.gif" nodeicon="customcategories/resources/lib_16.gif" categorizedElements="_hnEREPW4EeGUg8dPeN6LMg _OLyysN_tEeKdMZ3N0jsS2w _j2xp4PW4EeGUg8dPeN6LMg">
+            <methodElementProperty xmi:id="_MbDZ8sCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hnEREPW4EeGUg8dPeN6LMg" name="remics" guid="_hnEREPW4EeGUg8dPeN6LMg" presentationName="OpenUP" shapeicon="customcategories/resources/delproc_lg_dgm32.gif" nodeicon="customcategories/resources/delproc_obj.gif" categorizedElements="_qg-RAfW4EeGUg8dPeN6LMg _qg-RAvW4EeGUg8dPeN6LMg"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_j2xp4PW4EeGUg8dPeN6LMg" name="practices.replaces" guid="_j2xp4PW4EeGUg8dPeN6LMg" presentationName="Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif" variabilityType="replaces" variabilityBasedOnElement="_sMqXYFvtEeKHU9XooDK5Ng" categorizedElements="_lu_vwPW4EeGUg8dPeN6LMg _lOwJcPW4EeGUg8dPeN6LMg _xQV9wPN5EeKb3NsawrMs1A">
+            <methodElementProperty xmi:id="_MbDZ88CTEemv0a6P8REMBA" name="PUBLISH_CATEGORY" value="false"/>
+            <methodElementProperty xmi:id="_MbDZ9MCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-PSRjLwuucSbqE2ylFAbF9w" href="uma://-PSRjLwuucSbqE2ylFAbF9w#-PSRjLwuucSbqE2ylFAbF9w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lOwJcPW4EeGUg8dPeN6LMg" name="management_practice_list" guid="_lOwJcPW4EeGUg8dPeN6LMg" presentationName="Management Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif" categorizedElements="_cqo0wOlXEeKwz9k73swTBQ _4G649AA7EeO8guHzeWZLgg">
+            <methodElementProperty xmi:id="_MbDZ9cCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_MbDZ9sCTEemv0a6P8REMBA" name="CategoryElementsSortType" value="Alphabetic"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lu_vwPW4EeGUg8dPeN6LMg" name="technical_practice_list" guid="_lu_vwPW4EeGUg8dPeN6LMg" presentationName="Technical Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif">
+            <methodElementProperty xmi:id="_MbDZ98CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_VNSKQFi7EeKc_ty_5LPMaw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_ZuWoYPNHEeGUHqJDPoQpuw#_cD2ZcFi7EeKc_ty_5LPMaw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_k3YroFi7EeKc_ty_5LPMaw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_qeNKMFi7EeKc_ty_5LPMaw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qg-RAfW4EeGUg8dPeN6LMg" name="getting_started" guid="_qg-RAfW4EeGUg8dPeN6LMg" briefDescription="This area provides information useful for understanding how to deploy and adopt Remics Methodology." shapeicon="customcategories/resources/micl.gif" nodeicon="customcategories/resources/mic.gif" variabilityType="contributes" variabilityBasedOnElement="_sMkQwFvtEeKHU9XooDK5Ng" categorizedElements="_0xlX0GPaEeKRgrdi2v1O5Q _ipCBkGPbEeKRgrdi2v1O5Q _QYS_sGPcEeKRgrdi2v1O5Q _cjGIoGPcEeKRgrdi2v1O5Q _ia5CcGPcEeKRgrdi2v1O5Q">
+            <methodElementProperty xmi:id="_MbDZ-MCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-BZL7M9SUWacUmnxTIShrmA" href="uma://-BZL7M9SUWacUmnxTIShrmA#-BZL7M9SUWacUmnxTIShrmA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qg-RAvW4EeGUg8dPeN6LMg" name="release_info" guid="_qg-RAvW4EeGUg8dPeN6LMg" shapeicon="customcategories/resources/whats_new_set.gif" nodeicon="customcategories/resources/whats_new_set_obj.gif" variabilityType="contributes" variabilityBasedOnElement="_Id-zwlv1EeKNxMP178zm7Q" categorizedElements="_LczOUfW4EeG1CfjH63krNw _YOPJwGmJEd2wW88Ut0zE5w">
+            <methodElementProperty xmi:id="_MbDZ-cCTEemv0a6P8REMBA" name="CategoryElementsSortType" value="Alphabetic"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_OLyysN_tEeKdMZ3N0jsS2w" name="work_products.replaces" guid="_OLyysN_tEeKdMZ3N0jsS2w" presentationName="Work Products" shapeicon="customcategories/resources/workproduct_dgm32.gif" nodeicon="customcategories/resources/workproduct_obj.gif" variabilityType="replaces" variabilityBasedOnElement="_Id-zwFv1EeKNxMP178zm7Q">
+            <methodElementProperty xmi:id="_MbDZ-sCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_MbDZ-8CTEemv0a6P8REMBA" name="CategoryElementsSortType" value="Alphabetic"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_A3hf4OlnEeKXeuh9rEjGtw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xQV9wPN5EeKb3NsawrMs1A" name="in_service_practice_list" guid="_xQV9wPN5EeKb3NsawrMs1A" presentationName="In-Service Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif">
+            <methodElementProperty xmi:id="_MbDZ_MCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_sNlj0PNHEeGUHqJDPoQpuw#_w98XoPW8EeGkJrjWR9R9NQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_fFpCYFiuEeKBXYc66RG5vg#_OISdgFi7EeKc_ty_5LPMaw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PbPW3EeG1CfjH63krNw" name="CoreContent" guid="_bN9PbPW3EeG1CfjH63krNw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IziGAPW4EeG1CfjH63krNw" name="remics_practice_lib" guid="_IziGAPW4EeG1CfjH63krNw" presentationName="Remics Practice Library">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IziGA_W4EeG1CfjH63krNw" name="contribute_core_principles_to_practices" guid="_IziGA_W4EeG1CfjH63krNw" presentationName="Contribute Core Principles to Practices">
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_IziGBPW4EeG1CfjH63krNw" name="inception_phase.principle" guid="_IziGBPW4EeG1CfjH63krNw"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_IziGBvW4EeG1CfjH63krNw" name="elaboration_phase.principle" guid="_IziGBvW4EeG1CfjH63krNw"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_IziGB_W4EeG1CfjH63krNw" name="construction_phase.principle" guid="_IziGB_W4EeG1CfjH63krNw"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_IziGBfW4EeG1CfjH63krNw" name="transition_phase.principle" guid="_IziGBfW4EeG1CfjH63krNw"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IziGCfW4EeG1CfjH63krNw" name="contributions_to_open_source_practices" guid="_IziGCfW4EeG1CfjH63krNw" presentationName="Contributions to Open Source Practices">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IziGCvW4EeG1CfjH63krNw" name="risk-value_lifecycle" guid="_IziGCvW4EeG1CfjH63krNw" presentationName="Risk-Value Lifecycle">
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_IziGC_W4EeG1CfjH63krNw" name="project_lifecycle.additon" guid="_IziGC_W4EeG1CfjH63krNw">
+                <presentation xmi:id="-zuqK2tneGKchXpqLVRtwlg" href="uma://-zuqK2tneGKchXpqLVRtwlg#-zuqK2tneGKchXpqLVRtwlg"/>
+              </contentElements>
+            </childPackages>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_96QbQGPUEeKL24MjVHZKNA" name="introdiction_to_remics" guid="_96QbQGPUEeKL24MjVHZKNA" presentationName="Introduction to the REMICS Methodology" shapeicon="guidances/supportingmaterials/resources/micl.gif" nodeicon="guidances/supportingmaterials/resources/mic.gif" variabilityType="replaces" variabilityBasedOnElement="_UDYDMVvtEeKHU9XooDK5Ng">
+            <methodElementProperty xmi:id="_MbDZ_cCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-wyecoieomapEfPXAfnVqJg" href="uma://-wyecoieomapEfPXAfnVqJg#-wyecoieomapEfPXAfnVqJg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_0xlX0GPaEeKRgrdi2v1O5Q" name="challenges" guid="_0xlX0GPaEeKRgrdi2v1O5Q" presentationName="Challenges" shapeicon="guidances/supportingmaterials/resources/micl.gif" nodeicon="guidances/supportingmaterials/resources/mic.gif">
+            <methodElementProperty xmi:id="_MbDZ_sCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-HifMqnYrGs56VrczAMppqg" href="uma://-HifMqnYrGs56VrczAMppqg#-HifMqnYrGs56VrczAMppqg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ipCBkGPbEeKRgrdi2v1O5Q" name="lifecycle" guid="_ipCBkGPbEeKRgrdi2v1O5Q" presentationName="Lifecycle" shapeicon="guidances/supportingmaterials/resources/micl.gif" nodeicon="guidances/supportingmaterials/resources/mic.gif">
+            <methodElementProperty xmi:id="_MbDZ_8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-2jzIri4gpHu21rrX3NBoEQ" href="uma://-2jzIri4gpHu21rrX3NBoEQ#-2jzIri4gpHu21rrX3NBoEQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_QYS_sGPcEeKRgrdi2v1O5Q" name="principles" guid="_QYS_sGPcEeKRgrdi2v1O5Q" presentationName="Principles" shapeicon="guidances/supportingmaterials/resources/micl.gif" nodeicon="guidances/supportingmaterials/resources/mic.gif">
+            <methodElementProperty xmi:id="_MbDaAMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-DCNQnDkXR52uV4-NPaA8Ew" href="uma://-DCNQnDkXR52uV4-NPaA8Ew#-DCNQnDkXR52uV4-NPaA8Ew"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_cjGIoGPcEeKRgrdi2v1O5Q" name="terminology" guid="_cjGIoGPcEeKRgrdi2v1O5Q" presentationName="Terminology" shapeicon="guidances/supportingmaterials/resources/micl.gif" nodeicon="guidances/supportingmaterials/resources/mic.gif">
+            <methodElementProperty xmi:id="_MbDaAcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-66ZlVicGZ5Yx4YKgDETNxg" href="uma://-66ZlVicGZ5Yx4YKgDETNxg#-66ZlVicGZ5Yx4YKgDETNxg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ia5CcGPcEeKRgrdi2v1O5Q" name="tool_support" guid="_ia5CcGPcEeKRgrdi2v1O5Q" presentationName="Tool Support" shapeicon="guidances/supportingmaterials/resources/micl.gif" nodeicon="guidances/supportingmaterials/resources/mic.gif">
+            <methodElementProperty xmi:id="_MbDaAsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-NCj6Ua8eTn_txMxFO4_7yw" href="uma://-NCj6Ua8eTn_txMxFO4_7yw#-NCj6Ua8eTn_txMxFO4_7yw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LczOUPW4EeG1CfjH63krNw" name="release_info" guid="_LczOUPW4EeG1CfjH63krNw" presentationName="Release Information">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_LczOUfW4EeG1CfjH63krNw" name="release_info_remics" guid="_LczOUfW4EeG1CfjH63krNw" presentationName="Publish: Remics" shapeicon="guidances/supportingmaterials/resources/whats_new.gif" nodeicon="guidances/supportingmaterials/resources/whats_new_obj.gif">
+            <presentation xmi:id="-id3gpeJmU5zSUE12SUm8Ag" href="uma://-id3gpeJmU5zSUE12SUm8Ag#-id3gpeJmU5zSUE12SUm8Ag"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bN9PbfW3EeG1CfjH63krNw" name="CapabilityPatterns" guid="_bN9PbfW3EeG1CfjH63krNw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bN9PbvW3EeG1CfjH63krNw" name="DeliveryProcesses" guid="_bN9PbvW3EeG1CfjH63krNw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bN9Pb_W3EeG1CfjH63krNw" name="ProcessContributions" guid="_bN9Pb_W3EeG1CfjH63krNw"/>
+    <bases href="uma://_bvPv0MvjEeCphdH9-OcbCA#_bvPv0MvjEeCphdH9-OcbCA"/>
+    <bases href="uma://_loDA8MvjEeCphdH9-OcbCA#_loDA8MvjEeCphdH9-OcbCA"/>
+    <bases href="uma://_x_nakMvjEeCphdH9-OcbCA#_x_nakMvjEeCphdH9-OcbCA"/>
+    <bases href="uma://_iaOaEMvjEeCphdH9-OcbCA#_iaOaEMvjEeCphdH9-OcbCA"/>
+    <bases href="uma://_gmxfcMvjEeCphdH9-OcbCA#_gmxfcMvjEeCphdH9-OcbCA"/>
+    <bases href="uma://_eYseUMvjEeCphdH9-OcbCA#_eYseUMvjEeCphdH9-OcbCA"/>
+    <bases href="uma://_kb4IwMvjEeCphdH9-OcbCA#_kb4IwMvjEeCphdH9-OcbCA"/>
+    <bases href="uma://_nuiMUMvjEeCphdH9-OcbCA#_nuiMUMvjEeCphdH9-OcbCA"/>
+    <bases href="uma://__20psPNGEeGUHqJDPoQpuw#__20psPNGEeGUHqJDPoQpuw"/>
+    <bases href="uma://_sNlj0PNHEeGUHqJDPoQpuw#_sNlj0PNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_gAWK4PNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_IQcqQMviEeCphdH9-OcbCA#_IQcqQMviEeCphdH9-OcbCA"/>
+    <bases href="uma://_ZuWoYPNHEeGUHqJDPoQpuw#_ZuWoYPNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BH4wPNGEeGUHqJDPoQpuw"/>
+    <bases href="uma://_fFpCYFiuEeKBXYc66RG5vg#_fFpCYFiuEeKBXYc66RG5vg"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rZnRs095bpAt7i5xT6Pwvw" name="uam_business_event,_T0Qw8GXmEeSFL7Sh0MlmKA" guid="-rZnRs095bpAt7i5xT6Pwvw" version="7.5.1">
+  <mainDescription>At the Business level, events are kept simple and described in natural language based upon input from business experts. The&#xD;
+objective is to make this model easily consumable by business people, with the goal to ensuring that this level is&#xD;
+understood and agreed to by all stakeholders.</mainDescription>
+  <sections xmi:id="_tGc8AGXoEeSFL7Sh0MlmKA" name="Clear name and description" guid="_tGc8AGXoEeSFL7Sh0MlmKA">
+    <sectionDescription>Ensure that the name for the event conveys its meaning and that the description supports this meaning. Business experts and&#xD;
+stakeholders are key to ensuring that this is the case.</sectionDescription>
+  </sections>
+  <sections xmi:id="_0V9PoGXoEeSFL7Sh0MlmKA" name="Business events and entities" guid="_0V9PoGXoEeSFL7Sh0MlmKA">
+    <sectionDescription>Business Events are often triggered by Business Entities, the arrival of an Invoice for example will trigger the &quot;Bill&#xD;
+Payment&quot; process. Ensure that this relationship is defined if needed.</sectionDescription>
+  </sections>
+  <sections xmi:id="_fEV2sGXpEeSFL7Sh0MlmKA" name="Usage is described" guid="_fEV2sGXpEeSFL7Sh0MlmKA">
+    <sectionDescription>Ensure that the usage or effect of the event is defined and if possible where it occurs (i.e. the process and activities).</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

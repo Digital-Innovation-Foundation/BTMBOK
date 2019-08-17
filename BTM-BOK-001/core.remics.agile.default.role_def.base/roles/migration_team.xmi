@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LEUZf_nh90dVCJybNGdwEA" name="migration_team,_TFeMIF5AEeKVU8eUCvi3Og" guid="-LEUZf_nh90dVCJybNGdwEA" changeDate="2013-08-21T08:42:16.907-0400">
+  <mainDescription>&lt;p>&#xD;
+    Migration Team&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is the scrum team in charge of the migration&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

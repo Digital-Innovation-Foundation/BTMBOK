@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_zHZW8qYSEdmvhNXG0Oc2uA" name="use_case,_0VGbUMlgEdmt3adZL5Dmdw" guid="_zHZW8qYSEdmvhNXG0Oc2uA" changeDate="2006-09-13T17:58:40.026-0400">
+  <purpose>&lt;p>&#xD;
+    The primary purpose of the Use Case is to capture the required system behavior from the perspective of the end user, to&#xD;
+    achieve one or more goals. Different users benefit in different ways, of course:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Customers&lt;/strong> use them to describe, or at least to approve, the description of the system's behavior.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Potential users&lt;/strong> use them to understand the system's behavior.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Architects&lt;/strong> use them to identify architecturally significant functionality.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Developers&lt;/strong> use them  to understand the required system behavior so they can identify classes from&#xD;
+        the Use Cases' flow of events.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Testers&lt;/strong> use them as a basis for identifying a subset of the required Test Cases.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>M&lt;/strong>&lt;b>anagers&lt;/b> use them  to plan and assess the work for each iteration.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical writers&lt;/strong> use them to understand the sequence of system behavior that they need to&#xD;
+        describe in the documentation.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+  <representationOptions>&lt;p> Decide the extent to which you will elaborate on Use &#xD;
+  Cases: &lt;/p>&#xD;
+&lt;ul>&#xD;
+    &#xD;
+  &lt;li> Describe only major flows? &lt;/li>&#xD;
+    &#xD;
+  &lt;li> Describe only the most important Use Cases? &lt;/li>&#xD;
+    &#xD;
+  &lt;li>Fully describe preconditions and post-conditions? &lt;/li>&#xD;
+    &#xD;
+  &lt;li> Describe scenarios first, and then raise the level of abstraction by describing &#xD;
+    Use Case flows? &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

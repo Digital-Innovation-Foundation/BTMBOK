@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_mtb_DfL5Edm6Nvont3uinw" guid="_mtb_DfL5Edm6Nvont3uinw" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The goal of this activity is to define a technical approach to the system that supports the project&#xD;
+    requirements, within the constraints placed on the system and the development team. The architect should do the&#xD;
+    following: &#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Work with the team to create an initial sketch of the technical approach to the proposed system&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensure that the technical decisions are adequately captured and communicated&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensure that the team has enough information to understand the approach that your are taking&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The work done here does not seek to produce a detailed and comprehensive technical specification for the system.&#xD;
+    Rather, the approach should be to decide the overall technical approach at a high level.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    You should focus on proving the architecture with working software. If the solution is similar to a previously&#xD;
+    produced solution (or is a well-known solution domain), then it will probably be good enough to&#xD;
+    reference that example as evidence of the feasibility of the approach. In some cases, it may be necessary to develop&#xD;
+    one or more prototypes to validate some of the decisions or clarify some of the requirements.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The conclusion of this work should produce just enough information to communicate the architecture to the team, and&#xD;
+    to demonstrate its viability to the customer. This allows the project to move forward, enabling you to&#xD;
+    refine and baseline the architecture.&#xD;
+&lt;/p></mainDescription>
+  <howtoStaff>&lt;p>&#xD;
+    This activity is best carried out collaboratively by the team, with the architect acting as a focal point&#xD;
+    for coordinating and facilitating the decisions.&#xD;
+&lt;/p></howtoStaff>
+  <usageNotes>&lt;p>&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+    The major effort occurs early in the project; thereafter, you should assess the system regularly to ensure that the&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+    design is still on track with the architecture.&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&lt;/p></usageNotes>
+</org.eclipse.epf.uma:ProcessDescription>

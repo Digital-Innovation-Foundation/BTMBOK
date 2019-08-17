@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-t80hD6AMW2qIgsvweQxtQQ" name="uam_ad_notification,_cWaN4F3zEeSU46-vxLGKFw" guid="-t80hD6AMW2qIgsvweQxtQQ" authors="DW Enstrom" changeDate="2015-01-25T15:08:25.224-0500" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The AD notification has the following structure (one for each included AD):&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;blockquote>&#xD;
+    &lt;h3>&#xD;
+        Architectural Decision Title&amp;nbsp;&#xD;
+    &lt;/h3>&#xD;
+    &lt;p>&#xD;
+        Describe the Architectural Decision. It is important to briefly state the context and scope of the Architectural&#xD;
+        Decision. Use any figures or diagram to help the reader understanding the decision. The reader of this document&#xD;
+        should understand the decision and its scope from this summary. Include a link to the full&amp;nbsp;AD in the AD&#xD;
+        Repository.&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        Implications (optional)&amp;nbsp;&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Document any implications of the decision, such as technology choice, cost, and support implications. Also document&#xD;
+        and cross-reference any implications on other ADs, past or present.&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        The implications of the rationale have to be explored as well. Things such as:&#xD;
+    &lt;/p>&#xD;
+    &lt;ul>&#xD;
+        &lt;li>&#xD;
+            How will this Architectural Decision will be applied over time?&#xD;
+        &lt;/li>&#xD;
+        &lt;li>&#xD;
+            How will this Architectural Decision will be applied in multiple systems?&#xD;
+        &lt;/li>&#xD;
+        &lt;li>&#xD;
+            What are the skills requirements to support this Architectural Decision?&#xD;
+        &lt;/li>&#xD;
+        &lt;li>&#xD;
+            Have all stakeholders been involved in that Architectural Decision?&#xD;
+        &lt;/li>&#xD;
+    &lt;/ul>&#xD;
+    &lt;p>&#xD;
+        Various formats are provided below: Microsoft Word (.dotx and .dot), PDF (.pdf) and Open XML Paper Specification&#xD;
+        (.xps).&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+  <attachments>resources/Report_Architectural_Decision_notification.pdf|resources/Report_Architectural_Decision_notification.dot|resources/Report_Architectural_Decision_notification.dotx|resources/Report_Architectural_Decision_notification.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

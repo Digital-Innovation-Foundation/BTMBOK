@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I3yOxhkbTu3OCbzQ0sUsyA" name="explain_process,{1FA31F30-1F90-4BD3-9F0D-57DF66FC6727}" guid="-I3yOxhkbTu3OCbzQ0sUsyA" version="1.0.0">
+  <sections xmi:id="_oNuxsGE-EdqnIZeW8YpHcA" name=" General " guid="_oNuxsGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Prep&quot; name=&quot;Prep&quot;>&lt;/a> 
+&lt;p>
+    As a team begins to use the &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../xp/guidances/concepts/xp_practices,2.2937799026801584E-305.html&quot; guid=&quot;2.2937799026801584E-305&quot;>XP
+    Practices&lt;/a>, the coach must prepare the team to use the practices effectively.
+&lt;/p>
+&lt;p>
+    This includes the following:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Teach the team about XP and ensure that the team has a common understanding of the practices.
+    &lt;/li>
+    &lt;li>
+        Facilitate the team's decision as to how aggressively the transition to the new practices will be.
+    &lt;/li>
+    &lt;li>
+        Facilitate a team activity to identify what obstacles they will face in using the practices effectively. Ensure
+        that the team has a plan to overcome those obstacles.
+    &lt;/li>
+    &lt;li>
+        Facilitate a team activity to identify what constraints will require adaptation of the practices. Ensure that these
+        adaptations are understood by the &lt;a class=&quot;elementLink&quot;
+        href=&quot;./../../xp/guidances/concepts/whole_team,7.89591827591278E-306.html&quot; guid=&quot;7.89591827591278E-306&quot;>Whole
+        Team&lt;/a>.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    Because there are many roles in the team, a coach needs to have a good understanding of the all different activities in
+    the process. In some cases, there might be more than one coach on a team to address needs. There might be a coach for
+    the developer team and one for the customer team, for example.
+&lt;/p>
+&lt;p>
+    Use external expertise as necessary to ensure the team starts with a strong base of knowledge on which to succeed.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_explain_process__activity_definition&quot; name=&quot;XE_explain_process__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Make sure the team has a common understanding of the fundamentals.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NgqLXPS01GINUhauksFHnw" name="uam_def_context,_MSK-sGqrEeS7ieerwXbTqg" guid="-NgqLXPS01GINUhauksFHnw" changeDate="2015-01-29T13:53:04.827-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in ensuring that the system&amp;nbsp;Context is&amp;nbsp;comprehensive, that all&#xD;
+    entities, processes/activities, locations and actors are found and defined.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_MSK-s2qrEeS7ieerwXbTqg" name="Appropriate experts involved" guid="_MSK-s2qrEeS7ieerwXbTqg">
+    <sectionDescription>Ensure that appropriate set of business experts are involved, since they will understand the system from the business&#xD;
+level.</sectionDescription>
+  </sections>
+  <sections xmi:id="_7rtY4KG3EeS5FqFJ3nOmXg" name="Summarize business documentation" guid="_7rtY4KG3EeS5FqFJ3nOmXg">
+    <sectionDescription>Review and prepare a summary of the business vision, strategies and objectives.&amp;nbsp;This summary should appear in the&#xD;
+Context and Objectives document.</sectionDescription>
+  </sections>
+  <sections xmi:id="_DL_6gKG4EeS5FqFJ3nOmXg" name="Define boundaries" guid="_DL_6gKG4EeS5FqFJ3nOmXg">
+    <sectionDescription>&lt;p>&#xD;
+    Define the boundary of the system:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define the boundary of&amp;nbsp;the organization as defined by the &quot;system&quot;;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define the&amp;nbsp;list of products&amp;nbsp;and services involved in the system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define the Domain and &lt;em>authority&lt;/em>;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Bound (only if necessary) the business functions within the delivery of products / services. This is not&#xD;
+        ideal.&amp;nbsp; It is always best if the scope can address the complete end-to-end delivery of a service or&#xD;
+        product.&amp;nbsp;An architecture that targets only a specific business function is more analogous to a renovation,&#xD;
+        particularly if that renovation is designed in the absence of an overall architecture.&amp;nbsp;There is always&#xD;
+        something left out or that doesn’t fit together well when this occurs.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_MSK-smqrEeS7ieerwXbTqg" name="Definitions of entities, processes, locations and actors" guid="_MSK-smqrEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the described business&amp;nbsp;elements are clearly defined and understood including required relationships.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Review the results:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Look at each &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/workproducts/uam_business_actor_EB327D4A.html&quot;&#xD;
+        guid=&quot;_g6DIUMDbEeOx56fQBc88vA&quot;>Artifact: Business Actor&lt;/a>: What are his/her interactions with the system?&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Look at each &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/workproducts/uam_business_activity_FC6A438C.html&quot;&#xD;
+        guid=&quot;_0q0KgM56Edymj4NXv8-FYA&quot;>Artifact: Business Activity&lt;/a>:&amp;nbsp; Do you understand the business value the&#xD;
+        activities?&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Look at each &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/workproducts/uam_business_activity_FC6A438C.html&quot;&#xD;
+        guid=&quot;_0q0KgM56Edymj4NXv8-FYA&quot;>Artifact: Business Activity&lt;/a>:&amp;nbsp;&amp;nbsp;Is it complete? Or is this just a small&#xD;
+        part of something bigger?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Look at the Actors and Activities: Is there a&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../UAM/workproducts/uam_business_location_B94472F1.html&quot; guid=&quot;_ZB_koM6LEdymj4NXv8-FYA&quot;>Artifact:&#xD;
+        Business Location&lt;/a> implied (e.g.&amp;nbsp;&amp;nbsp;ATM, branch, store, warehouse, etc.) List the business locations.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Questions to ask:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Every Actor should interact with at least one business activity. If not, it may be because there is a duplicate (of&#xD;
+        another Actor) or because the Actor is really not a direct user of the system. In these cases, if a discussion of&#xD;
+        the merits of keeping the Actor yields no strong reasons to keep it,&amp;nbsp;it may be removed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Every Business Activity is 'deployed' &amp;nbsp;to a location where the business operations, list these and agree&#xD;
+        definitions&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Every Business Activity typically consumes and produces &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../UAM/workproducts/uam_business_entity_41C9A5C4.html&quot; guid=&quot;_cF_bwM54Edymj4NXv8-FYA&quot;>Artifact:&#xD;
+        Business Entity&lt;/a>, the information used by the business. Name these and agree definitions.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_RentEGq5EeS7ieerwXbTqg" name="Define the context" guid="_RentEGq5EeS7ieerwXbTqg">
+    <sectionDescription>This is a very simple definition of the business domain in when the system operates. See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_context_BF7FA033.html&quot; guid=&quot;_ILeHEMI1EeKSedlRPHdUIQ&quot;>Term Definition:&#xD;
+Context&lt;/a></sectionDescription>
+  </sections>
+  <sections xmi:id="_MSK-sWqrEeS7ieerwXbTqg" name="Follow-on action" guid="_MSK-sWqrEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the follow-on actions, if any, are clearly defined and assigned.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

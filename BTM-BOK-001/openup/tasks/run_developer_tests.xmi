@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_W6rc0Lv7EdmmUvZAZjqE3g" name="run_developer_tests,_0iYCUMlgEdmt3adZL5Dmdw" guid="_W6rc0Lv7EdmmUvZAZjqE3g" changeDate="2006-09-29T12:31:32.200-0400" version="1.0.0">
+  <keyConsiderations>&lt;p>&#xD;
+    It is common to require that code pass all Developer tests before it can be delivered in an integrated build (see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/promoting_changes_9087B764.html&quot; guid=&quot;_SM4YIL6dEdqti4GwqTkbsQ&quot;>Guideline: Promoting Changes&lt;/a>).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pair with the Tester during all steps of this task to gain insight on testing and quality considerations.&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_MSnQsMP4EdmWKcx6ixEiwg" name="Run Developer Tests" guid="_MSnQsMP4EdmWKcx6ixEiwg">
+    <sectionDescription>&lt;p>&#xD;
+    Run the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/developer_test_8470ED13.html&quot; guid=&quot;_0YuXEclgEdmt3adZL5Dmdw&quot;>Developer Test&lt;/a>s. The procedure will vary, depending on whether the test is manual or&#xD;
+    automated and whether additional test components are necessary,&amp;nbsp;such as&amp;nbsp;drivers or stubs.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To run the tests, you need to make sure that you have initialized the test environment with all necessary elements,&#xD;
+    such as software, hardware, tools, data, and so on.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Automated tests will often update a &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/test_log_CBA2FDF4.html&quot; guid=&quot;_0ZlSsMlgEdmt3adZL5Dmdw&quot;>Test Log&lt;/a>&amp;nbsp;which you can evaluate to determine where your tests went wrong.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_NkRF0MP4EdmWKcx6ixEiwg" name="Evaluate test execution" guid="_NkRF0MP4EdmWKcx6ixEiwg">
+    <sectionDescription>&lt;p>&#xD;
+    Evaluate the test execution by analyzing the test run.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Testing will&amp;nbsp;complete either&amp;nbsp;normally or abnormally.&amp;nbsp; For correctly implemented tests, a normal&#xD;
+    completion represents a passed test, though it could warrant additional examination of the test log to ensure&amp;nbsp;the&#xD;
+    test&amp;nbsp;ran as expected.&amp;nbsp; Abnormal termination could be premature termination or just a test that does not&#xD;
+    complete as intended.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Review the test log to understand any reported failures, warnings, or unexpected results. The cause of the problem(s)&#xD;
+    might be that the implementation element being tested is faulty, a problem with the developer tests, or a problem with&#xD;
+    the environment.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_SXPFkMP4EdmWKcx6ixEiwg" name="Respond to test results" guid="_SXPFkMP4EdmWKcx6ixEiwg">
+    <sectionDescription>&lt;p>&#xD;
+    Determine the appropriate corrective action to recover from a &quot;failed&quot; developer test run. If the implementation&#xD;
+    element under test is faulty, fix the problem if possible and rerun the tests. If the problem is serious and cannot be&#xD;
+    immediately addressed, perform the task &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/tasks/request_change_A048C387.html&quot; guid=&quot;_0mwzEclgEdmt3adZL5Dmdw&quot;>Request Change&lt;/a> to report the defect. If the developer test is faulty fix the test and rerun the tests. If there was a&#xD;
+    problem with the environment, resolve it and then rerun&amp;nbsp;the tests.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    When the developer tests pass, communicate the results. If the passing of these tests represent completion of a&#xD;
+    requirement, this could involve updating the status of something on the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/work_items_list_39D03CC8.html&quot; guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>Work Items List&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>To verify that the implementation works as specified.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

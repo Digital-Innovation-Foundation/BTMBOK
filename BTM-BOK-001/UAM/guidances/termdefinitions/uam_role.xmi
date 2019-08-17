@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-cI0yzsR9W3WGKpXmOxwEtQ" name="uam_role,_4cjbMOPNEdy7f9KmjDtwsA" guid="-cI0yzsR9W3WGKpXmOxwEtQ" authors="DW Enstrom" changeDate="2015-02-16T12:19:00.962-0500" changeDescription="New" version="1.0.0">
+  <mainDescription>A role is equated to or defined by the behavior (and by extension its responsibilities) that it interacts with in the&#xD;
+system—the activities that it interacts with. A role is in essence the “interface” to the activities with which it&#xD;
+interacts. A role can be assumed (aggregated) by any kind of actor, either human or a system. An actor may be aggregate&#xD;
+multiple roles, and an actor can be associated with&amp;nbsp;multiple physical people (or systems). Roles also include security&#xD;
+concepts and constructs. An employee of the enterprise is typically multiple actors with the system and therefore has many&#xD;
+different roles. Also see the definition of &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_context-role_B9C4F862.html&quot; guid=&quot;_1lsiQPvGEeOyDIZvZjuaLg&quot;>Contextual&#xD;
+Role&lt;/a>, &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_func-role_668447D2.html&quot;&#xD;
+guid=&quot;_8Uq7sPvGEeOyDIZvZjuaLg&quot;>Functional Role&lt;/a> and &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_actor_D53D209B.html&quot; guid=&quot;_0Nz8QMIoEeKSedlRPHdUIQ&quot;>Actor&lt;/a>.&#xD;
+&lt;strong>&lt;em>Note&lt;/em>&lt;/strong>: This distinction between Functional and Contextual Roles is made clear in: &lt;a&#xD;
+class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/whitepapers/uam_security_reference_model_3EA07B63.html&quot;&#xD;
+guid=&quot;_KGs_oMX8EdyDYN2-y9-AqA&quot;>Whitepaper: A Reference Model for Enterprise Security&lt;/a>.&amp;nbsp; &#xD;
+&lt;p>&#xD;
+    Roles are typically realized by an individual, or a set of individuals, working together as a team. An employee of the&#xD;
+    enterprise typically fulfills many different roles. Note that &lt;b>roles are not individuals nor are they necessarily&#xD;
+    equivalent to job titles;&lt;/b> instead, they describe how individuals should behave in the enterprise and the&#xD;
+    responsibilities of an individual. Individual members of the organization will wear different hats, or perform many&#xD;
+    different Roles. The mapping from individual (user)&amp;nbsp;to Role is performed by managers within the&#xD;
+    enterprise&amp;nbsp;when defining and staffing the positions (and their responsibilities) within their organization.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In order to avoid confusion between &lt;em>functional roles&lt;/em> and &lt;em>contextual roles&lt;/em> the following conventions&#xD;
+    have been adopted: Functional and organizational roles will always be expressed as nouns (e.g. &lt;em>TigerTeam&lt;/em>);&#xD;
+    Contextual roles will always be expressed as verbs (e.g. &lt;em>Collaborating&lt;/em>). This rule reflects the core&#xD;
+    differences between the role types: functional (and organizational) roles really do refer to persons, places, or&#xD;
+    things; contextual roles are actions performed by a subject on an object.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Roles are used as the fundamental method for defining access permissions to protected objects (i.e. RBAC, see: &lt;a&#xD;
+    href=&quot;http://en.wikipedia.org/wiki/Role-based_access_control&quot; target=&quot;_blank&quot;>Role-Based Access Control&lt;/a>&amp;nbsp;on&#xD;
+    Wikipedia).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Also see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspect_people_6426D0D2.html&quot; guid=&quot;_S7dFkMI6EeKSedlRPHdUIQ&quot;>Term&#xD;
+    Definition: Aspect: People&lt;/a>&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

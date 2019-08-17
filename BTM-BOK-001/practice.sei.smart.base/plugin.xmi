@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MBH3AMCTEemv0a6P8REMBA" guid="_MBH3AMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MBH3AsCTEemv0a6P8REMBA" id="-Eljw2u1pZ5Wq2KFkJ72XEw" uri="tasks/define_candidate_services.xmi"/>
+    <resourceDescriptors xmi:id="_MBRoAMCTEemv0a6P8REMBA" id="-d0Pktr_6phL3Z2YL-k098Q" uri="tasks/understand_the_legacy_system_and_target_soa_environment_at_a_high_level.xmi"/>
+    <resourceDescriptors xmi:id="_MBRoAcCTEemv0a6P8REMBA" id="-IkQgaEVsFq-xbZqTZZb1Gw" uri="tasks/identify_a_set_of_candidate_services_for_migration.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_IQcqQMviEeCphdH9-OcbCA" name="practice.sei.smart.base" guid="_IQcqQMviEeCphdH9-OcbCA" changeDate="2013-01-11T07:14:38.717-0500">
+    <methodElementProperty xmi:id="_MA08EMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqQcviEeCphdH9-OcbCA" name="Content" guid="_IQcqQcviEeCphdH9-OcbCA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqQsviEeCphdH9-OcbCA" name="Categories" guid="_IQcqQsviEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqQ8viEeCphdH9-OcbCA" name="Domains" guid="_IQcqQ8viEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqRMviEeCphdH9-OcbCA" name="Disciplines" guid="_IQcqRMviEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqRcviEeCphdH9-OcbCA" name="RoleSets" guid="_IQcqRcviEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqRsviEeCphdH9-OcbCA" name="WP Types" guid="_IQcqRsviEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqR8viEeCphdH9-OcbCA" name="Tools" guid="_IQcqR8viEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqSMviEeCphdH9-OcbCA" name="StandardCategories" guid="_IQcqSMviEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqScviEeCphdH9-OcbCA" name="CustomCategories" guid="_IQcqScviEeCphdH9-OcbCA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqSsviEeCphdH9-OcbCA" name="Hidden" guid="_IQcqSsviEeCphdH9-OcbCA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_IQcqS8viEeCphdH9-OcbCA" name="Custom Categories" guid="_IQcqS8viEeCphdH9-OcbCA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqTMviEeCphdH9-OcbCA" name="CoreContent" guid="_IQcqTMviEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SX73oMviEeCphdH9-OcbCA" name="smart" guid="_SX73oMviEeCphdH9-OcbCA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Y77JEMviEeCphdH9-OcbCA" name="identify_reusable_parts" guid="_Y77JEMviEeCphdH9-OcbCA" presentationName="Identify Reusable Partsas"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_fTdc0NQ9EeK8qMAre2m8Lg" name="stakeholder_list" guid="_fTdc0NQ9EeK8qMAre2m8Lg" presentationName="Stakeholder List" briefDescription="It includes information about all the people or organizations with any kind of interents in the selection that should be taken into account in the process.">
+            <methodElementProperty xmi:id="_MA08EcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1yvGQNQ9EeK8qMAre2m8Lg" name="characteristics_list" guid="_1yvGQNQ9EeK8qMAre2m8Lg" presentationName="Characteristics List" briefDescription="It includes all the parameters needed to compare the different alternatives. Some examples include name, function, size, language, operating platform. This list may be updated along the process.">
+            <methodElementProperty xmi:id="_MA08EsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9b9pkNTOEeK_xckCJAmBKQ" name="migration_issues_list" guid="_9b9pkNTOEeK_xckCJAmBKQ" presentationName="Migration Issues List">
+            <methodElementProperty xmi:id="_MA08E8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_b1fMwNTPEeK_xckCJAmBKQ" name="business_process_service_mapping" guid="_b1fMwNTPEeK_xckCJAmBKQ" presentationName="Business Process-Service Mapping">
+            <methodElementProperty xmi:id="_MA08FMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_kZKeANTPEeK_xckCJAmBKQ" name="service_table" guid="_kZKeANTPEeK_xckCJAmBKQ" presentationName="Service Table">
+            <methodElementProperty xmi:id="_MA08FcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qckK4NTPEeK_xckCJAmBKQ" name="component_table" guid="_qckK4NTPEeK_xckCJAmBKQ" presentationName="Component Table">
+            <methodElementProperty xmi:id="_MA08FsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wU53QNTPEeK_xckCJAmBKQ" name="notional_service_oriented_system_architecture" guid="_wU53QNTPEeK_xckCJAmBKQ" presentationName="Notional Service-Oriented System Architecture" briefDescription="High level view of the architecture">
+            <methodElementProperty xmi:id="_MA08F8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_7KL-wNTPEeK_xckCJAmBKQ" name="service_component_alternatives" guid="_7KL-wNTPEeK_xckCJAmBKQ" presentationName="Service-Component Alternatives">
+            <methodElementProperty xmi:id="_MA08GMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_AC8dcNTQEeK_xckCJAmBKQ" name="migration_strategy" guid="_AC8dcNTQEeK_xckCJAmBKQ" presentationName="Migration Strategy">
+            <methodElementProperty xmi:id="_MA08GcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MqudUNTQEeK_xckCJAmBKQ" name="define_candidate_services" guid="_MqudUNTQEeK_xckCJAmBKQ" presentationName="Define Candidate Services" output="_kZKeANTPEeK_xckCJAmBKQ">
+            <methodElementProperty xmi:id="_MA08GsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Eljw2u1pZ5Wq2KFkJ72XEw" href="uma://-Eljw2u1pZ5Wq2KFkJ72XEw#-Eljw2u1pZ5Wq2KFkJ72XEw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_r6pdANTQEeK_xckCJAmBKQ" name="understand_the_business_and_technical_context_for_migration" guid="_r6pdANTQEeK_xckCJAmBKQ" presentationName="Understand the business and technical context for migration" output="_9b9pkNTOEeK_xckCJAmBKQ">
+            <methodElementProperty xmi:id="_MA08G8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_giVrgNTREeK_xckCJAmBKQ" name="identify_stakeholders" guid="_giVrgNTREeK_xckCJAmBKQ" presentationName="Identify stakeholders" output="_fTdc0NQ9EeK8qMAre2m8Lg">
+            <methodElementProperty xmi:id="_MA08HMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jWZHgNTREeK_xckCJAmBKQ" name="understand_the_legacy_system_and_target_soa_environment_at_a_high_level" guid="_jWZHgNTREeK_xckCJAmBKQ" presentationName="Understand the legacy system and target SOA environment at a high level" output="_1yvGQNQ9EeK8qMAre2m8Lg">
+            <methodElementProperty xmi:id="_MA08HcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-d0Pktr_6phL3Z2YL-k098Q" href="uma://-d0Pktr_6phL3Z2YL-k098Q#-d0Pktr_6phL3Z2YL-k098Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nzyf4NTREeK_xckCJAmBKQ" name="identify_a_set_of_candidate_services_for_migration" guid="_nzyf4NTREeK_xckCJAmBKQ" presentationName="Identify a set of candidate services for migration" output="_b1fMwNTPEeK_xckCJAmBKQ">
+            <methodElementProperty xmi:id="_MA08HsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-IkQgaEVsFq-xbZqTZZb1Gw" href="uma://-IkQgaEVsFq-xbZqTZZb1Gw#-IkQgaEVsFq-xbZqTZZb1Gw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_OjZDkNTaEeK_xckCJAmBKQ" name="describe_existing_capability" guid="_OjZDkNTaEeK_xckCJAmBKQ" presentationName="Describe Existing Capability" output="_qckK4NTPEeK_xckCJAmBKQ">
+            <methodElementProperty xmi:id="_MA08H8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kMPbUNTaEeK_xckCJAmBKQ" name="describe_target_soa_environment" guid="_kMPbUNTaEeK_xckCJAmBKQ" presentationName="Describe Target SOA Environment" output="_wU53QNTPEeK_xckCJAmBKQ">
+            <methodElementProperty xmi:id="_MA08IMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__K72YNTaEeK_xckCJAmBKQ" name="analyze_the_gap" guid="__K72YNTaEeK_xckCJAmBKQ" presentationName="Analyze the Gap" output="_7KL-wNTPEeK_xckCJAmBKQ">
+            <methodElementProperty xmi:id="_MA08IcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LHCcANTbEeK_xckCJAmBKQ" name="develop_strategy" guid="_LHCcANTbEeK_xckCJAmBKQ" presentationName="Develop Strategy" output="_AC8dcNTQEeK_xckCJAmBKQ">
+            <methodElementProperty xmi:id="_MA08IsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IQcqTcviEeCphdH9-OcbCA" name="CapabilityPatterns" guid="_IQcqTcviEeCphdH9-OcbCA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IQcqTsviEeCphdH9-OcbCA" name="DeliveryProcesses" guid="_IQcqTsviEeCphdH9-OcbCA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IQcqT8viEeCphdH9-OcbCA" name="ProcessContributions" guid="_IQcqT8viEeCphdH9-OcbCA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

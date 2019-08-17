@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-u_0D0nwGoZhpANLeqrq14A" name="new_role,_O65KUOF6Edyp34pwdTOSVQ" guid="-u_0D0nwGoZhpANLeqrq14A" changeDate="2013-03-05T12:17:52.257-0500">
+  <mainDescription>&lt;h3>&#xD;
+    Scrum Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Scrum Team consists of a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/product_owner_10E7BD3.html&quot; guid=&quot;_QcnRMOF5Edyp34pwdTOSVQ&quot;>Product&#xD;
+    Owner&lt;/a>, the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/development_team_2BE2D5BF.html&quot;&#xD;
+    guid=&quot;_EChNoBC0EeGhfJHCQDJMKQ&quot;>Development Team&lt;/a>, and a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/scrum_master_357FCB70.html&quot; guid=&quot;_Bw-twOF6Edyp34pwdTOSVQ&quot;>Scrum&#xD;
+    Master&lt;/a>. Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish&#xD;
+    their work, rather than being directed by others outside the team. Cross-functional teams have all competencies needed&#xD;
+    to accomplish the work without depending on others not part of the team. The team model in Scrum is designed to&#xD;
+    optimize flexibility, creativity, and productivity.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. Incremental&#xD;
+    deliveries of “Done” product ensure a potentially useful version of working product is always available.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

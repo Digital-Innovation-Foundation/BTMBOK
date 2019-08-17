@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FYJc-5Cf2rEV-57b_jhukw" name="uam_organize_update,_zz0soGUcEeSFL7Sh0MlmKA" guid="-FYJc-5Cf2rEV-57b_jhukw" changeDate="2014-11-03T13:51:46.543-0500" version="2.0.0">
+  <mainDescription>This task is focused on organizing an update of one perspectives of the IT architecture. Appropriate materials are&#xD;
+gathered, venues booked and participants informed. The update may focus on a specific portion of the generated&#xD;
+architecture.</mainDescription>
+  <sections xmi:id="_zz0soWUcEeSFL7Sh0MlmKA" name="Decide on the focus" guid="_zz0soWUcEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Decide on the focus of the update (e.g. process models, location models, etc) ... this step is to define the list of&#xD;
+    required participants.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_zz0somUcEeSFL7Sh0MlmKA" name="Gather Required Information" guid="_zz0somUcEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The&amp;nbsp;information required for the update, including existing&amp;nbsp;IT&amp;nbsp;architecture, is gathered together. For&#xD;
+    example, for updating a&amp;nbsp;Technology level&amp;nbsp;architecture, the following information will be of use:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The Technical Perspective documentation;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Project and business plans and objectives;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Existing network logical and physical design;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Existing databases and database design;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Existing server environment (configuration, software versions, planned upgrades);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Existing standards (network, naming, protocols, and so on).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    These documents should be collated and made available to those participating in the update.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_zz0so2UcEeSFL7Sh0MlmKA" name="Inform Attendees" guid="_zz0so2UcEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Each&amp;nbsp;attendee is given sufficient notice about the update activity, and what&amp;nbsp;is expected of them in terms of&#xD;
+    both preparatory work and their involvement in the update process.&amp;nbsp;As general guidance, you should consider the&#xD;
+    following stakeholders when inviting attendees to participate in the meetings:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Direct users of the 'system', and also testing and documentation staff;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Domain or subject-matter experts for the system;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Peers: other IT architects or IT experts with experience in the domain or technology.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Include only those participants who will contribute to achieving the objectives of the update. In general, it is&#xD;
+    usually more productive to hold several focused sessions with a smaller number of participants, than to hold one&#xD;
+    involving many stakeholders.&#xD;
+&lt;/p>&lt;br /></sectionDescription>
+  </sections>
+  <purpose>An update to an IT architecture&amp;nbsp;is needed; this task ensures that all information for the update is gathered, that the&#xD;
+proper set of participants is involved and otherwise ensure a productive and effective process.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6rl00u-FMOFTKrX1uPJ1gg" name="new_term_definition,_gwEsAMI6EeKSedlRPHdUIQ" guid="-6rl00u-FMOFTKrX1uPJ1gg" changeDate="2013-05-21T13:19:13.824-0400" version="7.5.1">
+  <mainDescription>A person or group of persons who issue and manage the security policy that applies to a security domain, as well as operate&#xD;
+and manage the domain itself. The authority has complete control over the policy, management, and operation of the domain&#xD;
+and its associated policy. An authority may manage multiple domains and their associated policy sets.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

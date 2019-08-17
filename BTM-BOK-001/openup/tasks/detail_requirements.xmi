@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_Nqwi8KeqEdmKDbQuyzCoqQ" name="detail_requirements,_0e1mIMlgEdmt3adZL5Dmdw" guid="_Nqwi8KeqEdmKDbQuyzCoqQ" changeDate="2007-03-21T09:07:52.130-0400" version="1.0.0">
+  <keyConsiderations>To avoid unnecessary rework, only those requirements that are scheduled for implementation in the near term (in the next&#xD;
+iteration or two) should be detailed.</keyConsiderations>
+  <sections xmi:id="_vWeHMCxSEdqjsdw1QLH_6Q" name="Detail Use Cases and scenarios" guid="_vWeHMCxSEdqjsdw1QLH_6Q">
+    <sectionDescription>&lt;p>&#xD;
+    Some &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/use_case_22BE66E2.html&quot; guid=&quot;_0VGbUMlgEdmt3adZL5Dmdw&quot;>Use Case&lt;/a>s and scenarios may need to be described in more detail to validate our&#xD;
+    understanding of the requirement and to permit software development to begin. This does not imply that all&amp;nbsp;use&#xD;
+    cases and scenarios will be detailed prior to commencing implementation. Collaborate with stakeholders to detail only&#xD;
+    those that are prioritized for implementation in the next iteration or two (see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/iteration_plan_B46FED39.html&quot; guid=&quot;_0aQBEslgEdmt3adZL5Dmdw&quot;>Artifact: Iteration Plan&lt;/a>), or those that are deemed architecturally significant (see&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/concepts/architecturally_significant_requirements_1EE5D757.html&quot; guid=&quot;_HrZGIA4MEduibvKwrGxWxA&quot;>Concept: Architecturally Significant Requirements&lt;/a>).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The level of detail captured will vary depending upon the needs of the project and the complexity of the use case. For&#xD;
+    a discussion of the different levels of detail that may be applicable see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/use_case_formats_FF4AE425.html&quot; guid=&quot;_qq0GMAXkEduj_7BEUj1JfQ&quot;>Guideline: Use Case Formats&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Capture the use-case details in &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/use_case_22BE66E2.html&quot; guid=&quot;_0VGbUMlgEdmt3adZL5Dmdw&quot;>Artifact: Use Case&lt;/a>. For additional information on detailing use cases and scenarios, see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/detail_ucs_and_scenarios_6BC56BB7.html&quot; guid=&quot;_4BJ_YCxSEdqjsdw1QLH_6Q&quot;>Guideline: Detail Use Cases and Scenarios&lt;/a>. For assistance in assessing the quality&#xD;
+    of the use cases see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/checklists/use_case_C5362874.html&quot; guid=&quot;_0kNwINk1Edq2Q8qZoWbvGA&quot;>Checklist: Use Case&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_B47VwCxTEdqjsdw1QLH_6Q" name="Detail Supporting Requirements" guid="_B47VwCxTEdqjsdw1QLH_6Q">
+    <sectionDescription>&lt;p>&#xD;
+    Some &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/supporting_requirements_spec_7D9DD47C.html&quot; guid=&quot;_BVh9cL-CEdqb7N6KIeDL8Q&quot;>Supporting Requirements Specification&lt;/a> may need to be clarified or described in more detail, new&#xD;
+    requirements&amp;nbsp;may have been discovered as we detailed the use cases and scenarios, and new requirements may have&#xD;
+    been submitted as &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/guidances/concepts/change_requests_AD4868FE.html&quot; guid=&quot;_6jdvECb3Edqh1LYUOGRh2A&quot;>Change Requests&lt;/a>. Collaborate with stakeholders to capture, refine and validate those&#xD;
+    requirements that will have an impact on near term work (see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/iteration_plan_B46FED39.html&quot; guid=&quot;_0aQBEslgEdmt3adZL5Dmdw&quot;>Artifact: Iteration Plan&lt;/a>) or are deemed architecturally significant (see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/concepts/architecturally_significant_requirements_1EE5D757.html&quot; guid=&quot;_HrZGIA4MEduibvKwrGxWxA&quot;>Concept: Architecturally Significant Requirements&lt;/a>).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Capture these requirements in the &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/supporting_requirements_spec_7D9DD47C.html&quot; guid=&quot;_BVh9cL-CEdqb7N6KIeDL8Q&quot;>Artifact: Supporting Requirements Specification&lt;/a>.&amp;nbsp; For additional guidance on detailing&#xD;
+    supporting requirements see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/supporting_requirements_8ED0BB6B.html&quot; guid=&quot;_wr24gNcGEdqz_d2XWoVt6Q&quot;>Guideline: Supporting Requirements&lt;/a>. For assistance in assessing the quality of your&#xD;
+    supporting requirements see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/checklists/supporting_requirements_3158BF2F.html&quot; guid=&quot;_Vael8CGMEdu3VKXZx45D3A&quot;>Checklist: Supporting Requirements&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_2389cOz2Edq2wJOsmRwmhg" name="Detail Glossary terms" guid="_2389cOz2Edq2wJOsmRwmhg">
+    <sectionDescription>Review the flow of the use case or scenario. If information is exchanged, be specific about what is passed back and forth.&#xD;
+Collaborate with stakeholders to ensure that you define newly discovered domain terms, or ambiguous terms properly in the&#xD;
+&lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/glossary_5D300778.html&quot; guid=&quot;_Wn7HcNcEEdqz_d2XWoVt6Q&quot;>Glossary&lt;/a>. If your understanding of the domain has improved, refine existing glossary&#xD;
+terms.</sectionDescription>
+  </sections>
+  <sections xmi:id="_BYbboN-bEdqiM_wFaqLjNg" name="Achieve concurrence" guid="_BYbboN-bEdqiM_wFaqLjNg">
+    <sectionDescription>Conduct a review of the requirements (&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/use_case_22BE66E2.html&quot; guid=&quot;_0VGbUMlgEdmt3adZL5Dmdw&quot;>Artifact: Use Case&lt;/a> and &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/workproducts/supporting_requirements_spec_7D9DD47C.html&quot; guid=&quot;_BVh9cL-CEdqb7N6KIeDL8Q&quot;>Artifact: Supporting Requirements Specification&lt;/a>)&amp;nbsp;with relevant&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/roles/stakeholder_9FFD4106.html&quot; guid=&quot;_dTa6gMAYEdqX-s4mWhkyqQ&quot;>Stakeholders&lt;/a> and the development team to ensure consistency with the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/vision_2E71B03C.html&quot; guid=&quot;_0WVxcMlgEdmt3adZL5Dmdw&quot;>Vision&lt;/a>, assess quality, and identify required changes. See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/effective_req_reviews_5913D369.html&quot; guid=&quot;_E-dPIL-GEdqb7N6KIeDL8Q&quot;>Guideline: Effective Requirement Reviews&lt;/a> for more information.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    The purpose of this task is to describe one or more requirements in sufficient detail to validate understanding of the&#xD;
+    requirement, to ensure concurrence with stakeholder expectations, and to permit software development to begin.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-zuzc6AIu4WarlPt_oE_xNQ" name="new_term_definition,_VN5PAMJKEeKSedlRPHdUIQ" guid="-zuzc6AIu4WarlPt_oE_xNQ" changeDate="2013-05-21T15:12:46.416-0400" version="7.5.1">
+  <mainDescription>A very simple description of the architecture in terms of “entities”, “activities”, “locations” and “roles” that sets the&#xD;
+context for the IT architecture including the scope of the effort and the definition of important concepts and terms. No&#xD;
+modeling is involved other than defining a very simple context diagram. The primary stakeholders are business managers and&#xD;
+other business people. See &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/supportingmaterials/uam_overview_B2102583.html&quot; guid=&quot;_W0ahoM9uEdymj4NXv8-FYA&quot;>UAM&#xD;
+Overview&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

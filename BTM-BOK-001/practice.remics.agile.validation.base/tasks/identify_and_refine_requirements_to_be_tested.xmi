@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wY2QMcdXfuqUiKF2VZZ3eA" name=",_LYDWQP4oEeC6H_i-fGXOUw" guid="-wY2QMcdXfuqUiKF2VZZ3eA" changeDate="2013-08-23T03:50:27.579-0400">
+  <mainDescription>&lt;H3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&lt;SPAN lang=EN-GB>Identify and Refine Requirements to beTested&lt;/SPAN>&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the description and the models of the systems (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) refine the system requirements to create test requirements. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

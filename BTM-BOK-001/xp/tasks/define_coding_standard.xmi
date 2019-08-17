@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qIbMRqe8wqKN2-HLtNUcLw" name="define_coding_standard,{C88D5B0A-1A59-4575-ADDF-8ECBBAB83410}" guid="-qIbMRqe8wqKN2-HLtNUcLw" version="1.0.0">
+  <sections xmi:id="_oCfyEGE-EdqnIZeW8YpHcA" name=" Write Prototypical Classes " guid="_oCfyEGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    When deciding on a coding standard, take the time to write a few classes which use a particular style. Should the curly
+    braces be flush with the indentation of the line above? Do we use tabs or spaces? Are abbreviations permitted? If so,
+    do we have a short list?
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oCfyEWE-EdqnIZeW8YpHcA" name=" Discuss Standard " guid="_oCfyEWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    The coding standard for a project should be as simple as possible. The goal is not to forbid error prone constructs,
+    but rather to make the code as communicative and uniform as possible so it can be understood and worked on readily. If
+    the team cannot reach consensus, use majority rule. Having a standard is more important than the specific details.
+&lt;/p>
+&lt;p>
+    &lt;br />
+    &amp;nbsp;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_define_coding_standard__activity_definition&quot; name=&quot;XE_define_coding_standard__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To aid clarity by making the style of code as familiar as possible.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

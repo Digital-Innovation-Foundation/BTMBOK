@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-eKnmOcBT1mMwlQIvT8rs4g" name="uam_aspects,_2D_igNZSEdyTWqLy4FSCdg" guid="-eKnmOcBT1mMwlQIvT8rs4g" changeDate="2015-11-08T15:31:27.597-0500" version="7.2.0">
+  <mainDescription>An aspect is a vertical collection of viewpoints where there is a common set of characteristics that ties them together.&#xD;
+Vertical in this context refers to particular architectural requirements or needs (i.e. characteristics). The four aspects&#xD;
+defined in UAM are &lt;i>Data,&lt;/i> &lt;em>Activity&lt;/em>, &lt;i>Location&lt;/i>, and &lt;i>People&lt;/i>. The viewpoints describe the system&#xD;
+at multiple levels of abstraction (i.e. four &quot;perspectives&quot;). It is similar to the notion of “vertical market” but more&#xD;
+specific to IT architecture and the set of stakeholders interested in the aspect. See definitions for each of the four UAM&#xD;
+aspects. &#xD;
+&lt;p>&#xD;
+    IT architectures&amp;nbsp;are&amp;nbsp;describe using four perspectives that are horizontal views of the IT architecture. Each&#xD;
+    perspective&amp;nbsp;is in turn divided into four views called &lt;em>aspects&lt;/em>. These four aspects are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspect_data_BFD631A8.html&quot;&#xD;
+        guid=&quot;_48ELYMI5EeKSedlRPHdUIQ&quot;>Aspect: Data&lt;/a>&amp;nbsp;&lt;/strong>- the &quot;what&quot; aspect of the architecture, what&#xD;
+        information and data the enterprise produces and consumes.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspect_activity_D2963DA2.html&quot;&#xD;
+        guid=&quot;_eTntIMI5EeKSedlRPHdUIQ&quot;>Aspect: Activity&lt;/a>&amp;nbsp;&lt;/strong>- the &quot;how&quot; aspect of the architecture, how the&#xD;
+        information (or other products of the enterprise)&amp;nbsp;is produced and consumed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspect_location_87FC1DEA.html&quot;&#xD;
+        guid=&quot;_D9bAAMI6EeKSedlRPHdUIQ&quot;>Aspect: Location&lt;/a>&amp;nbsp;&lt;/strong>- the &quot;where&quot; aspect of the architecture, where&#xD;
+        the enterprise has a presence in order to conduct its business&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspect_people_6426D0D2.html&quot;&#xD;
+        guid=&quot;_S7dFkMI6EeKSedlRPHdUIQ&quot;>Aspect: People&lt;/a>&amp;nbsp;&lt;/strong>- the &quot;who&quot; aspect of the architecture, who&#xD;
+        interacts with the enterprise, including partners, suppliers, customers and employees.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For definitions of the&amp;nbsp;four perspectives, or &quot;layers&quot; or &quot;views&quot;, see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/guidances/termdefinitions/uam_perspective_B4DE2D26.html&quot; guid=&quot;_6zOHAMJJEeKSedlRPHdUIQ&quot;>Term&#xD;
+    Definition: Architecture Perspective&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Also see: &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/supportingmaterials/uam_overview_B2102583.html&quot;&#xD;
+    guid=&quot;_W0ahoM9uEdymj4NXv8-FYA&quot;>UAM Overview&lt;/a>&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

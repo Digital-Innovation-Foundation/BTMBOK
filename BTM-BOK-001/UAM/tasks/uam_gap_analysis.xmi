@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KChq_mmH41eE2p5kLqzNeQ" name="uam_gap_analysis,_PogDkNKaEdyTfZVjf0InKw" guid="-KChq_mmH41eE2p5kLqzNeQ" authors="DW Enstrom" changeDate="2015-12-01T15:23:07.306-0500" changeDescription="New" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    In information technology, gap analysis is the study of the differences between two different IT architectures, usually&#xD;
+    for the purpose of determining how to get from one state to a new state. A &lt;em>gap&lt;/em> is sometimes spoken of as &quot;the&#xD;
+    difference between where we are and where we want to be.&quot; Gap analysis is undertaken as a&amp;nbsp;starting point for&#xD;
+    figuring out how to&amp;nbsp;bridge that space; how to migrate in a logical and low risk way to the new state. A model&#xD;
+    of&amp;nbsp;the target&amp;nbsp;architecture is created, now we need to analyze the model in relation to the current&#xD;
+    architecture to aid in the transition from one to the other.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The steps involved in doing a gap analysis are:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Define the scope&amp;nbsp;of the analysis,&amp;nbsp;if not clear from the architecture in question (i.e. the Context and&#xD;
+        Scope);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Create an &quot;existing architecture&quot; description if needed;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Create an &quot;target architecture&quot; description if needed;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Collect all documentation&amp;nbsp;of the existing environment and the target architecture;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Compare the current environment's Entity, Processes,&amp;nbsp;Location and&amp;nbsp;Roles Models to those identified in the&#xD;
+        target;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Find and describe the gaps;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Prioritize the gaps that were identified based upon stakeholder priorities, practicalities of migration,&amp;nbsp;and&#xD;
+        the state of the current environment.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    The output is a prioritized summary of areas that need to be transformed in order to achieve the target architecture.&#xD;
+    The areas requiring work have priorities applied based upon stakeholder need for new or changed functionality. These&#xD;
+    priorities are adjusted, if needed, based upon the state of health of these components in the current environment. This&#xD;
+    assessment is then used as input to the development of the migration plan.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_8tQosNM1EdyTfZVjf0InKw" name="Identify Components" guid="_8tQosNM1EdyTfZVjf0InKw">
+    <sectionDescription>&lt;p>&#xD;
+    Depending on the objectives&amp;nbsp;and&amp;nbsp;level of the gap analysis (i.e., Business, Logical or Technology level) and&#xD;
+    the scope (i.e., Enterprise, Business Line, Business Unit or Project) adjust the focus of this activity to suit.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This first step involves a review of the existing architecture, or project documentation of existing assets. The&#xD;
+    architectural components, in terms of entities, processes, locations and actors/roles are identified. Similarly the&#xD;
+    components at the Logical and / or&amp;nbsp;Technology layers are identified and documentation extracted (i.e.&#xD;
+    logical/technical data, logical/technical processes, logical/technical locations and logical/technical roles).&#xD;
+    Architectural patterns are also identified (e.g., n-tier or client-server, etc.).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A similar analysis of the target architecture is performed, resulting in a list of components, structures and&#xD;
+    patterns&amp;nbsp;to be compared in the next step.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_AHbCcNM2EdyTfZVjf0InKw" name="Document Gaps" guid="_AHbCcNM2EdyTfZVjf0InKw">
+    <sectionDescription>&lt;p>&#xD;
+    This documentation step involves more than just simply documenting new components or capability. In is essential that&#xD;
+    differences in how components perform their tasks is understood, and that differences in processes are identified, or&#xD;
+    even minor differences in entity (data) definitions. These differences can be categorized into one of the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>New&lt;/strong> - new data, functions, process or roles&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Change&lt;/strong> - a change in the data, functions, process or roles&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Delete&lt;/strong> - a deleted data, function, process or role&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Relationships between these components (i.e., data, function, process&amp;nbsp;and role) are also identified and documented&#xD;
+    in order to understand dependencies that need to be address during the migration.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Bl3WYNM2EdyTfZVjf0InKw" name="Prioritize Gaps" guid="_Bl3WYNM2EdyTfZVjf0InKw">
+    <sectionDescription>&lt;p>&#xD;
+    The complete picture is then analyzed, with the aid of stakeholders, in order to refine the understanding of these&#xD;
+    differences and to define priorities. These priorities are based upon two aspects:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business Needs&lt;/strong> - it is the new or updated functionality is a priority for the business;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>State of Existing&lt;/strong> - the state, in terms of maintainability and reliability and cost of existing&#xD;
+        components.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    These two aspects of each gap&amp;nbsp;are evaluated and a relative priority assigned to the gap. A three level priority&#xD;
+    (i.e., High, Medium, Low) scheme is recommended.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A complementary analysis needs to be performed as well, namely an analysis based upon component dependencies and&#xD;
+    implementation and migration considerations. This analysis, along with an understanding of the defined priorities, is&#xD;
+    in essence results in the information at the core of a migration plan—thus the Gap Analysis documentation produced&#xD;
+    here&amp;nbsp;is a key input into the development of a Migration Plan.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    Gap analysis consists of comparing the present state and&amp;nbsp;the desired end or 'target' state and deriving and&#xD;
+    describing the gap between them. This 'gap' description is then used, along with other analysis, to derive a migration&#xD;
+    plan—the plan from migrating from the current state to the target state through a series of steps, which in the IT&#xD;
+    architecture context means through a series of projects and project releases. The purpose of gap analysis is to:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        Identify the differences between the architectural components and patterns of existing solutions and those of the&#xD;
+        target architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Document these differences;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Prioritize these differences as an aid to the next steps.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

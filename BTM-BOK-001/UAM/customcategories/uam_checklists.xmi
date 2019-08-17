@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DWSXImzdKs376HnuRgzYXw" name="uam_checklists,_Yji_oNWSEdyLINQdtlJihw" guid="-DWSXImzdKs376HnuRgzYXw" changeDate="2013-11-18T16:58:08.892-0500" version="2.0.0">
+  <mainDescription>Checklists aid in ensuring that deliverables are properly defined.&lt;a id=&quot;XE_UAM__checklists&quot;&#xD;
+name=&quot;XE_UAM__checklists&quot;>&lt;/a>&lt;a id=&quot;XE_Checklists&quot; name=&quot;XE_Checklists&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_NqYIdKeqEdmKDbQuyzCoqQ" name="test_case,_0ZS-0MlgEdmt3adZL5Dmdw" guid="_NqYIdKeqEdmKDbQuyzCoqQ" changeDate="2006-09-20T19:57:14.165-0400">
+  <mainDescription>&lt;p>&#xD;
+    A test case specifies the conditions which need to be validated to enable an assessment of some particular aspects of&#xD;
+    the system under test. A test case is more formal than a test idea and usually takes the form of a specification. In&#xD;
+    less formal environments, test cases can be created by identifying a unique ID, name, associated test data, and&#xD;
+    expected results. For an example of this type of test case, see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/templates/test_case_A18913A5.html&quot; guid=&quot;_0dT8IMlgEdmt3adZL5Dmdw&quot;>Template: Test Case&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Test cases may be derived from many sources but will usually include a subset of both the requirements (such as use&#xD;
+    cases, performance characteristics, reliability concerns) and other types of quality attributes. For more information&#xD;
+    on types of tests and their relationship to quality test attributes, see &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/concepts/types_of_test_CAE80710.html&quot; guid=&quot;_0aJ6cMlgEdmt3adZL5Dmdw&quot;>Concept: Types of Test&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+&#xD;
+    The purpose of this artifact is to:&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;ul>&#xD;
+&#xD;
+    &lt;li>&#xD;
+&#xD;
+        provide a way to capture test inputs, conditions, and expected results for a system&#xD;
+&#xD;
+    &lt;/li>&#xD;
+&#xD;
+    &lt;li>&#xD;
+&#xD;
+        systematically identify aspects of the software to test&#xD;
+&#xD;
+    &lt;/li>&#xD;
+&#xD;
+    &lt;li>&#xD;
+&#xD;
+        specify whether an expected result has been reached based on verification of a system requirement, set of&#xD;
+&#xD;
+        requirements, or scenario&#xD;
+&#xD;
+    &lt;/li>&#xD;
+&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

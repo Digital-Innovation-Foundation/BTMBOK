@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-HNrBUMZSphbOkOWCYbIr3A" name="uam_problem-report,_56ujIGOgEeSFL7Sh0MlmKA" guid="-HNrBUMZSphbOkOWCYbIr3A" authors="DW Enstrom " changeDate="2014-11-03T16:37:18.324-0500" version="2.0.1">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p>&#xD;
+    Problems or issues may be identified at any time: during the creation of the IT architecture or even many months or&#xD;
+    years after it was defined. These issues must be documented and resolved&amp;nbsp;to everyone's satisfaction.&#xD;
+&lt;/p>&lt;a id=&quot;XE_Problem_Report&quot; name=&quot;XE_Problem_Report&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    As the problem definition, proposed solutions, and impacts are defined the Problem Report is updated to enable the&#xD;
+    documenting of the solution and tracking progress.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    This artifact defines a problem or issue with an existing IT architecture. This problem is then examined and resolved&#xD;
+    by IT architects and domain experts.&#xD;
+&lt;/p></purpose>
+  <briefOutline>&lt;p>&#xD;
+    The Problem Report document is composed of four basic parts, plus a glossary. The outline of the document is:&lt;br&#xD;
+    class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot; />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;h4>&#xD;
+        1. Introduction&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Identifies the context and background of the issue or problem.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        2. Problem Description&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        A detailed description of the problem or issue, ensuring that its context and scope are covered.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        4. Proposed Solutions&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        The creator of the Problem Report may optionally&amp;nbsp;describe a proposed solution, or set of possible solutions.&#xD;
+        Additional analysis of the problem will be done and this section expanded as required.&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        5. Solution Analysis&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        The set of proposed solutions is analyzed and pros and cons noted along with possible impacts.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        6. Chosen Solution&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Based upon the solution analysis a solution is chosen and documented here in detail.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        7.&amp;nbsp;Solution Impacts&amp;nbsp;&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        The impacts of the chosen solution on the existing architecture is defined in detail, including the level(s) of&#xD;
+        impact (i.e. Business and/or Logical and/or Technical).&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        Architectural Glossary&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        The glossary defines important terms used if required.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

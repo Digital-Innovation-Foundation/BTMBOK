@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xeFnhXZBWthXuO2SI7Jrrg" name=",_N3hj0ENXEeShYIpiBstbOQ" guid="-xeFnhXZBWthXuO2SI7Jrrg" changeDate="2014-11-03T15:18:14.175-0500" version="2.0.1">
+  <sections xmi:id="_vvMJkFS1EeSHk9F_b3oTQg" name="Identify Priorities" guid="_vvMJkFS1EeSHk9F_b3oTQg">
+    <sectionDescription>Based upon input from business leaders and other management the business priorities are identified that apply to the&#xD;
+&quot;system&quot; under study. Technical priorities are also identified, such as migration to an &quot;xyz&quot; environment.</sectionDescription>
+  </sections>
+  <sections xmi:id="_8eVVsFS1EeSHk9F_b3oTQg" name="Deconflict Priorities" guid="_8eVVsFS1EeSHk9F_b3oTQg">
+    <sectionDescription>Often there are conflicts between business priorities, between technical priorities, and between business and technical&#xD;
+priorities. THese conflicts are resolved and documented.</sectionDescription>
+  </sections>
+  <sections xmi:id="_e9zakFS2EeSHk9F_b3oTQg" name="Document Objectives" guid="_e9zakFS2EeSHk9F_b3oTQg">
+    <sectionDescription>Based upon the deconflicted business and technical priorities, and&amp;nbsp;the IT project (or system) requirements,&amp;nbsp;a set&#xD;
+of IT architecture project objectives are defined.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    IT architectures should not be defined unless there are clear objectives defined for using the subsequent artifacts.&#xD;
+    Often the scope of the &quot;system&quot; is large and therefore these objectives are used to focus the effort and reduce the&#xD;
+    time, money and resources needed to produce a useful result. Some example objectives are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Refine the application architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Refine or define the application or service middleware infrastructure;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Server consolidation;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understanding the network and rationalizing its structure and services.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    These are just a few of many types of objectives that may be defined to help focus the IT architecture effort.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

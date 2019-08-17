@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-fBPKlf-iEwwiqOTWosMipA" name="uam_logical_role,_mOE5ENjLEdyPdoI9d5Dn-Q" guid="-fBPKlf-iEwwiqOTWosMipA" authors="DW Enstrom" changeDate="2015-02-12T09:10:59.918-0500" changeDescription="new" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    A&amp;nbsp;Logical Role that is equated to or defined by the behavior (and by extension its responsibilities) that it&#xD;
+    interacts with in the system—the activities that it interacts with. A role is in essence the “interface” to the&#xD;
+    activities with which it interacts. A role can be assumed (aggregated) by any kind of actor, either human or a system&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Logical roles are identified early in the process of modeling a business. It is not a simple user-to-role analysis. The&#xD;
+    same role can be played by multiple users (people), and a user may assume multiple roles during their interaction with&#xD;
+    the systems of the business. Analysis of these interactions must be done in order to categorize them into the various&#xD;
+    roles. The benefit is a simplification of the user interface required to be implemented to support the various users.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Roles are a categorization, based upon required interaction with the business, of external interactions with the&#xD;
+    business systems.&amp;nbsp;In addition to Enterprise or Domain Architects, the following people use these roles:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Business-system analysts&lt;/b>, when defining the boundaries of the organization;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Business designers&lt;/b>, when describing business use cases and their interaction with business actors;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>User-interface designers&lt;/b>, as input to capturing characteristics on human [system] actors;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>System analysts&lt;/b>, as input to finding [system] actors;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+  <representationOptions>&lt;p>&#xD;
+    A Logical Role is played in relation to a business activity/task by someone or something. A role relates directly to&#xD;
+    the set of activities invoked to perform the work associated with the role.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» LPL_Role&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Interface&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following properties:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Role.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>description: string&lt;/strong>&amp;nbsp;- Description of the Role, its interactions and other relevant&#xD;
+        information such as security aspects.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Has relationships only with Activities, Actors, or with other Roles;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A derived relationship with Logical Entities is used to identify what Roles (Actors) interact with these Entities.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

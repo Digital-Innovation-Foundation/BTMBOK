@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vcCn_ksJo5Jw27aNZb1Cvw" name="small_releases,5.762953011420275E-306" guid="-vcCn_ksJo5Jw27aNZb1Cvw" changeDate="2006-11-09T18:03:57.390-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp__small_releases&quot; name=&quot;XE_xp__small_releases&quot;>&lt;/a>&lt;a id=&quot;XE_small_releases__practice_of&quot; name=&quot;XE_small_releases__practice_of&quot;>&lt;/a>&lt;a id=&quot;XE_engineering_practices__small_releases&quot; name=&quot;XE_engineering_practices__small_releases&quot;>&lt;/a> &#xD;
+&lt;h3>&#xD;
+    Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    There are many developers who have spent years developing software and yet never had any of it released into use.&#xD;
+    Fortunately, this situation is becoming rarer, but it still happens. There are many reasons why some software never&#xD;
+    gets put into production, but often a key factor is the size of releases. Releasing software is much like integrating&#xD;
+    source code changes in a project: the longer you delay it, the tougher it becomes. Releasing software into production&#xD;
+    frequently is a good way of getting feedback. Users will often think of issues that they would not have without actual&#xD;
+    experience using the software. Getting that feedback early enhances the overall quality of the product.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In XP, we recommend release cycles of three to four months at most.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Benefits&#xD;
+&lt;/h3>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Small releases increase feedback&lt;/b>. Discrepancies between the system that is needed and the system being&#xD;
+        developed are found early.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Putting pieces of a system into production frequently raises the quality consciousness of the project. The&#xD;
+        &lt;b>system must consistently be good enough to ship&lt;/b>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

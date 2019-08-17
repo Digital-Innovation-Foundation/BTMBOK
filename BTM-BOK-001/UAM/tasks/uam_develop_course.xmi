@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-J53oqNKqWk3U9rEX5nyS3Q" name="uam_develop_course,_Pcn3wGN0EeSFL7Sh0MlmKA" guid="-J53oqNKqWk3U9rEX5nyS3Q" changeDate="2014-11-03T11:16:40.278-0500" version="2.0.1">
+  <mainDescription>After defining the objectives for the training course (i.e.&amp;nbsp;the audience, focus and scope) the next step is to list&#xD;
+the detailed skills and knowledge that are to be taught. These are then organized into a logical sequence of modules after&#xD;
+which the detail for each part of the course is flushed out. Examples and exercises may also be included within the course&#xD;
+material, as provided by the source material and domain experts.</mainDescription>
+  <sections xmi:id="_Pcn3wWN0EeSFL7Sh0MlmKA" name="List skills and knowledge " guid="_Pcn3wWN0EeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Based upon the processes and tasks to be performed by the defined target audience, the set of required skills and&#xD;
+    knowledge is defined.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Pcn3wmN0EeSFL7Sh0MlmKA" name="Structure skills and knowledge" guid="_Pcn3wmN0EeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Once the set of skills and knowledge to be taught is defined, they are then organized into a logical sequence of&#xD;
+    modules that form the heart of the course.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_s7uSsGN3EeSFL7Sh0MlmKA" name="Define module details" guid="_s7uSsGN3EeSFL7Sh0MlmKA">
+    <sectionDescription>Define the details of each module, including objectives, supporting materials, exercises&amp;nbsp;and examples. Exercises and&#xD;
+example may be provided by appropriate domain experts.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    Training is an important part of implementing a system and keeping it running. IT architecture definitions are an&#xD;
+    excellent source of information for developing the required training, be it at the user level or even for developers&#xD;
+    and maintainers. This task develops the required training based upon the objectives defined for the course.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

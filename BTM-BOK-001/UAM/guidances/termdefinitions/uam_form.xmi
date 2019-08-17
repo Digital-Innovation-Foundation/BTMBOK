@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qEvr30ZVK0oc4f4_OkrtBw" name="uam_form,_LNvncMJEEeKSedlRPHdUIQ" guid="-qEvr30ZVK0oc4f4_OkrtBw" changeDate="2013-05-21T14:28:17.009-0400" version="7.5.1">
+  <mainDescription>The shape and structure of the IT architecture solution; what components (at an appropriate level of abstraction) are used&#xD;
+and how they are related, structured or configured — the essence of the IT architecture. By definition, architectural form&#xD;
+is abstract since it focuses on the shape and structure as opposed to specific technical solutions, in much the same what&#xD;
+that building architectures focus on form.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

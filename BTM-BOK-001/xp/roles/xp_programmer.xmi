@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RoFHDUeLz4UFKDuFirQp3g" name="xp_programmer,{08A6AF28-69B1-42DC-A957-2E6CDCB436C1}" guid="-RoFHDUeLz4UFKDuFirQp3g">
+  <mainDescription>&lt;a id=&quot;XE_xp_programmer__role_definition&quot; name=&quot;XE_xp_programmer__role_definition&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

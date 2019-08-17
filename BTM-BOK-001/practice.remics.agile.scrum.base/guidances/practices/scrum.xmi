@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-49xGAT3TPZyePh5_dMwU0Q" name="scrum,_4t-scNxTEd-LYKXkOhPACw" guid="-49xGAT3TPZyePh5_dMwU0Q" changeDate="2013-03-01T10:29:18.715-0500">
+  <problem>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To apply the main principles of the &lt;a&#xD; 
+        href=&quot;http://www.scrum.org/Portals/0/Documents/Scrum%20Guides/Scrum_Guide.pdf&quot; target=&quot;_blank&quot; >Scrum Guide&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></problem>
+  <application>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../../practice.mgmt.scrum.base-sintef/guidances/roadmaps/how_to_adopt_scrum_D331CDD2.html&quot;&#xD;
+        guid=&quot;_4G648wA7EeO8guHzeWZLgg&quot;>How to adopt the Scrum practice.&lt;/a>&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></application>
+</org.eclipse.epf.uma:PracticeDescription>

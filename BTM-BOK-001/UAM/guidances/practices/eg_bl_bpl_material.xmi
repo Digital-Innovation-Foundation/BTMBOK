@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AxAIfY0YG8EXbxKOqArz6A" name="uam_ea_bpl_material,_gkWv4MMZEeKSedlRPHdUIQ" guid="-AxAIfY0YG8EXbxKOqArz6A" changeDate="2015-02-07T13:33:54.092-0500" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    &lt;a id=&quot;documentationSection&quot; name=&quot;documentationSection&quot;>&lt;/a>Partners&amp;nbsp;supply materials (i.e. software and&#xD;
+    hardware) for two purposes: the development of Solutions and to support lab testing of technologies.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h5>&#xD;
+    Attributes&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    none&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Relationships&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Material is supplied by Partners, is used in ThuNorTech developed Solutions, is provided in providing Services to&#xD;
+    Customers&amp;nbsp;and is also evaluated in Research Reports.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gyPD1BUeZZftJTQ2cXcmxA" name="eg_bd_lpl_dist-res-zone,_RwdYEJtBEeOMG9JzPmKf0Q" guid="-gyPD1BUeZZftJTQ2cXcmxA" changeDate="2015-02-07T13:16:35.275-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;ThuNorTech Distribute Research Zone&quot; src=&quot;./resources/BD-Logical-LLM-Dist-Research.png&quot;&#xD;
+    usemap=&quot;#map1393086813198&quot; />&lt;map id=&quot;map1393086813198&quot; name=&quot;map1393086813198&quot;>&#xD;
+        &lt;area title=&quot;ThuNorTech Domain PEP&quot; href=&quot;./../../../UAM/guidances/practices/eg_bd_lpl_hq-domain_pep_C7AA2A0A.html&quot;&#xD;
+        shape=&quot;circle&quot; alt=&quot;ThuNorTech Domain PEP&quot; coords=&quot;32,54,20&quot; guid=&quot;_Ne4f0JveEeOMG9JzPmKf0Q&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot; src=&quot;./resources/Drill%20Down-33.jpg&quot;&#xD;
+    width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A logical level model of the Distribute Research Zone showing its links to the Core Switches. This&amp;nbsp;view adds&#xD;
+    descriptions for the two network structures:&amp;nbsp;Core Switches and Distribute Research.&#xD;
+&lt;/p>&lt;br /></problem>
+  <goals>&lt;h3>&#xD;
+    Core Switches&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The core of ThuNorTech's&amp;nbsp;IP network within HQs, linking together all other portions of the network.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Redundant connections to all other portions of the network.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Distribute Research&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This portion of the IP network includes the switches that support ThuNorTech's &quot;Distribute Research&quot;. All servers and&#xD;
+    storage components involved with this portion of the business connect to this structure.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Connected to the Core Switches.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    &lt;br />&#xD;
+    Distribution Apps&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This server (or set of servers) supports the delivery of&amp;nbsp; published Research Reports to Customer through email.&#xD;
+    The Report Store also services the needs of the IT Research analysts and report writers, as does the Source Info Store.&#xD;
+    The web portal located in the Domain PEP provides access to this Source Store to select Customers as well, however&#xD;
+    Research Reports are copied to&amp;nbsp;a separate Report Store located in the Domain PEP and made available to Customers&#xD;
+    through the portal.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>Connects to the DistApps switch.</goals>
+</org.eclipse.epf.uma:PracticeDescription>

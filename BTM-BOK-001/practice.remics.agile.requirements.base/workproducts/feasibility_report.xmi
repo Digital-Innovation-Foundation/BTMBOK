@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-q7DXcbe0NKTIZMy7x3GG2g" name="feasibility_report,_4ODHkP29EeK8HINtOGo1Xg" guid="-q7DXcbe0NKTIZMy7x3GG2g" changeDate="2013-08-19T06:24:31.746-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Feasibility Report&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Feasybility Report is a preliminary analisys that checks if the new system is possible from the tecnical and&#xD;
+    economical point of view. The economical analysis must include the supervision, explotaition and withdraval costs.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

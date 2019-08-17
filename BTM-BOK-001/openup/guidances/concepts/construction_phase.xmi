@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bbpT_BdDRrv6waNI365Qhg" name=",_48EKsBOMEduCNqgZdt_OaA" guid="-bbpT_BdDRrv6waNI365Qhg" changeDate="2007-07-11T11:08:23.500-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The purpose in this phase is to cost-effectively develop a feature-complete product (an operational version of your&#xD;
+    system) that can be deployed in the user community &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../../openup/guidances/supportingmaterials/references_6CCF393.html#KRO03&quot; guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[KRO03]&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The following objectives for the Construction phase help you accomplish that goal:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;p>&#xD;
+            &lt;b>Iteratively develop a complete product that is ready to transition to its user community&lt;/b>.&#xD;
+            Describe the remaining requirements, fill in design details, complete the implementation, and test the software.&#xD;
+            Release incremental alpha and beta version of the system, and determine if users are ready for the application to be&#xD;
+            deployed. Further tuning and preparation for final deployment is expected in the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/guidances/concepts/transition_phase_DD5986E5.html&quot; guid=&quot;__ca5UBOMEduCNqgZdt_OaA&quot;>Transition Phase&lt;/a>. &#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;p>&#xD;
+            &lt;b>Minimize development costs and achieve some degree of parallelism&lt;/b>. Optimize resources and&#xD;
+            leverage development parallelism between developers or teams of developers by, for example, assigning&#xD;
+            components that can be developed independently of one another.&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;h4>&#xD;
+    Key considerations&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Typically, the Construction phase has more iterations (two or more) than the other phases.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

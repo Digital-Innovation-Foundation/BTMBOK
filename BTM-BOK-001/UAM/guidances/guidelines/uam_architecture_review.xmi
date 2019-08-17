@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-4LQJiebcvnnkOH9O3WaB3g" name="new_guideline,_BdyOIFEvEeOcVJX_gvTjyg" guid="-4LQJiebcvnnkOH9O3WaB3g" changeDate="2014-11-10T12:20:07.184-0500" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    The review&amp;nbsp;of an&amp;nbsp;IT architecture is done in two phases, the first focuses on the generated architecture,&#xD;
+    ensuring that it is complete and consistent, which is normally an&amp;nbsp;IT architect&amp;nbsp;&lt;strong>peer&#xD;
+    review&lt;/strong>.&amp;nbsp;Typically, once an architecture view&amp;nbsp;is completed, this peer review is done prior to moving&#xD;
+    on to next steps; this is therefore&amp;nbsp;the last step in finalizing a&amp;nbsp;view within the Perspective (i.e. a set of&#xD;
+    models, the process models for example). See for example:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/capabilitypatterns/uam_define_logical_pers_30D1930.html&quot; guid=&quot;_CazhgMH3EdyMpOiGFnM_WA&quot;>Activity:&#xD;
+    Define Logical Perspective&lt;/a>&amp;nbsp;and the final step &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/tasks/uam_assess_architecture_5CF00CAD.html&quot; guid=&quot;_WbMKgMg1EdyBSO6dC2FdkA&quot;>Task: Assess the&#xD;
+    Architecture&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The second step, the review described here,&amp;nbsp;is&amp;nbsp;a review of&amp;nbsp;the content of the architecture in terms of&#xD;
+    how accurately it captures the business, which normally involves a number of stakeholders that have intimate knowledge&#xD;
+    of the area of the business in question and at the correct level, namely Business, Logical or Technical.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The purpose is to ensure that there is cohesion and agreement in the models, from the architecture perspective and&#xD;
+    agreement from stakeholders. This review may be done at any time, but after the completion of a perspective, and after&#xD;
+    the perspective has been analyzed and updated as needed (i.e. the &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../../UAM/tasks/uam_analyse_architecture_4AD494A6.html&quot; guid=&quot;_b_RpoGK8EeSFL7Sh0MlmKA&quot;>Task: Analyze the&#xD;
+    Architecture&lt;/a>&amp;nbsp;has been completed). This review is focused on communicating the IT architecture and soliciting&#xD;
+    feedback.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Actions defined during the review are documented, assigned&amp;nbsp;and tracked.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

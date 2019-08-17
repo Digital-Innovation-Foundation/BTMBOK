@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_D5dHQLv-EdmmUvZAZjqE3g" name="development,_0TeDoMlgEdmt3adZL5Dmdw" guid="_D5dHQLv-EdmmUvZAZjqE3g" changeDate="2007-03-28T12:49:08.242-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The purpose of this discipline is to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Transform the requirements into a design of the system-to-be&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Adapt the design to match the implementation environment&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Build the system incrementally&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Verify that the technical units used to build the system work as specified&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    With each iteration, the tasks in this discipline will evolve an ever more capable and ever more stable &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/build_95D7D8FD.html&quot; guid=&quot;_0YuXEMlgEdmt3adZL5Dmdw&quot;>Build&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    When working on the system, the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/developer_C633AB7.html&quot; guid=&quot;_0YDosMlgEdmt3adZL5Dmdw&quot;>Developer&lt;/a> will both use and be constrained by the architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This discipline is related to the other disciplines in the following ways:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/disciplines/requirements_4467C860.html&quot; guid=&quot;_0TR2ZMlgEdmt3adZL5Dmdw&quot;>Requirements&lt;/a> discipline defines what will be designed and implemented.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/disciplines/architecture_1F9C65DA.html&quot; guid=&quot;_0TX9AMlgEdmt3adZL5Dmdw&quot;>Architecture&lt;/a> discipline organizes and constrains the design and&#xD;
+        implementation.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/disciplines/test_FB85069.html&quot; guid=&quot;_0TkKQMlgEdmt3adZL5Dmdw&quot;>Test&lt;/a> discipline validates that system built meets&#xD;
+        the requirements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/disciplines/config_and_change_management_417EC254.html&quot; guid=&quot;_0TwXgMlgEdmt3adZL5Dmdw&quot;>Configuration and change management&lt;/a> discipline provides the mechanisms to&#xD;
+        manage changes to the system built.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/disciplines/project_management_AFB03A6.html&quot; guid=&quot;_0TqQ4MlgEdmt3adZL5Dmdw&quot;>Project Management&lt;/a> discipline plans what functionality will be implemented&#xD;
+        in each iteration.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

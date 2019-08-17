@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-EVUqgsBvR4RsdyYyIFd-eg" name="new_term_definition,_bQfDUFCDEeOcVJX_gvTjyg" guid="-EVUqgsBvR4RsdyYyIFd-eg" changeDate="2013-11-18T14:01:17.777-0500" version="7.5.1">
+  <mainDescription>Business re-engineering, or Business Process Re-engineering (BPR)&amp;nbsp;is a business management strategy that&amp;nbsp;looks at&#xD;
+the&amp;nbsp;workflows and processes within an organization with the aim to improving them or adding capabilities. BPR helps&#xD;
+organizations to re-think how they do their work in order to dramatically improve customer service, cut operational costs,&#xD;
+and become world-class competitors among other objectives.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

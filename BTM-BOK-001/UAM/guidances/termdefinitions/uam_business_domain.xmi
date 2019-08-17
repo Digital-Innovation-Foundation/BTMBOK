@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uNIj8x7KMGZ242ihMhEqfg" name="uam_business_domain,_ys424MI6EeKSedlRPHdUIQ" guid="-uNIj8x7KMGZ242ihMhEqfg" changeDate="2013-05-21T13:21:45.760-0400" version="7.5.1">
+  <mainDescription>A Business Domain is&amp;nbsp;“a manageable business area that shares ... common properties” (&lt;a&#xD;
+href=&quot;http://ieeexplore.ieee.org/xpl/login.jsp?tp=&amp;amp;arnumber=656321&amp;amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel4⽒17⼔283⼀656321.pdf%3Farnumber㵥6321&quot;&#xD;
+ target=&quot;_blank&quot;>Lee and Lee 1998&lt;/a>). A common language is used to describe entities within the domain. Examples are car&#xD;
+manufacturing, human resources, property management and the financial management business domains. Typically it refers to&#xD;
+the main sub-structures within the enterprise’s organization based upon the goods or services provided to both external and&#xD;
+internal customers.&amp;nbsp; Also see: &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_division_B8F6B64E.html&quot; guid=&quot;_vv0koMJBEeKSedlRPHdUIQ&quot;>Division&lt;/a>, &lt;a&#xD;
+class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_department_30A3D01D.html&quot;&#xD;
+guid=&quot;_YNUjoMJBEeKSedlRPHdUIQ&quot;>Department&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_line_AB109A07.html&quot; guid=&quot;_4axKQMI7EeKSedlRPHdUIQ&quot;>Business&#xD;
+Line&lt;/a>. Also see: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_domain_B5C2A3F2.html&quot;&#xD;
+guid=&quot;_8fmioLX9EeSeNe6SxZNlbg&quot;>Term Definition: Domain&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

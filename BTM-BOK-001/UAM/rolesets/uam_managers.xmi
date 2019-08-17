@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jZuWrI20CTBDQv53AU2xwg" name="new_role_set,_F2VkAKjCEeSFIOC-Wm7nrA" guid="-jZuWrI20CTBDQv53AU2xwg" changeDate="2015-01-30T15:55:36.183-0500" version="7.5.1">
+  <mainDescription>&lt;a id=&quot;XE_Roles__Mangers&quot; name=&quot;XE_Roles__Managers&quot;>&lt;/a>The IT architecture models the future state of the business, from a&#xD;
+technology perspective. Who approves the IT architecture deliverables? This is the job of technical and non-technical&#xD;
+managers that have the mandate to approve deliverables as well as provide direction on current and future work. They are&#xD;
+the key stakeholders.&lt;a id=&quot;XE_UAM__managers&quot; name=&quot;XE_UAM__managers&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

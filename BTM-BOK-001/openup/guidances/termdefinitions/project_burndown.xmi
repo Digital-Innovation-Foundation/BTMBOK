@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NNByAM5YsjCu39flaOSZtQ" name=",_eX0YsEvvEdunZcj9T5hrMQ" guid="-NNByAM5YsjCu39flaOSZtQ" changeDate="2006-09-24T14:09:54.521-0400">
+  <mainDescription>A chart consisting of two perspectives, the horizontal axis showing the iterations and the vertical axis indicating the&#xD;
+remaining points from the work items list.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

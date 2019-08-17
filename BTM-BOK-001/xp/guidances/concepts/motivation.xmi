@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nIpFvBhY9WogqrEQv4NknQ" name="why_xp,1.6390805262958034E-306" guid="-nIpFvBhY9WogqrEQv4NknQ" changeDate="2006-11-08T18:24:24.660-0500" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The goal of a software process is to guide the software development organization to:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Get the right software done.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Get the software done right.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Get the software done quickly.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Get the software done frugally.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    There are many approaches to this problem. Some software processes are high in ceremony. They guide the developers to&#xD;
+    create many artifacts. They punctuate the project with phases and sign-offs. They release infrequently, sometimes&#xD;
+    solely upon project completion. There is a time and place for such processes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    On the other hand, the most important and scarce resource in any project is the time of the developers. High ceremony&#xD;
+    processes fill that time with work activities that center around artifacts and reviews instead of around the core&#xD;
+    artifacts of code and tests. For many projects this is an exorbitant expense.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To manage this expense, many projects need a process that uses a minimum of ceremony and concentrates on the core&#xD;
+    artifacts. They need a feedback-driven process that delivers working software rapidly in quick releases.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    XP is just such a low ceremony process. It is used by those teams and for those projects where ceremony is of little&#xD;
+    value, but rapid feedback is of high value. Such projects tend to be small to medium sized - fewer than one or two&#xD;
+    million lines of code - and involve fewer than one or two dozen developers. They tend to exist in environments of&#xD;
+    intense business and or technical change. They are, of course, exceedingly common.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A lack of ceremony does not imply a lack of management. XP places a lot of emphasis on techniques for planning,&#xD;
+    estimation, and schedule management. Creating, maintaining, and managing a project plan is a very big part of XP.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A lack of ceremony also does not imply a lack of discipline. XP espouses discipline for every facet of the project.&#xD;
+    There is discipline for testing, integration, planning, reviewing, and for producing software with a high quality&#xD;
+    internal structure. The goal is to keep the project moving and the software easy to modify, easy to extend, and easy to&#xD;
+    develop.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In short, XP puts the emphasis on ensuring that the team is working on the minimum set of activities and artifacts that&#xD;
+    will produce the right software, built right, built quickly and built frugally.&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

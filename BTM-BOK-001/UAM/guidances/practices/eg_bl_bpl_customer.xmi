@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-S_JZhkk4QE-QQdDLloMQmw" name="new_bpl_entity,_FCyVcMMSEeKSedlRPHdUIQ" guid="-S_JZhkk4QE-QQdDLloMQmw" changeDate="2015-02-07T13:30:35.434-0500" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    Customers of ThuNorTech are one of two types: those that are provided IT security solutions in terms of hardware and&#xD;
+    software (along with consulting and implementation services), and those that are interested in ThuNorTech's research&#xD;
+    results. Some customers are both types.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h5>&#xD;
+    Attributes&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    none&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Relationships&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Customers have Information Needs that are addressed by Research Reports. They also have Solutions provided to them&#xD;
+    along with Service (consulting) and Supporting Information on provided Solutions.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

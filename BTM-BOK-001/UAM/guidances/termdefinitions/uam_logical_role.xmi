@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NaY_QK2mCIYBRF5IYasPgw" name="uam_logical_role,_bVwigEGpEeOfR_FtRm9PUg" guid="-NaY_QK2mCIYBRF5IYasPgw" changeDate="2013-10-30T17:15:29.265-0400" version="7.5.1">
+  <mainDescription>A Logical Role represents the interfaces that interact with the activities and processes of the system, and may be internal&#xD;
+or external. They are equated to or defined by the activities (and by extension the responsibilities) that it interacts&#xD;
+with in the system. At the logical level all of the analysis was done and all actors and roles and their structure and&#xD;
+relationships are defined. However organizational positions have not necessarily been equated to actors and roles, and the&#xD;
+complete picture of the required interface, including security aspects (RBAC) has not been defined. &lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

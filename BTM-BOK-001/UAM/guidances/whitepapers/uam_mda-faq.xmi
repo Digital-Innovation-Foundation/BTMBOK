@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-neV0lJBlNQbt_YyRu2eQ8w" name="uam_mda-faq,_uDiNcM-LEdymj4NXv8-FYA" guid="-neV0lJBlNQbt_YyRu2eQ8w" changeDate="2008-01-30T18:36:41.687-0500" version="7.2.0">
+  <mainDescription>&lt;a id=&quot;XE_MDA__FAQ&quot; name=&quot;XE_MDA__FAQ&quot;>&lt;/a> &#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    The Model-Driven Architecture starts with the well-known and long established idea of separating the specification of&#xD;
+    the operation of a system from the details of the way that system uses the capabilities of its platform.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    MDA provides an approach for, and enables tools to be provided for:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            Specifying a system independently of the platform that supports it,&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            Specifying platforms,&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            Choosing a particular platform for the system, and&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            Transforming the system specification into one for a particular platform.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    The three primary goals of MDA are portability, interoperability and reusability through architectural separation of&#xD;
+    concerns.&#xD;
+&lt;/p></mainDescription>
+  <attachments>&lt;a href=&quot;http://www.omg.org/mda/faq_mda.htm&quot;>Model-Driven Architecture FAQ&lt;/a></attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

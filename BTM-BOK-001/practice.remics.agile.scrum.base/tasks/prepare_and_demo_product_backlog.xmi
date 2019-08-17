@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FrCdA0He2hanwWNrUcphoQ" name="prepare_and_demo_product_backlog,_bC04cAALEeOZBbwDq57ZRA" guid="-FrCdA0He2hanwWNrUcphoQ" changeDate="2013-08-19T07:40:51.539-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Prepare and Demo Product Backlog&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The planning meeting is prepared through the setup of demos and the review of the backlog&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Mpb0MMCTEemv0a6P8REMBA" guid="_Mpb0MMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_Mpb0MsCTEemv0a6P8REMBA" id="-RVqkeXGNTKQkrWwJo_G3jw" uri="workproducts/requirements_model.xmi"/>
+    <resourceDescriptors xmi:id="_Mpb0M8CTEemv0a6P8REMBA" id="-sxgibFCKPVjX1dCeb6Lorw" uri="workproducts/project_plan.xmi"/>
+    <resourceDescriptors xmi:id="_MpllMMCTEemv0a6P8REMBA" id="-DxJKoyI-cxcubRurWYRcpA" uri="workproducts/system_model.xmi"/>
+    <resourceDescriptors xmi:id="_MpllMcCTEemv0a6P8REMBA" id="-Pp9DE4JuAyRCtkkIroOhhg" uri="workproducts/in_service_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_MpllMsCTEemv0a6P8REMBA" id="-a_1ZggcclLYDknu9YqTTfg" uri="workproducts/system_idea.xmi"/>
+    <resourceDescriptors xmi:id="_MpllM8CTEemv0a6P8REMBA" id="-P7AjevEDKePcgEWwTtUEtw" uri="workproducts/actors.xmi"/>
+    <resourceDescriptors xmi:id="_MpuvIMCTEemv0a6P8REMBA" id="-1Q3-n2mGnrcNb6qtnxzPcw" uri="workproducts/additional_system_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_MpuvIcCTEemv0a6P8REMBA" id="-OwrMTB91vjDL7JP1muAnIA" uri="workproducts/system_overview.xmi"/>
+    <resourceDescriptors xmi:id="_MpuvIsCTEemv0a6P8REMBA" id="-4bwbVAMZnm7vure9Wc9e6Q" uri="workproducts/validation_criteria.xmi"/>
+    <resourceDescriptors xmi:id="_MpuvI8CTEemv0a6P8REMBA" id="-BT8EIft_lypIx5dnXXqQBA" uri="workproducts/code.xmi"/>
+    <resourceDescriptors xmi:id="_Mp4gIMCTEemv0a6P8REMBA" id="-fjszisDtMXxee3-Zk36_8w" uri="workproducts/control_and_monitoring_results.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_FRit8FvqEeKHU9XooDK5Ng" name="core.remics.agile.default.work_products.base" guid="_FRit8FvqEeKHU9XooDK5Ng" changeDate="2013-08-19T05:43:15.107-0400" bases="_6Ab_EOF4Edyp34pwdTOSVQ">
+    <methodElementProperty xmi:id="_MpSDMMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_MpSDMcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit8VvqEeKHU9XooDK5Ng" name="Content" guid="_FRit8VvqEeKHU9XooDK5Ng">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit8lvqEeKHU9XooDK5Ng" name="Categories" guid="_FRit8lvqEeKHU9XooDK5Ng">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit81vqEeKHU9XooDK5Ng" name="Domains" guid="_FRit81vqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit9FvqEeKHU9XooDK5Ng" name="Disciplines" guid="_FRit9FvqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit9VvqEeKHU9XooDK5Ng" name="RoleSets" guid="_FRit9VvqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit9lvqEeKHU9XooDK5Ng" name="WP Types" guid="_FRit9lvqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit91vqEeKHU9XooDK5Ng" name="Tools" guid="_FRit91vqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit-FvqEeKHU9XooDK5Ng" name="StandardCategories" guid="_FRit-FvqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit-VvqEeKHU9XooDK5Ng" name="CustomCategories" guid="_FRit-VvqEeKHU9XooDK5Ng">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit-lvqEeKHU9XooDK5Ng" name="Hidden" guid="_FRit-lvqEeKHU9XooDK5Ng">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_FRit-1vqEeKHU9XooDK5Ng" name="Custom Categories" guid="_FRit-1vqEeKHU9XooDK5Ng"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit_FvqEeKHU9XooDK5Ng" name="CoreContent" guid="_FRit_FvqEeKHU9XooDK5Ng">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_QVe8gFvqEeKHU9XooDK5Ng" name="remics.agile.interprocess" guid="_QVe8gFvqEeKHU9XooDK5Ng">
+          <methodElementProperty xmi:id="_MpSDMsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_8RPV0N_lEeKdMZ3N0jsS2w" name="requirements_model" guid="_8RPV0N_lEeKdMZ3N0jsS2w" presentationName="Requirements Model" briefDescription="It contains diverse information about the future system" deliveredWorkProducts="_X02JcP2uEeK8HINtOGo1Xg _FxNEQV5BEeKVU8eUCvi3Og _EdAyEP2uEeK8HINtOGo1Xg _FxNEWl5BEeKVU8eUCvi3Og">
+            <methodElementProperty xmi:id="_MpSDM8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-RVqkeXGNTKQkrWwJo_G3jw" href="uma://-RVqkeXGNTKQkrWwJo_G3jw#-RVqkeXGNTKQkrWwJo_G3jw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_YAkHIN_nEeKdMZ3N0jsS2w" name="project_plan" guid="_YAkHIN_nEeKdMZ3N0jsS2w" presentationName="Project Plan" briefDescription="The project plan describes the approach to migrate the legacy system into the new system.">
+            <methodElementProperty xmi:id="_MpSDNMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-sxgibFCKPVjX1dCeb6Lorw" href="uma://-sxgibFCKPVjX1dCeb6Lorw#-sxgibFCKPVjX1dCeb6Lorw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_umMDoN_8EeKdMZ3N0jsS2w" name="system_model" guid="_umMDoN_8EeKdMZ3N0jsS2w" presentationName="System Model" briefDescription="The system model includes all the models that are necessary to create and validate the new system.">
+            <methodElementProperty xmi:id="_MpSDNcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-DxJKoyI-cxcubRurWYRcpA" href="uma://-DxJKoyI-cxcubRurWYRcpA#-DxJKoyI-cxcubRurWYRcpA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hRKbUOlUEeKGG9BOhTeXDw" name="product_backlog.assign" guid="_hRKbUOlUEeKGG9BOhTeXDw" variabilityType="contributes" variabilityBasedOnElement="_OZIPIOF8Edyp34pwdTOSVQ">
+            <methodElementProperty xmi:id="_MpSDNsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8XJbkApNEeOBM7QWB5hbCw" name="increment.assign" guid="_8XJbkApNEeOBM7QWB5hbCw" variabilityType="contributes" variabilityBasedOnElement="__uNYkPVgEdyMdecrgpMbRg">
+            <methodElementProperty xmi:id="_MpSDN8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8XKCoQpNEeOBM7QWB5hbCw" name="sprint_backlog.assign" guid="_8XKCoQpNEeOBM7QWB5hbCw" variabilityType="contributes" variabilityBasedOnElement="_Q5Ki8OF8Edyp34pwdTOSVQ">
+            <methodElementProperty xmi:id="_MpSDOMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_8XKCogpNEeOBM7QWB5hbCw" name="sprint_goal.assign" guid="_8XKCogpNEeOBM7QWB5hbCw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_MpSDOcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Outcome" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6p8zUIcOEeKDAPAbcNl48A"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_N9ApAP2rEeK8HINtOGo1Xg" name="remics.agile.interpractices" guid="_N9ApAP2rEeK8HINtOGo1Xg">
+          <methodElementProperty xmi:id="_MpSDOsCTEemv0a6P8REMBA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_MpSDO8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_DAWqMPtmEeKiy_TRaqF2Gg" name="in_service_procedures" guid="_DAWqMPtmEeKiy_TRaqF2Gg" presentationName="In Service Procedures" briefDescription="It contains the procedures to be executed once the system has been released and until it is retired">
+            <methodElementProperty xmi:id="_MpSDPMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Pp9DE4JuAyRCtkkIroOhhg" href="uma://-Pp9DE4JuAyRCtkkIroOhhg#-Pp9DE4JuAyRCtkkIroOhhg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_EdAyEP2uEeK8HINtOGo1Xg" name="system_idea" guid="_EdAyEP2uEeK8HINtOGo1Xg" presentationName="System Idea">
+            <methodElementProperty xmi:id="_MpSDPcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-a_1ZggcclLYDknu9YqTTfg" href="uma://-a_1ZggcclLYDknu9YqTTfg#-a_1ZggcclLYDknu9YqTTfg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_X02JcP2uEeK8HINtOGo1Xg" name="actors" guid="_X02JcP2uEeK8HINtOGo1Xg" presentationName="Actors" briefDescription="This deliverable contains the list of actors of the future system. It enumerates any external entity human or system that is expected to interact with the future system.">
+            <methodElementProperty xmi:id="_MpSDPsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-P7AjevEDKePcgEWwTtUEtw" href="uma://-P7AjevEDKePcgEWwTtUEtw#-P7AjevEDKePcgEWwTtUEtw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEQV5BEeKVU8eUCvi3Og" name="additional_system_requirements" guid="_FxNEQV5BEeKVU8eUCvi3Og" presentationName="Additional System Requirements" briefDescription="The Additional System Requirements contains the list of new or modified features that are requested to be added to the new system" deliveredWorkProducts="_0zpAsADzEeOBVZ2G27rUkQ">
+            <methodElementProperty xmi:id="_MpSDP8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-1Q3-n2mGnrcNb6qtnxzPcw" href="uma://-1Q3-n2mGnrcNb6qtnxzPcw#-1Q3-n2mGnrcNb6qtnxzPcw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEWl5BEeKVU8eUCvi3Og" name="system_overview" guid="_FxNEWl5BEeKVU8eUCvi3Og" presentationName="System Overview" briefDescription="It contains a technical description of the system ">
+            <methodElementProperty xmi:id="_MpSDQMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-OwrMTB91vjDL7JP1muAnIA" href="uma://-OwrMTB91vjDL7JP1muAnIA#-OwrMTB91vjDL7JP1muAnIA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_0zpAsADzEeOBVZ2G27rUkQ" name="validation_criteria" guid="_0zpAsADzEeOBVZ2G27rUkQ" presentationName="Validation Criteria" briefDescription="The validation criteria is used to check the implementation of the requirements">
+            <methodElementProperty xmi:id="_MpSDQcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-4bwbVAMZnm7vure9Wc9e6Q" href="uma://-4bwbVAMZnm7vure9Wc9e6Q#-4bwbVAMZnm7vure9Wc9e6Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wFweIAvcEeOhutvlRKZMkg" name="code" guid="_wFweIAvcEeOhutvlRKZMkg" presentationName="Code" briefDescription="It is the code of the new system">
+            <methodElementProperty xmi:id="_MpSDQsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-BT8EIft_lypIx5dnXXqQBA" href="uma://-BT8EIft_lypIx5dnXXqQBA#-BT8EIft_lypIx5dnXXqQBA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_RurVgAvdEeOhutvlRKZMkg" name="control_and_monitoring_results" guid="_RurVgAvdEeOhutvlRKZMkg" presentationName="Control and Monitoring Results" briefDescription="These are the results from the validation and verification activities">
+            <methodElementProperty xmi:id="_MpSDQ8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <presentation xmi:id="-fjszisDtMXxee3-Zk36_8w" href="uma://-fjszisDtMXxee3-Zk36_8w#-fjszisDtMXxee3-Zk36_8w"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FRit_VvqEeKHU9XooDK5Ng" name="CapabilityPatterns" guid="_FRit_VvqEeKHU9XooDK5Ng"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FRit_lvqEeKHU9XooDK5Ng" name="DeliveryProcesses" guid="_FRit_lvqEeKHU9XooDK5Ng"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FRit_1vqEeKHU9XooDK5Ng" name="ProcessContributions" guid="_FRit_1vqEeKHU9XooDK5Ng"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

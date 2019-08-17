@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Me16hpToxghNsaGxuanl2Q" name="uam_function,__nnVAMJHEeKSedlRPHdUIQ" guid="-Me16hpToxghNsaGxuanl2Q" changeDate="2013-05-21T14:55:44.144-0400" version="7.5.1">
+  <mainDescription>A set of one or more processes and associated tasks (or internal services) that provide or produce a specific service or&#xD;
+product, for either internal users or for corporate customers. Also see &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_function_DF78CF3E.html&quot; guid=&quot;_wPHXcMI7EeKSedlRPHdUIQ&quot;>Business&#xD;
+Function&lt;/a>&lt;/em>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

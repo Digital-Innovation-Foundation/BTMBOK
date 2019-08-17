@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pvTX1TQTk7iMuI4obLxu3A" name="uam_business_vision,_-Xr4IEKaEeShYIpiBstbOQ" guid="-pvTX1TQTk7iMuI4obLxu3A" changeDate="2014-09-22T16:57:36.571-0400" version="7.5.1">
+  <mainDescription>Business Mission&amp;nbsp;is a a description of what an organization would like to achieve or accomplish in the mid-term or&#xD;
+long-term. It serves as a guide for choosing current and future courses of action regarding many aspects of business&#xD;
+transformation and implementation It is produced outside of UAM but is an important input into its processes. &lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

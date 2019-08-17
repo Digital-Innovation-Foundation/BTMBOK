@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IuKFYy9Qzd2AAF4Z1bav9w" name="uam_soa,_cINoQEGrEeOfR_FtRm9PUg" guid="-IuKFYy9Qzd2AAF4Z1bav9w" changeDate="2013-10-30T17:37:38.952-0400" version="7.5.1">
+  <mainDescription>Service-oriented Architecture – a software design and software architecture design pattern based on discrete pieces of&#xD;
+software providing application functionality as services to other applications (&lt;a&#xD;
+href=&quot;http://en.wikipedia.org/wiki/Service-oriented_architecture&quot; target=&quot;_blank&quot;>Wikipedia 2013&lt;/a>).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

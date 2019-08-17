@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0ckrEYfK8UePUHUOx0CdHw" name="ea_roles,_3pO8cMd0EdyBSO6dC2FdkA" guid="-0ckrEYfK8UePUHUOx0CdHw" authors="DW Enstrom" changeDate="2018-03-26T16:04:56.091-0400" changeDescription="new" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The role sets involved in UAM processes are categorized as follows:&#xD;
+&lt;/p>&lt;a id=&quot;XE_UAM__Roles&quot; name=&quot;XE_UAM__Roles&quot;>&lt;/a>&lt;a id=&quot;XE_Roles&quot; name=&quot;XE_Roles&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>IT Architects&lt;/strong> - includes enterprise, business line, business domain, business unit, and project&#xD;
+        level architects;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Architecture Support Staff&lt;/strong> - generic catch-all for any support staff that assist IT architects;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business and IT Experts&lt;/strong> - generic definitions for all types of technical experts, and all types of&#xD;
+        business experts;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business and IT Managers&lt;/strong> - generic definitions for business managers and technical managers that&#xD;
+        are involved in starting, assessing, and accepting IT architecture development projects and associated&#xD;
+        deliverables.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    See: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/guidelines/uam_uam-roles_FD5BF188.html&quot;&#xD;
+    guid=&quot;_WA-EwLw4EeSCcsSOA-ZuEw&quot;>Guideline: Methodology Participants&lt;/a>,&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../core.default.uma_concept.base/guidances/termdefinitions/role_set_396DC9DB.html&quot;&#xD;
+    guid=&quot;_Fs8HAMaIEduMlb2cQZNTYw&quot;>Term Definition: role set&lt;/a>&amp;nbsp;and&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../core.default.uma_concept.base/guidances/termdefinitions/role_37A0C602.html&quot;&#xD;
+    guid=&quot;_yUefQNnmEdmO6L4XMImrsA&quot;>Term Definition: role&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

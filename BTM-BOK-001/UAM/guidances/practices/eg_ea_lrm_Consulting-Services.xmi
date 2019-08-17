@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AOHY_ob5egn57_v6SHj4sg" name="eg_ea_lrm_Consulting-Services,_yhS4ELODEeOTralbgKSHFw" guid="-AOHY_ob5egn57_v6SHj4sg" changeDate="2015-02-07T14:33:22.742-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Consulting Services Process with Roles in context&quot;&#xD;
+    src=&quot;./resources/EA-Logical-LRM-Consulting-Services.png&quot; />&amp;nbsp;&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Consulting Engineer Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Uses various activities to provide the required consulting services to a customer. The Consulting Engineer ensures that&#xD;
+    new and existing consulting activities are assigned and executed in an efficient manner through scoping the&#xD;
+    requirement, assigning&amp;nbsp; activity or forming teams as needed and managing all activities.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Activities&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Uses the Adhoc Consulting and&amp;nbsp;Guidance&amp;nbsp;&amp;amp; Advice activities to provide these services.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6RyabSc-ZUEtoEKb90BCbg" name="run_acceptance_test,{D4E30732-30D3-4C75-8C69-D2F15313F1A9}" guid="-6RyabSc-ZUEtoEKb90BCbg" version="1.0.0">
+  <sections xmi:id="_oNI70GE-EdqnIZeW8YpHcA" name=" General " guid="_oNI70GE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;p>
+    This task consists of running all the customer or acceptance tests to ensure that all previously completed user stories
+    are still working. A lot of XP teams run those tests on a daily basis as part of their automated daily build. Other
+    teams run those tests every time a new story is added to the pool of completed stories to ensure that a new story has
+    not caused previous ones to fail.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_run_customer_test__activity_definition&quot; name=&quot;XE_run_customer_test__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Execute the automated acceptance test and gather results.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

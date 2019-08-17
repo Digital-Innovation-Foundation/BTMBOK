@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DJNL48O7wz1KwBAduja0cA" name="recover_application_testing,_ATtVMEkWEeKu7-3cM-oErg" guid="-DJNL48O7wz1KwBAduja0cA" changeDate="2013-08-20T08:27:51.440-0400">
+  <mainDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>Recover System Testing&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>With the refined system knowledge representation (KDM) the next&#xD;
+    step will be the generation of the testing out from the system knowledge. These testing procedures will be focused in&#xD;
+    the validation of the requirement extracted in other activity of this activity area.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

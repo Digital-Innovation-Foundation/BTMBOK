@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KeJP_Osx1hQdwX6jHisF1A" name="uam_ea_bpl_open_source,_qF5-oMMZEeKSedlRPHdUIQ" guid="-KeJP_Osx1hQdwX6jHisF1A" changeDate="2015-02-07T13:34:33.336-0500" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    &lt;a id=&quot;documentationSection&quot; name=&quot;documentationSection&quot;>&lt;/a>&lt;a id=&quot;documentationSection&quot;&#xD;
+    name=&quot;documentationSection&quot;>&lt;/a>Partners supply company publication and descriptions of products, newspaper articles,&#xD;
+    etc. The Internet is used to find and retrieve, from&amp;nbsp;company web sites,&amp;nbsp;information on&amp;nbsp;technologies not&#xD;
+    supplied by Partners. They are used to form, support and substantiate research results.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h5>&#xD;
+    Attributes&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    none&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Relationships&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Partner Information substantiates and supports the results documented in a Research Report. This information is&#xD;
+    supplied by Partners.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

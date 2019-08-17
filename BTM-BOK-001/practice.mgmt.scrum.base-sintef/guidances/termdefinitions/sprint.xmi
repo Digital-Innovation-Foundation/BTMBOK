@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HIv84TcqJsq4hsPh7HjCYw" name="new_term_definition,_kftWoIHqEduFs9jH8xc4xw" guid="-HIv84TcqJsq4hsPh7HjCYw" changeDate="2008-07-30T13:33:13.484-0400" version="1.0.0">
+  <mainDescription>The heart of Scrum is a Sprint, a time-box of one month or less during which a “Done”, useable, and potentially releasable&#xD;
+product Increment is created. Sprints have consistent durations throughout a development effort. A new Sprint starts&#xD;
+immediately after the conclusion of the previous Sprint.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hIVsSY5bPtcDsiS1EbnlnQ" name="new_artifact,_bKVBcGw6EeSS8ckFlGqwKQ" guid="-hIVsSY5bPtcDsiS1EbnlnQ" changeDate="2015-02-11T12:50:42.633-0500" version="2.0.0">
+  <mainDescription>The Group object is an &lt;em>Artifact&lt;/em> (i.e. additional information about a Process that is not directly related to the&#xD;
+Sequence Flows or Message Flows) that provides a visual mechanism to group elements of a diagram informally. The grouping&#xD;
+is tied to the &lt;em>CategoryValue&lt;/em> supporting element. That is, a Group is a visual depiction of a single&#xD;
+&lt;em>CategoryValue&lt;/em>. The graphical elements within the Group will be assigned the &lt;em>CategoryValue&lt;/em> of the Group.&#xD;
+Categories, which have user-defined semantics, can be used for documentation or analysis purposes. For example,&#xD;
+&lt;em>FlowElements&lt;/em> can be categorized as being customer oriented vs. support oriented&amp;nbsp;&lt;a&#xD;
+href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot; guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG&#xD;
+2013)&lt;/a>.</mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    A Group&amp;nbsp;provides a visual mechanism to group elements of a diagram informally.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Group&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Classifier&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>categoryValueRef: CategoryValue [0..1]&lt;/strong>&amp;nbsp;- The &lt;em>categoryValueRef&lt;/em> attribute specifies&#xD;
+        the &lt;em>CategoryValue&lt;/em> that the Group represents. The name of the &lt;em>Category&lt;/em> and the value of the&#xD;
+        &lt;em>CategoryValue&lt;/em> separated by delineator &quot;.&quot; provides the label for the Group. The graphical elements within&#xD;
+        the boundaries of the Group will be assigned the &lt;em>CategoryValue&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        May group (categorize) any elements, even across Pools and Lanes;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        See BPMN v2.0&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+        guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

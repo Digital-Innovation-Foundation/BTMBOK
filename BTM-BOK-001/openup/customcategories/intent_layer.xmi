@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QRnsN2e6IQlSMaRts-wFNw" name="intent_layer,_57_ZMEmbEdu0xduwSKie-w" guid="-QRnsN2e6IQlSMaRts-wFNw" changeDate="2007-03-28T18:39:13.880-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The Intent layer deals with how to channel the intent of stakeholders to the rest of the development team, to ensure&#xD;
+    that validated builds with incremental capabilities reflect stakeholder intents. This is done by capturing and&#xD;
+    communicating the &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/workproducts/vision_2E71B03C.html&quot; guid=&quot;_0WVxcMlgEdmt3adZL5Dmdw&quot;>vision&lt;/a> to all team members, and by translating the vision into test cases and&#xD;
+    requirements of different types. This allows the team to understand what capabilities need to be delivered to address&#xD;
+    stakeholder intent.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    You find the most tasks for the Intent layer in the &lt;strong>Requirements&lt;/strong> discipline, and the task to&#xD;
+    create test cases in the &lt;strong>Test&lt;/strong> discipline. The corresponding work products are found under&#xD;
+    &lt;strong>Requirements&lt;/strong> and &lt;strong>Test&lt;/strong> domains.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Intent layer is built upon the foundational &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/customcategories/collab_commun_layer_A3CDA6EF.html&quot; guid=&quot;_r8cVIEmbEdu0xduwSKie-w&quot;>Communication and collaboration layer&lt;/a>. That layer constitutes the backbone of OpenUP&#xD;
+    in order to reflect the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        All roles in OpenUP are involved in intent development to ensure that, as a minimum, all team members properly&#xD;
+        understand stakeholders’ intent.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Make sure that the best practices for collaborative development provided in the collaboration layer guides any work&#xD;
+        related to intent.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The intent layer is written in such a way that your organization can modify it to fit your style of development&#xD;
+    and stakeholder collaboration, without necessarily impacting how you deal with the other layers (&lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/customcategories/management_layer_DF9A1A7F.html&quot; guid=&quot;_Aoz2gEmcEdu0xduwSKie-w&quot;>Management layer&lt;/a>&lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/customcategories/management_layer_DF9A1A7F.html&quot; guid=&quot;_Aoz2gEmcEdu0xduwSKie-w&quot;> &lt;/a>and &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/customcategories/solution_layer_8AA9BF96.html&quot; guid=&quot;_HEVvgEmcEdu0xduwSKie-w&quot;>Solution layer&lt;/a>).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

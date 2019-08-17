@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LJHJpHQH-vMXIoetlDH-RQ" name="uam_logical_rules,_7V8OlaiZEeS8vLSVufajPQ" guid="-LJHJpHQH-vMXIoetlDH-RQ" authors="DW Enstrom" changeDate="2014-11-06T13:46:50.098-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_Logical_Rule_Report__brief_outline&quot; name=&quot;XE_Logical_Rule_Report__brief_outline&quot;>&lt;/a> &#xD;
+&lt;h3>&#xD;
+    &lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;>&lt;/a>&lt;a id=&quot;Brief Outline&quot; name=&quot;Brief Outline&quot;>&lt;/a>1. Introduction&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    An introduction to the report describing the context and scope and other useful information.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    2. Definitions&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This section contains the Logical Rules captured in the model.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Any diagrams on which the business rule is displayed are included if desired.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Summary tables may be used to describe and summarize Logical Rules.&amp;nbsp;&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

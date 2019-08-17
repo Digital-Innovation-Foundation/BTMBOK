@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ybuS-2M7LAISZAOp3aDlmw" name="new_checklist,_vuYtEE4hEeOcVJX_gvTjyg" guid="-ybuS-2M7LAISZAOp3aDlmw" changeDate="2014-12-05T15:23:22.217-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The importance of a glossary, of consistent use of terminology when developing IT architectures, cannot be understated.&#xD;
+    This is the starting point upon which the architecture is based—clear and consistent understanding.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_YhlZ0E4iEeOcVJX_gvTjyg" name="Clear and consise definitions" guid="_YhlZ0E4iEeOcVJX_gvTjyg">
+    <sectionDescription>The importance of clear and concise use of terminology within an IT architecture cannot be understated. A glossary of&#xD;
+important terms has to be defined, with everyone understanding the term and agreeing with its definition.</sectionDescription>
+  </sections>
+  <sections xmi:id="_k3V1kE4iEeOcVJX_gvTjyg" name="Useful definitions" guid="_k3V1kE4iEeOcVJX_gvTjyg">
+    <sectionDescription>Each defined term must be used and useful in the IT architecture. It is not useful to add definitions of terms that are&#xD;
+outside the scope of the architecture.</sectionDescription>
+  </sections>
+  <sections xmi:id="_6QyfYE4iEeOcVJX_gvTjyg" name="The term is consistently used within the IT architecture and represents the same thing" guid="_6QyfYE4iEeOcVJX_gvTjyg"/>
+</org.eclipse.epf.uma:ContentDescription>

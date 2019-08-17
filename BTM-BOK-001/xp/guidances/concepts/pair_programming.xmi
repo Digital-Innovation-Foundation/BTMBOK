@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-n52TyFa7Reb3LOJV1JMpvg" name="pair_programming,3.876855509996079E-307" guid="-n52TyFa7Reb3LOJV1JMpvg" changeDate="2006-11-09T19:16:04.083-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp__pair_programming&quot; name=&quot;XE_xp__pair_programming&quot;>&lt;/a>&lt;a id=&quot;XE_pair_programming__practice_of&quot; name=&quot;XE_pair_programming__practice_of&quot;>&lt;/a>&lt;a id=&quot;XE_engineering_practices__pair_programming&quot; name=&quot;XE_engineering_practices__pair_programming&quot;>&lt;/a> &#xD;
+&lt;h3>&#xD;
+    Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    All production software in XP is produced by two programmers, sitting side by side, at the same machine. This practice&#xD;
+    ensures that all production code is reviewed by at least one other programmer and results in better design, better&#xD;
+    testing, and better code.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Research into pair programming shows that pairing produces better code in about the same time as programmers working&#xD;
+    singly.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pairing also serves to communicate knowledge throughout the team. As pairs switch, everyone gets the benefits of&#xD;
+    everyone's specialized knowledge. Programmers learn, their skills improve, and they become more valuable to the team&#xD;
+    and to the company.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Benefits&#xD;
+&lt;/h3>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Better design, code and tests.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Application and skill knowledge sharing across team.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h3>&#xD;
+    Related Information&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    See the &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../xp/guidances/guidelines/pair_programming-2.html&quot; guid=&quot;3.85153041801319E-307&quot;>Pair&#xD;
+    Programming Guidelines&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

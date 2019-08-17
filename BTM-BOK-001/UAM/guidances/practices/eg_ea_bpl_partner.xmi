@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-7zei2ctmvtwgI6hV_6IQXA" name="new_bpl_entity,_58vUcMMZEeKSedlRPHdUIQ" guid="-7zei2ctmvtwgI6hV_6IQXA" changeDate="2013-05-22T15:58:45.782-0400" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    Partners of ThuNorTech provide some of the hardware and software offerings of the company. Other types of partners also&#xD;
+    provide open source information (or access to it) as well as supplying the raw information that research is largely&#xD;
+    built upon. This raw information and open source information is largely gathered from the Internet and other similar&#xD;
+    sources and sent to ThuNorTech through various methods.&#xD;
+&lt;/p></problem>
+</org.eclipse.epf.uma:PracticeDescription>

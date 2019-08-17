@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-qk_QXyoSxOb2C-boCISB5g" name="lifecycle_objectives,_mRwHoMA9EdqSgKaj2SZBmg" guid="-qk_QXyoSxOb2C-boCISB5g">
+    <mainDescription>&lt;p>&#xD;
+    The Lifecycle Objectives Milestone is the first major project milestone. During the iteration &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/tasks/assess_results_EC34D88D.html&quot; guid=&quot;_0l53cMlgEdmt3adZL5Dmdw&quot;>assessment&lt;/a>, the following evaluation criteria should be met &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../openup/guidances/supportingmaterials/references_6CCF393.html&quot; guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[KRO03]&lt;/a>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Stakeholder concurrence on&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Scope definition&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Initial cost and schedule estimates&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Definitions and priorities for an initial set of requirements&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Risks identified and mitigation strategies proposed&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+     &lt;b>Note:&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The project may be aborted or reconsidered if it fails to reach this milestone.&lt;br />&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-3Ul1iAI1nkD0C5AsRtjHFA" name="lifecycle_architecture,_RYHw4MA-EdqSgKaj2SZBmg" guid="-3Ul1iAI1nkD0C5AsRtjHFA">
+    <mainDescription>&lt;p>&#xD;
+    The Lifecycle Architecture Milestone is the second major project milestone. During iteration &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/tasks/assess_results_EC34D88D.html&quot; guid=&quot;_0l53cMlgEdmt3adZL5Dmdw&quot;>assessments&lt;/a> in Elaboration, you should keep these evaluation&#xD;
+    criteria in mind &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../openup/guidances/supportingmaterials/references_6CCF393.html&quot; guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[KRO03]&lt;/a>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Vision, requirements, and Architecture are stable&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Major risk elements are addressed and resolved by testing and evaluating executable prototypes&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Construction iterations are planned in sufficient detail, and credibly estimated to allow the work to proceed&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stakeholders agree that the current vision can be met if plans are executed to develop a complete system on&#xD;
+        top of current architecture&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Resourse expenditures versus planned expenditures are acceptable&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-Q37Qy6ke_PQDK4jr1EIdcA" name="initial_operational_capability,_TV_y0MA-EdqSgKaj2SZBmg" guid="-Q37Qy6ke_PQDK4jr1EIdcA">
+    <mainDescription>&lt;p>&#xD;
+    The Initial Operational Capability Milestone is the third major project milestone. During iteration &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/tasks/assess_results_EC34D88D.html&quot; guid=&quot;_0l53cMlgEdmt3adZL5Dmdw&quot;>assessments&lt;/a> in Construction, keep these evaluation criteria in&#xD;
+    mind &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../openup/guidances/supportingmaterials/references_6CCF393.html&quot; guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[KRO03]&lt;/a>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The product release is stable and mature enough to be deployed in the user community&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                The beta product is ready to be handed over to the users&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                All functionality has been developed, and all alpha testing (if any) has been completed&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                In addition to the software, you have developed a user manual and a description of the current&#xD;
+                release&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Actual resource expenditures compared to planned expenditures are acceptable&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;b>Note:&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In case the project fails to reach this milestone, an iteration can be added to Construction, thus postponing&#xD;
+    Transition.&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:BreakdownElementDescription xmi:id="-Gt2aCyZVy4q1BvcJRM2E-A" name="product_release,_X3F_cMA-EdqSgKaj2SZBmg" guid="-Gt2aCyZVy4q1BvcJRM2E-A">
+    <mainDescription>&lt;p>&#xD;
+    The Product Release Milestone is the last major project milestone. During iteration &lt;a class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/tasks/assess_results_EC34D88D.html&quot; guid=&quot;_0l53cMlgEdmt3adZL5Dmdw&quot;>assessment&lt;/a>, you decide if your objectives were met, and then close the&#xD;
+    project. These are the evaluation criteria to keep in mind &lt;a class=&quot;elementlinkwithusertext&quot; href=&quot;./../../openup/guidances/supportingmaterials/references_6CCF393.html&quot; guid=&quot;_9ToeIB83Edqsvps02rpOOg&quot;>[KRO03]&lt;/a>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        User satisfaction and product acceptance&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stakeholder concurrence on acceptable resource expenditures, compared to planned expenditures&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Product is in production; therefore, you may start a new development cycle for enhancements or maintenance&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:BreakdownElementDescription>
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="_mtb-4PL5Edm6Nvont3uinw" guid="_mtb-4PL5Edm6Nvont3uinw">
+    <mainDescription>&lt;p>&#xD;
+    OpenUP is an iterative process with &lt;a class=&quot;elementlinkwithusertext&quot;&#xD;
+    href=&quot;./../../openup/guidances/concepts/core_principle_evolve.html&quot; guid=&quot;_GXiogMvoEdqukPpotm3DYg&quot;>iterations&lt;/a>&#xD;
+    distributed throughout four &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+    href=&quot;./../../base_concepts/guidances/concepts/phase.html&quot; guid=&quot;__7xOEC7aEdqHMdmRzC0-2g&quot;>phases&lt;/a>: &lt;a&#xD;
+    class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/guidances/concepts/inception_phase.html&quot;&#xD;
+    guid=&quot;_0hmKgBOMEduCNqgZdt_OaA&quot;>Inception&lt;/a>, &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+    href=&quot;./../../openup/guidances/concepts/elaboration_phase.html&quot; guid=&quot;_2plxwBOMEduCNqgZdt_OaA&quot;>Elaboration&lt;/a>, &lt;a&#xD;
+    class=&quot;elementLinkWithUserText&quot; href=&quot;./../../openup/guidances/concepts/construction_phase.html&quot;&#xD;
+    guid=&quot;_48EKsBOMEduCNqgZdt_OaA&quot;>Construction&lt;/a>, and &lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+    href=&quot;./../../openup/guidances/concepts/transition_phase.html&quot; guid=&quot;__ca5UBOMEduCNqgZdt_OaA&quot;>Transition&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Each phase may have as many iterations as needed (depending on the degree of novelty of the business domain, the&#xD;
+    technology being used, architectural complexity, and project size, to name a few factors).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To offer a quick start for teams to plan their iterations, OpenUP provides work breakdown structure (WBS) templates for&#xD;
+    each iteration, and a WBS template for an end-to-end process.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Iterations may have variable lengths, depending on project characteristics. One-month iterations are typically&#xD;
+    recommended, because this timeframe provides:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A reasonable amount of time for projects to deliver meaningful increments in functionality.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Early and frequent customer feedback.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Timely management of risks and issues during the course of the project.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    OpenUP is intended to offer process guidance to small, co-located teams.&#xD;
+&lt;/p></mainDescription>
+    <purpose>&lt;p>&#xD;
+    This delivery process is intended to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Promote collaboration (both internal and external to the team), to align interests and share understanding&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Help the team focus on the architecture early, to minimize risks and organize development&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Help the team balance competing priorities to maximize stakeholder value&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Help the team evolve the product to continuously obtain feedback and improve&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div id=&quot;comment_text_7&quot;>&#xD;
+            Allow project managers to track status based on goals&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Allow team members to understand how to perform their work to achieve project goals&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+</xmi:XMI>

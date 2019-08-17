@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2PJlp8qnMqb3PgYkoEi00w" name="uam_organise_review,_PWnloMhjEdyU89e0dKAsrw" guid="-2PJlp8qnMqb3PgYkoEi00w" changeDate="2014-11-03T13:51:46.543-0500" version="2.0.0">
+  <mainDescription>This task is focused on organizing a review of&amp;nbsp;the IT architecture. Appropriate materials are gathered, venues booked&#xD;
+and participants informed. The review may focus on the generated architecture, ensuring that it is complete and consistent,&#xD;
+which is normally a peer review. Alternatively the review may focus on the content of the architecture in terms of how&#xD;
+accurately it captures the business, which normally involves a number of experts and other stakeholders that have intimate&#xD;
+knowledge of the area of the business in question.</mainDescription>
+  <sections xmi:id="_xKaAQF3-EeSU46-vxLGKFw" name="Decide on Objectives" guid="_xKaAQF3-EeSU46-vxLGKFw">
+    <sectionDescription>&lt;p>&#xD;
+    Decide on the focus of the review:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Peer Review&lt;/strong> - ensuring that&amp;nbsp;the IT architecture is&amp;nbsp;complete and consistent (usually done&#xD;
+        first, prior to a stakeholder review);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Stakeholder Review&lt;/strong> - the IT architecture is reviewed to ensure it accurately captures the business&#xD;
+        (i.e. experts and stakeholder review).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The first type of review is focused on ensuring the models are clear, and complete—participant are technical and&#xD;
+    typically peers of the IT architect that created the IT architecture under review. This type of review is done after&#xD;
+    completion of a perspective (all iterations) and prior to a stakeholder review.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The second type, a stakeholder review, is focused on the content to ensure it captures the business and that it meets&#xD;
+    the requirements as defined by stakeholders (both business and technical), therefore there are various experts involved&#xD;
+    (i.e., business, but more technical experts at the Logical and Technical levels) along with the other stakeholders for&#xD;
+    the IT architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The primary objective for a peer review is to ensure the IT architecture is complete, consistent and fits in with the&#xD;
+    enterprise's environment.&amp;nbsp;A stakeholder review is focused on the solutions, decisions defined, and the meeting of&#xD;
+    requirements.&amp;nbsp;Also part of this step is to define the list of required participants in the review.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_K1dAMMhmEdyU89e0dKAsrw" name="Gather Required Information" guid="_K1dAMMhmEdyU89e0dKAsrw">
+    <sectionDescription>&lt;p>&#xD;
+    The architect or review manager will gather information about the IT&amp;nbsp;architecture to be reviewed, as indicated in&#xD;
+    the mandatory and options inputs to this task. For example, for reviewing a&amp;nbsp;technology level&amp;nbsp;architecture,&#xD;
+    the following information will be of use:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The Technical Perspective documentation for the IT architecture to be reviewed;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Project and business plans and objectives;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Existing network logical and physical design;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Existing databases and database design;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Existing server environment (configuration, software versions, planned upgrades);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Existing standards (network, naming, protocols, and so on).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    These documents should be collated and made available to those participating in the review.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_MPOGMNtDEdy9s_D5ysfZfg" name="Inform Attendees" guid="_MPOGMNtDEdy9s_D5ysfZfg">
+    <sectionDescription>&lt;p>&#xD;
+    Each&amp;nbsp;attendee is given sufficient notice about the review, and what&amp;nbsp;is expected of them in terms of both&#xD;
+    preparatory work and their involvement in the review process. Make it clear to each attendee what stakeholder they are&#xD;
+    representing and therefore the type of review critique and feedback expected from them. As general guidance, you should&#xD;
+    consider the following stakeholders when inviting attendees to participate in the review meetings:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Direct users of the 'system', and also testing and documentation staff;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Domain or subject-matter experts for the system;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Peers: other IT architects or IT experts with experience in the domain or technology;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Managers: of the system or technology involved.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Include only those participants who will contribute to achieving the objectives of the review. In general, it is&#xD;
+    usually more productive to hold several focused review sessions with a smaller number of participants, than to hold one&#xD;
+    review involving many.&#xD;
+&lt;/p>&lt;br /></sectionDescription>
+  </sections>
+  <purpose>An architectural review is carried out&amp;nbsp;to ensure that the models are complete and well-defined, and to ensure that the&#xD;
+business is accurately captured in the models.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

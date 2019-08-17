@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-tikqKCreBriCo8ljfErZqQ" name="uam_decision,_NMEAMMd_EdyBSO6dC2FdkA" guid="-tikqKCreBriCo8ljfErZqQ" changeDate="2015-11-30T13:56:15.808-0500" version="2.1">
+  <mainDescription>Tasks involved in AD management. For the complete description of the process see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/capabilitypatterns/uam_manage_architectural_decisions_18C42043.html&quot;&#xD;
+guid=&quot;_exFvssH5EdyMpOiGFnM_WA&quot;>Activity: Manage Architectural Decisions&lt;/a>.&lt;a id=&quot;XE_UAM__Tasks_ADs&quot;&#xD;
+name=&quot;XE_UAM__Tasks_ADs&quot;>&lt;/a>&lt;a id=&quot;XE_Tasks__ADs&quot; name=&quot;XE_Tasks__ADs&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

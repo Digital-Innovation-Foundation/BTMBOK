@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tkqnob3EAaxlgrDNGktndg" name="uam_technical_event,_b_f7sEGsEeOfR_FtRm9PUg" guid="-tkqnob3EAaxlgrDNGktndg" changeDate="2013-10-30T17:40:43.653-0400" version="7.5.1">
+  <mainDescription>A Technical Event&amp;nbsp;is the message, timer, conditional and other events that initiate or modify business activity.&#xD;
+Technical Events represent important occurrences in the daily operation of the system that potentially trigger processes to&#xD;
+start, change or end. At the technical level the events may include error handling and other system related events.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

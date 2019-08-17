@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VyCwxACw7g5xHRjj6Uvcgw" name="uam_business_zone,_v4Tg4EGmEeOfR_FtRm9PUg" guid="-VyCwxACw7g5xHRjj6Uvcgw" changeDate="2013-05-21T13:51:22.368-0400" version="7.5.1">
+  <mainDescription>Business Zones&amp;nbsp;provide a way to physically separate portions of the business for IT security, non-functional or other&#xD;
+reasons. A zone may contain one or more sub-zones. Different sub-zones are created when security models or policies (and&#xD;
+possibly architecture) are significantly different from one zone to the other, or are conflicting. Separate Business Zones&#xD;
+provide clearer separation of concerns, clear definition of the authority, and ease policy enforcement and system&#xD;
+management. Also see: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_zone_401A4F76.html&quot;&#xD;
+guid=&quot;_cXe18MJMEeKSedlRPHdUIQ&quot;>Term Definition: Zone&lt;/a>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

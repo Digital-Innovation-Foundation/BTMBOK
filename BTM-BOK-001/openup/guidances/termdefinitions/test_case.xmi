@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6oW2YOnoWq_xPpmoil91KA" name="test_case,_U4RYEEvOEdunZcj9T5hrMQ" guid="-6oW2YOnoWq_xPpmoil91KA">
+  <mainDescription>&lt;p>&#xD;
+    The specification of a set of test inputs, execution conditions, and expected results, which need to be validated to&#xD;
+    enable an assessment of some particular aspects of the system under test.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

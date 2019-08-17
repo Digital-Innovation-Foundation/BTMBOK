@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-g2rzpmgjEY-qO-JMFT3-Sg" name="new_guideline,_SKwNYGqEEeS7ieerwXbTqg" guid="-g2rzpmgjEY-qO-JMFT3-Sg" changeDate="2014-11-12T10:55:55.767-0500">
+  <mainDescription>&lt;p>&#xD;
+    A thorough analysis of&amp;nbsp;the Business, Logical or Technical&amp;nbsp;level&amp;nbsp;&lt;em>&lt;strong>perspective&lt;/strong>&lt;/em> of&#xD;
+    the IT architecture is done to ensure that the define architecture fits in with the its wider context, with the rest of&#xD;
+    the enterprise.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;em>Prior&lt;/em> to this analysis the IT architecture has been reviewed ensuring that it is complete and consistent&#xD;
+    (normally an IT&amp;nbsp;architect&amp;nbsp;&lt;strong>peer review&lt;/strong>) &lt;em>and&lt;/em> a review of&amp;nbsp;the content of the&#xD;
+    architecture in terms of how accurately it captures the business (normally involving stakeholders that have intimate&#xD;
+    knowledge of the business, a &lt;strong>stakeholder review&lt;/strong>). This is accomplished through an architecture review:&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/tasks/uam_review_architecture_3FA51112.html&quot;&#xD;
+    guid=&quot;_hQm4MMkiEdyU89e0dKAsrw&quot;>Task: Review an Architecture&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This &lt;em>analysis&lt;/em> assumes that the IT architecture is complete and accurate (i.e. the &lt;em>review&lt;/em> has been&#xD;
+    completed) and now takes a step back from the IT architecture and looks at the larger context, proposed solutions,&#xD;
+    implications of these solutions, and how it all fits into the enterprise's business strategy, IT strategy, technology&#xD;
+    and other standards,&amp;nbsp;and other plans and objectives. This analysis is slightly different for each of the levels.&#xD;
+    Not only are the participants different, the focus and objectives of the analysis at the Business level are much&#xD;
+    different that those at the Technical level.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The&amp;nbsp;analysis looks at one of the levels of the IT architecture (i.e. a completely defined&amp;nbsp;perspective), which&#xD;
+    in turn dictates the set of stakeholders involved:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business level&lt;/strong> - mainly business&amp;nbsp;stakeholders involved, with some technical stakeholders;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Logical / Technical level&lt;/strong> -&amp;nbsp;mainly technical stakeholders, with some business stakeholders&#xD;
+        (business experts).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Each of these levels of analysis will naturally have a different focus. Typically the focus for each level are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business level&lt;/strong>&amp;nbsp;- education, review and feedback on business processes, and how they fit into&#xD;
+        the larger context. Optimizations and other opportunities are examined&amp;nbsp;and decided;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Logical / Technical level&lt;/strong> - provide education and solicit feedback on logical / technical&#xD;
+        solutions, any implications of the solutions or technologies, how they fit into the larger enterprise context and&#xD;
+        if any optimizations or other opportunities are possible.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Decisions and actions are documented, assigned&amp;nbsp;and tracked.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

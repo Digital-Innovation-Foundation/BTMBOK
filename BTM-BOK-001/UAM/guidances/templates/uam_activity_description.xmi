@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-VKBepkpvsHxgYkcA98z4uQ" name="uam_activity_description,_iKO6AH2CEeW2fJMF9v8JjQ" guid="-VKBepkpvsHxgYkcA98z4uQ" changeDate="2015-11-07T10:16:26.013-0500" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    At the Logical and Technical levels, the number of BPMN elements that can be added to a process diagram is&#xD;
+    considerable. This adds a risk of putting too much information on the diagram—clutter causes confusion. To alleviate&#xD;
+    this problem, an activity description template is recommended that captures detail left out of the diagram. The outline&#xD;
+    is as follows:&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    &amp;lt;activity-name&amp;gt;&#xD;
+&lt;/h4>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;h5>&#xD;
+        Subsystems&#xD;
+    &lt;/h5>&#xD;
+    &lt;p>&#xD;
+        Describe the subsystem mapping if not specified by the lanes or pools in the diagram (e.g., specific COTS product,&#xD;
+        specific custom application, etc. &lt;strong>Note&lt;/strong>: Only required in the Technical Process Model.&#xD;
+    &lt;/p>&#xD;
+    &lt;h5>&#xD;
+        Inputs&#xD;
+    &lt;/h5>&#xD;
+    &lt;p>&#xD;
+        Describe the input entities to the activity.&#xD;
+    &lt;/p>&#xD;
+    &lt;h5>&#xD;
+        Description&#xD;
+    &lt;/h5>&#xD;
+    &lt;p>&#xD;
+        Describe the step-by-step actions taken by subsystems or actors.&#xD;
+    &lt;/p>&#xD;
+    &lt;h5>&#xD;
+        Outputs&#xD;
+    &lt;/h5>&#xD;
+    &lt;p>&#xD;
+        Describe the output entities to the activity.&#xD;
+    &lt;/p>&#xD;
+    &lt;h5>&#xD;
+        Exceptions&#xD;
+    &lt;/h5>&#xD;
+    &lt;p>&#xD;
+        Specification of the exceptions to be handled.&#xD;
+    &lt;/p>&#xD;
+    &lt;h5>&#xD;
+        State Changes&#xD;
+    &lt;/h5>&#xD;
+    &lt;p>&#xD;
+        Describe the entity changes and state related to the actions.&#xD;
+    &lt;/p>&#xD;
+    &lt;h5>&#xD;
+        Logging&#xD;
+    &lt;/h5>&#xD;
+    &lt;p>&#xD;
+        The specification of logging requirements. &lt;strong>Note&lt;/strong>: Only required in the Technical Process&#xD;
+        Model.&lt;br />&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;p>&#xD;
+    Various formats are provided below: Microsoft Word (.dotx and .dot), PDF (.pdf) and Open XML Paper Specification&#xD;
+    (.xps).&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/Activity-Description.dot|resources/Activity-Description.dotx|resources/Activity-Description.pdf|resources/Activity-Description.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

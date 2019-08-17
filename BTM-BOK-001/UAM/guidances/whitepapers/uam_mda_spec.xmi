@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-16VflZM5HjIW6aZa8cecZg" name="uam_mda_spec,_9utf0NDeEdyC2cfK_t2EKQ" guid="-16VflZM5HjIW6aZa8cecZg" changeDate="2015-02-13T13:33:46.479-0500" version="7.2.0">
+  <mainDescription>&lt;a id=&quot;XE_MDA__Standard&quot; name=&quot;XE_MDA__Standard&quot;>&lt;/a>A key goal of MDA is to enable the use of sound modelling and&#xD;
+middleware standards to ensure that the integration of models-to-execution phases works for OMG and other popular&#xD;
+technologies. This reference points to the MDA specifications.</mainDescription>
+  <attachments>&lt;a href=&quot;http://www.omg.org/mda/specs.htm&quot;>MDA Specifications&lt;/a></attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

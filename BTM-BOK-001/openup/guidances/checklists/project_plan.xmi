@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iMEYJ2Jbm9S8GihBKFOaFA" name="new_checklist,_-qtjsAasEdy1uLAzgK8btg" guid="-iMEYJ2Jbm9S8GihBKFOaFA">
+  <sections xmi:id="_J4SxQAa_Edy1uLAzgK8btg" name="Has the plan been elaborated with the team?" guid="_J4SxQAa_Edy1uLAzgK8btg">
+    <sectionDescription>&lt;p>&#xD;
+&#xD;
+    Project planning should not be done in isolation and every member of the team should be involved.&#xD;
+&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Ln-rYAatEdy1uLAzgK8btg" name="Has the team agreed on development practices for the project?" guid="_Ln-rYAatEdy1uLAzgK8btg">
+    <sectionDescription>&lt;p>&#xD;
+&#xD;
+    Who plays which roles?&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    How long will the iterations be?&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    What coding standards should be followed?&amp;nbsp;&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    Has the project directory structure been identified?&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    What development, build and test&amp;nbsp;tools&amp;nbsp;should be&amp;nbsp;used?&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+    What measures and metrics will be used to track progress?&#xD;
+&#xD;
+&lt;/p>&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_MdRUoAatEdy1uLAzgK8btg" name="Have the project milestones been defined?" guid="_MdRUoAatEdy1uLAzgK8btg">
+    <sectionDescription>&lt;p>&#xD;
+    What are the major milestones for each release?&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_T2-tIAatEdy1uLAzgK8btg" name="Has the deployment strategy been discussed?" guid="_T2-tIAatEdy1uLAzgK8btg">
+    <sectionDescription>&lt;p>&#xD;
+&#xD;
+    How will the product be delivered to the customer?&#xD;
+&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

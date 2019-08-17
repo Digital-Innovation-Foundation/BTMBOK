@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kAxJKAnOufudLWMnt0ns1g" name="uam_tech_manager,_ytv_AKjAEeSFIOC-Wm7nrA" guid="-kAxJKAnOufudLWMnt0ns1g" changeDate="2015-01-30T15:49:10.273-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    These managers are technical, for example, the CIO or Director of Corporate IT.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As the IT architecture is developed, or other deliverables are developed, various review and approvals are needed. For&#xD;
+    example, the review of Architectural Decisions. These managers are not involved in the production of UAM IT&#xD;
+    architecture deliverables, they approved these deliverables.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    These managers also represent the&amp;nbsp;high-level technical stakeholders for the architecture.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

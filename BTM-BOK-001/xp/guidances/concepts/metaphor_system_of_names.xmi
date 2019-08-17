@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2OU2wQP_WNWX5zzWzx4ANw" name="metaphor_system_of_names,4.884861766532753E-306" guid="-2OU2wQP_WNWX5zzWzx4ANw" changeDate="2006-11-08T19:24:49.021-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp__metaphor_(system_of_names)&quot; name=&quot;XE_xp__metaphor_(system_of_names)&quot;>&lt;/a>&lt;a id=&quot;XE_metaphor_(system_of_names)__practice_of&quot; name=&quot;XE_metaphor_(system_of_names)__practice_of&quot;>&lt;/a>&lt;a id=&quot;XE_engineering_practices__metaphor_(system_of_names)&quot; name=&quot;XE_engineering_practices__metaphor_(system_of_names)&quot;>&lt;/a> &#xD;
+&lt;h3>&#xD;
+    Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This metaphor is a design overview. It is a way of defining the system using a commonly understandable vocabulary with&#xD;
+    its associated relationships. It allows the whole team to talk about the structure of the software in a convenient and&#xD;
+    memorable way. A good metaphor is one that all team members can understand easily, remember, and always keep in the&#xD;
+    back of their minds. It provides a unifying direction that developers can follow as they build the system a small piece&#xD;
+    at a time.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Metaphors are not always easy to find at the start of a project. In that case, teams can simply identify the key&#xD;
+    objects and their interactions in the system (System of Names). The real metaphor might emerge later on. When everybody&#xD;
+    on the team can explain quickly the system through its major objects and their interactions, the goal has been reached.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The iterative nature of XP causes the architecture of our system to evolve over time. The metaphor is not static; it&#xD;
+    will change and hopefully improve over time as our understanding of the system improves.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    An example of a metaphor would be something like: &quot;It's like a subway system with passengers and stations, tickets and&#xD;
+    turnstiles, etc.&quot;.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Benefits&#xD;
+&lt;/h3>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Communication&lt;/b>: customer and developer define a common language they can use to talk about the system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Direction&lt;/b>: the metaphor helps guide the developers towards the solution.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

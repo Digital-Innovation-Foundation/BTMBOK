@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3Fz8y1YTcv4Y3UUTAwsSgw" name="uam_technical_perspective,_UxFlQO-qEdy8F4k6ANL48Q" guid="-3Fz8y1YTcv4Y3UUTAwsSgw" authors="DW Enstrom" changeDate="2013-11-08T16:20:10.113-0500" changeDescription="new" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in determining if the architecture view is complete, well-defined and&#xD;
+    comprehensible. An overall review is suggested,&amp;nbsp;and reviews and checks for the various aspects are provided. Again&#xD;
+    it must be stressed that clear language and consistency in its usage is important in documenting and communicating the&#xD;
+    architecture. This is particularly important at the business level.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_hQ60wPH0EdyIELoltz1wKA" name="General" guid="_hQ60wPH0EdyIELoltz1wKA">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Helvetica-Bold&quot;>Overall, the architecture is sound, because:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The architecture appears to be stable. &#xD;
+        &lt;p>&#xD;
+            The need for stability is dictated by follow-on phases. Instability at this level results in even higher&#xD;
+            instability in the lower level&amp;nbsp;activities, implementation in this case.&#xD;
+        &lt;/p>&#xD;
+        &lt;p>&#xD;
+            The importance of a stable architecture cannot be overstated. Do not be deceived into thinking that 'pretty&#xD;
+            close is good enough'—unstable is unstable, and it is better to get the architecture right and delay the move&#xD;
+            to the Logical or Technical view rather than proceed.&amp;nbsp;Changes to higher level&amp;nbsp;architecture&#xD;
+            perspectives and viewpoint models have broad impact: they tend to be expensive, disruptive and demoralizing.&#xD;
+        &lt;/p>&#xD;
+        &lt;p>&#xD;
+            The real difficulty of assessing architectural stability is that &quot;you don't know what you don't know&quot;;&#xD;
+            stability is measured relative to expected change. As a result, stability is essentially a subjective measure.&#xD;
+            We can, however, base this subjectivity on more than just conjecture. The architecture itself is developed by&#xD;
+            considering 'architecturally significant' scenarios—sub-sets of activities that represent the most&#xD;
+            technologically challenging behavior the system must support. Assessing the stability of the architecture&#xD;
+            involves ensuring that the architecture has broad coverage, to ensure that there will be no 'surprises' in the&#xD;
+            architecture going forward.&#xD;
+        &lt;/p>&#xD;
+        &lt;p>&#xD;
+            Past experience with the architecture can also be a good indicator: if the rate of change in the architecture&#xD;
+            is low, and remains low as new scenarios are covered, there is good reason to believe that the architecture is&#xD;
+            stabilizing. Conversely, if each new scenario causes changes in the architecture, it is still evolving and&#xD;
+            baselining is not yet warranted.&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The architecture is consistent, coherent and comprehensible&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Developers and planners can understand enough from the architecture to successfully develop project plans&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The packaging approach reduces complexity and improves understanding.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Packages have been defined to be highly cohesive within the package, while the packages themselves are loosely&#xD;
+        coupled.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The&amp;nbsp;architecture can be easily understood by someone generally knowledgeable in the business area.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Existing Architectural Decisions&amp;nbsp;have been consulted and followed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The Technical Perspective viewpoint models and included documentation is current.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The architecture does not appear to be &quot;over-designed&quot;. &#xD;
+        &lt;ul>&#xD;
+            &lt;li class=&quot;ck&quot;>&#xD;
+                The structures and detail is sufficient for comprehension.&#xD;
+            &lt;/li>&#xD;
+            &lt;li class=&quot;ck&quot;>&#xD;
+                The structures and detail is modest and consistent with the scope and objectives of the architecture.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        All&amp;nbsp;logical activities&amp;nbsp;defined can be executed by the architecture, as demonstrated by diagrams&#xD;
+        depicting:&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li class=&quot;ck&quot;>&#xD;
+                Interactions between activities and processes,&#xD;
+            &lt;/li>&#xD;
+            &lt;li class=&quot;ck&quot;>&#xD;
+                Interactions between activities/tasks&amp;nbsp;and business entities.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_SMXlkPH2EdyIELoltz1wKA" name="Layers defined" guid="_SMXlkPH2EdyIELoltz1wKA">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        There are no more than seven (plus or minus two) layers.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The rationale for layer definition is clearly presented and consistently applied.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Layer boundaries are respected within the design.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Layers are used to encapsulate conceptual boundaries between different kinds of services and provide useful&#xD;
+        abstractions which makes the design easier to understand.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMUu-qEdy8F4k6ANL48Q" name="For the technical entities (viewpoint) models" guid="_UxGMUu-qEdy8F4k6ANL48Q">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Is the name and description of the technical entity clear and understandable?&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Is each relationship to/from the technical entity used in the workflow of at least one technical activity?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the business entity participate in at least one technical activity?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the technical entity have an &lt;em>owner&lt;/em>, and actor responsible for its creation/management?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the technical entity get created before it gets used or manipulated?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Do significant state changes of the entity trigger a business event?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Have all appropriate (required technical level) attributes been identified?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the technical entity have the appropriate/required relationships with related technical activities, technical&#xD;
+        events, and other technical entities?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Considering the entire business; are all things in it, such as products, documents, and contracts, modeled as&#xD;
+        technical entities?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the technical entity represent significant information within the business?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Will the technical entity be updated or referenced at some stage?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Does the technical entity represent persistent information?&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMUe-qEdy8F4k6ANL48Q" name="For the technical activities (viewpoint) models" guid="_UxGMUe-qEdy8F4k6ANL48Q">
+    <sectionDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Do the technical activities conform to the business you want them to describe?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Have all the technical activities been found? Taken together, the technical activities should define the complete&#xD;
+        business.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are there multiple technical activities with very similar names? If so, consider merging them or changing their&#xD;
+        names.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are the technical activities aligned with the business strategy and other business plans?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Does each technical activities support at least one business goal?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are all activities within the business included in at least one technical activity?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is there a balance between the number and the size of the technical activities?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is each technical activity unique? If not, consider merging it with a similar technical activity.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is each technical activity involved with at least one technical actor?&amp;nbsp; If not, is it meaningful?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMVe-qEdy8F4k6ANL48Q" name="For the technical locations (viewpoint) models" guid="_UxGMVe-qEdy8F4k6ANL48Q">
+    <sectionDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Do the technical locations conform to the business being described?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Have all the technical locations been found? Taken together, the technical locations should define the complete&#xD;
+        business.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are there multiple technical locations with very similar names? If so, consider merging them or changing their&#xD;
+        names.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are the technical locations aligned with the business strategy and other business plans?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Does each technical locations support at least one business goal?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Are all locations within the business included in at least one technical activity?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is each technical location logically unique? If not, consider merging it with a similar technical location.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is each technical location involved with at least one technical actor?&amp;nbsp; If not, is it meaningful?&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMXO-qEdy8F4k6ANL48Q" name="For the technical roles (viewpoint) models" guid="_UxGMXO-qEdy8F4k6ANL48Q">
+    <sectionDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Have all technical actors/roles been found?&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Does each technical actor express a role, not a person? Try to name at least two people (or a system)&amp;nbsp;that can&#xD;
+        act as the actor.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is each technical actor involved with at least one technical activity? If not, remove it.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Does the physical&amp;nbsp;role structure support the enforcement of required IT security&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        Is the role structure as simple as possible&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_UxFlRO-qEdy8F4k6ANL48Q" name="The complexity of the technical model matches the complexity of the business" guid="_UxFlRO-qEdy8F4k6ANL48Q">
+    <sectionName> Past experience with the architecture can be a good indicator</sectionName>
+    <sectionDescription>&lt;p class=&quot;ck&quot;>&#xD;
+    The complexity of the technical viewpoint models should&amp;nbsp;have a similar&amp;nbsp;level of complexity (and also in&#xD;
+    relation to the scope/complexity of the &quot;system&quot;)—actually it should be less complex that the actual &quot;system&quot; since&#xD;
+    that is the point of modeling something, to define simpler abstractions as an aid to comprehension. This is a relative&#xD;
+    evaluation, therefore as always when creating an architecture the level of complexity and detail required is always a&#xD;
+    judgment call. The level required should be driven by the intended use for the architecture.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMU--qEdy8F4k6ANL48Q" name="The conceptual complexity is appropriate for the skill and experience of architects, managers, and developers -- and objectives of the architecture" guid="_UxGMU--qEdy8F4k6ANL48Q">
+    <sectionDescription>A qualifier on the level of complexity in a resulting model is the skill and experience of the architects, managers and&#xD;
+developers. Over time these people will become comfortable with more detail. If the models are maintained, there will be a&#xD;
+natural progression from simple models to more complex ones as described in &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../../UAM/guidances/practices/uam_evolve_to_complex_A93F5EB5.html&quot; guid=&quot;_AMVHENEGEdyC2cfK_t2EKQ&quot;>Practice:&#xD;
+Evolve to a Complex Model&lt;/a>. Also, the scope (of the system) and objectives of the IT architecture effort should dictate&#xD;
+the level of detail defined.</sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMUO-qEdy8F4k6ANL48Q" name="A single consistent and coherent Technical Perspective definition" guid="_UxGMUO-qEdy8F4k6ANL48Q">
+    <sectionDescription>Quite often different business domains (departments) within an enterprise define IT architectures. The challenge is in&#xD;
+bringing these together into a &quot;single&quot; coherent IT architecture, where even simple things like language (definitions) can&#xD;
+get in the way. Review the model with multiple stakeholders, and start&amp;nbsp;by agreeing&amp;nbsp;the &quot;language&quot; used (i.e.,&#xD;
+modeling element definitions) in the model.</sectionDescription>
+  </sections>
+  <sections xmi:id="_UxFlRe-qEdy8F4k6ANL48Q" name="Consistent enterprise-wide IT security model" guid="_UxFlRe-qEdy8F4k6ANL48Q">
+    <sectionDescription>Security is one of the more pervasive aspects (second only to the computer network) of any IT architecture. Getting this&#xD;
+right is important, and it starts with a good reference model: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../../UAM/guidances/whitepapers/uam_security_reference_model_3EA07B63.html&quot;&#xD;
+guid=&quot;_KGs_oMX8EdyDYN2-y9-AqA&quot;>Whitepaper: A Reference Model for Enterprise Security&lt;/a>. All the&amp;nbsp;components need to&#xD;
+work together to enable secure business operations. At the business level, start by understanding classes, types, owners&#xD;
+and users of information and services. The roles model is important in this understanding.</sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMWu-qEdy8F4k6ANL48Q" name="The IT products and techniques which support and enable the business match its purpose" guid="_UxGMWu-qEdy8F4k6ANL48Q">
+    <sectionDescription>Technology introduced without due consideration of its cost of ownership vs. its benefit to the business is a recipe for&#xD;
+disaster. On the other hand, technology can also provide huge business benefit or even a new business opportunity, which is&#xD;
+not at first obvious. The real magic is in identifying this match, which often requires a bit of a change in how the&#xD;
+business works (but not necessarily&amp;nbsp;in what the business does).</sectionDescription>
+  </sections>
+  <sections xmi:id="_UxFlQ--qEdy8F4k6ANL48Q" name="Clear separation of concerns and partitioning" guid="_UxFlQ--qEdy8F4k6ANL48Q">
+    <sectionDescription>&lt;p>&#xD;
+    Having clear separation of concerns and partitioning will enable the further definition and implementation of the&#xD;
+    models through parallel development. Partitions and layers also aid in comprehension of the models. Each area of&#xD;
+    concern or partition can be allocated to a different team. In this context these terms have the following meanings:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Layers (of concerns)&lt;/strong> - the separation into&amp;nbsp;(stacked) horizontal layers&amp;nbsp;(e.g., the OSI&#xD;
+        layers, minus 'application'), for example:&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                Network (LAN, WAN, &amp;amp; MAN)&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Servers&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Storage&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                Desktops&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                IT Security&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Partitioning&lt;/strong> - this focuses on the separation of layer into cohesive components that have low&#xD;
+        coupling, see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../UAM/guidances/concepts/uam_levels_and_views_499BC4B8.html&quot; guid=&quot;_W4UEAMqpEdy25fQyv59CjQ&quot;>Concept:&#xD;
+        Architecture Perspectives and Viewpoints&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../UAM/guidances/concepts/uam_complex_modelling_A4EC9E37.html#Layered%20Business%20Models&quot;&#xD;
+        guid=&quot;_PjkWoObaEdyjVoHXO3Mbfg&quot;>Concept: Complex IT Architectures&lt;/a>.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMWe-qEdy8F4k6ANL48Q" name="A project manager, designer or domain architect understands enough from the Technology Perspective" guid="_UxGMWe-qEdy8F4k6ANL48Q">
+    <sectionDescription>&lt;p>&#xD;
+    Given the high-level nature of&amp;nbsp;IT architecture models, more work is required before an implementation project is&#xD;
+    started. The business analysts, architects or other&amp;nbsp;concerned parties must be able to take this next step based&#xD;
+    upon the Technical Perspective level viewpoint models: producing implementation plans and supporting implementation&#xD;
+    projects. A judgment call is required regarding the level of detailed needed within each Technical level viewpoint.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMXe-qEdy8F4k6ANL48Q" name="Components or systems/sub-systems are highly cohesive internally, with loose coupling between them" guid="_UxGMXe-qEdy8F4k6ANL48Q">
+    <sectionDescription>&lt;p>&#xD;
+    This is very much enabled by have clear&amp;nbsp;separations of concerns in the model, and&amp;nbsp;in the process model having&#xD;
+    clear separation between&amp;nbsp;technical activities/tasks,&amp;nbsp;and few interfaces.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMV--qEdy8F4k6ANL48Q" name="Similar solutions within the common business domain have been considered." guid="_UxGMV--qEdy8F4k6ANL48Q">
+    <sectionDescription>Every enterprise in the auto manufacturing 'business domain' for example have very similar (if not identical at some level)&#xD;
+IT architectures. This 'business domain' pattern should be looked at to ensure that the defined business model is&#xD;
+consistent with it.</sectionDescription>
+  </sections>
+  <sections xmi:id="_UxFlQe-qEdy8F4k6ANL48Q" name="The proposed solution can be easily understood by someone generally knowledgeable in the problem domain" guid="_UxFlQe-qEdy8F4k6ANL48Q">
+    <sectionDescription>This is sometimes easier said than done, but is greatly facilitated through the use of standard domain 'language' in the&#xD;
+models (which may need to be clarified in order to be more precise). Visual models are also an aid to understanding.&#xD;
+Complexity (in models and descriptions) can be reduced through the layering of the models (i.e. encapsulation to hide&#xD;
+detail). Peer reviews and reviews by business analysts also facilitate and aid in documenting architectures in a manner and&#xD;
+language understandable by all.</sectionDescription>
+  </sections>
+  <sections xmi:id="_UxFlQu-qEdy8F4k6ANL48Q" name="All team members share the same view of the technical models as presented by the architect" guid="_UxFlQu-qEdy8F4k6ANL48Q">
+    <sectionDescription>Stakeholders should also share the same view—this is where getting consensus on the language and other aspects is very&#xD;
+important. Conduct peer reviews to get feedback and to develop a solid consensus and understanding.</sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMWO-qEdy8F4k6ANL48Q" name="Modeling guidelines have been followed" guid="_UxGMWO-qEdy8F4k6ANL48Q">
+    <sectionDescription>Presenting a consistent view and using consistent and agreed views and structures aids in understanding, eases maintenance&#xD;
+of the models, and generally speeds up the process.</sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMVu-qEdy8F4k6ANL48Q" name="There are routines in place for verifying the Technical Perspective" guid="_UxGMVu-qEdy8F4k6ANL48Q">
+    <sectionDescription>Having good review processes during and after the development of the Technical Perspective models is essential.&#xD;
+Stakeholders should be involved in its development, but a set of key stakeholders should also review the end result.</sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMW--qEdy8F4k6ANL48Q" name="The Technical Perspective models do not appear to be overly complex" guid="_UxGMW--qEdy8F4k6ANL48Q">
+    <sectionName> The mechanisms in place appear to be simple enough to use</sectionName>
+    <sectionDescription>&amp;nbsp;In particular: &#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The mechanisms in place appear to be simple enough to use.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;ck&quot;>&#xD;
+        The number of mechanisms is modest and consistent with the scope of the system and the demands of the problem&#xD;
+        domain.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_UxGMVO-qEdy8F4k6ANL48Q" name="Does the Technical Perspective architecture appear to be stable" guid="_UxGMVO-qEdy8F4k6ANL48Q">
+    <sectionName> In general, the business architecture appears to be reasonable if</sectionName>
+    <sectionDescription>&lt;p class=&quot;ck&quot;>&#xD;
+    If it is the case, the system model will in general appear to be reasonable. Past experience with the architecture can&#xD;
+    be a good indicator if the rate of change in the architecture is low, and remains low as new scenarios are covered,&#xD;
+    there is good reason to believe that the architecture is stabilizing. Conversely, if each new scenario causes changes&#xD;
+    in the architecture, it is still evolving and baselining is not yet warranted. A Technical model if crafted well is&#xD;
+    independent of technological change to some small degree, and defines the important aspects of the given business&#xD;
+    domain (e.g., car manufacturing, or retail sales, etc.). This independence, to some degree, of the model from changes&#xD;
+    in technology (i.e., in how technology support business activity) may not hold if the business is heavily dependent,&#xD;
+    driven&amp;nbsp;and involved in information technology; if the enterprise is &lt;em>in&lt;/em> the information technology&#xD;
+    business, such as a telecommunications or computer equipment manufacturer.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

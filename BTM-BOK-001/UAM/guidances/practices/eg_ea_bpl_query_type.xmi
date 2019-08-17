@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-sf_6gKxQ1tvJq4C_z5U5pw" name="new_bpl_gateway,_AW5qQMblEeK4P8KZ6MNYcg" guid="-sf_6gKxQ1tvJq4C_z5U5pw" changeDate="2013-05-27T11:50:22.381-0400">
+  <problem>The&amp;nbsp; Customer Support Researcher (CSR) or (select) Customer has a need to find either Research Reports in support of&#xD;
+new or changed information needs (perhaps on an ad-hoc basis), or to find Source Information that clarifies or&#xD;
+substantiates conclusions in a report or is otherwise of interest.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

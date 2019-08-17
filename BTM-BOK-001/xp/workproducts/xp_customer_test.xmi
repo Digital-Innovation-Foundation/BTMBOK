@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YYMUwBepQ28JU78LtraO3w" name="xp_customer_test,{DF0EDBC7-4AAD-438D-89AA-64ECFE2416F5}" guid="-YYMUwBepQ28JU78LtraO3w" changeDate="2006-11-10T12:27:13.845-0500" version="1.0.0">
+  <keyConsiderations>As more and more customer tests are added to the system, there will be a need to organize them in some way. Typically, the&#xD;
+testers and programmers will build and maintain some kind of customer test framework. As is the case for the production&#xD;
+code, it is important to let the framework evolve with the needs of the application. It is very easy to go overboard when&#xD;
+building a test framework.</keyConsiderations>
+  <purpose>&lt;a id=&quot;XE_xp_customer_test__artifact_definition&quot; name=&quot;XE_xp_customer_test__artifact_definition&quot;>&lt;/a>&lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;>&lt;/a>&lt;a id=&quot;XE_xp_customer_test__purpose_of&quot; name=&quot;XE_xp_customer_test__purpose_of&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{DF0EDBC7-4AAD-438D-89AA-64ECFE2416F5}&quot;>XP Customer Test&lt;/a> demonstrates the&#xD;
+    presence of the system features as defined by the customer. They are the unambiguous and detailed requirements of the&#xD;
+    system.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

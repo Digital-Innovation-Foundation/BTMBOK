@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-xaSurJWwePo88FwZ1M0Evg" name="uam_it_architecture,_EyO3oMISEdyMpOiGFnM_WA" guid="-xaSurJWwePo88FwZ1M0Evg" authors="David W. Enstrom" changeDate="2015-11-30T11:48:26.382-0500" changeDescription="New defns" version="2.0.1">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p>&#xD;
+    The UAM IT Architecture &lt;em>discipline&lt;/em> has very wide applicability; the enterprise as a whole, or a project&#xD;
+    architecture. The “system”&amp;nbsp;in any enteprise context includes software, hardware, processes,&amp;nbsp;and people.&#xD;
+&lt;/p>&lt;a id=&quot;XE_UAM__discipline&quot; name=&quot;XE_UAM__discipline&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The purposes of the UAM IT Architecture discipline are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To transform the requirements into a design of the &lt;em>to-be&lt;/em> system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To document an existing &lt;em>as-is&lt;/em> system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To evolve a robust IT architecture for the enterprise, business line, and other contexts, addressing all the&#xD;
+        relevant views and viewpoints;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To clearly specify the interfaces between the defined system components, entities, and people;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        To create all the prerequisite artifacts needed for system development: various architectural views at multiple&#xD;
+        levels.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The processes and tasks needed to define UAM IT architectures are included within this discipline definition.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

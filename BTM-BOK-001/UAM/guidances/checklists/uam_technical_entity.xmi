@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vA9fRu8EbF_Dm_rd6bxSGA" name="uam_technical_entity,_cGSvNWX_EeSFL7Sh0MlmKA" guid="-vA9fRu8EbF_Dm_rd6bxSGA" changeDate="2014-10-23T11:23:44.502-0400" version="7.5.1">
+  <mainDescription>At the Technical level, entities are much more refined, with aggregation and generalization structures added, and even&#xD;
+model optimizations (depending upon the context and scope).&amp;nbsp;The objective is to make this model consumable by&#xD;
+technical people, and therefore the structure is required and important. This structure should not necessarily be done to&#xD;
+the level required for database implementations, but candidate keys may be added if useful and appropriate for the IT&#xD;
+architecture context.</mainDescription>
+  <sections xmi:id="_cGSvOGX_EeSFL7Sh0MlmKA" name="Clear name and description" guid="_cGSvOGX_EeSFL7Sh0MlmKA">
+    <sectionDescription>Ensure that the name for the entity conveys its meaning and that the description supports this meaning. Business experts&#xD;
+may still help, but other stakeholders are important in&amp;nbsp;ensuring that this is the case.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cGSvN2X_EeSFL7Sh0MlmKA" name="Relationships are useful and well defined" guid="_cGSvN2X_EeSFL7Sh0MlmKA">
+    <sectionDescription>Relationships between entities support the business: they support the logical processes and also management requirements.&#xD;
+They are therefore very important and needs to be identified and clearly defined. Note that structure is now defined and&#xD;
+may also be important in understanding logical entities and their support to the system.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cGSvOmX_EeSFL7Sh0MlmKA" name="Entity ownership is defined" guid="_cGSvOmX_EeSFL7Sh0MlmKA">
+    <sectionDescription>In this age of totally interconnected systems it is imperative that the owners of information are identified since they&#xD;
+must be involved in making decisions regarding the usage and protections afforded to entities. Refinement of&amp;nbsp;ownership&#xD;
+at the logical level is required to ensure that the new structured model is accurate.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cGSvO2X_EeSFL7Sh0MlmKA" name="Logical events and the entity" guid="_cGSvO2X_EeSFL7Sh0MlmKA">
+    <sectionDescription>Often Logical level business events are often triggered by Entities, the arrival of an Invoice for example will trigger the&#xD;
+&quot;Bill Payment&quot; process. This is an excellent way to identify these events and refine the Logical Process Model.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cGSvOWX_EeSFL7Sh0MlmKA" name="Define all entity attributes" guid="_cGSvOWX_EeSFL7Sh0MlmKA">
+    <sectionDescription>This is very important to do at the Logical level; attributes are defined to address process needs or relationship&#xD;
+requirements among others.</sectionDescription>
+  </sections>
+  <sections xmi:id="_cGSvNmX_EeSFL7Sh0MlmKA" name="Is the entity persistent" guid="_cGSvNmX_EeSFL7Sh0MlmKA">
+    <sectionDescription>This is an level of analysis is finalized at the Logical level. If an entity is important enough to be identified and&#xD;
+defined, it is likely persistent. However if there is some question, examine this aspect and adjust the entity model as&#xD;
+required.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

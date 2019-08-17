@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2nINowSo0VedqZTd4LIZIg" name="xp_organization,5.613949040902463E-308" guid="-2nINowSo0VedqZTd4LIZIg" changeDate="2005-12-06T06:12:10.223-0500">
+  <mainDescription>&lt;p>&#xD;
+    On all but the smallest of projects, the people involved in a software project will be part of one or more entities&#xD;
+    (businesses, functional groups, governments, communities, etc.). The &lt;a class=&quot;elementLink&quot; href=&quot;./../../../xp/guidances/concepts/xp_practices.html&quot; guid=&quot;2.2937799026801584E-305&quot;>XP Practices&lt;/a> focus on the roles directly involved in identifying what the software needs to do (&lt;a class=&quot;elementLink&quot; href=&quot;./../../../xp/guidances/supportingmaterials/xp_customer_team.html&quot; guid=&quot;2.9889538140050517E-306&quot;>XP Customer Team&lt;/a>) and developing that software (&lt;a class=&quot;elementLink&quot; href=&quot;./../../../xp/guidances/supportingmaterials/xp_developer_team.html&quot; guid=&quot;8.608243854485154E-306&quot;>XP Developer Team&lt;/a>). To support those teams, the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../xp/guidances/concepts/whole_team.html&quot; guid=&quot;7.89591827591278E-306&quot;>Whole Team&lt;/a> includes a third important group, the XP Organization.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The specific roles that XP identifies as part of the XP Organization are the XP Tracker and the XP Coach. The XP&#xD;
+    Organization also includes all of the people who make up the infrastructure that allows the project to exist. This&#xD;
+    includes management, accounting, support, facilities, etc. Because these are supporting roles, XP attempts to minimize&#xD;
+    the dependence of the XP Customer Team and the XP Developer Team on the XP Organization. In XP, the goal is for the&#xD;
+    whole team to be self-managing and largely self-supporting. XP does not give specific practice guidance to these other&#xD;
+    roles, but does suggest that these roles also guide their practices with the &lt;a class=&quot;elementLink&quot; href=&quot;./../../../xp/guidances/concepts/xp_values.html&quot; guid=&quot;1.076140803519123E-306&quot;>XP Values&lt;/a> of communication, simplicity, feedback, and courage.&#xD;
+&lt;/p>&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

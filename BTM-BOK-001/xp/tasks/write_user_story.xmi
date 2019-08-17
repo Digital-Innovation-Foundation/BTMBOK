@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cqTu_uwmZrF3sFspx465XQ" name="write_user_story,{62CFC55C-3151-46CB-8886-F3DBD552ABC4}" guid="-cqTu_uwmZrF3sFspx465XQ" version="1.0.0">
+  <sections xmi:id="_oQZEIGE-EdqnIZeW8YpHcA" name=" Define System Behavior " guid="_oQZEIGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    A user story is a brief description of a feature of the system. Stories are small, taking only a week or two to
+    develop. The best stories provide direct business value. When stories are too big, they must be split. Consequently, it
+    may take multiple stories to provide business value. In this case, the individual stories need to demonstrate to the
+    customer that the team is making progress toward the desired business value.
+&lt;/p>
+&lt;p>
+    There is no need for a lot of detail in the description. The details will be flushed out when the acceptance tests for
+    this story are defined. Typically, XP user stories are written on small index cards, one story per card.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oQZEIWE-EdqnIZeW8YpHcA" name=" Define Customer Test " guid="_oQZEIWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    Each user story will have a set of conditions or acceptance criteria to fulfill before it is considered done.
+    Basically, an acceptance criterion defines an interaction scenario between the user and the system. There is usually
+    more than one possible scenario or acceptance test criterion for a typical story. The acceptance test criteria are
+    converted into &lt;a class=&quot;elementLinkWithUserText&quot;
+    href=&quot;./../../xp/tasks/automate_acceptance_test,{E614ED93-AE72-4FD1-B459-C508CE1C536F}.html&quot;
+    guid=&quot;{E614ED93-AE72-4FD1-B459-C508CE1C536F}&quot;>automated customer tests&lt;/a> when the story is being implemented.
+&lt;/p>
+&lt;p>
+    For simplicity, the test criteria are often written natural language. However, this makes them prone to
+    misinterpretation. To address this issue, some teams provide simple tools that allow the customer to write the
+    acceptance tests criteria in a form that can be executed directly by application-specific acceptance test framework.
+    Ultimately, it is the responsibility of the customer to provide the customer tests
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_write_user_story__activity_definition&quot; name=&quot;XE_write_user_story__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To specify a specific behavior of the system from a user perspective.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

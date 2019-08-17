@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-1CKJ8Nr1KmFCjgzSLF7naA" name="uam_tp,_E7KFcMDkEeOx56fQBc88vA" guid="-1CKJ8Nr1KmFCjgzSLF7naA" changeDate="2015-11-30T14:14:35.942-0500" changeDescription="new" version="2.0">
+  <mainDescription>This set of Work Products are the main deliverables for a perspective, but&amp;nbsp;other important Work Products are also&#xD;
+created, see: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/workproducttypes/uam_specification_E6EE1B76.html&quot;&#xD;
+guid=&quot;_uXMfoMKuEdy4DtCs1YI90Q&quot;>Work Product Kind: UAM Specifications&lt;/a>.&lt;a id=&quot;XE_Work_Products__Technical&quot;&#xD;
+name=&quot;XE_Work_Products__Technical&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SUqkkwrs1D_5YXZls-3YBg" name=",_oclg0DRXEdudA-StyUUwnw" guid="-SUqkkwrs1D_5YXZls-3YBg" changeDate="2007-05-31T09:05:37.479-0400">
+  <representationOptions>&lt;h4>&#xD;
+    Option: Use the Work Items List&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Consider capturing Supporting Requirements in the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/work_items_list_39D03CC8.html&quot; guid=&quot;_rGNWsCbSEdqh1LYUOGRh2A&quot;>Work Items List&lt;/a>, which&#xD;
+    you can use for prioritizing and managing requirements. If Stakeholders are comfortable with accessing requirements&#xD;
+    directly from&amp;nbsp;the work items list, or with accessing a report automatically generated from it, then you do not&#xD;
+    need a separate document.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Option: Include as Part of the Vision Document&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Consider including some types of Supporting Requirements in the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/vision_2E71B03C.html&quot; guid=&quot;_0WVxcMlgEdmt3adZL5Dmdw&quot;>Vision&lt;/a>&amp;nbsp;document. To keep&#xD;
+    the Vision stable, follow this option for the requirements types that need less refinement, such as Product Qualities,&#xD;
+    Documentation, or Compliance.&lt;br />&#xD;
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

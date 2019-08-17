@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VMoc4S_dFEirdzfZqR0KBA" name="uam_fractal,_X1UzAMJEEeKSedlRPHdUIQ" guid="-VMoc4S_dFEirdzfZqR0KBA" changeDate="2013-05-21T14:31:13.175-0400" version="7.5.1">
+  <mainDescription>A Fractal,&amp;nbsp;in the context of UAM,&amp;nbsp;refers to the fact that all systems (including the complete enterprise) have&#xD;
+architectures (&lt;a href=&quot;http://www.iso-architecture.org/ieee-1471/&quot; target=&quot;_blank&quot;>ISO 42010&lt;/a> 2007) and therefore there&#xD;
+are many “architectures” within an enterprise, each of which can be viewed as separate fractals (i.e. architecture&#xD;
+descriptions) of the enterprise. Each of the defined architectures is complete and models the enterprise at a specific&#xD;
+level (of abstraction) and within a specific context and scope. Portions of high-level architectures are detailed within&#xD;
+lower level architectures, but each is a complete architecture at different levels of abstraction—similar to fractals in&#xD;
+nature. See &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/supportingmaterials/uam_overview_B2102583.html&quot;&#xD;
+guid=&quot;_W0ahoM9uEdymj4NXv8-FYA&quot;>UAM Overview&lt;/a>&amp;nbsp;and the definition for &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_context_BF7FA033.html&quot;&#xD;
+guid=&quot;_ILeHEMI1EeKSedlRPHdUIQ&quot;>Context&lt;/a>&amp;nbsp;and &lt;em>&lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../../UAM/guidances/termdefinitions/uam_system_ACA49598.html&quot;&#xD;
+guid=&quot;_gPs28MJHEeKSedlRPHdUIQ&quot;>System&lt;/a>&lt;/em>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

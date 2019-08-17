@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-T3TCdrKVhmF8qbTWdmIKeQ" name="uam_whitepapers,_npyFsJRQEeSK6vd45wAGbg" guid="-T3TCdrKVhmF8qbTWdmIKeQ" changeDate="2015-02-18T12:53:58.323-0500">
+  <mainDescription>Whitepapers capture reference material that supports UAM.&lt;a id=&quot;XE_Whitepapers&quot; name=&quot;XE_Whitepapers&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

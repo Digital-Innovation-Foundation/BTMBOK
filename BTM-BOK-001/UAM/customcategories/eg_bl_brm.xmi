@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-CD9_Wo6Jwsuu8azazrEtFg" name="new_custom_category,_wZrlsMJcEeKSedlRPHdUIQ" guid="-CD9_Wo6Jwsuu8azazrEtFg" changeDate="2015-01-27T12:16:06.929-0500" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    This is the root of the IT Research BL level Business Roles Model for ThuNorTech.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;IT Research Customer Types&quot; src=&quot;./resources/BL-Business-BRM-IT-Research.png&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Only a few actors and roles are identified and their structure defined as shown above.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note that Roles are only defined after the completion of the Logical Perspective, then rolled back into the Business&#xD;
+    level, as shown in the linked example: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/guidances/practices/eg_bl_bpl_analyse_info_6C0EBCAD.html&quot; guid=&quot;__4kUAK7JEeOnpNaz6NPWjg&quot;>Analyze&#xD;
+    Information Role Model&lt;/a>&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    See the LRM for a more complete view: &lt;a class=&quot;elementLink&quot; href=&quot;./../../UAM/customcategories/eg_bl_lrm_A3578E7.html&quot;&#xD;
+    guid=&quot;_9uA63MJiEeKSedlRPHdUIQ&quot;>IT Research BL LRM&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-NPArszvO18RrJqMaURjrBQ" name="new_artifact,_kVC4AGxPEeSS8ckFlGqwKQ" guid="-NPArszvO18RrJqMaURjrBQ" changeDate="2014-11-14T17:43:53.973-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    A Business (Security) Domain is an environment or context that is defined by security policies, security models, and&#xD;
+    security architecture, including a set of resources and set of system entities that are authorized to access the&#xD;
+    resources. A Business Domain is managed by a single authority, and may contain one or more sub-domains. Different&#xD;
+    sub-domains are created when security models or policies (and possibly architecture) are significantly different from&#xD;
+    one domain to the other, or are conflicting. Separate logical domains provide clearer separation of concerns and ease&#xD;
+    policy enforcement and system management. Synonyms: &lt;em>security domain&lt;/em> or &lt;em>policy domain&lt;/em>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Do not confuse this with an area of control or a sphere of knowledge, for example the HR domain.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>Normally an architecture deals with a single Business Domain and therefore it may be left off (but documented in the&#xD;
+preamble to the architecture description), however if it is required in a viewpoint then a simple rectangular background&#xD;
+geometric shape (of an appropriate color if desired to illustrate the fundamental nature of the Domain) may be used to&#xD;
+depict the Security Domain, with the name applied to one corner or on the boundary (e.g. “COMPANY-CONFIDENTIAL” or&#xD;
+“SECRET”).</keyConsiderations>
+  <representationOptions>&lt;p>&#xD;
+    A Business (Security) Domain is an environment or context that is defined by security policies, security models, and&#xD;
+    security architecture, including a set of resources and set of system entities that are authorized to access the&#xD;
+    resources.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Domain&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Node and «metaclass» Classifier and «metaclass» Package&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Domain.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>authority: string&lt;/strong>&amp;nbsp;- The authority for the Domain, normally defined as a specific&#xD;
+        organizational position within the enterprise or business line (e.g. COO).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Contains (classifies) one or more Zones;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Cannot contain other domains.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

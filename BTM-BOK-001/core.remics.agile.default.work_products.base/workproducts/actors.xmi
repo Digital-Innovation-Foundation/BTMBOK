@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-P7AjevEDKePcgEWwTtUEtw" name="actors,_X02JcP2uEeK8HINtOGo1Xg" guid="-P7AjevEDKePcgEWwTtUEtw" changeDate="2013-08-19T06:20:39.241-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Actors&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This deliverable enumerates any external entity human or system that is expected to interact with the future system. It&#xD;
+    is necessary to be identify the possible additional features required by them in the different phases of the system:&#xD;
+    migration, explotation, supervision and withdraval.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

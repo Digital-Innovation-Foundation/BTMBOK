@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-S4rA73Sjby4hZ-KVdgDoRQ" name="new_term_definition,_aVWdkMI1EeKSedlRPHdUIQ" guid="-S4rA73Sjby4hZ-KVdgDoRQ" changeDate="2013-05-21T12:43:04.832-0400" version="7.5.1">
+  <mainDescription>Environment (of a system)&amp;nbsp;is the&amp;nbsp;&lt;em>context&lt;/em> determining the setting and circumstances of all influences&#xD;
+upon a system. Note: The environment of a system includes developmental, technological, business, operational,&#xD;
+organizational, political, economic, legal, regulatory, ecological, and social influences (&lt;a&#xD;
+href=&quot;http://www.iso-architecture.org/ieee-1471/index.html&quot; target=&quot;_blank&quot;>ISO 42010&lt;/a> 2011). Also see &lt;em>&lt;a&#xD;
+class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_context_BF7FA033.html&quot;&#xD;
+guid=&quot;_ILeHEMI1EeKSedlRPHdUIQ&quot;>Context&lt;/a>&lt;/em>.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-wCPd2lwNat0nmUOTqDmJfw" name="new_custom_category,_mEgMoLvwEeKBoecYDPr3dQ" guid="-wCPd2lwNat0nmUOTqDmJfw" changeDate="2014-11-24T13:05:44.718-0500" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    The Unified Architecture Method (UAM) is described in this web site is built upon the Open Unified Process (OpenUP).&#xD;
+    However, since OpenUP is focused upon software development projects, UAM&amp;nbsp;is largely new material, with some&#xD;
+    references to useful OpenUP fundamental concepts, content and guidance. The pages referenced above are good starting&#xD;
+    points for understanding UAM. They are summarized as follows:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Overview&lt;/strong> - a quick overview of UAM and some of its base concepts and constructs.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Key Principles&lt;/strong> - are best practices in understanding&amp;nbsp;and using&amp;nbsp;UAM for&amp;nbsp;creating and&#xD;
+        documenting IT architectures.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Unified Method Architecture (UMA)&lt;/strong>&amp;nbsp; - is the construct used to define the UAM processes and&#xD;
+        deliverables. This overview of UMA defines the concepts and terminology used for representing methods, method&#xD;
+        content, processes and deliverables, which makes learning the UAM much easier.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

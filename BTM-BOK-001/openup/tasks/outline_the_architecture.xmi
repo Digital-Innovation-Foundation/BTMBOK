@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_qDRSULBKEdm7Eph_l9Cn9w" name="analyze_architecture,_0f-1oMlgEdmt3adZL5Dmdw" guid="_qDRSULBKEdm7Eph_l9Cn9w" changeDate="2007-05-11T08:30:38.765-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+&#xD;
+&#xD;
+    This task focuses on identifying the architectural goals for an iteration that will guide development and testing. It&#xD;
+&#xD;
+&#xD;
+    relies on gathering experience gained in similar systems or problem domains to constrain and focus the architecture so&#xD;
+&#xD;
+&#xD;
+    that effort is not wasted in re-inventing architecture.&#xD;
+&#xD;
+&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+&#xD;
+&#xD;
+&#xD;
+    This task&amp;nbsp;is most beneficial when developing new and unprecedented systems. In systems where there is already a&#xD;
+&#xD;
+&#xD;
+&#xD;
+    well-defined architecture, this task might be omitted, or performed quickly as a&amp;nbsp;review of the existing&#xD;
+&#xD;
+&#xD;
+&#xD;
+    architecture.&#xD;
+&#xD;
+&#xD;
+&#xD;
+&lt;/p>&#xD;
+&#xD;
+&#xD;
+&#xD;
+&lt;p>&#xD;
+&#xD;
+&#xD;
+&#xD;
+    It is critical that this task is performed collaboratively with active involvement of other team members and project&#xD;
+&#xD;
+&#xD;
+&#xD;
+    stakeholders so that consensus and common understanding is reached. It is particularly vital for the architect to&#xD;
+&#xD;
+&#xD;
+&#xD;
+    involve the developer(s) throughout this task. The architecture effort&amp;nbsp;is about providing leadership and&#xD;
+&#xD;
+&#xD;
+&#xD;
+    coordination of the technical work rather than putting in a solo performance.&#xD;
+&#xD;
+&#xD;
+&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_3nMQQA3rEduibvKwrGxWxA" name="Identify architectural goals" guid="_3nMQQA3rEduibvKwrGxWxA">
+    <sectionDescription>&lt;p>&#xD;
+    Work with the team, especially the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/stakeholder_9FFD4106.html&quot; guid=&quot;_dTa6gMAYEdqX-s4mWhkyqQ&quot;>Stakeholder&lt;/a> and &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/analyst_39D7C49B.html&quot; guid=&quot;_0VxJsMlgEdmt3adZL5Dmdw&quot;>Analyst&lt;/a>, to describe the remaining&#xD;
+    goals for the architecture and identify which ones are appropriate to address for this iteration. Examine the product&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/guidances/checklists/vision_E1FE2A1F.html&quot; guid=&quot;_0WoFUMlgEdmt3adZL5Dmdw&quot;>Vision&lt;/a>&amp;nbsp;and requirements. These goals will prioritize and guide&amp;nbsp;the&#xD;
+    approach to important&amp;nbsp;technical decisions.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It will be important to regularly review the status of these goals throughout the project to&amp;nbsp;make sure&amp;nbsp;that&#xD;
+    they are still valid and that the system is on track to deliver them.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_b-ueYNvOEduv2KOT-Teh6w" name="Identify architecturally significant requirements" guid="_b-ueYNvOEduv2KOT-Teh6w">
+    <sectionDescription>&lt;p>&#xD;
+    Identify which of the current requirements are architecturally significant.&amp;nbsp;Explore and refine those&amp;nbsp;that&#xD;
+    must be implemented in order to realize the architectural goals for the current iteration. See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/concepts/architecturally_significant_requirements_1EE5D757.html&quot; guid=&quot;_HrZGIA4MEduibvKwrGxWxA&quot;>Concept: Architecturally Significant Requirements&lt;/a>&amp;nbsp;and&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/determine_architecturally_significant_requirements_817DFD9B.html&quot; guid=&quot;_D3JXMNvKEduv2KOT-Teh6w&quot;>Guideline: Determine Architecturally Significant Requirements&lt;/a>&amp;nbsp;for more&#xD;
+    information.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Reference the architecturally significant requirements in the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/architecture_notebook_9BB92433.html&quot; guid=&quot;_0XAf0MlgEdmt3adZL5Dmdw&quot;>Architecture Notebook&lt;/a>&amp;nbsp;after they are identified. It will be important to review this list regularly in line with changes to&#xD;
+    requirements to make sure that they are still valid.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_9o6Z4CSCEdqDjNgZyGMf5w" name="Identify constraints on the architecture" guid="_9o6Z4CSCEdqDjNgZyGMf5w">
+    <sectionDescription>&lt;p>&#xD;
+    List any constraints on the architecture and any trade-offs between competing requirements and resources. Decide how&#xD;
+    the architecture will meet these issues. Justify each of the decisions made and capture this information. Regularly&#xD;
+    review the list of constraints to make sure that they are still valid and that no new ones have appeared.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_B899cMP2EdmWKcx6ixEiwg" name="Survey, assess and select available assets" guid="_B899cMP2EdmWKcx6ixEiwg">
+    <sectionDescription>&lt;p>&#xD;
+    Identify assets from other areas that may be reused in the current architecture. These could include:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Architectural frameworks&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Architectural mechanisms&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Architectural decisions&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Constraints&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Applications&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Components&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        COTS software&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_FVrlsMP2EdmWKcx6ixEiwg" name="Define approach for structuring the system" guid="_FVrlsMP2EdmWKcx6ixEiwg">
+    <sectionDescription>&lt;p>&#xD;
+    Decide how to structure&amp;nbsp;the software, both in logical and physical terms. As a minimum, decide on:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        How to partition the software when managing development (the use of layering as a partitioning strategy, for&#xD;
+        example).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        How the software will be composed at run time.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For each software partition, briefly describe&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Their name and purpose.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Their relationships to other partitions.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    These decisions will form the basis for structuring the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/design_D677D182.html&quot; guid=&quot;_0WuL8slgEdmt3adZL5Dmdw&quot;>Design&lt;/a>&amp;nbsp;and the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/build_95D7D8FD.html&quot; guid=&quot;_0YuXEMlgEdmt3adZL5Dmdw&quot;>Build&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_tmvWwE5cEducxZ_XZXh-vw" name="Define approach for deploying the system" guid="_tmvWwE5cEducxZ_XZXh-vw">
+    <sectionDescription>&lt;p>&#xD;
+    Outline how the software will deploy over the nodes on the network. Work with stakeholders such as network support and&#xD;
+    deployment teams to ensure that the proposed approach is a good fit for the wider technical environment.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_KBAsYMP2EdmWKcx6ixEiwg" name="Identify architectural mechanisms" guid="_KBAsYMP2EdmWKcx6ixEiwg">
+    <sectionDescription>&lt;p>&#xD;
+    Make a list of the&amp;nbsp;technical services that the system needs to provide and capture some basic information about&#xD;
+    each item on the list. It's generally a good idea to make an initial&amp;nbsp;list of all the mechanisms required for the&#xD;
+    project and then prioritize the development of those that need to be&amp;nbsp;delivered to achieve the goals of the current&#xD;
+    iteration. See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/concepts/arch_mech_2932DFB6.html&quot; guid=&quot;_mzxI0A4LEduibvKwrGxWxA&quot;>Concept: Architectural Mechanism&lt;/a>&amp;nbsp;to&amp;nbsp;understand what architecture&#xD;
+    mechanisms are and how to describe them. See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/architectural_mechanisms_62CFB6B7.html&quot; guid=&quot;_J6BKgNvIEduv2KOT-Teh6w&quot;>Guideline: Architectural Mechanisms&lt;/a> to understand how to develop them. See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/outline_the_architecture_35F1530A.html&quot; guid=&quot;_42UD4A3tEduibvKwrGxWxA&quot;>Guideline: Outline the Architecture&lt;/a> for perspectives and issues to consider when&#xD;
+    defining the architecture.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_I32E4MP2EdmWKcx6ixEiwg" name="Identify key abstractions" guid="_I32E4MP2EdmWKcx6ixEiwg">
+    <sectionDescription>&lt;p>&#xD;
+    Identify the key abstractions that the system needs to handle. These can usually be found&amp;nbsp;by looking for nouns&#xD;
+    that the requirements emphasize or repeat, because they help identify what is important to the business. The &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/glossary_5D300778.html&quot; guid=&quot;_Wn7HcNcEEdqz_d2XWoVt6Q&quot;>Glossary&lt;/a>&#xD;
+    is also a useful source for key abstractions as it is itself a list of business nouns. Not all nouns will be key&#xD;
+    abstractions in the system though, so work with the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/analyst_39D7C49B.html&quot; guid=&quot;_0VxJsMlgEdmt3adZL5Dmdw&quot;>Analyst&lt;/a> and &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/stakeholder_9FFD4106.html&quot; guid=&quot;_dTa6gMAYEdqX-s4mWhkyqQ&quot;>Stakeholder&lt;/a>&amp;nbsp;as they will&#xD;
+    have knowledge and materials that are relevant to this step.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_dzP6kNvPEduv2KOT-Teh6w" name="Verify architectural consistency" guid="_dzP6kNvPEduv2KOT-Teh6w">
+    <sectionDescription>The Architect works with the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/developer_C633AB7.html&quot; guid=&quot;_0YDosMlgEdmt3adZL5Dmdw&quot;>Developer&lt;/a> and &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/project_manager_E657F936.html&quot; guid=&quot;_0a0o0MlgEdmt3adZL5Dmdw&quot;>Project Manager&lt;/a> to verify that&#xD;
+the architecture is consistent with the requirements; and that the descriptions of the architecture are complete,&#xD;
+meaningful, and clear.</sectionDescription>
+  </sections>
+  <sections xmi:id="_xTdYACGAEdqk6N_Ot_YEvA" name="Capture architectural decisions" guid="_xTdYACGAEdqk6N_Ot_YEvA">
+    <sectionDescription>&lt;p>&#xD;
+    Capture&amp;nbsp;important decisions about the architecture for future reference. Consider using the templates provided for&#xD;
+    the &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/workproducts/architecture_notebook_9BB92433.html&quot; guid=&quot;_0XAf0MlgEdmt3adZL5Dmdw&quot;>Architecture Notebook&lt;/a>. &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/developer_C633AB7.html&quot; guid=&quot;_0YDosMlgEdmt3adZL5Dmdw&quot;>Developer&lt;/a>s in particular should&#xD;
+    clearly understand the current state of the architecture each iteration before developing the architecture.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>To provide sufficient guidance and direction for the team to begin or continue evolving the architecture.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

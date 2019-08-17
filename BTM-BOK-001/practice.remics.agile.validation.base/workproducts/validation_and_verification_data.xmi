@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xQgFzzz1OheW4aC5K7l8uQ" name="validation_and_verification_data,_FxNEXl5BEeKVU8eUCvi3Og" guid="-xQgFzzz1OheW4aC5K7l8uQ" changeDate="2013-08-23T04:10:16.724-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Validation and Verification Data&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Input data to be used during the vaidation and verification activities&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

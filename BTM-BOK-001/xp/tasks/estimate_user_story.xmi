@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Z9xFd9JTnJuNN5S27p06UQ" name="estimate_user_story,{23A924D3-5989-40DD-86A9-9D8FCFB8AE52}" guid="-Z9xFd9JTnJuNN5S27p06UQ" version="1.0.0">
+  <sections xmi:id="_oEqVQGE-EdqnIZeW8YpHcA" name=" Understand the User Story " guid="_oEqVQGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    To provide an estimate that is fairly accurate, the developers need to have a good grasp of the story. During release
+    planning, the customer describes each user story and presents acceptance test criteria. The developers can ask
+    questions until they are satisfied that they understand the most important aspects of what the customer is asking for.
+    Avoid analysis paralysis; there are many stories.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oEqVQWE-EdqnIZeW8YpHcA" name=" Discuss Possible Implementations " guid="_oEqVQWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    Sometimes the team can just estimate the story from their gut. Other times the story may not quite fit prior
+    experiences, and the team may have to explore potential design alternatives. Do not settle on a specific design. If
+    competing ideas take about the same amount of time, pick an estimate and move on to the next story. Avoid analysis
+    paralysis; there are many stories.
+&lt;/p>
+&lt;p>
+    When there is deep uncertainty, the team can request the time to do some research (spike) in order to give a more
+    realistic estimate.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oEqVQmE-EdqnIZeW8YpHcA" name=" Give an Estimate Based on Experience " guid="_oEqVQmE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step3&quot; name=&quot;Step3&quot;>&lt;/a> 
+&lt;p>
+    If the team has done similar work before, they simply extrapolate from previous work. For work the team is unfamiliar
+    with, a spike can provide just enough information to know what is possible and how long the effort is likely to last.
+    An experienced XP team can estimate most stories in a few minutes or less. Avoid analysis paralysis; there are many
+    stories.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oEqVQ2E-EdqnIZeW8YpHcA" name=" Ask the Customer to Split the Story " guid="_oEqVQ2E-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Ask&quot; name=&quot;Ask&quot;>&lt;/a> 
+&lt;p>
+    Story estimates should not exceed the iteration duration for a pair of programmers. If the estimate is too big, have
+    the customer split the story. People are better at estimating smaller pieces of work. Long estimates tend to go over
+    budget. It would not be uncommon to take a four-week story and break it down only to discover it is four two-week
+    stories.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_estimate_user_story__activity_definition&quot; name=&quot;XE_estimate_user_story__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Provide a high-level estimate that will be used in release planning.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

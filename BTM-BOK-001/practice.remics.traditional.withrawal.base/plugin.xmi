@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MQlPUMCTEemv0a6P8REMBA" guid="_MQlPUMCTEemv0a6P8REMBA">
+    <subManagers xmi:id="_MQtyMMCTEemv0a6P8REMBA" href="uma://_J3EsIDO9EeK5hZv7WCtlvg#_MQtyMMCTEemv0a6P8REMBA"/>
+    <resourceDescriptors xmi:id="_MQl2YMCTEemv0a6P8REMBA" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/withrawal.xmi"/>
+    <resourceDescriptors xmi:id="_MQqu4MCTEemv0a6P8REMBA" id="-1VMdFltYzc31vgGuu0GwPg" uri="tasks/identify_withdrawal_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_MQtLIMCTEemv0a6P8REMBA" id="_J3EsIDO9EeK5hZv7WCtlvg" uri="capabilitypatterns/withrawal/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_nuiMUMvjEeCphdH9-OcbCA" name="practice.remics.traditional.withrawal.base" guid="_nuiMUMvjEeCphdH9-OcbCA" changeDate="2013-01-11T07:19:47.895-0500">
+    <methodElementProperty xmi:id="_MQVXsMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMUcvjEeCphdH9-OcbCA" name="Content" guid="_nuiMUcvjEeCphdH9-OcbCA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMUsvjEeCphdH9-OcbCA" name="Categories" guid="_nuiMUsvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMU8vjEeCphdH9-OcbCA" name="Domains" guid="_nuiMU8vjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMVMvjEeCphdH9-OcbCA" name="Disciplines" guid="_nuiMVMvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMVcvjEeCphdH9-OcbCA" name="RoleSets" guid="_nuiMVcvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMVsvjEeCphdH9-OcbCA" name="WP Types" guid="_nuiMVsvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMV8vjEeCphdH9-OcbCA" name="Tools" guid="_nuiMV8vjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMWMvjEeCphdH9-OcbCA" name="StandardCategories" guid="_nuiMWMvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMWcvjEeCphdH9-OcbCA" name="CustomCategories" guid="_nuiMWcvjEeCphdH9-OcbCA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMWsvjEeCphdH9-OcbCA" name="Hidden" guid="_nuiMWsvjEeCphdH9-OcbCA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nuiMW8vjEeCphdH9-OcbCA" name="Custom Categories" guid="_nuiMW8vjEeCphdH9-OcbCA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nuiMXMvjEeCphdH9-OcbCA" name="CoreContent" guid="_nuiMXMvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fr050P4aEeCPJr8QQpNd-A" name="withrawal" guid="_fr050P4aEeCPJr8QQpNd-A" presentationName="Withrawal">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_i6cx8P4aEeCPJr8QQpNd-A" name="withrawal" guid="_i6cx8P4aEeCPJr8QQpNd-A" presentationName="Withrawal" briefDescription="This activity cover the implementation of mechanism for supporting the possible withrawal fo the system. Due to the " contentReferences="_lb1LwP4pEeC6H_i-fGXOUw _qRR3wP4pEeC6H_i-fGXOUw">
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lb1LwP4pEeC6H_i-fGXOUw" name="identify_withdrawal_procedures" guid="_lb1LwP4pEeC6H_i-fGXOUw" presentationName="Identify withdrawal procedures">
+            <presentation xmi:id="-1VMdFltYzc31vgGuu0GwPg" href="uma://-1VMdFltYzc31vgGuu0GwPg#-1VMdFltYzc31vgGuu0GwPg"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_22bVMP47EeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qRR3wP4pEeC6H_i-fGXOUw" name="implement_withdrawal_procedures" guid="_qRR3wP4pEeC6H_i-fGXOUw" presentationName="Implement withdrawal procedures">
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_22bVMP47EeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_OJvd8P4sEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_0Q8MkP4uEeC6H_i-fGXOUw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nuiMXcvjEeCphdH9-OcbCA" name="CapabilityPatterns" guid="_nuiMXcvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_J3EsIDO9EeK5hZv7WCtlvg" href="uma://_J3EsIDO9EeK5hZv7WCtlvg#_J3EsIDO9EeK5hZv7WCtlvg"/>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nuiMXsvjEeCphdH9-OcbCA" name="DeliveryProcesses" guid="_nuiMXsvjEeCphdH9-OcbCA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nuiMX8vjEeCphdH9-OcbCA" name="ProcessContributions" guid="_nuiMX8vjEeCphdH9-OcbCA"/>
+    <bases href="uma://_bvPv0MvjEeCphdH9-OcbCA#_bvPv0MvjEeCphdH9-OcbCA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

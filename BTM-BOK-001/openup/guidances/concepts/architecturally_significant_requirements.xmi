@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EytH4BCNGiHF6pZrp8ISCw" name="new_concept,_eFElAOK2EdqHEo0wLIc5jg" guid="-EytH4BCNGiHF6pZrp8ISCw" authors="Mark Dickson" changeDate="2006-07-07T07:53:04.786-0400" changeDescription="First Draft" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    Not all requirements have equal significance in the architecture.&amp;nbsp;Some play an important role in determining the&#xD;
+    architecture of the system, but others do not.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Deciding whether a specific requirement is architecturally significant is often a matter of judgment. Typically, these&#xD;
+    are requirements that are technically challenging, technically constraining, or central to the system's purpose.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    These are good examples of Architecturally Significant Requirements:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The system must record every modification to customer records for audit purposes.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The system must respond within 5 seconds.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The system must&amp;nbsp;deploy on Microsoft Windows XP and Linux.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The system must encrypt all network traffic.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The ATM system must dispense cash on&amp;nbsp;demand&amp;nbsp;to validated account holders with sufficient cleared funds.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

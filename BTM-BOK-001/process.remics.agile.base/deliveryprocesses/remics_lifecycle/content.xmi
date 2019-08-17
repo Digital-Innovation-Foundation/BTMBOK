@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-imsRKkgpcrkcYsqZl_5ldQ" name="exploitation,_1qigEfOYEeKoGYdq-8Z_HA" guid="-imsRKkgpcrkcYsqZl_5ldQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-IH-lDgzyxJP3jrTEZSwG-g" name="define_exploitation_plan,_48L3APOYEeKoGYdq-8Z_HA" guid="-IH-lDgzyxJP3jrTEZSwG-g">
+    <refinedDescription>&lt;h3>&#xD;
+    Define exploitation plan&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Define the exploitation plan for the migrated system. This may guide ti the identification of addtional exploitation&#xD;
+    procedures and requirements.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-hwLQtrEFAhMi0dhuCEMPiw" name="exploitation_plan,_48NFIPOYEeKoGYdq-8Z_HA" guid="-hwLQtrEFAhMi0dhuCEMPiw">
+    <refinedDescription>&lt;h3>&#xD;
+    Exploitation Plan&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Explotation plan describes the strategies, resources, schedule, etc for the usage of the system once it is finalized&#xD;
+&lt;/p>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PAfQa8VUZWKyKapBb6pX5A" name="identify_exploitation_procedures,_LZPsMAvXEeOhutvlRKZMkg" guid="-PAfQa8VUZWKyKapBb6pX5A">
+    <refinedDescription>&lt;h3>&#xD;
+    Identify Exploitation Procedures&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Identify those procedures necessary to carry out the explotation of the resulting system&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dEugpYpbq4n092IH1oB-Qg" name="actors,_LZQ6UAvXEeOhutvlRKZMkg" guid="-dEugpYpbq4n092IH1oB-Qg">
+    <refinedDescription>&lt;h3>&#xD;
+    Actors&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This deliverable enumerates any external entity human or system that is expected to interact with the future system. It&#xD;
+    is necessary to be identify the possible additional features required by them in the different phases of the system:&#xD;
+    migration, explotation, supervision and withdraval.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ao-V22iLAjEznUg0qyrvQw" name="system_idea,_LZQ6UgvXEeOhutvlRKZMkg" guid="-ao-V22iLAjEznUg0qyrvQw">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>System Idea&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The system idea is a document that contains a description of the future system mainly from the prespective of the&#xD;
+    product owner. The content of the document depends largely on the kind of system to be migrated, but among other&#xD;
+    specific issues it should address:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The new ways in which the stakeholder will interact with the new system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The parts of the system that will be migrated.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Constraints in the migration of those&amp;nbsp;parts.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GNlIy2-7vWW6D8w2ZPGe-Q" name="requirements_model,_LZQ6VAvXEeOhutvlRKZMkg" guid="-GNlIy2-7vWW6D8w2ZPGe-Q">
+    <refinedDescription>&lt;h3>&#xD;
+    Requirement Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This is an agregated deliverable that holds the information about the system and the addtional requirements from the&#xD;
+    requirements practices, it also includes the information about the recovered requirements and the validation&#xD;
+    procedures&amp;nbsp;defined in the validation phase.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YrH-5K3BJ5F_Xa_siXtnmQ" name="exploitation_procedures,_LZQ6VgvXEeOhutvlRKZMkg" guid="-YrH-5K3BJ5F_Xa_siXtnmQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Exploitation Procedures&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The explotation procedures describes the activities to be performed during the explotation of the system&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VfupvPm95kRlbd_OSgmkzg" name="additional_system_requirements,_LZQ6WAvXEeOhutvlRKZMkg" guid="-VfupvPm95kRlbd_OSgmkzg">
+    <refinedDescription>&lt;h3>&#xD;
+    Additional System Requirements&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The migration of a new system in most of the cases supposes an opportunitiy to introduce changes in the resulting new&#xD;
+    system over the previous one. These new or modified requirements where not present in the legacy system and therefore&#xD;
+    it is not possible to recover them from the analisis of the previous system.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tFbp6Jc0WfsUZDxA-Gl0eg" name="exploitation_team,__Qa_kQveEeOhutvlRKZMkg" guid="-tFbp6Jc0WfsUZDxA-Gl0eg">
+    <refinedDescription>&lt;h3>&#xD;
+    Exploitation Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The team that work in the explotation of the system&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-nqQK0yNT9V6IwZ7pr3o5yQ" name="withrawal,_iRkkIVi0EeKBXYc66RG5vg" guid="-nqQK0yNT9V6IwZ7pr3o5yQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dykLaC_blhtzBhxcamEPjA" name="identify_withdrawal_procedures,_kREWsFi0EeKBXYc66RG5vg" guid="-dykLaC_blhtzBhxcamEPjA">
+    <refinedDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Identify Withdrawal Procedures&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>With the description and the models of the systems (including requirements, the SOA model of the&#xD;
+    architecture, the Cloud model of the deployment, and implementation design) define the withdrawal procedures to be&#xD;
+    applied in case of stop of the service.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uxF_56qjjNGxSOCITy3Zaw" name="system_overview,_xwrxeF7eEeKFRuoPceMYcQ" guid="-uxF_56qjjNGxSOCITy3Zaw">
+    <refinedDescription>&lt;h3>&#xD;
+    System Overview&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The system overview redefines and extends the system idea in terms that can be understand by the development team.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SvVPzHzL0c3jkY4oZEdR1g" name="additional_system_requirements,_0DEq1V7eEeKFRuoPceMYcQ" guid="-SvVPzHzL0c3jkY4oZEdR1g">
+    <refinedDescription>&lt;h3>&#xD;
+    Additional System Requirements&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The migration of a new system in most of the cases supposes an opportunitiy to introduce changes in the resulting new&#xD;
+    system over the previous one. These new or modified requirements where not present in the legacy system and therefore&#xD;
+    it is not possible to recover them from the analisis of the previous system.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cM0Q5aK3cx9arcguDh7KdQ" name="requirements_model,_t7zHwftkEeKiy_TRaqF2Gg" guid="-cM0Q5aK3cx9arcguDh7KdQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Requirement Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This is an agregated deliverable that holds the information about the system and the addtional requirements from the&#xD;
+    requirements practices, it also includes the information about the recovered requirements and the validation&#xD;
+    procedures&amp;nbsp;defined in the validation phase.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-F3BNbfoBCSgsnPIsnkqjag" name="withdrawal_procedures,_srXzx_2rEeK8HINtOGo1Xg" guid="-F3BNbfoBCSgsnPIsnkqjag">
+    <refinedDescription>&lt;h3>&#xD;
+    Withdrawal Procedures&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It includes the activities to be done when terminating the system&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PycCDafBWt1w1aVwV4vIAg" name="system_idea,_LMo2Uf2vEeK8HINtOGo1Xg" guid="-PycCDafBWt1w1aVwV4vIAg">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>System Idea&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The system idea is a document that contains a description of the future system mainly from the prespective of the&#xD;
+    product owner. The content of the document depends largely on the kind of system to be migrated, but among other&#xD;
+    specific issues it should address:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The new ways in which the stakeholder will interact with the new system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The parts of the system that will be migrated.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Constraints in the migration of those&amp;nbsp;parts.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uu8khyuchDFlik6Y4AQG-A" name="actors,_LMpdYf2vEeK8HINtOGo1Xg" guid="-uu8khyuchDFlik6Y4AQG-A">
+    <refinedDescription>&lt;h3>&#xD;
+    Actors&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This deliverable enumerates any external entity human or system that is expected to interact with the future system. It&#xD;
+    is necessary to be identify the possible additional features required by them in the different phases of the system:&#xD;
+    migration, explotation, supervision and withdraval.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-N-h7ZsI1kZLSc3lx1uggOA" name="initiation,_nTmtMfOMEeKb3NsawrMs1A" guid="-N-h7ZsI1kZLSc3lx1uggOA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--mBZ3zDtLRenbvWbhbaMRQ" name="describe_system_idea,_ww8KUPOMEeKb3NsawrMs1A" guid="--mBZ3zDtLRenbvWbhbaMRQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tl9Ah_DY74YPiD6IAQkCnw" name="define_project_plan,_xGoGcPOMEeKb3NsawrMs1A" guid="-tl9Ah_DY74YPiD6IAQkCnw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Oen3ONUsqpRM8NM2efNgBA" name="project_plan,_xGoGcfOMEeKb3NsawrMs1A" guid="-Oen3ONUsqpRM8NM2efNgBA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Otv8Z449YOWVy5s-leA4vA" name="system_idea,_LY84YQA-EeOnBNRwFwwrAw" guid="-Otv8Z449YOWVy5s-leA4vA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cK5oGNGvf09Lr--W_mBgBg" name="scrum_master,_LZJFogA-EeOnBNRwFwwrAw" guid="-cK5oGNGvf09Lr--W_mBgBg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-I1urrN8adgJXqQ1XrbzX0Q" name="development_team,_YPhv8QBDEeOnBNRwFwwrAw" guid="-I1urrN8adgJXqQ1XrbzX0Q"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-345a0riNbs328R3nFDBIaw" name="product_owner,_YPiXAQBDEeOnBNRwFwwrAw" guid="-345a0riNbs328R3nFDBIaw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-4tkp1CBFely6SIkxZ0qesQ" name="initiation_team,_9Bum0QDPEeOA27TYHr-uJA" guid="-4tkp1CBFely6SIkxZ0qesQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fgQfnoRbmMhFkoYD9uYs0A" name="scrum_team,_8w78UQDQEeOA27TYHr-uJA" guid="-fgQfnoRbmMhFkoYD9uYs0A"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-a3znB2Md1RzsNX4rJ8GJWg" name="future_deployment,_mjg4YRCpEeOSL6of5eOufw" guid="-a3znB2Md1RzsNX4rJ8GJWg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TPdF9kzBZCJIXwmQ_xG5mQ" name="system_overview,_mjg4ZBCpEeOSL6of5eOufw" guid="-TPdF9kzBZCJIXwmQ_xG5mQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BJmJpyaK1FGi6t1EET22SQ" name="additional_system_requirements,_mjg4ZxCpEeOSL6of5eOufw" guid="-BJmJpyaK1FGi6t1EET22SQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-RXHJZCzZbWmaOpxeDC3DuQ" name="actors,_mjqpYRCpEeOSL6of5eOufw" guid="-RXHJZCzZbWmaOpxeDC3DuQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oWMczOWG8_63n-pq9d0OEQ" name="feasibility_report,_mjqpZBCpEeOSL6of5eOufw" guid="-oWMczOWG8_63n-pq9d0OEQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tCyFi8Gomb-1R27XNvhI8Q" name="glossary,_mjqpZxCpEeOSL6of5eOufw" guid="-tCyFi8Gomb-1R27XNvhI8Q"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fHoEOHtDUkvRCgt21O0P_Q" name="validation_criteria,_mjqpahCpEeOSL6of5eOufw" guid="-fHoEOHtDUkvRCgt21O0P_Q"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-L4_PlXXuqrf-VTTfGlL-LQ" name="define_migration_goals,_dAqFQBCtEeOSL6of5eOufw" guid="-L4_PlXXuqrf-VTTfGlL-LQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-0Ykd0q2GkSF6K5Bk-pSO2Q" name="prepare_product_backlog,_d04XgBCtEeOSL6of5eOufw" guid="-0Ykd0q2GkSF6K5Bk-pSO2Q"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TDqjFBdBBiJSyckZgfum7A" name="product_backlog,_wgg6wRCuEeOSL6of5eOufw" guid="-TDqjFBdBBiJSyckZgfum7A"/>
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-Zbu8qk0KvOBOqY0rQOv_3g" name="remics_lifecycle,_XGlxYclsEeCrm66MgLsmlQ" guid="-Zbu8qk0KvOBOqY0rQOv_3g">
+    <mainDescription>&lt;p>&#xD;
+    The REMICS Methodology Lifecycle follows an incremental process covering the following activity areas: Initiation,&#xD;
+    Requirements, Recovery, Migration, Validation, Supervision, Exploitation and Withdrawal.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Requirements, Recovery, Migration and Validation activity areas as highly iterative and can consists of serveral&#xD;
+    sprints. The number of sprints depends&amp;nbsp;on the degree of novelty of the business domain, the technology being used,&#xD;
+    architectural complexity, and project size, to name a few factors. Sprints&amp;nbsp;may have variable lengths, depending on&#xD;
+    project characteristics. Sprints between 2-4 weeks are&amp;nbsp;typically recommended, because this timeframe provides:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A reasonable amount of time for projects to deliver meaningful increments in functionality.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Early and frequent customer feedback.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Timely management of risks and issues during the course of the project.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Promote collaboration (both internal and external to the team), to align interests and share understanding&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Help the team focus on the architecture early, to minimize risks and organize development&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Help the team balance competing priorities to maximize stakeholder value&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Help the team evolve the product to continuously obtain feedback and improve&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Allow project managers to track status based on goals&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Allow team members to understand how to perform their work to achieve project goals&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+</xmi:XMI>

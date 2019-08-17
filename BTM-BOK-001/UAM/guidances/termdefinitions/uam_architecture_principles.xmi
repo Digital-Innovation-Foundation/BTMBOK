@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ntq91Q-79lX7MXzyaWc-PQ" name="uam_arch_principles,_7X6-ULX8EeSeNe6SxZNlbg" guid="-Ntq91Q-79lX7MXzyaWc-PQ" changeDate="2015-02-16T11:58:16.725-0500" version="7.5.1">
+  <mainDescription>Architecture Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and&#xD;
+support the way in which an organization sets about fulfilling its mission. Information Technology (IT) principles provide&#xD;
+guidance on the use and deployment of all IT resources and assets across the enterprise. They are developed in order to&#xD;
+make the information environment as productive and cost-effective as possible. Architecture principles are a subset of IT&#xD;
+principles that relate to architecture work. They reflect a level of consensus across the enterprise, and embody the spirit&#xD;
+and thinking of the enterprise architecture. (&lt;a href=&quot;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap29.html&quot;&#xD;
+target=&quot;_blank&quot;>TOGAF 2006&lt;/a>)&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

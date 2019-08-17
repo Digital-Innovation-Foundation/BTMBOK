@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-9P0wUMwTmvPdt3dtyojy-w" name="new_bpl_role,_U0zR0MblEeK4P8KZ6MNYcg" guid="-9P0wUMwTmvPdt3dtyojy-w" changeDate="2013-05-27T11:52:33.820-0400">
+  <problem>A Distribution Manager is responsible for publishing newly created and 'released' reports, and ensuring that these reports&#xD;
+are flagged for onward distribution to required Customers. The Distribution&amp;nbsp; Manager ensures that newly published&#xD;
+Reports are forwarded to required Customers, and to Analysts as well.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

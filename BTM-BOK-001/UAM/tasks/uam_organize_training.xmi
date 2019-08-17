@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oVBaPEHuiKivhFfXmqzqew" name="uam_organise_training,_RaKHAGNqEeSFL7Sh0MlmKA" guid="-oVBaPEHuiKivhFfXmqzqew" changeDate="2014-11-03T10:03:23.705-0500" version="2.0.0">
+  <mainDescription>This task is focused on organizing the development of a training course based upon&amp;nbsp;an IT architecture. The course may&#xD;
+focus on the complete generated IT architecture, or may focus on a portion of the architecture. Appropriate materials are&#xD;
+gathered, venues booked and participants notified.</mainDescription>
+  <sections xmi:id="_RaKHA2NqEeSFL7Sh0MlmKA" name="Decide on Objectives" guid="_RaKHA2NqEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Decide on the focus of the training course from the following aspects:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Target Audience&lt;/strong> - what will be the target audience: users, operators, developers, maintainers or&#xD;
+        implementors;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Scope&lt;/strong> - will the course provide&amp;nbsp;training on the complete system, or only a portion of the&#xD;
+        system;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Focus&lt;/strong>&amp;nbsp;- will the course focus on user, maintainer, or operations aspects, or a combination.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Once the objectives of the training course are agreed then the required set of source material can be defined. Part of&#xD;
+    this step is to also define the list of required participants based upon these objectives.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_RaKHAWNqEeSFL7Sh0MlmKA" name="Gather Required Information" guid="_RaKHAWNqEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The required source information about the IT&amp;nbsp;architecture is gathered. For example, the following information will&#xD;
+    be of use for defining a more technical level course:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Business Perspective documentation;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Project and business plans and objectives;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Logical and Technical Perspective documentation;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Network logical and physical designs (i.e. the Location aspects);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Server environment and configuration, software versions, etc. (i.e. the Location aspects);&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Existing enterprise standards (network, naming, protocols, and so on).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    These documents should be collated and made available to those participating in the creation of the training course.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_RaKHAmNqEeSFL7Sh0MlmKA" name="Inform Attendees" guid="_RaKHAmNqEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Each&amp;nbsp;attendee is given sufficient notice about the course production, and what&amp;nbsp;is expected of them in terms&#xD;
+    of both preparatory work and their involvement in the process. As general guidance, you should consider the following&#xD;
+    when inviting attendees to participate in the course creation meetings (specific vary depending on the course&#xD;
+    objectives):&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Direct users of the 'system', and also testing and documentation staff;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Domain or subject-matter experts for the system;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Business experts or IT experts with experience in the domain or technology;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Maintainers of the system or technology involved.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Include only those participants who will contribute to achieving the objectives of the course. You can also hold&#xD;
+    several focused sessions with a smaller number of participants in order to create or review the course content.&#xD;
+&lt;/p>&lt;br /></sectionDescription>
+  </sections>
+  <purpose>IT architectures provide excellent source material for defining training courses. These courses may provide training at&#xD;
+many levels within the enterprise, from an overview of the enterprise's and its operations to specific training on an&#xD;
+architected system within the enterprise. This training is often developed in parallel with the IT architecture, but after&#xD;
+the Business and perhaps further perspectives have been defined.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

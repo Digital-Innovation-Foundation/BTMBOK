@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Y79BlbeKTDfhgw-SDxSpvg" name="uam_define_tech_roles,_UbSvgN5TEdyg17nU3bVmlA" guid="-Y79BlbeKTDfhgw-SDxSpvg" authors="DW Enstrom" changeDate="2014-10-24T11:52:53.514-0400" changeDescription="New" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot;>This task defines, at the technical level, the actors and roles involved in the architecture in question.&#xD;
+    Roles (and associated actors) are very important to any business in terms of the activities and processes that the&#xD;
+    roles execute. This model directly impacts upon the technologies chosen to support the interactions that these roles&#xD;
+    have with the defined tasks and processes.&lt;/font>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-CA; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot;>The Logical Roles Model and Technical Process Model are used, along with input from stakeholders, to&#xD;
+    define and refine the Technical Roles Model.&lt;/font>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_faZuIN5jEdyg17nU3bVmlA" name="Define the technical roles" guid="_faZuIN5jEdyg17nU3bVmlA">
+    <sectionDescription>&lt;p>&#xD;
+    Based upon the Logical Roles Model and&amp;nbsp;Logical Process Model, define or refine the Technical Roles Model by adding&#xD;
+    more detail regarding the definitions at the technical level including their interactions with technical level&#xD;
+    activities. The refinement, and perhaps decomposition into more detailed tasks (or sub-processes) will result in the&#xD;
+    refinement of roles, and perhaps the identification of new roles.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Refine the need for security domains and zones (see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/whitepapers/uam_security_reference_model_3EA07B63.html&quot;&#xD;
+    guid=&quot;_KGs_oMX8EdyDYN2-y9-AqA&quot;>Whitepaper: A Reference Model for Enterprise Security&lt;/a>), which may be viewed as the&#xD;
+    need for specific&amp;nbsp;&quot;roles&quot;, for example a business's Internet presence may be viewed as a logical role (&quot;online&#xD;
+    banker&quot; for example)&amp;nbsp;accessible to all, whereas the business's Intranet (&quot;teller banker&quot; for example) will only be&#xD;
+    accessible by employees. Choices are made, and documented in Architectural Decisions, regarding the technologies to be&#xD;
+    used for authentication and authorization as well as presentation layer technologies.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Ly9_EN5kEdyg17nU3bVmlA" name="Refine the role relationships" guid="_Ly9_EN5kEdyg17nU3bVmlA">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Using the Logical Roles Model,&amp;nbsp;Logical Process Model, Technical Process Model&amp;nbsp;or other sources of&#xD;
+    information, determine if there are interactions between roles. These interactions, which are executed and supported&#xD;
+    through one or more business activities (tasks or processes), should confirm the workflow defined in the Technical&#xD;
+    Process Model. Consult the Technical Process Model to be sure that&amp;nbsp;all interactions are defined and are&#xD;
+    consistent.&amp;nbsp;The objective is to understand how roles (and perhaps actors) collaborate in executing tasks and&#xD;
+    processes, which influence design choices and may also result in the refinement of actors and roles (i.e. combining of&#xD;
+    roles or separation into two or more roles).&amp;nbsp;This information will influences the technology approach and&#xD;
+    technical solutions.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_sS2KwN5kEdyg17nU3bVmlA" name="Evaluate your results" guid="_sS2KwN5kEdyg17nU3bVmlA">
+    <sectionDescription>A Technical Roles Model is complete only when it describes every role involved in business processes (within the given&#xD;
+scope). Before you finish, make sure the model exhibits the characteristic properties of a good model. See: &lt;a&#xD;
+class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/checklists/uam_actor_B0306C90.html&quot;&#xD;
+guid=&quot;_29AN0OPqEdy7f9KmjDtwsA&quot;>Checklist: Actor and Role Checklist&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/guidances/guidelines/uam_technical_roles_model_2810123A.html&quot; guid=&quot;_NNxk0O-qEdy8F4k6ANL48Q&quot;>Guideline:&#xD;
+Technical Roles Model&lt;/a>.</sectionDescription>
+  </sections>
+  <purpose>&lt;p style=&quot;MARGIN: 0in 0in 6pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+    This task finds and defines the roles involved in the architecture in question. Specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the technical level roles;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the technical level actors;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine relationships that need to be supported between roles, if any;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine relationships needed between roles and actors;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the structure of actors&amp;nbsp;and of roles, if any;&amp;nbsp;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt; TEXT-INDENT: 0in; mso-list: none; tab-stops: .5in&quot;>&#xD;
+            Define or refine the technical level&amp;nbsp;activities and tasks&amp;nbsp;that the roles interact with.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Dy-EO3NN4IXJajtwXtZxIA" name="ea_roadmaps,_BxvXcMYKEdyDYN2-y9-AqA" guid="-Dy-EO3NN4IXJajtwXtZxIA" changeDate="2018-03-26T16:30:24.456-0400" version="2.0">
+  <mainDescription>&lt;p>&#xD;
+    The defined UAM roadmaps are as follows:&#xD;
+&lt;/p>&lt;a id=&quot;XE_UAM__roadmaps&quot; name=&quot;XE_UAM__roadmaps&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Processes&lt;/strong> - guidance regarding the development of IT architectures;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Governance&lt;/strong> - guidance regarding the IT governance process, within UAM and externally;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>AD Governance&lt;/strong> - suggested governance for Architectural Decisions.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Also see: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/concepts/uam_uma_guidance_405C8A19.html&quot;&#xD;
+    guid=&quot;_tQiy8DEkEeiooN8Zakj4QQ&quot;>Concept: Guidance&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

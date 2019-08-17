@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Bw06pRhNyKIj62em3M1KAA" name="new_term_definition,_ACBrELX_EeSeNe6SxZNlbg" guid="-Bw06pRhNyKIj62em3M1KAA" changeDate="2015-02-16T12:13:06.187-0500" version="7.5.1">
+  <mainDescription>See: &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_aspect_location_87FC1DEA.html&quot;&#xD;
+guid=&quot;_D9bAAMI6EeKSedlRPHdUIQ&quot;>Term Definition: Aspect: Location&lt;/a>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

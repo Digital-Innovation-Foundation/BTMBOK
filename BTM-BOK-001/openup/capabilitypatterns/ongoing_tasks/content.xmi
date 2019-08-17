@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_mtb-9PL5Edm6Nvont3uinw" guid="_mtb-9PL5Edm6Nvont3uinw" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This activity includes a single task, &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/tasks/request_change_A048C387.html&quot; guid=&quot;_0mwzEclgEdmt3adZL5Dmdw&quot;>Request Change&lt;/a>. This task may occur any time during the lifecycle in response to an observed defect, a desired&#xD;
+    enhancement, or a change request. It is not planned, which means that it does not appear as a scheduled activity&#xD;
+    on the project plan, iteration plan, or work items list. Nevertheless, it is a critical activity that must be performed&#xD;
+    to ensure project success, because your environment is not static.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/any_role_C36B701F.html&quot; guid=&quot;_0dsWoMlgEdmt3adZL5Dmdw&quot;>Any Role&lt;/a> may perform this task, however the most common sources of &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/guidances/concepts/change_requests_AD4868FE.html&quot; guid=&quot;_6jdvECb3Edqh1LYUOGRh2A&quot;>Change Requests&lt;/a> are &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/stakeholder_9FFD4106.html&quot; guid=&quot;_dTa6gMAYEdqX-s4mWhkyqQ&quot;>Stakeholder&lt;/a>s (enhancement requests and change requests) and &lt;a class=&quot;elementLink&quot; href=&quot;./../../openup/roles/tester_9859B590.html&quot; guid=&quot;_0ZM4MclgEdmt3adZL5Dmdw&quot;>Tester&lt;/a>s (defect reports).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

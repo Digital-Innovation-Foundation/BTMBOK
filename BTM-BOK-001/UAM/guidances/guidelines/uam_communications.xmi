@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-4Rb1x_SECYdYzlDz11EOAQ" name="uam_communications,_agWzwLhfEeSeNe6SxZNlbg" guid="-4Rb1x_SECYdYzlDz11EOAQ" authors="DW Enstrom" changeDate="2015-02-19T12:50:46.543-0500" changeDescription="new" version="1.0.0">
+  <mainDescription>&lt;h3>&#xD;
+    Introduction&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    In &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../../UAM/guidances/concepts/uam_it_architecture_193573CD.html&quot;&#xD;
+    guid=&quot;_XTWLgN_kEdynr9jlfK-aMA&quot;>Concept: IT Architecture&lt;/a>&amp;nbsp;outlined the concept of &lt;i>viewpoints (views and&#xD;
+    aspects)&lt;/i> that are used to describe the IT architecture of a &quot;system&quot;.&amp;nbsp;A Business Location is one of the&#xD;
+    aspects, or vertical slices through the architecture, that defines and models a view that is useful in understanding&#xD;
+    the enterprise and its operation. Note that &lt;em>location&lt;/em> has a physical connotation, which is used in this view of&#xD;
+    the system, but it is abstracted to the three different levels in the IT architecture, namely &lt;em>Business&#xD;
+    (conceptual)&lt;/em>, &lt;em>Logical (logical)&lt;/em>&amp;nbsp;and &lt;em>Technical (physical)&lt;/em>.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Communications&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    In general, the&amp;nbsp;&lt;em>communications&lt;/em> modeling element represents&amp;nbsp;the communications between locations that&#xD;
+    are part of the &quot;system&quot;. They start off at the Business level being very abstract, and are more physical as further&#xD;
+    levels are defined.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    From a modeling perspective, &lt;em>communications&lt;/em> represents the wide-area-network (WAN) level of communications;&#xD;
+    communications between different locations. As IP network modeling elements are introduced starting at the Logical&#xD;
+    level, these elements simply have &lt;em>relationships&lt;/em> defined, which represent the required communications between&#xD;
+    them. The notion evolves slightly as on moves closer to the physical level of modeling:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business level&lt;/strong> communications represents the &lt;em>conceptual&lt;/em> communications, of any type,&#xD;
+        between &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/termdefinitions/uam_business_location_F453EAB5.html&quot;&#xD;
+        guid=&quot;_YhpKoMI9EeKSedlRPHdUIQ&quot;>Business Location&lt;/a>s. It is an abstract element that is specified as a generalized&#xD;
+        business link between locations, representing anything from physical movement of goods, to the electronic&#xD;
+        communications most familiar to all. At a Business level, simple links with no technical details are defined with&#xD;
+        optional definition of processes that traverse these links. See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../UAM/guidances/guidelines/uam_business_locations_model_BF632121.html&quot;&#xD;
+        guid=&quot;_LEYwkOSgEdyYxtlRIMoTnw&quot;>Guideline: Business Locations Model&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Logical level&lt;/strong> communications represents the &lt;em>logical&lt;/em> communications, of any type, between&#xD;
+        Logical Locations. It is an abstract element that is specified as a generalized Logical WAN Link in logical level&#xD;
+        models. At a Logical level, these links may have generic technical details added, and optionally&#xD;
+        the&amp;nbsp;definition of processes that traverse these links.&amp;nbsp;See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../UAM/guidances/guidelines/uam_logical_locations_model_C5E9456.html&quot;&#xD;
+        guid=&quot;_Fb2ngOSwEdyYxtlRIMoTnw&quot;>Guideline: Logical Locations Model&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical level&lt;/strong> communications&amp;nbsp;represent the &lt;em>physical&lt;/em>&amp;nbsp;communications, of any&#xD;
+        type, between Technical Locations. It is an abstract element that is specified as a generalized Technical WAN Link&#xD;
+        in technical level models. At a Technical level, these links may have specific technical details added, and&#xD;
+        optionally the&amp;nbsp;definition of processes that traverse these links.&amp;nbsp;See: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../UAM/guidances/guidelines/uam_technical_locations_model_35A606DB.html&quot;&#xD;
+        guid=&quot;_MJxRAOSwEdyYxtlRIMoTnw&quot;>Guideline: Technical Locations Model&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

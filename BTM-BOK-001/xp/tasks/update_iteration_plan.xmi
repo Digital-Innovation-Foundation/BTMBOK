@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cU3MzukpGPAtw0wSS23R-g" name="update_iteration_plan,{653F1EF4-2BE5-4CCB-80E7-17CE02B081DC}" guid="-cU3MzukpGPAtw0wSS23R-g" version="1.0.0">
+  <sections xmi:id="_oOzvwmE-EdqnIZeW8YpHcA" name="Gather the Information " guid="_oOzvwmE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    The team is responsible for keeping track of its project. Tasks that are completed are marked on the iteration plan. If
+    anyone on the team realizes that the team is behind schedule, at any time, the customer is informed as soon as
+    possible. The customer can then decide how to change the plan. The tracker may be the first to notice that the
+    iteration is in jeopardy. An XP team is considered behind schedule if half the work is not finished halfway through the
+    iteration. Ideally, this could be measured by observing that half the customer tests pass halfway through the
+    iteration.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oOzvw2E-EdqnIZeW8YpHcA" name="Update the Plan " guid="_oOzvw2E-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    When it is likely that not all the stories in the release will be finished, the customer must reduce scope. Extending
+    the iteration is not an option. The customer either removes whole stories or splits stories and removes scope.
+&lt;/p>
+&lt;p>
+    When the team has excess capacity in the iteration, the customer is informed. The customer adds additional stories to
+    fill the iteration . Customers like it when this happens.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oOzvxGE-EdqnIZeW8YpHcA" name="Communicate the Plan " guid="_oOzvxGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step3&quot; name=&quot;Step3&quot;>&lt;/a> 
+&lt;p>
+    The whole team should be made aware of any changes in the iteration plan so they can focus on the right tasks.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_adjust_iteration_scope__activity_definition&quot; name=&quot;XE_adjust_iteration_scope__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        To allow the customer to react to the team underestimating or over estimating the amount of work that can be&#xD;
+        accomplished in the current iteration.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

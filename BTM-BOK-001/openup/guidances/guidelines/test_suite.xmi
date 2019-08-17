@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_s60KoMM3EdmSIPI87WLu3g" name="test_suite,_0aDz0MlgEdmt3adZL5Dmdw" guid="_s60KoMM3EdmSIPI87WLu3g" changeDate="2007-05-30T11:23:50.281-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Test suites help manage the complexity of the test implementation. Many system test efforts fail because testers get&#xD;
+    lost in the minutia of all of the detailed tests, and struggle to organize work and communicate results at an&#xD;
+    appropriate level of detail. Much like UML packages, test suites provide a hierarchy of encapsulating containers to&#xD;
+    help manage the test implementation. They collect tests together in related groups that can be planned, managed, and&#xD;
+    assessed in a meaningful way.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This might be one or more automated regression test suites, but a test suite can also be a work plan for implementing a&#xD;
+    set of related manual test scripts. Test suites can be nested hierarchically, so one test suite can contain others.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Consider creating test suites that arrange the available test scripts, in addition to other test suites, in many&#xD;
+    different combinations: the more variations you have, the more you'll increase coverage and the potential for finding&#xD;
+    errors. Give thought to a variety of test suites that will cover the breadth and depth of the target test items.&#xD;
+    Remember that a single test script (or test suite) may appear in many different test suites, so your tools should&#xD;
+    prevent unnecessarily repeated runs of the same test.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    At a minimum, it's a good practice to start by organizing suites along the lines of major functional areas in the&#xD;
+    application. However, test suites might also relate directly to a subsystem or other system design element, or to&#xD;
+    requirements such as quality dimensions,&amp;nbsp;standards compliance, and other requirements&amp;nbsp;concerns that cut&#xD;
+    across the internal system elements.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Some test automation tools provide the ability to automatically generate or assemble test suites.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

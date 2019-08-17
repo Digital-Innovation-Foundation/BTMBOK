@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-B85xcO7BoLEbtwHwUZAeJQ" name="uam_migration_plan,_27pxENgEEdyPdoI9d5Dn-Q" guid="-B85xcO7BoLEbtwHwUZAeJQ" changeDate="2015-11-30T16:31:37.934-0500" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    Migration Plans can be quite complex. This template tries to organize&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Various formats are provided below: Microsoft Word (.dotx and .dot), PDF (.pdf) and Open XML Paper Specification&#xD;
+    (.xps).&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/Architecture-Migration-Plan.pdf|resources/Architecture-Migration-Plan.dot|resources/Architecture-Migration-Plan.dotx|resources/Architecture-Migration-Plan.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

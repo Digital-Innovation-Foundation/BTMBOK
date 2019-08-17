@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VaTQ0VAcUy168vnCBxEmGQ" name="factors_for_tailoring_the_remics_methodology,_OmTCwPOIEeKb3NsawrMs1A" guid="-VaTQ0VAcUy168vnCBxEmGQ" changeDate="2013-07-23T07:10:26.684-0400">
+  <mainDescription>&lt;p>&#xD;
+    Factors that should be considered when deciding whether to apply the agile REMICS Methodology using Scrum-of-Scrums or&#xD;
+    traditional Scrum in a project are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Project volume:&lt;/strong> Project volume includes factors such as project size, team size and number of&#xD;
+        teams assigned to the project. The Scrum-of-Scrums method is designed for bigger projects where more people work on&#xD;
+        different activities.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Availability of system knowledge:&lt;/strong> If there is not enough understanding of the functionality of the&#xD;
+        legacy system before the start of the project and the system knowledge is to be recovered during the project, then&#xD;
+        the Scrum-of-Scrum approach is more appropriate. On the other hand, if a great deal of system functionality is&#xD;
+        available in advance and the project starts with clear requirements, then one might consider using the&#xD;
+        lighter-weight Scrum approach.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Team homogeneity:&lt;/strong> The team homogeneity considers to what extent the team members can communicate&#xD;
+        and share knowledge among them. If the team consists only of highly specialized experts and each of them can&#xD;
+        perform only specific tasks in the sprints, then the Scrum-of-Scrums approach with more homogeneous modernization&#xD;
+        teams is more appropriate.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Functional modularity:&lt;/strong> If the legacy system could be easily recovered and migrated on functional&#xD;
+        modules then traditional Scrum approach might be considered for deployment.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Level of automation:&lt;/strong> If the modernisation process doesn’t support high level of automation then&#xD;
+        the Scrum-of-Scrums is more appropriate since more time is needed to perform all of the activities involved in the&#xD;
+        modernisation of particular legacy functionality.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

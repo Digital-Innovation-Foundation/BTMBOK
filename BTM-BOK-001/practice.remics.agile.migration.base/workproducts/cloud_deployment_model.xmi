@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CpsGVpmFGndy-d3C_JAH-A" name="new_artifact,_aBiIMApLEeOBM7QWB5hbCw" guid="-CpsGVpmFGndy-d3C_JAH-A" changeDate="2013-08-21T07:42:26.154-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Cloud Deployment Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It specifies the cloud and the location of the different components in the cloud&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

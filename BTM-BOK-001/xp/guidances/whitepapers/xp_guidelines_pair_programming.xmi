@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ymu8T1hQ_QoxCaNAQhD9AA" name="rup_xp_guidelines_pair_programming,7.290386721197834E-306" guid="-Ymu8T1hQ_QoxCaNAQhD9AA" changeDate="2006-11-29T18:10:56.067-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_XP__Pair_Programming&quot; name=&quot;XE_XP__Pair_Programming&quot;>&lt;/a> 
+&lt;address>
+    By Robert C. Martin&lt;br />
+     Object Mentor, Inc.&lt;br />
+     &lt;a href=&quot;http://www.objectmentor.com&quot; target=&quot;_blank&quot;>www.objectmentor.com&lt;/a>
+&lt;/address>
+All Rights Reserved.&amp;nbsp; 
+&lt;p>
+    A &lt;a href=&quot;resources/xppair.pdf&quot; target=&quot;_blank&quot;>PDF version&lt;/a> of this article is available, however, you must have
+    &lt;a href=&quot;http://www.adobe.com/products/acrobat/alternate.html&quot; target=&quot;_blank&quot;>Adobe Acrobat&lt;/a> installed to view it.
+&lt;/p>
+&lt;h3>
+    Abstract
+&lt;/h3>
+&lt;p>
+    Pair programming is a well-tested, well accepted alternative to code reviews. More than that, it's a fundamentally
+    different way to write software. The benefits go far beyond productivity and quality, and affect such things as the
+    robustness and morale of the team.
+&lt;/p>
+&lt;br />
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

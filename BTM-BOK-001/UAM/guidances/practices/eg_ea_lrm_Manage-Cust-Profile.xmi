@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sOwT1qxj0M7OD5HP3Ejo1Q" name="eg_ea_lrm_Manage-Cust-Profile,_fRAdsLOEEeOTralbgKSHFw" guid="-sOwT1qxj0M7OD5HP3Ejo1Q" changeDate="2015-02-07T14:34:34.088-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Manage Customer Profile Process with Roles in context&quot;&#xD;
+    src=&quot;./resources/EA-Logical-LRM-Manage-Cust-Profile.png&quot; />&amp;nbsp;&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Account Manager Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Account Managers use various activities to ensure Customer profiles are up to date and that customers needs are&#xD;
+    addressed.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the Receive Customer Input and Update Customer Profile activities.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

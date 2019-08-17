@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fm-gBePbdl_WMsE5NxEreQ" name="automate_acceptance_test,{E614ED93-AE72-4FD1-B459-C508CE1C536F}" guid="-fm-gBePbdl_WMsE5NxEreQ" version="1.0.0">
+  <sections xmi:id="_oNCOIGE-EdqnIZeW8YpHcA" name=" General " guid="_oNCOIGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Prep&quot; name=&quot;Prep&quot;>&lt;/a> 
+&lt;p>
+    XP teams represent detailed requirements as automated customer tests. Automating the tests insures they are detailed,
+    unambiguous, and executable. Typically, each acceptance criteria is translated into at least one automated test.
+&lt;/p>
+&lt;p>
+    There are lots of ways to do this:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        For a batch program reading inputs and producing outputs: create test input files, capture actual output, and
+        compare it against expected output.
+    &lt;/li>
+    &lt;li>
+        Write functional tests as programs. You can use a unit testing framework as a base or create a little scripting
+        language the programmers can use.
+    &lt;/li>
+    &lt;li>
+        Allow the customer to easily specify tests (spreadsheets, flat text files) and create a small tool to read the
+        input and expected output. The tool runs the input against the system and checks that the actual output matches the
+        expected output.
+    &lt;/li>
+    &lt;li>
+        Build an input recorder to allow customers to define the tests.
+    &lt;/li>
+    &lt;li>
+        Use simple file-based tools to check the results.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    It is important to build the automation simply and incrementally as you need it. It is too easy to lose control and
+    invest too much time in test automation instead of business value. Don't overdo it.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_automate_customer_test__activity_definition&quot; name=&quot;XE_automate_customer_test__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Transform the acceptance criteria of a user story into executable form.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

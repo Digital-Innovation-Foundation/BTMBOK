@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-Zu_-MjzSU4APeGJIcKOEnw" name="uam_business_roles_model,_WonTIMOuEdyILM4NThxMFg" guid="-Zu_-MjzSU4APeGJIcKOEnw" changeDate="2015-02-12T12:09:33.831-0500" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    A Business Roles Model is created (at least a subset) very early during the architecture development, and fully&#xD;
+    detailed and adjusted as the architecture progresses. This artifact is enclosed within the Business Perspective&#xD;
+    artifact.&#xD;
+&lt;/p>&lt;a id=&quot;XE_Business_Perspective__Business_Roles_Model&quot; name=&quot;XE_Business_Perspective__Business_Roles_Model&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The Business Roles Model is a way of expressing the Business Activities&amp;nbsp;interacted with by&amp;nbsp;Actors. Actors are&#xD;
+    conceptual at the highest level. The types of Actors and interactions they have with Business Activities are what are&#xD;
+    modeled. Business Activities in this context equate to &quot;business interactions&quot;, which will be detailed more at the&#xD;
+    Logical and Technical levels. Note that only Actors are defined at the Business level since defining Roles requires&#xD;
+    that a &quot;automate&quot; vs. &quot;manual&quot; decision to be made, which is not done at the Business level; this is left to the&#xD;
+    Logical level.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This information is important in deciding (in later models) on the presentation architecture activities / services, so&#xD;
+    that usability concerns, integration concerns (and the user level) and other issues are understood. Security&#xD;
+    implications are also derived from this model, but only starting at the Logical level (i.e.,&amp;nbsp;access to information&#xD;
+    / services may be controlled based upon a user's Role). &lt;span>It is important to clearly define the Business Actors and&#xD;
+    the interactions that they have with the system. This information is used by stakeholders, business-process analysts&#xD;
+    and business designers to understand and improve the way the business interacts with its environment, and by systems&#xD;
+    analysts and software architects to provide context for software development.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    The Business Roles Model defines the high-level Business Actors involved in the system, as defined by the scope of the&#xD;
+    modeling effort. The objective is to clearly define the Business Actors involved, and the sorts of interactions they&#xD;
+    have with the&amp;nbsp;system.&#xD;
+&lt;/p></purpose>
+  <impactOfNotHaving>&lt;p>&#xD;
+    Failure to produce this model means you run the risk that architects and designers will give only superficial attention&#xD;
+    to the way the business operates. They will do what they know best, which is to design and build systems in the absence&#xD;
+    of proper business knowledge. The result often is that the constructed systems do not support the need of the business.&#xD;
+&lt;/p></impactOfNotHaving>
+  <representationOptions>&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>: Package stereotyped as «BPL_BRM» containing class diagrams.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A &lt;strong>Business Roles Model&lt;/strong> may have the following properties:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Introduction:&lt;/strong> A textual description that serves as a brief introduction to the model.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Packages:&lt;/strong> The packages in the model, representing a hierarchy.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Role&lt;/strong>: The Roles in the model, owned by the packages stereotyped as&amp;nbsp;«BPL_Role».&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Actor:&lt;/strong> The Actors in the model, owned by the packages stereotyped as&amp;nbsp;«BPL_Actor».&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Relationships:&lt;/strong> The relationships in the model, owned by the packages.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Diagrams:&lt;/strong> The diagrams in the model, owned by the packages.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    If the purpose of the business modeling effort is business process re-engineering the target organization, you should&#xD;
+    consider maintaining two variants of the Business Roles Model: one that shows the business actors and business&#xD;
+    activities of the current organization (sometimes called &quot;as-is&quot;), and one that shows the target organization with new&#xD;
+    business actors and business activities (&quot;to-be&quot;). This separation is needed when doing business process&#xD;
+    re-engineering, otherwise the redesign will be developed without knowing what the proposed changes really are at the&#xD;
+    end, and you will not be able to estimate the costs of those changes.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The cost of maintaining two Business Roles Models is not insignificant, and you should carefully consider how much&#xD;
+    effort you put into a current model. Typically, you would not do more than identify and briefly describe the business&#xD;
+    activities and business actors. You would also briefly outline the business activities you determine are key to the&#xD;
+    effort, possibly illustrating this with a simple activity diagram. The level of detail you choose should aim at&#xD;
+    providing a shared understanding of the target organization.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    You would not need this separation if:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        There is no &quot;new&quot; organization (the goal is to document an existing organization);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        There is no existing organization (i.e. a &quot;green field&quot;).&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

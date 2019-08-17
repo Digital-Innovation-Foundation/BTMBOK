@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tHncKCtwVI448juZ4oUx3w" name="integrate_new_functionality,_IcrK8EkXEeKu7-3cM-oErg" guid="-tHncKCtwVI448juZ4oUx3w" changeDate="2013-08-23T03:51:23.433-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Integrate New Functionality&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The newly migrated modules are integrated to the system.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

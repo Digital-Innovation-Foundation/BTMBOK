@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ufQqN5V33lRffyWB1M2hSg" name="uam_event_link_throw,_rML_sGwzEeSS8ckFlGqwKQ" guid="-ufQqN5V33lRffyWB1M2hSg" changeDate="2015-02-11T12:49:15.372-0500" version="2.0.0">
+  <mainDescription>Defines a (Business) Link Throw Event. A Link Event is a mechanism for connecting two sections of a Process. Link Events&#xD;
+can be used to create looping situations or to avoid long Sequence Flow lines. The use of Link Events is limited to a&#xD;
+single Process level (i.e., they cannot link a parent Process with a Sub-Process). Paired Link Events can also be used as&#xD;
+“Off-Page Connectors” for printing a Process across multiple pages&amp;nbsp;&lt;a&#xD;
+href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot; guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG&#xD;
+2013)&lt;/a>.</mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    Defines a (Business) Link Throw Event. A Link Event is a mechanism for connecting two sections of a Process. Link&#xD;
+    Events can be used to create looping situations or to avoid long Sequence Flow lines.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Link_Throw&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» CallOperationAction&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Link.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>sources: LinkEventDefinition [1..*]&lt;/strong>&amp;nbsp;- Used to reference the corresponding 'catch' or 'target'&#xD;
+        &lt;em>LinkEventDefinition&lt;/em>, when this &lt;em>LinkEventDefinition&lt;/em> represents a 'throw' or 'source'&#xD;
+        &lt;em>LinkEventDefinition&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>target: LinkEventDefinition [1]&lt;/strong>&amp;nbsp;- Used to reference the corresponding 'throw' or 'source'&#xD;
+        &lt;em>LinkEventDefinition&lt;/em>, when this &lt;em>LinkEventDefinition&lt;/em> represents a 'catch' or 'target'&#xD;
+        &lt;em>LinkEventDefinition&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        May have relationships (sequence flows) with other flow elements as defined BPMN;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        See BPMN v2.0&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+        guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

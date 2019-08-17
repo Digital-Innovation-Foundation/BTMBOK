@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hbgtBeEVvgklEJEe87Vp4g" name="sprint_review_meeting,_veyn315UEd22Gu98eFOlrQ" guid="-hbgtBeEVvgklEJEe87Vp4g" changeDate="2007-08-06T23:09:31.345-0400">
+  <mainDescription>A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. During&#xD;
+the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that and any&#xD;
+changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done. This is an&#xD;
+informal meeting, and the presentation of the Increment is intended to elicit feedback and foster collaboration.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

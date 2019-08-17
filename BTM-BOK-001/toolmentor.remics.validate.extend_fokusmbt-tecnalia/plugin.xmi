@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Mj-FYMCTEemv0a6P8REMBA" guid="_Mj-FYMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_Mj-FYsCTEemv0a6P8REMBA" id="-EqePFLT58wsYSmpz7HGgnw" uri="guidances/toolmentors/fokusMBT_instalation_guide.xmi"/>
+    <resourceDescriptors xmi:id="_Mj-FY8CTEemv0a6P8REMBA" id="-3QXgTc-0cfHQP1x9BzANjw" uri="tasks/implement_testing_strategy.assign.xmi"/>
+    <resourceDescriptors xmi:id="_MkH2YMCTEemv0a6P8REMBA" id="-c2PhOSTiwH7T_VEliuTL1Q" uri="tasks/import_models_elements_to_be_tested.assign.xmi"/>
+    <resourceDescriptors xmi:id="_MkH2YcCTEemv0a6P8REMBA" id="-87VnXIi9we6jOLj4-9GaAw" uri="guidances/toolmentors/fokusMBT_usage_guide.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_2LfwUFmCEeKrerZnFJznjw" name="toolmentor.remics.validate.extend_fokusmbt-tecnalia" guid="_2LfwUFmCEeKrerZnFJznjw" changeDate="2013-01-15T03:01:00.339-0500">
+    <methodElementProperty xmi:id="_Mj83QMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwUVmCEeKrerZnFJznjw" name="Content" guid="_2LfwUVmCEeKrerZnFJznjw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwUlmCEeKrerZnFJznjw" name="Categories" guid="_2LfwUlmCEeKrerZnFJznjw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwU1mCEeKrerZnFJznjw" name="Domains" guid="_2LfwU1mCEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwVFmCEeKrerZnFJznjw" name="Disciplines" guid="_2LfwVFmCEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwVVmCEeKrerZnFJznjw" name="RoleSets" guid="_2LfwVVmCEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwVlmCEeKrerZnFJznjw" name="WP Types" guid="_2LfwVlmCEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwV1mCEeKrerZnFJznjw" name="Tools" guid="_2LfwV1mCEeKrerZnFJznjw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_5GzD0FmCEeKrerZnFJznjw" name="fokusMBT.assign" guid="_5GzD0FmCEeKrerZnFJznjw" variabilityType="contributes" toolMentors="_EJVkMFmDEeKrerZnFJznjw _M-UWsGPdEeKRgrdi2v1O5Q">
+            <methodElementProperty xmi:id="_Mj83QcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Tool" href="uma://__52BoEUNEeKK_ttnBPx9Rg#_44trwEUOEeKK_ttnBPx9Rg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwWFmCEeKrerZnFJznjw" name="StandardCategories" guid="_2LfwWFmCEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwWVmCEeKrerZnFJznjw" name="CustomCategories" guid="_2LfwWVmCEeKrerZnFJznjw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwWlmCEeKrerZnFJznjw" name="Hidden" guid="_2LfwWlmCEeKrerZnFJznjw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_2LfwW1mCEeKrerZnFJznjw" name="Custom Categories" guid="_2LfwW1mCEeKrerZnFJznjw"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwXFmCEeKrerZnFJznjw" name="CoreContent" guid="_2LfwXFmCEeKrerZnFJznjw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_97W_AFmCEeKrerZnFJznjw" name="tool_mentors" guid="_97W_AFmCEeKrerZnFJznjw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Ac7j4FmDEeKrerZnFJznjw" name="fokusMBT" guid="_Ac7j4FmDEeKrerZnFJznjw">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_EJVkMFmDEeKrerZnFJznjw" name="fokusMBT_instalation_guide" guid="_EJVkMFmDEeKrerZnFJznjw" presentationName="fokusMBT: Instalation Guide" briefDescription="fokusMBT: Instalation Guide">
+              <methodElementProperty xmi:id="_Mj83QsCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-EqePFLT58wsYSmpz7HGgnw" href="uma://-EqePFLT58wsYSmpz7HGgnw#-EqePFLT58wsYSmpz7HGgnw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7yArcF7pEeKFRuoPceMYcQ" name="implement_testing_strategy.assign" guid="_7yArcF7pEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_EJVkMFmDEeKrerZnFJznjw _M-UWsGPdEeKRgrdi2v1O5Q">
+              <methodElementProperty xmi:id="_Mj83Q8CTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-3QXgTc-0cfHQP1x9BzANjw" href="uma://-3QXgTc-0cfHQP1x9BzANjw#-3QXgTc-0cfHQP1x9BzANjw"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_UwE2REkXEeKu7-3cM-oErg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7yArcV7pEeKFRuoPceMYcQ" name="import_models_elements_to_be_tested.assign" guid="_7yArcV7pEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_EJVkMFmDEeKrerZnFJznjw _M-UWsGPdEeKRgrdi2v1O5Q">
+              <methodElementProperty xmi:id="_Mj83RMCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-c2PhOSTiwH7T_VEliuTL1Q" href="uma://-c2PhOSTiwH7T_VEliuTL1Q#-c2PhOSTiwH7T_VEliuTL1Q"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_UwE2RUkXEeKu7-3cM-oErg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_M-UWsGPdEeKRgrdi2v1O5Q" name="fokusMBT_usage_guide" guid="_M-UWsGPdEeKRgrdi2v1O5Q" presentationName="fokusMBT: Usage Guide" briefDescription="fokusMBT: Usage Guide">
+              <methodElementProperty xmi:id="_Mj83RcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-87VnXIi9we6jOLj4-9GaAw" href="uma://-87VnXIi9we6jOLj4-9GaAw#-87VnXIi9we6jOLj4-9GaAw"/>
+            </contentElements>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2LfwXVmCEeKrerZnFJznjw" name="CapabilityPatterns" guid="_2LfwXVmCEeKrerZnFJznjw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2LfwXlmCEeKrerZnFJznjw" name="DeliveryProcesses" guid="_2LfwXlmCEeKrerZnFJznjw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2LfwX1mCEeKrerZnFJznjw" name="ProcessContributions" guid="_2LfwX1mCEeKrerZnFJznjw"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

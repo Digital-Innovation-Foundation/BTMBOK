@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-ur7R3cH_YQBtehF84VCAXQ" name="uam_business_entity,_Zm-s8MI7EeKSedlRPHdUIQ" guid="-ur7R3cH_YQBtehF84VCAXQ" changeDate="2013-05-21T13:25:51.160-0400" version="7.5.1">
+  <mainDescription>The business information and data used within the system being modeled. Business entities identify significant and&#xD;
+(normally) persistent pieces of information that are manipulated by business actors and activities. No structure is&#xD;
+attempted at this point, the sole objective being their identification and creation of clear and precise definitions;&#xD;
+however relationships between business entities and business roles may be identified.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

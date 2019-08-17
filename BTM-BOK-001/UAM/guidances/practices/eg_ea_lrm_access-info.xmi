@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MbuJoJ0qEtJFjQM2AiqWcA" name="new_lpl_role_model,_FiY_4LODEeOTralbgKSHFw" guid="-MbuJoJ0qEtJFjQM2AiqWcA" changeDate="2015-02-07T14:33:01.992-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Access Information Process with Roles in context&quot; src=&quot;./resources/EA-Logical-LRM-Access-Info.png&quot; />&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Customer Researcher and Research Writer&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Customers Researchers and Research Writers formulate queries to search for Reports of interest. Report Access Rules&#xD;
+    mitigate their&amp;nbsp;access based upon Customer Research subscriptions and Research Writer access rights and other&#xD;
+    security policies.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the&amp;nbsp;Query Reports and Query Source activities to access this information.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-lu5y6SeNk1mxevZpMqeL0A" name="uam_review,_1L39oMd-EdyBSO6dC2FdkA" guid="-lu5y6SeNk1mxevZpMqeL0A" changeDate="2015-11-30T13:55:39.605-0500">
+  <mainDescription>&lt;a id=&quot;XE_UAM__Tasks_Review&quot; name=&quot;XE_UAM__Tasks_Review&quot;>&lt;/a>&lt;a id=&quot;XE_Tasks__Review&quot; name=&quot;XE_Tasks__Review&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    Once IT architectures are defined, at any level, a formal review with stakeholders is done. Prior to this a peer review&#xD;
+    was done.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For the complete description of the process see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/capabilitypatterns/uam_review_architecture_9F2F65DA.html&quot; guid=&quot;_lMAaIcH4EdyMpOiGFnM_WA&quot;>Activity:&#xD;
+    Review an Architecture&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

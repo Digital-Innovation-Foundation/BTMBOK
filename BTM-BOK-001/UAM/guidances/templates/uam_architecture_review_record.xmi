@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-Qpqnlh7SOqSpUOUfFzoCWA" name="new_template,_zDnD4PNgEdyIELoltz1wKA" guid="-Qpqnlh7SOqSpUOUfFzoCWA" changeDate="2015-02-11T11:16:17.772-0500" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    A brief outline of an Architectural Review Record:&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;h4>&#xD;
+        1. Executive Summary&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        An executive summary of the review — required if the review is large or significant.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        2. Goals and Objectives&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        List the work products that will be the subject of this review and the coverage (all, business level, network&#xD;
+        aspect, etc.).&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        3. Scope &amp;amp; Level&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Identify the scope of the review and the review level (see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+        href=&quot;./../../../UAM/guidances/guidelines/uam_architecture_review_51A5B1E7.html&quot;&#xD;
+        guid=&quot;_BdyOIFEvEeOcVJX_gvTjyg&quot;>Guideline: Architecture Review&lt;/a>).&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        4. Review Participants&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        List the individuals who will participate in the review and their roles during the meeting; for example, moderator,&#xD;
+        note-taker, reviewer, author.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        5.&amp;nbsp;Overall Architecture&amp;nbsp;&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Identify the high-level architectural concerns regarding areas such as structure, patterns, organization of models,&#xD;
+        interfaces, etc.&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        6.&amp;nbsp;Specific Architecture Aspects&amp;nbsp;&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Define the specific concerns under various categories such as as application, information or operational&#xD;
+        architectures, security, integration and interfaces, technology, etc.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        7.&amp;nbsp;Key Findings&amp;nbsp;&amp;amp; Actions&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        List the key findings identified during the review.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;p>&#xD;
+    Various formats are provided below: Microsoft Word (.dotx and .dot), PDF (.pdf) and Open XML Paper Specification&#xD;
+    (.xps).&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/Architecture-Review-Record.dot|resources/Architecture-Review-Record.dotx|resources/Architecture-Review-Record.pdf|resources/Architecture-Review-Record.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

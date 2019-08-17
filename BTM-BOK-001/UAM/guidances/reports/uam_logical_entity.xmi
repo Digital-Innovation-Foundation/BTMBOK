@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bABAE9eJOA8T_yTW2oYXrw" name="uam_logical_entity,_7V7ngaiZEeS8vLSVufajPQ" guid="-bABAE9eJOA8T_yTW2oYXrw" authors="DW Enstrom" changeDate="2015-01-30T11:09:26.316-0500" changeDescription="new" version="2.0.0">
+  <mainDescription>&lt;a id=&quot;XE_Logical_Entity_Report__brief_outline&quot; name=&quot;XE_Logical_Entity_Report__brief_outline&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    For each Logical Entity the report defines:&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;h4>&#xD;
+        1. Brief Description&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        A brief description of the entity.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        2. Usage&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Describe the usage of the Logical Entity in the business, and its lifecycle, from creation to deletion.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        3. Relationships&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Responsible activity: &amp;lt;name&amp;gt;. A list of business entity relationships (including brief descriptions if&#xD;
+        available).&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        4. Operations&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        A list of operations representing the activities/tasks that produce or consume the Logical Entity.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        5. Attributes&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Attributes of the Logical Entity, including their names and brief descriptions.&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        6. Business Events&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Any business events the Logical Entity triggers or otherwise involves the entity.&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

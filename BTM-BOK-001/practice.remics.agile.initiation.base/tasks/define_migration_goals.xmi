@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-t4OAbqkG2vFa-cbiq0wApw" name="define_migration_goals,_Fk-TYBCsEeOSL6of5eOufw" guid="-t4OAbqkG2vFa-cbiq0wApw" changeDate="2013-08-29T09:10:01.381-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Define Migration Goals&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Based on the priorities of the product owner enumerate the goals that are aimed as a result of the migration effort.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

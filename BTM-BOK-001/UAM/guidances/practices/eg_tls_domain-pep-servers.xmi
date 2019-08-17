@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kp0YiLoa3aYG-pO8LNw8iw" name="eg_tls_domain-pep-servers,_X7nKAJsFEeOMG9JzPmKf0Q" guid="-kp0YiLoa3aYG-pO8LNw8iw" changeDate="2015-02-07T14:44:03.592-0500" version="7.5.1">
+  <problem>&lt;br />&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;ThuNorTech Domain PEP Applications Servers&quot;&#xD;
+    src=&quot;./resources/Simple-Network-Technical-TLM-Apps-Domain-PEP.png&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The applications shown are hosted on this server that supports the ThuNorTech's Internet access. Note that the required&#xD;
+    infrastructure services (i.e. workflow services, etc.) are not shown, just the (custom)&amp;nbsp;application level&#xD;
+    deployments.&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Email &amp;amp; FTP Apps Server&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This server (or set of servers) that supports the&amp;nbsp;exchange of email with Internet connected recipient, and also&#xD;
+    support FTP of Source Information.&amp;nbsp;The server(s) are:&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Name&lt;/strong> - EMail-DMZ&lt;br />&#xD;
+    &lt;strong>Make&lt;/strong> - HP&lt;br />&#xD;
+    &lt;strong>Model&lt;/strong> - Integrity NonStop BladeSystem NB50000c and NS2002 Server&lt;br />&#xD;
+    &lt;strong>Location&lt;/strong> - Rm C302&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Connects to the&amp;nbsp; DMZ LAN.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Portal Server&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This server supports the&amp;nbsp;ThuNorTech web portal that provides its point-of-presence on the Internet as well as&#xD;
+    access to Reports and Source Info for Customers.&amp;nbsp;The server(s) are:&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Name&lt;/strong> - Portal-DMZ&lt;br />&#xD;
+    &lt;strong>Make&lt;/strong> - HP&lt;br />&#xD;
+    &lt;strong>Model&lt;/strong> - Integrity NonStop BladeSystem NB50000c and NS2002 Server&lt;br />&#xD;
+    &lt;strong>Location&lt;/strong> - Rm C302&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Links&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Connects to the&amp;nbsp; DMZ LAN.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

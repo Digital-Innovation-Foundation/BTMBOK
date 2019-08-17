@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-D2td_Q41e9nS6dLr8-eSkg" name="uam_bd,_bUeiAMJmEeKSedlRPHdUIQ" guid="-D2td_Q41e9nS6dLr8-eSkg" changeDate="2015-02-06T15:08:50.374-0500" version="2.0.1">
+  <mainDescription>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; border=&quot;0&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td width=&quot;108&quot;>&#xD;
+                &lt;strong>Click on the framework to view a perspective, or to view a specific model that defines this&#xD;
+                architecture.&lt;/strong>&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;img border=&quot;0&quot; alt=&quot;&quot; src=&quot;./resources/UAM-FW_Log_Tech.png&quot; width=&quot;600&quot; height=&quot;269&quot;&#xD;
+                usemap=&quot;#map1369176250543&quot; />&lt;map id=&quot;map1369176250543&quot; name=&quot;map1369176250543&quot;>&#xD;
+                    &lt;area title=&quot;ThuNorTech BD Logical Perspective&quot;&#xD;
+                    href=&quot;./../../UAM/customcategories/eg_bd_lp_3FA1B293.html&quot; shape=&quot;rect&quot;&#xD;
+                    alt=&quot;ThuNorTech BD Logical Perspective&quot; coords=&quot;5,142,105,188&quot; guid=&quot;_bUfJGcJmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BD Technical Perspective&quot;&#xD;
+                    href=&quot;./../../UAM/customcategories/eg_bd_tp_27C23DB2.html&quot; shape=&quot;rect&quot;&#xD;
+                    alt=&quot;ThuNorTech BD Technical Perspective&quot; coords=&quot;6,212,105,252&quot; guid=&quot;_bUfwJ8JmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BD LEM&quot; href=&quot;./../../UAM/customcategories/eg_bd_lem_4A3F92A3.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BD LEM&quot; coords=&quot;117,144,228,196&quot; guid=&quot;_bUfJGsJmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BD LPM&quot; href=&quot;./../../UAM/customcategories/eg_bd_lpm_11F91A8.html&quot; shape=&quot;rect&quot;&#xD;
+                    alt=&quot;ThuNorTech BD LPM&quot; coords=&quot;239,145,349,195&quot; guid=&quot;_bUfwIMJmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BD LLM&quot; href=&quot;./../../UAM/customcategories/eg_bd_llm_FA5685CE.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BD LLM&quot; coords=&quot;359,141,472,198&quot; guid=&quot;_bUfwIsJmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BL LRM&quot; href=&quot;./../../UAM/customcategories/eg_bd_lrm_C5B173C7.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BL LRM&quot; coords=&quot;482,142,594,196&quot; guid=&quot;_bUfwJMJmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BD TEM&quot; href=&quot;./../../UAM/customcategories/eg_bd_tem_8A4355E6.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BD TEM&quot; coords=&quot;115,208,224,259&quot; guid=&quot;_bUfwKMJmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BD TPM&quot; href=&quot;./../../UAM/customcategories/eg_bd_tpm_EC541FD1.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BD TPM&quot; coords=&quot;239,209,348,262&quot; guid=&quot;_bUfwK8JmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BD TLM&quot; href=&quot;./../../UAM/customcategories/eg_bd_tlm_2002E3A.html&quot; shape=&quot;rect&quot;&#xD;
+                    alt=&quot;ThuNorTech BD TLM&quot; coords=&quot;359,207,471,263&quot; guid=&quot;_bUgXMcJmEeKSedlRPHdUIQ&quot; />&#xD;
+                    &lt;area title=&quot;ThuNorTech BD TRM&quot; href=&quot;./../../UAM/customcategories/eg_bd_trm_7577E40F.html&quot;&#xD;
+                    shape=&quot;rect&quot; alt=&quot;ThuNorTech BD TRM&quot; coords=&quot;481,207,591,262&quot; guid=&quot;_bUgXM8JmEeKSedlRPHdUIQ&quot; />&#xD;
+                &lt;/map>&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    This is the root of the Unified Model at the Business Domain (BD) level of a small company called ThuNorTech. Other&#xD;
+    architectures are defined, each containing complete UAM architectures, describe ThuNorTech at the Business Line level&#xD;
+    (IT Research) and the Enterprise level (ThuNorTech). Each of these architectures&amp;nbsp;contains the three UAM&#xD;
+    perspectives that specify the architectures.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    ThuNorTech does research, as required by customers, on specific aspects of technology such as technology trends,&#xD;
+    technology comparisons and suppliers of technology. ThuNorTech's scope includes hardware and software aspects of&#xD;
+    information technology as well as supporting tools and technologies such as software IDEs, desktop and middleware&#xD;
+    software, and architecture tools and techniques, etc. The company also provides solutions to customers (i.e. the IT&#xD;
+    Solutions Business Line), and optionally the management and operation of these solutions.&lt;br />&#xD;
+    &lt;br />&#xD;
+    This BD level architecture describes a portion of ThuNorTech's IT Research business line: Distribute&#xD;
+    Research.&amp;nbsp;Distribute Research includes the services needed to safely and securely distribute Reports to ThuNorTech&#xD;
+    Customers, and to support their online (and CSRs') access to Reports and Source information.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The contained root diagram may be used as a navigation point into each perspective, with the aspects referenced within&#xD;
+    these, or directly to the desired view.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

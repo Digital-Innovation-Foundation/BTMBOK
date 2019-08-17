@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dhgOQQ4GsV0-dNJmTmF9GA" name=",_525A8EvDEdunZcj9T5hrMQ" guid="-dhgOQQ4GsV0-dNJmTmF9GA" changeDate="2007-05-02T12:56:24.696-0400" version="1.0.0">
+  <mainDescription>First of the four phases in the OpenUP project lifecycle, it is about understanding the project scope and objectives and&#xD;
+getting enough information to confirm that the project should proceed or not.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

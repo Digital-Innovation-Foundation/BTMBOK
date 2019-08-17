@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-62zxtOdNIZ0VWUt6KseFAQ" name="new_supporting_material,_R1lDANxUEd-LYKXkOhPACw" guid="-62zxtOdNIZ0VWUt6KseFAQ" changeDate="2013-03-05T10:48:32.371-0500">
+  <mainDescription>&lt;h3>&#xD;
+    Scrum&amp;nbsp;(release 3.1)&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This is the third&amp;nbsp;release of the Scrum practice. This&amp;nbsp;practice is based on the&amp;nbsp;&lt;a&#xD;
+    href=&quot;http://www.scrum.org/Portals/0/Documents/Scrum%20Guides/Scrum_Guide.pdf&quot; target=&quot;_blank&quot;>Scrum Guide&lt;/a>&amp;nbsp;by&#xD;
+    Ken Schwaber and Jeff Sutherland.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    Version history&#xD;
+&lt;/h3>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        3.1: Minor changes for the purpose of better integration with the REMICS Methodology.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        3.0: Complete restructure of the practice focusing on the Scrum essentials based on the&amp;nbsp;&lt;a&#xD;
+        href=&quot;http://www.scrum.org/Portals/0/Documents/Scrum%20Guides/Scrum_Guide.pdf&quot; target=&quot;_blank&quot;>Scrum Guide&lt;/a>.&#xD;
+        Elements that are not part of the essentials&amp;nbsp;have been moved to other extending Scrum practices.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        2.1: Improved the alignment with the&amp;nbsp;2011 release of the &lt;a href=&quot;http://www.scrum.org/scrumguides&quot;&#xD;
+        target=&quot;_blank&quot;>Scrum guide&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        2.0: Revised version that incorporates&amp;nbsp;changes described in the 2011 release of the&amp;nbsp;&lt;a&#xD;
+        href=&quot;http://www.scrum.org/scrumguides&quot; target=&quot;_blank&quot;>Scrum guide&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        1.0: Initial version based on the&amp;nbsp;&lt;a href=&quot;http://www.eclipse.org/epf/downloads/praclib/praclib_downloads.php&quot;&#xD;
+        target=&quot;_blank&quot;>EPF Scrum library&lt;/a>&amp;nbsp;developed by&amp;nbsp;Mountain Goat Software and&amp;nbsp;ATSC.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

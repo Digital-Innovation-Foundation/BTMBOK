@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I-2SvZtjELUYDQO0jvdxEA" name="new_guideline,_SYDjUMUKEdu5GrwIlTJV7g" guid="-I-2SvZtjELUYDQO0jvdxEA" changeDate="2007-02-25T15:57:17.640-0500">
+  <mainDescription>&lt;h4>&#xD;
+    Capture architectural decisions (Visual Modeling)&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    You will find it useful to develop these three Unified Modeling Language (UML) diagrams at this stage:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Layer map&lt;/strong> (represented as a class diagram using packages) that describes the upper-level layers of&#xD;
+        the architecture&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Draft deployment diagram&lt;/strong> that outlines the&amp;nbsp;expected network topology&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Simple class diagram&lt;/strong> that shows the key abstractions and any obvious relationships among them&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

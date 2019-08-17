@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-NUBFepp1BK84_pImKUGhtg" name="new_artifact,_trDFcGxMEeSS8ckFlGqwKQ" guid="-NUBFepp1BK84_pImKUGhtg" changeDate="2015-02-11T12:57:46.191-0500" version="2.0">
+  <mainDescription>Text Annotations are a mechanism for a modeler to provide additional information for the reader of a BPMN Diagram&amp;nbsp;&lt;a&#xD;
+href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot; guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG&#xD;
+2013)&lt;/a>.</mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    Text Annotations are a mechanism for a modeler to provide additional information.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_TextAnnotation&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Comment&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>text: string&lt;/strong>&amp;nbsp;- Text is an attribute that is text that the modeler wishes to communicate to&#xD;
+        the reader of the Diagram.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>textFormat: string&lt;/strong>&amp;nbsp;- This attribute identifies the format of the text. It MUST follow the&#xD;
+        mime-type format. The default is “text/plain.”.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The Text Annotation object can be connected to a specific object on the Diagram with an Association, but does not&#xD;
+        affect the flow of the Process. Text associated with the Annotation can be placed within the bounds of the open&#xD;
+        rectangle;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        See BPMN v2.0&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+        guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

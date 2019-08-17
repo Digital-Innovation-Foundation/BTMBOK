@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZY2U8xr-BGdfGeUtH6sB2g" name="uam_arch_course_package,_0zmZcGNtEeSFL7Sh0MlmKA" guid="-ZY2U8xr-BGdfGeUtH6sB2g" changeDate="2014-10-22T15:44:35.935-0400" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    In support of the &quot;Develop Training&quot; activity the required set of source documentation is gathered. The basic&#xD;
+    documentation needed are the defined IT architecture views for the system. Ancillary but useful information is also&#xD;
+    gathered such as requirements, scope, strategy and planning documents associated with the IT architecture.&#xD;
+&lt;/p>&lt;a id=&quot;XE_Package__Course&quot; name=&quot;XE_Package__Course&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The set of source material gathered together (from the list below) is dependent upon the objectives of the training&#xD;
+    course (and the documentation that is available).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

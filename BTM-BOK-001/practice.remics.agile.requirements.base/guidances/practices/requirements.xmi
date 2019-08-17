@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" name="requirements_and_feasibility,_FIdm0Mv8EeCphdH9-OcbCA" guid="-Yvy3AKQTjSqBPNxsWkizkQ" changeDate="2011-10-24T04:19:53.379-0400" version="7.2.0">
+  <mainDescription>&lt;p>&#xD;
+    The identification of addtional requirements is focussed in the identification of the new requirements that are aimed&#xD;
+    to be introduced in the new system. There is no too much necessity of defining the requirements that are implemented in&#xD;
+    the existing components of the legacy system because these are already implemented.&amp;nbsp;In those cases that that a&#xD;
+    component will be reingeneered the&amp;nbsp;requirements will be identified in a&amp;nbsp;latter stage by the appocation of&#xD;
+    recovery practices as we need those requirements for the later validation of the components.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Besides the identification of addtional requirements has as a secondary, but not less relevant objective, the&#xD;
+    identification of the architecture of the new system. This include the identification of the components that will take&#xD;
+    part on the new system and the positioning of those components in computing nodes. Computing nodes that may be hold in&#xD;
+    house or in public or private clouds. Besides the identification of the components should include a description of the&#xD;
+    origin of those components. Components may be the same as in the old system, may be reenginered, may be wrapped, may be&#xD;
+    replaced by other similar components, etc.&#xD;
+&lt;/p></mainDescription>
+  <additionalInfo>&lt;h3>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/h3></additionalInfo>
+  <problem>&lt;p>&#xD;
+    The purpose of the requirements activity area is to gather the additional requirements for the migrated system, and to&#xD;
+    identify the main components of the solution and their implementation strategy. The purpose is not an exhaustive&#xD;
+    description of all requirements of the objective system, but the description of the requirements that will require&#xD;
+    development effort and will be used as a basis for the validation of the system. In this initial requirement&#xD;
+    elicitation process it is also not necessary to focus on those requirements that will come up from the systematic&#xD;
+    analysis of the legacy. This affects mainly the requirements of components that are going to be reengineered,&#xD;
+    requirements that will appear during the recover activities through the application of migration tools.&#xD;
+&lt;/p></problem>
+  <background>&lt;p>&#xD;
+    In a migration effort most of the requirements for the new system were alredy implemented in the old one, and therefore&#xD;
+    it does sound reasonable to redefine all of&amp;nbsp;them from scrach. REMICS methodology is aware of this situation and&#xD;
+    provides tecniques that make it possible to extract the existing requirements from the legacy components by the&#xD;
+    application of recover techniques. Besides, there is no need to retrive all the requirements of the system and all the&#xD;
+    individual requirements of the components that implement the system. The focus should be in the identification of the&#xD;
+    system requirements and principally the requirements of the reengineered components to be able to validate the&#xD;
+    resulting system.&#xD;
+&lt;/p></background>
+  <goals>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Identify additional requirements for the migrated system&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identify the components that will take part in the new system&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Decide the implementation strategy of the different components and thier deployment strategy&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></goals>
+</org.eclipse.epf.uma:PracticeDescription>

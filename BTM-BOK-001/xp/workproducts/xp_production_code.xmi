@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f1cDEBpC5wbDTQ9ru9UbLw" name="xp_production_code,{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1}" guid="-f1cDEBpC5wbDTQ9ru9UbLw" changeDate="2006-11-13T16:21:51.018-0500" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This definition of &lt;a class=&quot;PresentationName&quot; guid=&quot;{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1}&quot;>Production Code&lt;/a>&#xD;
+    encompasses hand-coded software as well as executable models. The &lt;a class=&quot;PresentationName&quot; guid=&quot;{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1}&quot;>Production Code&lt;/a> must be kept clean and simple, as it is the main&#xD;
+    vehicle for communicating design intent to the programming team. The code has comprehensive customer and unit tests.&#xD;
+    The XP practices of simple design, pair programming, refactoring, collective code ownership, test driven development,&#xD;
+    and coding standard support the creation of the code.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;a id=&quot;XE_production_code__artifact_definition&quot; name=&quot;XE_production_code__artifact_definition&quot;>&lt;/a>&lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;>&lt;/a>&lt;a id=&quot;XE_production_code__purpose_of&quot; name=&quot;XE_production_code__purpose_of&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    In XP, we consider &lt;a class=&quot;PresentationName&quot; guid=&quot;{3EDA30A8-932C-4EC2-B9AB-A840304C5BC1}&quot;>Production Code&lt;/a> to be&#xD;
+    the most important artifact. It is the one design artifact that cannot be replaced because it is the only complete and&#xD;
+    unambiguous expression of design intent. Source code is a specification. It, along with a compiler or interpreter,&#xD;
+    encompasses all of the semantics necessary to produce a running process on a computer.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

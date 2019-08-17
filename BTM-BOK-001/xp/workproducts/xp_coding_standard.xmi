@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NznKylxa2Y_MG8lACUV9Bw" name="xp_coding_standard,{1D7E042C-B29E-4169-8DF3-37DE0A5F64ED}" guid="-NznKylxa2Y_MG8lACUV9Bw" changeDate="2006-11-09T19:10:06.935-0500" version="1.0.0">
+  <purpose>&lt;a id=&quot;XE_coding_standard__artifact_definition&quot; name=&quot;XE_coding_standard__artifact_definition&quot;>&lt;/a>&lt;a id=&quot;Purpose&quot; name=&quot;Purpose&quot;>&lt;/a>&lt;a id=&quot;XE_coding_standard__purpose_of&quot; name=&quot;XE_coding_standard__purpose_of&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The purpose of the &lt;a class=&quot;PresentationName&quot; guid=&quot;{1D7E042C-B29E-4169-8DF3-37DE0A5F64ED}&quot;>Coding Standard&lt;/a> is to&#xD;
+    facilitate communication among programmers working on the same code base. The coding standard takes on added importance&#xD;
+    in XP because of the pair programming and collective code ownership practices. The objective is to have all parts of&#xD;
+    the code appear to have been written by the same programmer.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

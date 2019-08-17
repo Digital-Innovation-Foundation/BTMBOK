@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wVOEuTtwafR1Ag2DdrG5sA" name=",_N-IhkKcBEeS8vLSVufajPQ" guid="-wVOEuTtwafR1Ag2DdrG5sA" authors="DW Enstrom" changeDate="2015-01-28T10:21:44.338-0500" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    The objective of this task is to understand the new or changed solution and its impacts&amp;nbsp;on the existing IT&#xD;
+    architecture or system. The bottom line of this impact study is to define all impacts, and then to determine the level&#xD;
+    of impact:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business&lt;/strong> - business level models need to be revised;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Logical&lt;/strong> - the new solution does not have business process or services implications, but does have&#xD;
+        implications on the current IT architecture, which would have to be revised starting at the Logical level;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical&lt;/strong> - the new solution does not have significant architectural implications; it is a direct&#xD;
+        substitute for existing technology, but with benefits.&amp;nbsp;Technical level models require revision.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Once the level of impact has been determined then the next step is to do a more thorough analysis of the opportunities,&#xD;
+    and to make a &lt;em>go&lt;/em> or &lt;em>no-go&lt;/em> decision.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    An Architectural Decision is used to capture and track this analysis if necessary.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If the solution to the problem is the introduction of a new technology then an impact assessment may be required. See:&#xD;
+    &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/tasks/uam_det_tech-impacts_1A955696.html&quot;&#xD;
+    guid=&quot;_88YnMGOpEeSFL7Sh0MlmKA&quot;>Task: Define Technology Change Impacts&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_zc9X4KcfEeS8vLSVufajPQ" name="Define the impacts of the chosen solution " guid="_zc9X4KcfEeS8vLSVufajPQ">
+    <sectionDescription>The impacts on the current IT architecture are defined in detail, including all aspects (i.e., Entity, Activity, Location&#xD;
+and People aspects).</sectionDescription>
+  </sections>
+  <sections xmi:id="_6XPCYKcfEeS8vLSVufajPQ" name="Determine level of impact" guid="_6XPCYKcfEeS8vLSVufajPQ">
+    <sectionDescription>Once all the impacts are defined, the highest level of impact is documented (i.e. Business, Logical or Technical).</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    A solution to a problem has been identified and this task examines its&amp;nbsp;possible impacts on the system or&#xD;
+    enterprise.&amp;nbsp;All possible&amp;nbsp;impacts on the existing IT architecture are defined. These impacts may be at the&#xD;
+    Business level (e.g. business processes or other aspects are affected), Logical level (e.g. a revised Logical&#xD;
+    level&amp;nbsp;IT architecture is needed) or the Technical level (e.g. new technology is a simple substitute for existing&#xD;
+    technology, but with benefits).&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-CZpq4t8TF4dQ1h93HXO5kA" name="eg_ea_lpl_cust-location,_oOg2MJpUEeO7n_hZ4c37dQ" guid="-CZpq4t8TF4dQ1h93HXO5kA" changeDate="2014-03-21T14:48:00.780-0400" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;ThuNorTech Customer Location Model&quot; src=&quot;./resources/EA-Logical-LLM-CSR.png&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Defines the ThuNorTech's point of presence at a Customer's site. This is a typical view, with details adapted to each&#xD;
+    Customer's situation and environment. The Internet is a separate Domain, and may be used to support the HQ-Customer&#xD;
+    Comms shown, however the ThuNorTech presence at select Customers and Partners are part of the ThuNorTech Domain since&#xD;
+    they define the policies and rules around their&amp;nbsp; access and use. Features are:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A ThuNorTech supplied&amp;nbsp; and managed desktop located at the Customer's location, used to provided liaison&amp;nbsp;&#xD;
+        and support for the Customer;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A ThuNorTech supplied and supported printer located at the Customer's site;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A communication link to ThuNorTech HQ, that may be composed of multiple WAN links or other details.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></problem>
+</org.eclipse.epf.uma:PracticeDescription>

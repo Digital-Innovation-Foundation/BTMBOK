@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XIHQDT1R5zV8t0WCp5-_Sg" name="uam_bus_manager,_gqcDMKjDEeSFIOC-Wm7nrA" guid="-XIHQDT1R5zV8t0WCp5-_Sg" changeDate="2015-01-30T15:49:10.273-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    These are non-technical business managers, for example, VP Human Resources, or Director of Corporate Services.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As the IT architecture is developed, or other deliverables are developed, various reviews and approvals are needed. For&#xD;
+    example, the review of IT Architectures. These managers are not involved in the production of UAM IT architecture&#xD;
+    deliverables, they approved these deliverables.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    These managers also represent the&amp;nbsp;high-level business&amp;nbsp;stakeholders for the architecture.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

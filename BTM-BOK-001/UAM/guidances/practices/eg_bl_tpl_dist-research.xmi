@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-tbeSduucPMd2xBMd_iY3FQ" name="new_tpl_server,_Qa660Jp4EeOpq9XgOi00TQ" guid="-tbeSduucPMd2xBMd_iY3FQ" changeDate="2014-04-02T14:21:34.864-0400" version="7.5.1">
+  <problem>&lt;br />&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Distribute Research Applications Server&quot; src=&quot;resources/BL-Technical-TLM-Dist-Apps.png&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The applications shown are hosted on this server. Note that the required infrastructure services (i.e. workflow&#xD;
+    services, etc.) are not shown, just the (custom)&amp;nbsp;application level deployments.&#xD;
+&lt;/p></problem>
+</org.eclipse.epf.uma:PracticeDescription>

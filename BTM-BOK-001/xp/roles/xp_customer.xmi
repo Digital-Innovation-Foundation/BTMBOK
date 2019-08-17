@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-92rjXjWhll5LOtPc58YERg" name="xp_customer,{3C90DD4F-CFDB-4111-922D-3B840B8942DE}" guid="-92rjXjWhll5LOtPc58YERg" changeDate="2006-11-13T14:52:45.927-0500" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_xp_customer__role_definition&quot; name=&quot;XE_xp_customer__role_definition&quot;>&lt;/a>&lt;a id=&quot;Description&quot; name=&quot;Description&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{3C90DD4F-CFDB-4111-922D-3B840B8942DE}&quot;>XP Customer&lt;/a> role has the&#xD;
+    responsibility of defining what is the right product to build, determining the order in which features will be built&#xD;
+    and making sure the product actually works.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The &lt;a class=&quot;PresentationName&quot; guid=&quot;{3C90DD4F-CFDB-4111-922D-3B840B8942DE}&quot;>XP Customer&lt;/a> writes system features in&#xD;
+    the form of user stories that have business value. Using the planning game, he chooses the order in which the stories&#xD;
+    will be done by the development team. He also defines acceptance tests that will be run against the system to prove&#xD;
+    that the system is reliable and does what is required.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

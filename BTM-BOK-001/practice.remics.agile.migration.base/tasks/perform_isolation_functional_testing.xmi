@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-J7-e9k_I-HWuhsyv56Exwg" name="perform_isolation_functional_testing,_pXie8EkWEeKu7-3cM-oErg" guid="-J7-e9k_I-HWuhsyv56Exwg" changeDate="2013-08-21T05:22:41.299-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Perform Isolation Functional Testing&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Isolated testing of the functional requirements for the part of the system that is migrated during the particular&#xD;
+    sprint is performed.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

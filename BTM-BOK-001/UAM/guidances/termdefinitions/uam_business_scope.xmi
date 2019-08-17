@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-oceDSemCZDx8IQ9Sx6qfNQ" name="new_term_definition,_g0H-IMqvEdy25fQyv59CjQ" guid="-oceDSemCZDx8IQ9Sx6qfNQ" changeDate="2013-05-21T11:00:21.178-0400" version="1.0.0">
+  <mainDescription>The architectural process, as with project definitions, must start by defining the &lt;em>scope&lt;/em> and &lt;em>context&lt;/em> of&#xD;
+the architecture. Everything else flows from this—for example, enterprises generally have more than one &quot;business line&quot;.&#xD;
+The architecture for each business line will be quite different and should therefore be examined and define through&#xD;
+separate activities. Each enterprise also needs an &quot;enterprise&quot; architecture that will integrate the business line&#xD;
+architectures as required. The scope and context of each architecture effort needs to be clear before plunging into the&#xD;
+definition of the architecture. &#xD;
+&lt;p>&#xD;
+    The &quot;Business Scope&quot;, or simply &quot;Scope&quot;, is a very simple description of the architecture in terms of “entities”,&#xD;
+    “activities”, “locations” and “roles” that sets the &lt;i style=&quot;mso-bidi-font-style: normal&quot;>context&lt;/i> for the IT&#xD;
+    architecture including the scope of the effort and the definition of important concepts and terms. No modeling is&#xD;
+    involved. The primary stakeholders are business managers and other business people.&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

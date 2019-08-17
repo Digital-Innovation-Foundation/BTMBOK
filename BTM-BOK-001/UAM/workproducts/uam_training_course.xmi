@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-Qywlvx-YDBJAvyfp3EDGZg" name="uam_training_course,_NJY-8GN2EeSFL7Sh0MlmKA" guid="-Qywlvx-YDBJAvyfp3EDGZg" authors="DW Enstrom" changeDate="2014-11-03T11:29:04.906-0500" changeDescription="New" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    IT architectures provide an excellent source of material for the development of training course. Training may be&#xD;
+    focused on overviews of the system (e.g. an enterprise overview) or on detailed technical specifics aimed at developers&#xD;
+    or maintainers.&#xD;
+&lt;/p>&lt;a id=&quot;XE_Training_Course&quot; name=&quot;XE_Training_Course&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    Each course has a defined target audience (and scope) with training provided on the required skills and knowledge for&#xD;
+    this target audience.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    The training course provides instruction to a target audience on the defined IT architecture, which may be at the&#xD;
+    enterprise level (EA) or an IT architecture for a smaller system.&#xD;
+&lt;/p></purpose>
+  <briefOutline>&lt;p>&#xD;
+    A training course typically has a number of &quot;modules&quot;, which vary in detail depending upon the specifics of the course.&#xD;
+    The following is a typical structure for a training course:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Introduction&lt;/strong> -&amp;nbsp;an overview of the course and the skills and knowledge;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Modules&lt;/strong> -&amp;nbsp;modules that&amp;nbsp;provide instruction on these skills and knowledge in a logical&#xD;
+        sequence;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Examples&lt;/strong> -&amp;nbsp;examples and exercises are included in these modules or at appropriate points&#xD;
+        during the course;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Summary&lt;/strong> -&amp;nbsp;a summary module ensures that the target audience needs have been met.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br /></briefOutline>
+</org.eclipse.epf.uma:ArtifactDescription>

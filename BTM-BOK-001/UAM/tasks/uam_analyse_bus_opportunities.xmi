@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GPD0fr8oVDc6waFNxyvkMw" name="uam_analyse_bus_opportunities,_FsFUMGUIEeSFL7Sh0MlmKA" guid="-GPD0fr8oVDc6waFNxyvkMw" authors="DW Enstrom" changeDate="2014-11-05T11:31:19.921-0500" changeDescription="Conform to UAM" version="2.0.1">
+  <mainDescription>&lt;p>&#xD;
+    The purpose of this task is to analyze possible usage scenarios for a new technology. This analysis is used to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Identify and define new opportunities presented by the new technology;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Examine the cost-benefit of the new technology;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Refine the impacts of the introduction of the new technology on existing IT architecture(s);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Agree the next steps, both business and technical.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    For each possible usage scenarios (or perhaps a set of usage scenarios) for the new technology a new&amp;nbsp;Architectural&#xD;
+    Decision is created that documents the results of this analysis, along with the agreement on how to proceed with&#xD;
+    further action if necessary. Each AD provides the basis for assigning and tracking any possible future work on&#xD;
+    introducing the new technology into the organization.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_FsFUMmUIEeSFL7Sh0MlmKA" name="General Recommendations" guid="_FsFUMmUIEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The opportunities made possible by a new technology are defined at two levels:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business&lt;/strong>&amp;nbsp;- the technology provides a new business opportunity: new or revised business&#xD;
+        services (e.g. online banking) or even the possibility of a new business line (e.g. online video sales and rental);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical&lt;/strong> - the new technology does not change the business, but provides many benefits in terms&#xD;
+        of cost, capability, operations, reliability, security, or other important factors.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    A business level opportunity will require a change to, or even definition of a new Business Perspective.&amp;nbsp;The&#xD;
+    business is changed in some basic way if the new technology is introduced.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A technical level opportunity impacts the current system at one of two levels:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Logical&lt;/strong> - the new technology does not have business level process or services implications, but&#xD;
+        does have large implications on the current IT architecture, which would have to be revised starting at the Logical&#xD;
+        level;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical&lt;/strong> - the new technology does not have significant architectural implications; it is a&#xD;
+        direct substitute for existing technology, but with benefits.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    Each opportunity is analyzed to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Refine the&amp;nbsp;understanding of the opportunities presented by the new technology;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Examine the cost-benefit of using the new technology;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Refine the impacts of the introduction of the new technology on existing IT architecture(s);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Agree the next steps, both business and technical.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The decision may be to do nothing ... the technology is not to be used. This is recorded in an Architectural Decision.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_FsFUMWUIEeSFL7Sh0MlmKA" name="Review Meetings " guid="_FsFUMWUIEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    There are two types of review meeting conducted, based upon the type of opportunity:&#xD;
+&lt;/p>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Business&lt;/strong>&amp;nbsp;- business level opportunities are analyzed at this type review meeting, which&#xD;
+        involves business decision makers and may even be led by a business person;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical&lt;/strong> - technical level opportunities are analyzed at this type of review meeting, which&#xD;
+        involves technical level decision makers.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Each opportunity is analyzed enough to make the &lt;em>go&lt;/em> or &lt;em>no-go&lt;/em> decision, to decide if the opportunity&#xD;
+    should be explored further.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Results of the analysis are recorded in one or more &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/workproducts/uam_architectural_decision_E4B96628.html&quot; guid=&quot;_WY_zYMKpEdy4DtCs1YI90Q&quot;>Artifact:&#xD;
+    Architectural Decision&lt;/a>, one for each &lt;em>opportunity&lt;/em> if required.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_FsFUM2UIEeSFL7Sh0MlmKA" name="Assign Responsibilities" guid="_FsFUM2UIEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    After the review, allocate responsibility for each defined decision (i.e. Architectural Decision), but only if further&#xD;
+    work is required.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    The possible impacts on the current IT architecture have been defined in detail for a number of possible usage&#xD;
+    scenarios for a new technology, along with the highest level of impact (i.e. Business, Logical or Technical) on the&#xD;
+    system. The purpose of this task is to now analyze each of these&amp;nbsp;possible usage scenarios.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

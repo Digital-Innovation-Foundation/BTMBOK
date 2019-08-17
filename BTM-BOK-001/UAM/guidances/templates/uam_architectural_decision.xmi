@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-TlwNfi_netSLlxYcs4_YCg" name="uam_architectural_decision,_kTjToMKyEdy4DtCs1YI90Q" guid="-TlwNfi_netSLlxYcs4_YCg" authors="DW Enstrom " changeDate="2015-01-25T15:21:13.762-0500" changeDescription="New template specification" version="1.0">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p>&#xD;
+    The Architectural Decision document is composed of four parts. The outline of the document is:&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;h4>&#xD;
+        1. Architectural Decision&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Describe the Architectural Decision (AD).&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        2 . Impacts and Implications&#xD;
+    &lt;/h4>&#xD;
+    &lt;p>&#xD;
+        Document any implications of the decision, such as technology choice, cost, and support implications.&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+    &lt;h4>&#xD;
+        3. Problem&amp;nbsp;&amp;amp; Constraints&amp;nbsp;&#xD;
+    &lt;/h4>&#xD;
+    &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+        &lt;h5>&#xD;
+            3.1 Problem&lt;br />&#xD;
+            3.2 Context&lt;br />&#xD;
+            3.3 Scope&lt;br />&#xD;
+            3.4 Constraints&lt;br />&#xD;
+            3.5 Assumptions&amp;nbsp;&amp;nbsp;&#xD;
+        &lt;/h5>&#xD;
+    &lt;/blockquote>&#xD;
+    &lt;h4>&#xD;
+        4. Solution Analysis&#xD;
+    &lt;/h4>&#xD;
+    &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+        &lt;h5>&#xD;
+            4.1. Solution Architecture&amp;nbsp;&lt;br />&#xD;
+            4.2. Solutions Comparative Analysis&amp;nbsp;&lt;br />&#xD;
+            4.3. Rationale&#xD;
+        &lt;/h5>&#xD;
+    &lt;/blockquote>&#xD;
+&lt;/blockquote>&#xD;
+&lt;p>&#xD;
+    Various formats are provided below: Microsoft Word (.dotx and .dot), PDF (.pdf) and Open XML Paper Specification&#xD;
+    (.xps).&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/Architectural-Decision.dotx|resources/Architectural-Decision.pdf|resources/Architectural-Decision.dot|resources/Architectural-Decision.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

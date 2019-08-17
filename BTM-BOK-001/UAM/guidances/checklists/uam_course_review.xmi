@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FAu8RU8VwTbrNa809fC3mA" name="uam_course_review,__1Hj4GkEEeS7ieerwXbTqg" guid="-FAu8RU8VwTbrNa809fC3mA" changeDate="2014-11-10T13:14:16.982-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    The checklist below is provided to help in ensuring that the Training Course review is&amp;nbsp;comprehensive. The&#xD;
+    review&amp;nbsp;provides an opportunity for all aspects of the course to be agreed, for other opinions to be heard and a&#xD;
+    consensus reached. Actions are also agreed to ensure that issues are resolved and updated made as decided during the&#xD;
+    review.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="__1Hj52kEEeS7ieerwXbTqg" name="Business and technical experts consulted" guid="__1Hj52kEEeS7ieerwXbTqg">
+    <sectionDescription>Ensure that all experts associated with the training material have had their say in the development course, and in this&#xD;
+review.</sectionDescription>
+  </sections>
+  <sections xmi:id="__1Hj4mkEEeS7ieerwXbTqg" name="Objectives met by contents" guid="__1Hj4mkEEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    The course is to transfer knowledge about the IT architecture and its processes, deliverables and activities. Ensure&#xD;
+    that the course content meets these expectations&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="__1Hj4WkEEeS7ieerwXbTqg" name="Structure of course supports objectives" guid="__1Hj4WkEEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    The structure of the course must support the objectives of the course, and makes sense from a logical transfer of&#xD;
+    skills and knowledge perspective.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="__1Hj5WkEEeS7ieerwXbTqg" name="Module contents complete and understandable " guid="__1Hj5WkEEeS7ieerwXbTqg">
+    <sectionDescription>&lt;p>&#xD;
+    Ensure that the contents of each of the course modules is understandable and complete.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

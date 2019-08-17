@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dURk8eiU8Gi88MsZhwtJIw" name="uam_business_data_output,_1WMZwGwsEeSS8ckFlGqwKQ" guid="-dURk8eiU8Gi88MsZhwtJIw" changeDate="2014-11-14T12:36:13.838-0500" version="2.0">
+  <mainDescription>A Data Output defines the data that will be used as output from a &lt;em>process&lt;/em>, &lt;em>activity&lt;/em> or &lt;em>task&lt;/em>,&#xD;
+which is defined in an&amp;nbsp;&lt;em>InputOutputSpecification&lt;/em>. There may be multiple Data Outputs associated with an&#xD;
+&lt;em>InputOutputSpecification&lt;/em> for an Activity, which means that the &lt;em>InputOutputSpecification&lt;/em> is a collection&#xD;
+of inputSets and outputSets.</mainDescription>
+  <representationOptions>A Data Output is a declaration that a particular kind of data will be used as output of the&#xD;
+&lt;em>InputOutputSpecification&lt;/em>. There may be multiple Data Outputs associated with an &lt;em>InputOutputSpecification&lt;/em>&#xD;
+for an Activity&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>: Class, «stereotype» BPL_Data_Output&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» ParameterSet and «metaclass» ActivityParameterNode&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&lt;/strong>&amp;nbsp;- This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&lt;/strong>&amp;nbsp;- A descriptive name for the Data Output.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>outputSetRefs: OutputSet [1..*]&lt;/strong>&amp;nbsp;- A &lt;em>DataOutput&lt;/em> is used in one or more&#xD;
+        &lt;em>OutputSets&lt;/em>. This attribute is derived from the &lt;em>OutputSets&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>outputSetwithOptional: OutputSet [0..*]&lt;/strong>&amp;nbsp;- Each &lt;em>OutputSet&lt;/em> that uses this&#xD;
+        &lt;em>DataOutput&lt;/em> can determine if the Activity can start executing with this &lt;em>DataOutput&lt;/em> state in&#xD;
+        “unavailable.” This attribute lists those &lt;em>OutputSets&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>outputSetWithWhileExecuting: OutputSet [0..*]&amp;nbsp;&lt;/strong>- Each &lt;em>OutputSet&lt;/em> that uses this&#xD;
+        &lt;em>DataOutput&lt;/em> can determine if the Activity can evaluate this &lt;em>DataOutput&lt;/em> while executing. This&#xD;
+        attribute lists those &lt;em>OutputSets&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>isCollection: boolean = false&lt;/strong>&amp;nbsp;- Defines if the &lt;em>DataOutput&lt;/em> represents a collection of&#xD;
+        elements (&lt;em>true&lt;/em>) or not (&lt;em>false&lt;/em>). It is needed when no &lt;em>itemDefinition&lt;/em> is referenced. If an&#xD;
+        &lt;em>itemDefinition&lt;/em> is referenced, then this attribute must have the same value as the &lt;em>isCollection&lt;/em>&#xD;
+        attribute of the referenced &lt;em>itemDefinition&lt;/em>. The default value for this attribute is false.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Has a relationship with an outputSet (outputSetRefs);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        See BPMN v2.0&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+        guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OPKuXnenD910fJyGKA99aw" name="setup_tester_environment,{B4F9BDCC-629E-485B-9EFA-318F8D5A37BC}" guid="-OPKuXnenD910fJyGKA99aw" version="1.0.0">
+  <sections xmi:id="_oNI70WE-EdqnIZeW8YpHcA" name=" General " guid="_oNI70WE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Prep&quot; name=&quot;Prep&quot;>&lt;/a> 
+&lt;p>
+    Testers will need to setup some kind of hardware/software environment in order to run the customer acceptance tests.
+    The environment might require the installation of specific software test tools or the OS might require specific
+    environment settings. Try to replicate as much as possible a typical end-user environment when running the tests. Tests
+    may require setting up multiple environments (when different operating systems are used, for example).
+&lt;/p>
+&lt;p>
+    Test environments are not only for testers; it is critical that they are made available to the programmers. Running the
+    acceptance tests is their only way to know whether or not they are through with a story and whether they have broken
+    previous stories or not.
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_setup_tester_environment__activity_definition&quot; name=&quot;XE_setup_tester_environment__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Create a stable environment for running the customer tests.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

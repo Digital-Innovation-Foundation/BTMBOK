@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jVQpg9ag6JY9YB43hFPI3Q" name="uam_organise_consult,_h8if8GOFEeSFL7Sh0MlmKA" guid="-jVQpg9ag6JY9YB43hFPI3Q" changeDate="2014-11-03T10:03:23.705-0500" version="2.0.0">
+  <mainDescription>&lt;p>&#xD;
+    This task organizes the consultation through deciding on the objectives, identifying the topics (i.e. highlights of the&#xD;
+    IT architecture)&amp;nbsp;and then appropriate materials are gathered, venues booked and participants notified.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_h8if82OFEeSFL7Sh0MlmKA" name="Decide on Objectives" guid="_h8if82OFEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Decide on the objectives and focus of the consultation from the following aspects:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Audience&lt;/strong> - what will be the audience for the consultation: business, operations, or technical;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Scope&lt;/strong> - will the consultation look at one level (e.g. Business Perspective) or multiple levels of&#xD;
+        the IT architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Highlights&lt;/strong> - what IT architecture findings or interesting results will provide the focus.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Once these are agreed then the required set of source material can be defined.&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_h8if8WOFEeSFL7Sh0MlmKA" name="Gather Required Information" guid="_h8if8WOFEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    The required source information about the IT&amp;nbsp;architecture is gathered. For example, the following information will&#xD;
+    be of use for defining a more technical level consultation:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Project and business plans and objectives;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Logical and Technical Perspective documentation;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Network logical and physical designs (i.e. the Location aspects);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Server environment and configuration, software versions, etc. (i.e. the Location aspects);&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Existing enterprise standards (network, naming, protocols, and so on).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    These documents should be collated and made available to those participating in the consultation.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_h8if8mOFEeSFL7Sh0MlmKA" name="Inform Attendees" guid="_h8if8mOFEeSFL7Sh0MlmKA">
+    <sectionDescription>&lt;p>&#xD;
+    Each&amp;nbsp;attendee is given sufficient notice about the consultation meeting, and what&amp;nbsp;is expected of them in&#xD;
+    terms of both preparatory work and their involvement in the process. As general guidance, you should consider the&#xD;
+    following when inviting attendees to participate in the consultation meetings (specific vary depending on the&#xD;
+    objectives):&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Direct users of the 'system', and also testing and documentation staff;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Domain or subject-matter experts for the system;&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Business experts or IT experts with experience in the domain or technology;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Maintainers of the system or technology involved.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Include only those participants who will contribute to achieving the objectives of the consultation. You can also hold&#xD;
+    several focused sessions with a smaller number of participants if needed.&lt;br />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    The purpose of consulting with stakeholders (not involved in the creation of the IT architecture) is to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Educate these stakeholders on the architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Solicit feedback from them on the IT architecture;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Provide information to them on possible optimizations and other findings;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Clarify and define priorities moving forward.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

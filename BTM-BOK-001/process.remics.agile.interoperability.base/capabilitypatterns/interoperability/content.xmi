@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mk-jvqpRy2B7rW1VH_kVEg" name="requirements_model,_YGqSogvaEeOhutvlRKZMkg" guid="-mk-jvqpRy2B7rW1VH_kVEg">
+    <refinedDescription>&lt;h3>&#xD;
+    Requirement Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This is an agregated deliverable that holds the information about the system and the addtional requirements from the&#xD;
+    requirements practices, it also includes the information about the recovered requirements and the validation&#xD;
+    procedures&amp;nbsp;defined in the validation phase.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5B2BfPUZKKGqPmB2wfxTmA" name="additional_system_requirements,_YGqSpAvaEeOhutvlRKZMkg" guid="-5B2BfPUZKKGqPmB2wfxTmA">
+    <refinedDescription>&lt;h3>&#xD;
+    Additional System Requirements&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The migration of a new system in most of the cases supposes an opportunitiy to introduce changes in the resulting new&#xD;
+    system over the previous one. These new or modified requirements where not present in the legacy system and therefore&#xD;
+    it is not possible to recover them from the analisis of the previous system.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-q7T3BPFISjf8gFclRPgL2A" name="define_interoperability_requirements,_2G59sQvbEeOhutvlRKZMkg" guid="-q7T3BPFISjf8gFclRPgL2A">
+    <refinedDescription>&lt;H3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&lt;SPAN lang=EN-GB>Define Interoperability Requirements&lt;/SPAN>&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Translate the interoperability problems and scenarios into new requirements for the final system. If no requirement can be defined for a given issue, that’s possibly means that the problem is not a problem taking into account the scope of the system.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3cz0KBq0ZTQYIWoL7OLh7A" name="identify_interoperability_problems_scenarios,_2G59sgvbEeOhutvlRKZMkg" guid="-3cz0KBq0ZTQYIWoL7OLh7A">
+    <refinedDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Identify interoperability problems/scenarios&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Starting with the system description and later with the system model identify potential&#xD;
+    interoperability problems or scenarios. Typical scenarios include the replacement/extension of a modernized service&#xD;
+    by/with external services already deployed in the cloud, justified by cost, QoS issues.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZUC9hgNn7wwXZJSkTbVfXQ" name="implement_interoperability_components,_2G59swvbEeOhutvlRKZMkg" guid="-ZUC9hgNn7wwXZJSkTbVfXQ">
+    <refinedDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Implement Interoperability Components&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Implement interoperability components when necessary to deal with the interoperability problems and&#xD;
+    requirements.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-i73KJseZGCpENUGhOU9t5A" name="interoperability_monitoring,_2G59tAvbEeOhutvlRKZMkg" guid="-i73KJseZGCpENUGhOU9t5A">
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Interoperability Monitoring&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Once interoperability components are deployed, monitor the result of the interoperability components&#xD;
+    implemented to see the validity of these components.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-hLeUBifCf2Wd5qw48gRhLw" name="perform_interoperability_analysis,_2G59tQvbEeOhutvlRKZMkg" guid="-hLeUBifCf2Wd5qw48gRhLw">
+    <refinedDescription>&lt;H3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&lt;SPAN lang=EN-GB>Perform Interoperability Analysis &lt;/SPAN>&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Analyse the interoperability problems and requirements to have a basis for the definition of strategies to deal with them.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-muuy7-GlJPgnQOQMGiBIKw" name="interoperability_team,_2G6kwAvbEeOhutvlRKZMkg" guid="-muuy7-GlJPgnQOQMGiBIKw">
+    <refinedDescription>&lt;h3>&#xD;
+    Interoperability Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the team in charge of the interoperability activities&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_sm_Ri6HWEBZ0NAHMxvB1w" name="system_model,_2G6kxgvbEeOhutvlRKZMkg" guid="-_sm_Ri6HWEBZ0NAHMxvB1w">
+    <refinedDescription>&lt;h3>&#xD;
+    System Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The system model includes all the models that are necessary to create and validate the new system.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--7GNPLwxrJuBvr8x2vNiTA" name="system_idea,_2G6kyAvbEeOhutvlRKZMkg" guid="--7GNPLwxrJuBvr8x2vNiTA">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>System Idea&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The system idea is a document that contains a description of the future system mainly from the prespective of the&#xD;
+    product owner. The content of the document depends largely on the kind of system to be migrated, but among other&#xD;
+    specific issues it should address:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The new ways in which the stakeholder will interact with the new system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The parts of the system that will be migrated.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Constraints in the migration of those&amp;nbsp;parts.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-IYquo3WcTBUPMavdtj4sFA" name="system_overview,_2G6kygvbEeOhutvlRKZMkg" guid="-IYquo3WcTBUPMavdtj4sFA">
+    <refinedDescription>&lt;h3>&#xD;
+    System Overview&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The system overview redefines and extends the system idea in terms that can be understand by the development team.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WiB7mewaWiqxh51vdtcc5Q" name="actors,_2G7L0AvbEeOhutvlRKZMkg" guid="-WiB7mewaWiqxh51vdtcc5Q">
+    <refinedDescription>&lt;h3>&#xD;
+    Actors&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This deliverable enumerates any external entity human or system that is expected to interact with the future system. It&#xD;
+    is necessary to be identify the possible additional features required by them in the different phases of the system:&#xD;
+    migration, explotation, supervision and withdraval.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6xgq26SEcn0R5XUKyAVFzQ" name="code,_f5qNgQvdEeOhutvlRKZMkg" guid="-6xgq26SEcn0R5XUKyAVFzQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Code&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the code and the confiugratnio finels necessaries to run the new system&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-l6PLc4463d8eHnYoLx-meA" name="control_and_monitoring_results,_f5rboQvdEeOhutvlRKZMkg" guid="-l6PLc4463d8eHnYoLx-meA">
+    <refinedDescription>&lt;h3>&#xD;
+    Control and Monitoring Results&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    These are the results from the validation and verification activities&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-bQG_DziQ4qFLFHY3klFNvg" name="interoperability,_T29YAQvaEeOhutvlRKZMkg" guid="-bQG_DziQ4qFLFHY3klFNvg"/>
+</xmi:XMI>

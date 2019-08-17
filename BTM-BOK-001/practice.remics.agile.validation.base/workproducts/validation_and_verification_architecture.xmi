@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UOYXgq1qpir7gW7uv_fCFw" name="validation_and_verification_architecture,_FxNEXF5BEeKVU8eUCvi3Og" guid="-UOYXgq1qpir7gW7uv_fCFw" changeDate="2013-08-23T04:08:37.843-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Validation and Verification Architecture&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It defines the component architecture to be used during the vailidation and verification of the components&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

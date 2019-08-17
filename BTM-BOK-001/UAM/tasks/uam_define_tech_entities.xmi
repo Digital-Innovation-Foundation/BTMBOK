@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZDwblLzVboWzqXW8FKrZCw" name="uam_define_tech_entities,_LdQzoN5KEdyg17nU3bVmlA" guid="-ZDwblLzVboWzqXW8FKrZCw" authors="DW Enstrom" changeDate="2014-10-24T10:40:37.807-0400" changeDescription="New" version="2.0.0">
+  <mainDescription>Technical entities are the things passed between activities or produced by activities and tasks (see: &lt;a&#xD;
+class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/whitepapers/uam_bpmn_intro_tutorial_426154F6.html&quot;&#xD;
+guid=&quot;_gYTbgN2MEdyVUKFKTmaZUA&quot;>Whitepaper: BPMN - an Introductory Tutorial&lt;/a>). They are likely persistent, but not&#xD;
+necessarily. It is important to document enough detail&amp;nbsp;of these entities at this stage of the architecture to&#xD;
+understand how the technologies chosen will support their use within processes, and what relationships between them are&#xD;
+required, which also influences technology choices. Refinement of their definitions and structure is also done, again in&#xD;
+support of technology choices and required refinements of this and other models within the architecture.</mainDescription>
+  <sections xmi:id="_eAG8YN5NEdyg17nU3bVmlA" name="Refine the data entities" guid="_eAG8YN5NEdyg17nU3bVmlA">
+    <sectionDescription>&lt;p>&#xD;
+    This step takes the logical entities, defined in the Logical Entity Model&amp;nbsp;of the IT architecture, and refines&#xD;
+    their definition. This is done through refinement of their attributes, refinement of their relationships, and perhaps&#xD;
+    breaking out a logical entity into several technical level entities (e.g. A newspaper's &lt;em>business&lt;/em> section&#xD;
+    logical definition is refined with the addition of generic structures such as &lt;em>advertizing&lt;/em>, &lt;em>editorial&lt;/em>,&#xD;
+    etc. including technical details regarding its layout). Influencing and driving this refinement is the Technical&#xD;
+    Process Model that defines how these entities are used within processes.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_EcEsAN5OEdyg17nU3bVmlA" name="Define the technical data model" guid="_EcEsAN5OEdyg17nU3bVmlA">
+    <sectionDescription>&lt;p>&#xD;
+    The purpose of the Technical Data Model is to provide a technical view of the system's data entities and their&#xD;
+    interrelationships,&amp;nbsp;which may be independent of any specific software or database implementations but if these&#xD;
+    technical choices are made within the IT architecture then the model will be influenced by these choices.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In the enterprise architecture context the concept of normalization is &lt;em>&lt;strong>not&lt;/strong>&lt;/em> required since we&#xD;
+    are not concerned with what the data needs to look like in a database nor with operational&#xD;
+    optimizations.&amp;nbsp;Therefore this Technical Entity Model is &lt;em>&lt;strong>not&lt;/strong>&lt;/em> considered to be part of the&#xD;
+    implementable Data Model, it is a separate work product.&amp;nbsp; As always, the level of detail (and decisions made) is&#xD;
+    dependent upon the context and objectives of the IT Architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The model created is&amp;nbsp;a refinement of the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/workproducts/uam_logical_entity_model_2ACBC73E.html&quot; guid=&quot;_UkGJEM6jEdymj4NXv8-FYA&quot;>Logical Entity&#xD;
+    Model&lt;/a>&amp;nbsp;(which is logical in nature), refining the structure, relationships and attributes based upon scenarios&#xD;
+    and the specific requirements placed on the entities by these processes and activities. The technological approach(s)&#xD;
+    to supporting these entities and the&amp;nbsp;processes and tasks in which they participate is explored. Technical choices&#xD;
+    must support these processes, roles&amp;nbsp;and goals.&#xD;
+&lt;/p>&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_iY0hsN5QEdyg17nU3bVmlA" name="Evaluate your results" guid="_iY0hsN5QEdyg17nU3bVmlA">
+    <sectionDescription>&lt;p>&#xD;
+    Check to ensure that the model is consistent and complete. Validate technical choices with domain experts, technical&#xD;
+    experts and other stakeholders. Technical choices made need to be documented and justified in Architectural Decisions&#xD;
+    (see: &lt;a class=&quot;elementLink&quot; href=&quot;./../../UAM/workproducts/uam_architectural_decision_E4B96628.html&quot;&#xD;
+    guid=&quot;_WY_zYMKpEdy4DtCs1YI90Q&quot;>Architectural Decision&lt;/a>).&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    This task defines the technical entities and&amp;nbsp;their structure&amp;nbsp;within the architecture in question.&#xD;
+    Specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define or refine the data involved in and supporting the technical processes and activities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define or refine the relationships that need to be supported between data entities;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Define or refine the detailed attributes of these data entities.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The Technical Entity Model describes the technical structure of the persistent information managed by the system (or&#xD;
+    enterprise). The data model&amp;nbsp;is initially created from&amp;nbsp;the set of persistent&amp;nbsp;classes in the &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../UAM/workproducts/uam_logical_entity_model_2ACBC73E.html&quot;&#xD;
+    guid=&quot;_UkGJEM6jEdymj4NXv8-FYA&quot;>Logical Entity Model&lt;/a>. The technical level defines specific technological approaches&#xD;
+    to be used,&amp;nbsp;and specific technologies to persist, access and update the data entities. These choices will&#xD;
+    therefore influence the structure and detail of the model.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The attributes of the data are further elaborated along with the&amp;nbsp;relationships that need to be supported between&#xD;
+    data entities. Implementation level details are not defined, however enough detail regarding the data, it's access and&#xD;
+    usage&amp;nbsp;are defined to ensure that the technology choices made will address the needs of the system.&amp;nbsp;As always,&#xD;
+    the level of detail within the model depends upon the context and objectives of the IT architecture. For example, in a&#xD;
+    small organization this Entity Model may be specified to a very detailed level to the point where it could be used as&#xD;
+    the basis for implementation.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

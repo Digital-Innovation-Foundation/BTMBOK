@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-ArODh4qLigBndh2a230R4g" name="uam_bus-event,_cCnysLIHEeSgVPmVL1L5GQ" guid="-ArODh4qLigBndh2a230R4g" changeDate="2015-02-11T11:04:56.890-0500" version="2.0">
+  <mainDescription>&lt;p>&#xD;
+    A Business Event is something that happens internally or externally to the system that drives the activities and&#xD;
+    processes of the system being modeled. Several types of events are defined. A Start Event represents a significant&#xD;
+    occurrence in the activities of the business that requires immediate action, normally triggering actions within a&#xD;
+    Business Activity. A Start Event can be anything from a timer, a trigger in a data base, a user action of some sort, or&#xD;
+    the arrival or modification of a Business Entity or other artifact. Note that this generic&amp;nbsp;Business Event element&#xD;
+    is abstract and is therefore not instantiated within Business Process Models.&#xD;
+&lt;/p></mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    A Business Event is something that happens internally or externally to the system that drives the activities and&#xD;
+    processes of the system being modeled. This is the generic abstract representation of any type of event at the business&#xD;
+    level. It is not instantiated and therefore the generic Start Event, End Event or Timer Start Event are used to capture&#xD;
+    events. See:&amp;nbsp;&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+    guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.&#xD;
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZosLdDUll_cwOLxgsR-YKQ" name="uam_ea_bpl_research,_ROotoMMaEeKSedlRPHdUIQ" guid="-ZosLdDUll_cwOLxgsR-YKQ" changeDate="2015-02-07T13:35:50.226-0500" version="7.5.1">
+  <problem>&lt;p>&#xD;
+    Research Reports define the results of analysis of IT trends, IT equipment reviews, IT solutions, and tests on IT&#xD;
+    equipment and solutions. More general analysis of and comparisons of technologies within specific domains are also&#xD;
+    provided (e.g. Comparison of Smartphones).&#xD;
+&lt;/p></problem>
+  <goals>&lt;h5>&#xD;
+    Attributes&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    none&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Relationships&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Reports address Customer Information Needs, are based upon Raw Information and Substantiated by Partner Information,&#xD;
+    and they may evaluate Material.&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

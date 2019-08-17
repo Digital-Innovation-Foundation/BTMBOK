@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EQr9HR0c80IQpf_46Dp96Q" name="infrastructure,_UqrzQMoDEdy25fQyv59CjQ" guid="-EQr9HR0c80IQpf_46Dp96Q" changeDate="2013-11-15T14:16:07.632-0500" changeDescription="new" version="2.0">
+  <mainDescription>This set of Work Products are actually not products, but they support the development of models.&lt;a&#xD;
+id=&quot;XE_Work_Products__Infrastructure&quot; name=&quot;XE_Work_Products__Infrastructure&quot;>&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

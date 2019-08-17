@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yeGjjpso7pp1_ky6ts9oUA" name="eg_ea_lpm_it-solutions,_jfsCwJmoEeOJEracaeLisg" guid="-yeGjjpso7pp1_ky6ts9oUA" changeDate="2014-03-21T12:43:18.402-0400" version="2.0.1">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img border=&quot;0&quot; alt=&quot;IT Solutions Top Level Process Model&quot; src=&quot;./resources/EA-Logical-IT-Solutions.png&quot; width=&quot;509&quot;&#xD;
+    height=&quot;207&quot; usemap=&quot;#map1393270262037&quot; />&lt;map id=&quot;map1393270262037&quot; name=&quot;map1393270262037&quot;>&#xD;
+        &lt;area title=&quot;Manage Customer Relations&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_lpl_crm_BA6A09BF.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Manage Customer Relations&quot; coords=&quot;160,56,222,103&quot; guid=&quot;_awb-MJmpEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;Solution Implementation&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_lpl_soln-impl_DFC1F069.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Solution Implementation&quot; coords=&quot;265,129,340,173&quot; guid=&quot;_klN1gJmqEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;Solution Support&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_lpl_soln-support_CEA128A7.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Solution Support&quot; coords=&quot;159,130,222,171&quot; guid=&quot;_vrat4JmqEeOJEracaeLisg&quot; />&#xD;
+        &lt;area title=&quot;Consulting Services&quot; href=&quot;./../../UAM/guidances/practices/eg_ea_lpl_consult-svcs_6BA31848.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Consulting Services&quot; coords=&quot;272,58,333,102&quot; guid=&quot;_f-vZoJmqEeOJEracaeLisg&quot; />&#xD;
+    &lt;/map>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Click on the Activities and other elements that show the &quot;drill down&quot; decorator ( &lt;img alt=&quot;&quot;&#xD;
+    src=&quot;./resources/Drill%20Down-33.jpg&quot; width=&quot;12&quot; height=&quot;12&quot; />&amp;nbsp;) to see more detail.&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This diagram is the root of the Logical Process Model at the EA level for the IT Solutions portion of the ThuNorTech&#xD;
+    core business.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This business line includes the definition of IT solutions for customers, the implementation of IT solutions for&#xD;
+    customers, and the operations and support of these IT solutions. Customer Accounts are also managed.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

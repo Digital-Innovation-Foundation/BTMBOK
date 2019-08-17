@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MOoukMCTEemv0a6P8REMBA" guid="_MOoukMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_MOouksCTEemv0a6P8REMBA" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/validate.xmi"/>
+    <resourceDescriptors xmi:id="_MOouk8CTEemv0a6P8REMBA" id="-YvMD_UG8ieQVBNFt-y8I8Q" uri="tasks/define_testing_infrastructure.xmi"/>
+    <resourceDescriptors xmi:id="_MOx4gMCTEemv0a6P8REMBA" id="-wY2QMcdXfuqUiKF2VZZ3eA" uri="tasks/identify_and_refine_requirements_to_be_tested.xmi"/>
+    <resourceDescriptors xmi:id="_MOx4gcCTEemv0a6P8REMBA" id="-4Zo7btFwJ-MLW8eZH7dSMw" uri="tasks/generate_acceptance_testing.xmi"/>
+    <resourceDescriptors xmi:id="_MOx4gsCTEemv0a6P8REMBA" id="-FjzqMn1kH_A0EfQK6uIgKw" uri="tasks/define_testing_procedures.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_kb4IwMvjEeCphdH9-OcbCA" name="practice.remics.traditional.validate.base" guid="_kb4IwMvjEeCphdH9-OcbCA" changeDate="2013-01-11T07:19:39.247-0500">
+    <methodElementProperty xmi:id="_MOjPAMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4IwcvjEeCphdH9-OcbCA" name="Content" guid="_kb4IwcvjEeCphdH9-OcbCA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4IwsvjEeCphdH9-OcbCA" name="Categories" guid="_kb4IwsvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4Iw8vjEeCphdH9-OcbCA" name="Domains" guid="_kb4Iw8vjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4IxMvjEeCphdH9-OcbCA" name="Disciplines" guid="_kb4IxMvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4IxcvjEeCphdH9-OcbCA" name="RoleSets" guid="_kb4IxcvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4IxsvjEeCphdH9-OcbCA" name="WP Types" guid="_kb4IxsvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4Ix8vjEeCphdH9-OcbCA" name="Tools" guid="_kb4Ix8vjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4IyMvjEeCphdH9-OcbCA" name="StandardCategories" guid="_kb4IyMvjEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4IycvjEeCphdH9-OcbCA" name="CustomCategories" guid="_kb4IycvjEeCphdH9-OcbCA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4IysvjEeCphdH9-OcbCA" name="Hidden" guid="_kb4IysvjEeCphdH9-OcbCA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_kb4Iy8vjEeCphdH9-OcbCA" name="Custom Categories" guid="_kb4Iy8vjEeCphdH9-OcbCA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kb4IzMvjEeCphdH9-OcbCA" name="CoreContent" guid="_kb4IzMvjEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JlEeEP4aEeCPJr8QQpNd-A" name="validate" guid="_JlEeEP4aEeCPJr8QQpNd-A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_MtckQP4aEeCPJr8QQpNd-A" name="validate" guid="_MtckQP4aEeCPJr8QQpNd-A" presentationName="Validate" briefDescription="This activity will implement validation mechanisms for the features implemented in the new system. Appart from the tratitional validation mechanims it will make use of the knowledge extracted in the recover fase and it will apply model based validation methods." contentReferences="_HdXpYP4oEeC6H_i-fGXOUw _c_59wP4oEeC6H_i-fGXOUw _SqUC8P4oEeC6H_i-fGXOUw _LYDWQP4oEeC6H_i-fGXOUw _hPtmEP4oEeC6H_i-fGXOUw _W9r8oP4oEeC6H_i-fGXOUw">
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_HdXpYP4oEeC6H_i-fGXOUw" name="define_testing_infrastructure" guid="_HdXpYP4oEeC6H_i-fGXOUw" presentationName="Define testing infrastructure">
+            <presentation xmi:id="-YvMD_UG8ieQVBNFt-y8I8Q" href="uma://-YvMD_UG8ieQVBNFt-y8I8Q#-YvMD_UG8ieQVBNFt-y8I8Q"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_C0mN0P4wEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_FKQdoP4wEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_rpcLQP4uEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_I9CBIP4vEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_WDevcP4uEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_0Q8MkP4uEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_KUXAcP4vEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_nVBIsP4uEeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LYDWQP4oEeC6H_i-fGXOUw" name="identify_and_refine_requirements_to_be_tested" guid="_LYDWQP4oEeC6H_i-fGXOUw" presentationName="Identify and refine requirements to be tested">
+            <presentation xmi:id="-wY2QMcdXfuqUiKF2VZZ3eA" href="uma://-wY2QMcdXfuqUiKF2VZZ3eA#-wY2QMcdXfuqUiKF2VZZ3eA"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_WDevcP4uEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_WDevcP4uEeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SqUC8P4oEeC6H_i-fGXOUw" name="generate_acceptance_testing" guid="_SqUC8P4oEeC6H_i-fGXOUw" presentationName="Generate acceptance testing">
+            <presentation xmi:id="-4Zo7btFwJ-MLW8eZH7dSMw" href="uma://-4Zo7btFwJ-MLW8eZH7dSMw#-4Zo7btFwJ-MLW8eZH7dSMw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_C0mN0P4wEeC6H_i-fGXOUw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_FKQdoP4wEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_XdQT4P4wEeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_W9r8oP4oEeC6H_i-fGXOUw" name="import_models_elements_to_be_tested" guid="_W9r8oP4oEeC6H_i-fGXOUw" presentationName="Import models elements to be tested">
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_AQ8lUP4wEeC6H_i-fGXOUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_c_59wP4oEeC6H_i-fGXOUw" name="define_testing_procedures" guid="_c_59wP4oEeC6H_i-fGXOUw" presentationName="Define testing procedures">
+            <presentation xmi:id="-FjzqMn1kH_A0EfQK6uIgKw" href="uma://-FjzqMn1kH_A0EfQK6uIgKw#-FjzqMn1kH_A0EfQK6uIgKw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_C0mN0P4wEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_FKQdoP4wEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_rpcLQP4uEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_I9CBIP4vEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_WDevcP4uEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_0Q8MkP4uEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_KUXAcP4vEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_nVBIsP4uEeC6H_i-fGXOUw"/>
+            <optionalInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_sm3QYMvnEeCphdH9-OcbCA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hPtmEP4oEeC6H_i-fGXOUw" name="implement_testing_strategy" guid="_hPtmEP4oEeC6H_i-fGXOUw" presentationName="Implement testing strategy">
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_FKQdoP4wEeC6H_i-fGXOUw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_AQ8lUP4wEeC6H_i-fGXOUw"/>
+            <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_XdQT4P4wEeC6H_i-fGXOUw"/>
+            <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_JqnN8P4xEeC6H_i-fGXOUw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_kb4IzcvjEeCphdH9-OcbCA" name="CapabilityPatterns" guid="_kb4IzcvjEeCphdH9-OcbCA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_kb4IzsvjEeCphdH9-OcbCA" name="DeliveryProcesses" guid="_kb4IzsvjEeCphdH9-OcbCA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_kb4Iz8vjEeCphdH9-OcbCA" name="ProcessContributions" guid="_kb4Iz8vjEeCphdH9-OcbCA"/>
+    <bases href="uma://_bvPv0MvjEeCphdH9-OcbCA#_bvPv0MvjEeCphdH9-OcbCA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

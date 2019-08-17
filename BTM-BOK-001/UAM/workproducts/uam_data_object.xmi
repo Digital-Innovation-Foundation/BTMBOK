@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-GRTo3AW-RyaMLoiFfqQalQ" name="new_artifact,_oGkKkE7mEeOcVJX_gvTjyg" guid="-GRTo3AW-RyaMLoiFfqQalQ" changeDate="2015-02-11T12:41:43.620-0500" version="2.0">
+  <mainDescription>&lt;p>&#xD;
+    Business Data Objects represent information flowing through a business process, and are used to illustrate information&#xD;
+    flow in Business Process Models. They are defined by BPMN and incorporated into the Business Entity Model and Business&#xD;
+    Process Model; see &lt;a href=&quot;http://www.bpmn.org/&quot; target=&quot;_blank&quot;>BPMN Specification - Business Process Model and&#xD;
+    Notation&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Note that&amp;nbsp;there is another similar&amp;nbsp;element:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/workproducts/uam_business_data_coll_DBB056D6.html&quot; guid=&quot;_5kQUAE7nEeOcVJX_gvTjyg&quot;>Artifact: Data&#xD;
+    Collection&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    Defines a (Business) Data Object (DataObject) is the primary construct for modeling data within a Process flow. It has&#xD;
+    a well-defined lifecycle, with resulting access constraints&amp;nbsp;&lt;a&#xD;
+    href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot; guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG&#xD;
+    2013)&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Data_Object&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» Class&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the Data Object.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>isCollection: boolean = false&amp;nbsp;-&lt;/strong> Defines that the Data Object does not represent a collection&#xD;
+        of elements (if = &lt;em>false&lt;/em>). It is needed when no &lt;em>itemDefinition&lt;/em> is referenced. If an&#xD;
+        &lt;em>itemDefinition&lt;/em> is referenced, then this attribute MUST have the same value as the &lt;em>isCollection&lt;/em>&#xD;
+        attribute of the referenced &lt;em>itemDefinition&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A kind of &lt;em>FlowElement&lt;/em> and &lt;em>ItemAwareElement&lt;/em> that has relationships defined through a&#xD;
+        &lt;em>DatObjectReference&lt;/em>;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        See BPMN v2.0&amp;nbsp;&lt;a href=&quot;./../../UAM/guidances/supportingmaterials/uam_references_229FFDF2.html&quot;&#xD;
+        guid=&quot;_nQFYAMb-EeK4P8KZ6MNYcg&quot;>(OMG 2013)&lt;/a>.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

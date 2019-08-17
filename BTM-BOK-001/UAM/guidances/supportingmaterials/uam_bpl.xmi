@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-iWvELoQDNvRjZZFprcxOIQ" name="new_supporting_material,_djWF0LhuEeSeNe6SxZNlbg" guid="-iWvELoQDNvRjZZFprcxOIQ" changeDate="2015-02-19T14:37:29.807-0500">
+  <mainDescription>&lt;a id=&quot;XE_BPL&quot; name=&quot;XE_BPL&quot;>&lt;/a>&lt;br />&#xD;
+&lt;h3>&#xD;
+    Business Process Language Definition: &lt;a href=&quot;./resources/BPL.pdf&quot; target=&quot;_blank&quot;>BPL.pdf&lt;/a>&#xD;
+&lt;/h3>&#xD;
+&lt;h3>&#xD;
+    Overview&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Business Perspective Language is based upon a very small subset of BPMN elements, with the addition of business&#xD;
+    entities, business locations, and business roles elements. The image below summarizes, using UML notation, the language&#xD;
+    elements and inter-relationships of the UAM Business Perspective language. A more complete summary is available here:&#xD;
+    &lt;a class=&quot;elementLink&quot; href=&quot;./../../../UAM/guidances/supportingmaterials/uam_bpl_simple_858E0AEB.html&quot;&#xD;
+    guid=&quot;_472cUEWIEeOfR_FtRm9PUg&quot;>BPL Summary&lt;/a>. &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;UAM Business Perspective Language Summary&quot; src=&quot;./resources/BPM-Summary.png&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The referenced&amp;nbsp;document describes the Business Perspective Language in detail, with each element fully described.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

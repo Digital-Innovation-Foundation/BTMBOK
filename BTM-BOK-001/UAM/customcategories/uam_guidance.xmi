@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OmXPoYdiCUR4xODcZ6sBgw" name="ea_guidance,_LREWsNZzEdyTWqLy4FSCdg" guid="-OmXPoYdiCUR4xODcZ6sBgw" changeDate="2018-03-26T15:40:25.981-0400" changeDescription="Revise for UAM" version="2.0.0">
+  <mainDescription>&lt;a id=&quot;XE_Guidance&quot; name=&quot;XE_Guidance&quot;>&lt;/a>For a description of each type of guidance, see the list here: &lt;a&#xD;
+class=&quot;elementLink&quot; href=&quot;./../../UAM/guidances/concepts/uam_uma_guidance_405C8A19.html&quot;&#xD;
+guid=&quot;_tQiy8DEkEeiooN8Zakj4QQ&quot;>Guidance&lt;/a>.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

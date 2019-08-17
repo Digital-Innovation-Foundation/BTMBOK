@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RNyaB6jxqoopm9fJU8k9vg" name="new_supporting_material,_UaGfECcTEduSX6N2jUafGA" guid="-RNyaB6jxqoopm9fJU8k9vg" changeDate="2007-07-20T14:35:50.156-0400" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    Copyright &amp;copy; 1987, 2007 IBM Corp. All Rights Reserved.&lt;br />&#xD;
+    Copyright &amp;copy; 2006, 2007 Telelogic AB. All Rights Reserved.&lt;br />&#xD;
+    Copyright &amp;copy; 2006 Armstrong Process Group, Inc. All Rights Reserved.&lt;br />&#xD;
+    Copyright &amp;copy; 2006, 2007&amp;nbsp;Number Six Software, Inc. All Rights Reserved.&lt;br />&#xD;
+    Copyright &amp;copy; 2006, 2007 Xansa plc. All Rights Reserved.&lt;br />&#xD;
+    And others. All rights reserved.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-XISKjDW-VgQvAxH_0J8HTA" name="new_tpl_role_model,_CxOWILnhEeOWHuN2LhNl_Q" guid="-XISKjDW-VgQvAxH_0J8HTA" changeDate="2015-02-07T13:27:42.738-0500" version="7.5.1">
+  <problem>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Query Research BD Technical Roles Model&quot; src=&quot;./resources/BD-Technical-TRM-Research.png&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;strong>Query Research BD Technical Roles Model&lt;/strong>&#xD;
+&lt;/p></problem>
+  <goals>&lt;h3>&#xD;
+    Customer Researcher Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The adhoc subprocess Query Source Info&amp;nbsp;allows the Customer Researcher&amp;nbsp;to query Reports and Source&#xD;
+    Information, get the results and review the returned information. They may do additional queries for&amp;nbsp;until&#xD;
+    completed.&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the Query Reports, query Source&amp;nbsp;and Review Reports, Review Source&amp;nbsp;activities.&amp;nbsp;&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;h3>&#xD;
+    Research Analyst Role&amp;nbsp;&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The adhoc subprocess Query Source and Query Reports allows the Research Analyst to query Source Information and&#xD;
+    Research Reports, get the results and review the returned information. They may do additional queries&#xD;
+    for&amp;nbsp;information until completed. Research Analysts do the research prior to a report being written. If the&#xD;
+    analysis of the source information results in the discovery of information that addresses a Customer Information Need a&#xD;
+    new Report Task&amp;nbsp;is created&amp;nbsp;that forms the basis for the report. A draft report may be written as well.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h5>&#xD;
+    Activities&amp;nbsp;&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Uses the Query Reports, Query Source&amp;nbsp;and Review Reports, Review Source&amp;nbsp;activities.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p></goals>
+</org.eclipse.epf.uma:PracticeDescription>

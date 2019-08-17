@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-4AscjNQ8PpMNKzeeiuMRzA" name="uam_in_business-opportunity,_1TyWYK8REeSUf-NO_1Ayag" guid="-4AscjNQ8PpMNKzeeiuMRzA" changeDate="2015-12-01T09:37:29.359-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    A Business Opportunity takes the Business&amp;nbsp;Need and further develops it in terms of the business solution and may&#xD;
+    include very rough costs and benefits. The objective is to understand and document the business need to the point where&#xD;
+    a go or no-go decision can be made for developing a business case. Is it worth developing a detailed business case or&#xD;
+    not? This step (and perhaps the Business Need step) may all be included in the business case activity in many&#xD;
+    organizations.&amp;nbsp; See the overview of inputs here: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UAM/customcategories/uam_inputs_82560214.html&quot; guid=&quot;_UauIAGtMEeS7ieerwXbTqg&quot;>Inputs&lt;/a>.&#xD;
+&lt;/p>&lt;a id=&quot;XE_Business_Opportunity&quot; name=&quot;XE_Business_Opportunity&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    See:&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/deliveryprocesses/uam_ent_planning_1D88CE12.html&quot;&#xD;
+    guid=&quot;_iTW2kK8KEeSUf-NO_1Ayag&quot;>Activity: Enterprise Planning&lt;/a>&amp;nbsp;and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/deliveryprocesses/uam_gate-1_7E99FE69.html&quot; guid=&quot;_ZMQOgK8SEeSUf-NO_1Ayag&quot;>Milestone: Gate 1&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

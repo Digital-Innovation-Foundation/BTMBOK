@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-Gpg0h-6vC3-F_Bk-JE6U4w" name="uam_logical_network,_UnLKoEGpEeOfR_FtRm9PUg" guid="-Gpg0h-6vC3-F_Bk-JE6U4w" changeDate="2013-10-30T17:15:29.265-0400" version="7.5.1">
+  <mainDescription>A Logical Network is the set of devices and elements that comprise and define a computer network at the logical level. It&#xD;
+may be used as a black box definition, with more detail defined in later modeling iterations or as a white box definition,&#xD;
+as required by the objectives of the architecture effort. Specific devices and technologies not defined.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

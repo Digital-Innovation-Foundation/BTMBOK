@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-4fvsumBQDnbWbUZBDImXiw" name="uam_def_objectives,_zr-U8Gq-EeS7ieerwXbTqg" guid="-4fvsumBQDnbWbUZBDImXiw" changeDate="2014-11-13T11:24:24.282-0500">
+  <mainDescription>&lt;p>&#xD;
+    An IT architecture project is typically started to define a complete architecture for the &quot;system&quot;. In this case, the&#xD;
+    objectives of the project are to produce a complete perspective, or set of perspectives. The set of perspectives&#xD;
+    required need to be specified at the very least. Other options are possible, depending upon the needs of the&#xD;
+    enterprise. These possible objectives are summarize, and by no means limited to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Perspectives&lt;/strong> - complete IT architecture perspectives are defined: Business, Logical and Technical,&#xD;
+        with the require set specified;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Simple&lt;/strong> - a Simple IT architecture, largely based upon existing documentation, is to be define at&#xD;
+        the Logical and/or Technical level;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Entity Models&lt;/strong> - this effort is focused on the Entity models, typically based upon an existing IT&#xD;
+        architecture with the goal of defining this Technical level model to the point where data modelers take over and&#xD;
+        define the implementation level models;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Storage &amp;amp; Servers&lt;/strong> - this effort is focused on the Locations models, typically based upon an&#xD;
+        existing IT architecture with the goal of defining the enterprise strategy for servers (e.g. consolidation) and /&#xD;
+        or storage (rationalization or centralization);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Network &amp;amp; Telecommunications&lt;/strong> - this effort is focused on the Locations models, typically based&#xD;
+        upon an existing IT architecture with the goal of defining the enterprise model and strategy for the IP network and&#xD;
+        perhaps the telecommunications (WAN) network as well. The purpose and objectives for this effort defines the&#xD;
+        required focus;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>User Processes&lt;/strong> - this effort is focused on the Process and Roles models, typically based upon an&#xD;
+        existing IT architecture with the goal of re-engineering processes and / or rationalizing or improving the user&#xD;
+        experience. Introducing new technologies (presentation or workflow) may be part of the focus of this effort.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    There are likely many other areas, or combinations&amp;nbsp;of aspects,&amp;nbsp;where IT architecture project could be&#xD;
+    focused, depending upon the needs of the enterprise.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

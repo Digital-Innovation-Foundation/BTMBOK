@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-_G1dvzRLfh_bM3ejIdVfGQ" name="new_artifact,_QQlgoGxOEeSS8ckFlGqwKQ" guid="-_G1dvzRLfh_bM3ejIdVfGQ" changeDate="2014-11-14T17:34:24.142-0500">
+  <mainDescription>Business Communications defines the types of communications required and provided between locations in the Business&#xD;
+Locations Model. This communications is conceptual at this point and may therefore represent any form of communications,&#xD;
+from the physical transport of goods to electronic communications. A Business Location is the generic or conceptual level&#xD;
+locations at which the system (business) under study has a presence.</mainDescription>
+  <representationOptions>&lt;p>&#xD;
+    Business Communications defines the types of communications between Business Locations.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>UML Representation&lt;/strong>:&amp;nbsp;«stereotype» BPL_Comms&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Extends:&lt;/strong> «metaclass» CommunicationPath&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It has the following &lt;strong>properties&lt;/strong>:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>id: string&amp;nbsp;-&lt;/strong> This attribute is used to uniquely identify elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>name: string&amp;nbsp;-&lt;/strong> A descriptive name for the communications.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>communicates: string&lt;/strong>&amp;nbsp;- The source end of the communications.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>communicatesWith: string&lt;/strong>&amp;nbsp;- The destination end of the communications.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>nonFunctional: string&lt;/strong>&amp;nbsp;- Defines things such as business importance, survivability, and&#xD;
+        availability requirements of the communications path.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Constraints&#xD;
+&lt;/h5>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned operations;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Shall not have any owned behaviors;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        May have relationships with only Business Locations.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

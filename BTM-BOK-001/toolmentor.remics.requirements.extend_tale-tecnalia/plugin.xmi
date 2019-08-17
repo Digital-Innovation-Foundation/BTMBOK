@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Mm5dkMCTEemv0a6P8REMBA" guid="_Mm5dkMCTEemv0a6P8REMBA">
+    <resourceDescriptors xmi:id="_Mm5dksCTEemv0a6P8REMBA" id="-IY4MbyF3CeCf4U2Cv6Qgjw" uri="guidances/toolmentors/tale_usage_guide.xmi"/>
+    <resourceDescriptors xmi:id="_Mm5dk8CTEemv0a6P8REMBA" id="-XOq91-q-cnB_V8dJ1vJljw" uri="tasks/identify_additional_requirements.assign.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_e36i0FmHEeKrerZnFJznjw" name="toolmentor.remics.requirements.extend_tale-tecnalia" guid="_e36i0FmHEeKrerZnFJznjw" changeDate="2013-01-14T12:21:41.575-0500">
+    <methodElementProperty xmi:id="_MmwToMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i0VmHEeKrerZnFJznjw" name="Content" guid="_e36i0VmHEeKrerZnFJznjw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i0lmHEeKrerZnFJznjw" name="Categories" guid="_e36i0lmHEeKrerZnFJznjw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i01mHEeKrerZnFJznjw" name="Domains" guid="_e36i01mHEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i1FmHEeKrerZnFJznjw" name="Disciplines" guid="_e36i1FmHEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i1VmHEeKrerZnFJznjw" name="RoleSets" guid="_e36i1VmHEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i1lmHEeKrerZnFJznjw" name="WP Types" guid="_e36i1lmHEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i11mHEeKrerZnFJznjw" name="Tools" guid="_e36i11mHEeKrerZnFJznjw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_kLHh0FmHEeKrerZnFJznjw" name="tale.assign" guid="_kLHh0FmHEeKrerZnFJznjw" variabilityType="contributes" toolMentors="_yzDbkFmHEeKrerZnFJznjw">
+            <methodElementProperty xmi:id="_MmwTocCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Tool" href="uma://__52BoEUNEeKK_ttnBPx9Rg#_x9gNIEUOEeKK_ttnBPx9Rg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i2FmHEeKrerZnFJznjw" name="StandardCategories" guid="_e36i2FmHEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i2VmHEeKrerZnFJznjw" name="CustomCategories" guid="_e36i2VmHEeKrerZnFJznjw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i2lmHEeKrerZnFJznjw" name="Hidden" guid="_e36i2lmHEeKrerZnFJznjw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_e36i21mHEeKrerZnFJznjw" name="Custom Categories" guid="_e36i21mHEeKrerZnFJznjw"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i3FmHEeKrerZnFJznjw" name="CoreContent" guid="_e36i3FmHEeKrerZnFJznjw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_uxhf0FmHEeKrerZnFJznjw" name="tool_mentors" guid="_uxhf0FmHEeKrerZnFJznjw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_wX4ZoFmHEeKrerZnFJznjw" name="tale" guid="_wX4ZoFmHEeKrerZnFJznjw">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_yzDbkFmHEeKrerZnFJznjw" name="tale_usage_guide" guid="_yzDbkFmHEeKrerZnFJznjw" presentationName="Tale: Usage Guide" briefDescription="Tale: Usage Guide">
+              <methodElementProperty xmi:id="_MmwTosCTEemv0a6P8REMBA" name="me_edited" value="true"/>
+              <presentation xmi:id="-IY4MbyF3CeCf4U2Cv6Qgjw" href="uma://-IY4MbyF3CeCf4U2Cv6Qgjw#-IY4MbyF3CeCf4U2Cv6Qgjw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uB1WAF5uEeKQXPVpGIOW7Q" name="identify_additional_requirements.assign" guid="_uB1WAF5uEeKQXPVpGIOW7Q" variabilityType="contributes" toolMentors="_yzDbkFmHEeKrerZnFJznjw">
+              <presentation xmi:id="-XOq91-q-cnB_V8dJ1vJljw" href="uma://-XOq91-q-cnB_V8dJ1vJljw#-XOq91-q-cnB_V8dJ1vJljw"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_wV5YNUkWEeKu7-3cM-oErg"/>
+            </contentElements>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_e36i3VmHEeKrerZnFJznjw" name="CapabilityPatterns" guid="_e36i3VmHEeKrerZnFJznjw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_e36i3lmHEeKrerZnFJznjw" name="DeliveryProcesses" guid="_e36i3lmHEeKrerZnFJznjw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_e36i31mHEeKrerZnFJznjw" name="ProcessContributions" guid="_e36i31mHEeKrerZnFJznjw"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BH4wPNGEeGUHqJDPoQpuw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

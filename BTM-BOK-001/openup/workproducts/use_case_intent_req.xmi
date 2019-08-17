@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JcGDIeBIMM099mbWX5fXbA" name=",_qis78DRbEduFvfVCXiK3AA" guid="-JcGDIeBIMM099mbWX5fXbA" changeDate="2006-09-14T09:30:41.163-0400">
+  <representationOptions>&lt;p>&#xD;
+    Some projects apply Use Cases informally to help discover requirements, documenting and maintaining these requirements&#xD;
+    in another form such as user stories. How you tailor Use Cases may depend on project size, team experience, your tool&#xD;
+    set, the customer relationship, and so forth. See &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../openup/guidances/guidelines/detail_ucs_and_scenarios_6BC56BB7.html&quot; guid=&quot;_4BJ_YCxSEdqjsdw1QLH_6Q&quot;>Guideline: Detail Use Cases and Scenarios&lt;/a>&amp;nbsp;for guidance related to documenting&#xD;
+    Use Cases.&#xD;
+&lt;/p></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

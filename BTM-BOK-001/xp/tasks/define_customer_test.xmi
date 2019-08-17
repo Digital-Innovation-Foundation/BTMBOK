@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WgE0oiE2yddCOMnfzL25Gw" name="define_customer_test,{DCDB57BE-4233-4CF8-90CE-70D6808F92B0}" guid="-WgE0oiE2yddCOMnfzL25Gw" version="1.0.0">
+  <sections xmi:id="_oGorMGE-EdqnIZeW8YpHcA" name="Understand the Story " guid="_oGorMGE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step1&quot; name=&quot;Step1&quot;>&lt;/a> 
+&lt;p>
+    Since the customer tests are automated, the customer has to be very specific about what the test will do. It is
+    impossible to do this if the customer does not understand the story in intimate detail from a user perspective. Writing
+    the customer tests will force the customer to go into all the details of the story. Stories must be testable.
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_oGorMWE-EdqnIZeW8YpHcA" name="Define Test Criteria " guid="_oGorMWE-EdqnIZeW8YpHcA">
+    <sectionDescription>&lt;a id=&quot;Step2&quot; name=&quot;Step2&quot;>&lt;/a> 
+&lt;p>
+    Once the story is well understood and selected for the iteration, the automated customer tests are written. If the
+    customer team includes testers, the customer could communicate the test criteria to the tester. This can be verbal or
+    written. The criterion describes the tests for the normal and exceptional behavior of the system.&lt;br />
+     &amp;nbsp;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;a id=&quot;XE_define_customer_test__activity_definition&quot; name=&quot;XE_define_customer_test__activity_definition&quot;>&lt;/a> &#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Define the criteria under which the customer will deem a story complete.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

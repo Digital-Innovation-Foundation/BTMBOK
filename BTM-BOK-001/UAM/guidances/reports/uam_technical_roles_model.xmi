@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mpNaP3k-RAwzMqocLXw7Uw" name="uam_technical_roles_model,_OxcTGKicEeS8vLSVufajPQ" guid="-mpNaP3k-RAwzMqocLXw7Uw" authors="DW Enstrom" changeDate="2015-01-30T11:18:29.867-0500" changeDescription="new" version="1.0.0">
+  <mainDescription>&lt;a id=&quot;XE_Technical_Roles_Model_Report__brief_outline&quot; name=&quot;XE_Technical_Roles_Model_Report__brief_outline&quot;>&lt;/a> &#xD;
+&lt;p>&#xD;
+    For each Actor&amp;nbsp;and Role:&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    1. Brief Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    A brief description of the Technical Actor/Role.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    2. Relationships&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The relationships of the Technical Actor to Technical Activities and how they interact with the system.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    3.&amp;nbsp;Role Brief Description&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    A brief description of the Technical Role.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    4. Actor Relationships&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The relationships of the Technical Role to Technical Activities and how they interact with the system.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    5. Actor and Role Summary Diagram&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Include and describe the actor/role summary diagram.&#xD;
+&lt;/p>&#xD;
+&lt;h3>&#xD;
+    6. Roles and Context&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Include and describe each roles-in-context diagram.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

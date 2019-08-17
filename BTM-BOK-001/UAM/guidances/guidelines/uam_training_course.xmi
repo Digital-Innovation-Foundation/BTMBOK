@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ekt3PUKY3QbEYBjKSfppkA" name="uam_training_course,_YH25kGkGEeS7ieerwXbTqg" guid="-Ekt3PUKY3QbEYBjKSfppkA" changeDate="2014-11-10T13:26:44.140-0500" version="7.5.1">
+  <mainDescription>&lt;p>&#xD;
+    IT architecture models and other deliverables are an excellent source for training materials. These include but are not&#xD;
+    limited to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Introduction overview of the &quot;system&quot;, including the enterprise and its process in the case of an EA;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Operator manuals or other process-centric training;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Data models and their structure and usage;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Network overview, or details based upon the Locations Models;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        User structure and interactions based upon Roles models, including IT security aspects.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    These are just a few of the examples of training courses (or even simple briefings) that may be developed based upon&#xD;
+    the various aspects of the IT architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The context and objectives of the IT architecture will be a fundamental driver for the level of detail included, along&#xD;
+    with the target audience. Therefore, agreeing the target audience is key prior to staring into the course development.&#xD;
+    Once this is agreed, the level of skill of this audience is defined, which dictates the types of skills to be taught&#xD;
+    during the course (comparing these to those required by the system).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Defining the objectives of the course is also important ... what should the target audience learn during the&#xD;
+    course?&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

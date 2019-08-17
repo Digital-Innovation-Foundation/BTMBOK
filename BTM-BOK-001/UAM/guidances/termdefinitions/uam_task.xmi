@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wlG2jMPZgyBdHsYNPJvqIA" name="new_term_definition,_fyIicMJNEeKSedlRPHdUIQ" guid="-wlG2jMPZgyBdHsYNPJvqIA" changeDate="2013-05-21T15:35:11.816-0400" version="7.5.1">
+  <mainDescription>A Task&amp;nbsp;is&amp;nbsp;an atomic activity that is included within a Process (&lt;a href=&quot;http://www.bpmn.org/&quot;&#xD;
+target=&quot;_blank&quot;>OMG, BPMN&lt;/a> 2011).&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

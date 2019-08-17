@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DxsplsxSxZKY5ZBuKQ-4oA" name="uam_define_business_roles,_FgSlYMRgEdy5rfgJUcfXdA" guid="-DxsplsxSxZKY5ZBuKQ-4oA" authors="DW Enstrom " changeDate="2014-10-23T13:40:35.008-0400" changeDescription="new&#x9;" version="2.0.1">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p>&#xD;
+    This task finds and defines the Business Actors interacting with the system. Also, and very important, is the&#xD;
+    definition of standard business vocabulary that is used to describe and discuss the business.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To find candidate Business Actors, examine the processes involved. At the Business level we only concern ourselves with&#xD;
+    Actors, external actors, that interact with the system. Roles are not defined at this level since their definition has&#xD;
+    implications: the activity is Manual or involves a User (i.e. the activity cannot be automated).&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>The Business Actors identified during this task are high-level, but their definition must be very precise, and agreed by&#xD;
+stakeholders.</keyConsiderations>
+  <sections xmi:id="_R-eScMRiEdy5rfgJUcfXdA" name="Collect information about the business actors" guid="_R-eScMRiEdy5rfgJUcfXdA">
+    <sectionDescription>&lt;p>&#xD;
+    diagramdiagramdiagramdiagramdiagramBusiness Processes may provide useful input for the identifications of Business&#xD;
+    Actors, but a very good source is the Context Diagram for the IT architecture. Other sources are as-is documentation of&#xD;
+    the relevant business domains, processes&amp;nbsp;or systems, as the case may be for the scope in question. The example&#xD;
+    below illustrates how business actors are identified in a Context Diagram.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &amp;nbsp;&lt;img alt=&quot;Business Line context diagram showing the external actors involved&quot;&#xD;
+    src=&quot;./resources/BL-Business-Context.png&quot; />&#xD;
+&lt;/p>&lt;br />&#xD;
+The actors identified in this example are a Customer, which is the actor that executes the Customer Profile, Access&#xD;
+Information and Distribute Reports activities. The other actor identified is Partner, which interacts with the Gather &amp;amp;&#xD;
+Analyze Information activity, in response to some trigger event. Finally a Research Customer actor interacts with the&#xD;
+Manage Information Base and Perform Specialized Research activities.&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_bZKEMMRiEdy5rfgJUcfXdA" name="Define the business actors" guid="_bZKEMMRiEdy5rfgJUcfXdA">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    When you feel you have collected enough background information, it is time to describe the actors in detail.&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Start by arranging the actors in some sort of logical framework. For example, for a Bank that provides&amp;nbsp;Loan&#xD;
+    Services, one actor would be &quot;Customer&quot; ... define &lt;i>one&lt;/i> for each type of&amp;nbsp;customer,&amp;nbsp;not one for each&#xD;
+    physical instantiation. Likewise, examine the need for security domains and zones (see: &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+    href=&quot;./../../UAM/guidances/whitepapers/uam_security_reference_model_3EA07B63.html&quot;&#xD;
+    guid=&quot;_KGs_oMX8EdyDYN2-y9-AqA&quot;>Whitepaper: A Reference Model for Enterprise Security&lt;/a>),&amp;nbsp;which may be viewed as&#xD;
+    the need for specific &quot;actors&quot;, for example a business's Internet presence may be viewed as a logical actor (&quot;Online&#xD;
+    Banker&quot; for example)&amp;nbsp;accessible to all, whereas the business's Intranet will only be accessible by employees, a&#xD;
+    &quot;teller banker&quot; for example.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_FPwusMRjEdy5rfgJUcfXdA" name="Define the actor relationships" guid="_FPwusMRjEdy5rfgJUcfXdA">
+    <sectionDescription>&lt;p class=&quot;Body&quot; style=&quot;MARGIN: 0in 0in 6pt&quot;>&#xD;
+    Using the Process Model, or other sources of information, determine if there are interactions between actors. These&#xD;
+    interactions, which are executed and supported through one or more business activities, should confirm the workflow&#xD;
+    defined in the Business Process Model. Consult the Business Process Model to be sure that&amp;nbsp;all interactions are&#xD;
+    defined and are consistent.&amp;nbsp;The objective is to understand how actors collaborate in executing business activity,&#xD;
+    which will influence design choices later on.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_K4J6kMRjEdy5rfgJUcfXdA" name="Evaluate your results" guid="_K4J6kMRjEdy5rfgJUcfXdA">
+    <sectionDescription>A Business Roles Model is complete only when it describes every actor involved in business processes (within the given&#xD;
+scope). Before you finish, make sure the model exhibits the characteristic properties of a good model. See: &lt;a&#xD;
+class=&quot;elementLinkWithType&quot; href=&quot;./../../UAM/guidances/checklists/uam_actor_B0306C90.html&quot;&#xD;
+guid=&quot;_29AN0OPqEdy7f9KmjDtwsA&quot;>Checklist: Actor and Role Checklist&lt;/a>, &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/guidances/guidelines/uam_user-actor-role_8210ACA7.html&quot; guid=&quot;_r8jW8OPQEdy7f9KmjDtwsA&quot;>Guideline: Users,&#xD;
+Actors and Roles&lt;/a>, and &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../UAM/guidances/guidelines/uam_business_roles_model_BD5A0B4F.html&quot; guid=&quot;__WBY8OY0EdyjVoHXO3Mbfg&quot;>Guideline:&#xD;
+Business Roles Model&lt;/a>.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    This task finds and defines the business actors involved in the architecture in question. Specifically to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt&quot;>&#xD;
+            To define or refine the Business Actors;&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;BodyTableBullet&quot; style=&quot;MARGIN: 0in 0in 3pt&quot;>&#xD;
+            To define or refine the Business Processes the actors interact with.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

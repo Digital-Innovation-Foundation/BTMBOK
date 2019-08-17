@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-K3FGqSHiFrByPnefUwjBsQ" name="new_artifact,_fVbLEApIEeOBM7QWB5hbCw" guid="-K3FGqSHiFrByPnefUwjBsQ" changeDate="2013-08-21T07:46:26.442-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Service Architecture Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It defines the way in which the different components of the system will be grouped in bigger set. Due to different&#xD;
+    reasons in might be reasonnable or mandatory&amp;nbsp;to keep some components together (securuty, performance, money,&#xD;
+    licenses, etc). Does groups will interact with each other using services and that communication and the grouping is&#xD;
+    described in this model.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

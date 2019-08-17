@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AB27uXscO8Ja545IVhlkpw" name="describe_system_idea,_DWQxAOlYEeKwz9k73swTBQ" guid="-AB27uXscO8Ja545IVhlkpw" changeDate="2013-08-29T09:20:56.041-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Describe System Idea&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Based on the vision of the product owner and the experience of the scrum master and development team the system idea is&#xD;
+    established. It describes the expected future aspect of the system. The future aspect may include&amp;nbsp;details about&#xD;
+    the desired&amp;nbsp;deployment,&amp;nbsp;the features to be added or the problems to be addressed.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

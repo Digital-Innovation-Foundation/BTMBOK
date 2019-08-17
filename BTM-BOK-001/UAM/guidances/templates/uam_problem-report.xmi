@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmi:id="-cE29mwhZd-1Pg0MKCf1Mlw" name="uam_problem-report,_c5l1YKffEeS8vLSVufajPQ" guid="-cE29mwhZd-1Pg0MKCf1Mlw" authors="DW Enstrom " changeDate="2015-01-29T12:54:09.336-0500" changeDescription="New template specification" version="1.0">
+  <copyrightStatement href="uma://_eOrc8MCKEdyMpOiGFnM_WA#_GAFb4MCTEdyMpOiGFnM_WA"/>
+  <mainDescription>&lt;p class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    The Problem Report document is composed of six parts, plus a glossary. Note that initially only the &quot;Introduction&quot; and&#xD;
+    &quot;Problem Description&quot; are defined, with the remainder of the details filled in as the analysis is done. The outline of&#xD;
+    the document is:&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h4 style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    1. Introduction&#xD;
+&lt;/h4>&#xD;
+&lt;p style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    Identifies the system or IT architecture to which the problem applies.&amp;nbsp;&lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;h4 style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    2. Problem Description&#xD;
+&lt;/h4>&#xD;
+&lt;p style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    A detailed description of the problem or issue, ensuring that its context and other factors are covered.&#xD;
+&lt;/p>&lt;br style=&quot;MARGIN: 3pt 0in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;h4 style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    3. Proposed Solutions&#xD;
+&lt;/h4>&#xD;
+&lt;p style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    The creator of the Problem Report may optionally&amp;nbsp;describe a proposed solution, or set of possible solutions.&#xD;
+    Additional analysis of the problem will be done and this section expanded as required.&amp;nbsp;&#xD;
+&lt;/p>&lt;br style=&quot;MARGIN: 3pt 0in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;h4 style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    4. Solution Analysis&#xD;
+&lt;/h4>&#xD;
+&lt;p style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    The set of proposed solutions is analyzed and pros and cons noted along with possible impacts.&#xD;
+&lt;/p>&lt;br style=&quot;MARGIN: 3pt 0in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;h4 style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    5. Chosen Solution&#xD;
+&lt;/h4>&#xD;
+&lt;p style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    Based upon the solution analysis a solution is chosen and documented here in detail.&#xD;
+&lt;/p>&lt;br style=&quot;MARGIN: 3pt 0in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;h4 style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    6.&amp;nbsp;Solution Impacts&amp;nbsp;&#xD;
+&lt;/h4>&#xD;
+&lt;p style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    The impacts of the chosen solution on the existing architecture are defined in detail, including the level(s) of impact&#xD;
+    (i.e. Business and/or Logical and/or Technical).&#xD;
+&lt;/p>&lt;br style=&quot;MARGIN: 3pt 0in&quot; />&#xD;
+&lt;br />&#xD;
+&lt;h4 style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    7. Architectural Glossary&#xD;
+&lt;/h4>&#xD;
+&lt;p class=&quot;BodyTable&quot; style=&quot;MARGIN: 3pt 0in&quot;>&#xD;
+    The Glossary defines important terms used in the architecture or project (likely defined in a separate document for&#xD;
+    practical reasons).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Various formats are provided below: Microsoft Word (.dotx and .dot), PDF (.pdf) and Open XML Paper Specification&#xD;
+    (.xps).&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/Problem-Report.pdf|resources/Problem-Report.dot|resources/Problem-Report.dotx|resources/Problem-Report.xps</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

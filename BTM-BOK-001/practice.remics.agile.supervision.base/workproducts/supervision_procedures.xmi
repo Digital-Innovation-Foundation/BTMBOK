@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9dDcJ-KrV3ItMzKncsoa-Q" name="supervision_procedures,_GudeMPtnEeKiy_TRaqF2Gg" guid="-9dDcJ-KrV3ItMzKncsoa-Q" changeDate="2013-08-23T05:09:17.483-0400">
+  <mainDescription>&lt;h3>&#xD;
+    Supervision Procedures&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It includes the procedures to execute periodically to check the system status&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

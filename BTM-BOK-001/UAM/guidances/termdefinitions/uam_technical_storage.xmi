@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:rmc="http://www.ibm.com/rmc" rmc:version="7.5.1" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fYSbx1IU44Cli2Gyc5E2xA" name="uam_technical_storage,_LXFigEGtEeOfR_FtRm9PUg" guid="-fYSbx1IU44Cli2Gyc5E2xA" changeDate="2013-10-30T17:40:43.653-0400" version="7.5.1">
+  <mainDescription>Technical Storage&amp;nbsp;provides a mechanism to store, retrieve or update information (Technical Entities) that will persist&#xD;
+beyond the scope of an Activity. Note that a Data Store supports business processes and are a specialization of Technical&#xD;
+Stores. Technical Storage is located within Technical Domains and Zones and are deployed to Technical Locations.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
