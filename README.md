@@ -11,19 +11,17 @@ https://www.btm-forum.org/standards/bok
 
 It is delivered in a single Eclipse Process Framework (EPF) Method Library and Wiki, and reuses primarily CC BY-SA, EPL 1.0, & EUPL 1.2 references.
 
-We also abundantly reuse all academic and professional contents (vendors, government, associations, universities) coming in CC-BY, MIT, Apache, BSD, and other freer licenses.
+We also abundantly 100+ different open source references. We reuse all academic and professional contents (vendors, government, associations, universities, open source projects). Other licenses include CC-BY, MIT, Apache, BSD, etc.
 
 https://www.btm-forum.org/standards/bok/integration
 
-It builds upon 100+ different open source references:
-
-Join the editorial team and contribute.
-
-https://www.btm-forum.org/standards/bok/teams
-
-Join the BTM Forum if you wish to lend support in any way or contribute to the BTM BOK:
+Please join the BTM Forum if you wish to lend support in any way or contribute to the BTM BOK:
 
 https://www.btm-forum.org
+
+Ou editorial team is still being recruited, we would greatly appreciate your involvement:
+
+https://www.btm-forum.org/standards/bok/teams
 
 Please contact the project leader for more information:
 
