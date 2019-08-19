@@ -9,9 +9,9 @@ BTM BOK is a guide to the unified professions of IS/IT management.
 
 https://www.btm-forum.org/standards/bok
 
-It is delivered in a single Eclipse Process Framework (EPF) Method Library and Wiki, and reuses primarily CC BY-SA, EPL 1.0, & EUPL 1.2 references.
+It is delivered in a single Eclipse Process Framework (EPF) Method Library and Wiki, and reuses primarily 100+ CC BY-SA, EPL 1.0, & EUPL 1.2 references. Other licenses include CC-BY, Apache, MIT, etc.
 
-We also abundantly 100+ different open source references. We reuse all academic and professional contents (vendors, government, associations, universities, open source projects). Other licenses include CC-BY, Apache, MIT, etc.
+We reuse contents from several academic and professional projects, whether from vendors, government, associations, universities, open source initiatives.
 
 https://www.btm-forum.org/standards/bok/integration
 
