@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_OFrEgMCaEemEJcXpCGj6gw" guid="_OFrEgMCaEemEJcXpCGj6gw"/>
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_OFrEgMCaEemEJcXpCGj6gw" guid="_OFrEgMCaEemEJcXpCGj6gw">
+    <resourceDescriptors xmi:id="_C0beQMaDEemVo5QlDrdhrw" id="-tGwABaMi2P1iLQ6yBiAeeQ" uri="guidances/supportingmaterials/test_adding_file.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_OFbM4MCaEemEJcXpCGj6gw" name="BTM_001" guid="_OFbM4MCaEemEJcXpCGj6gw">
     <methodElementProperty xmi:id="_OFsSoMCaEemEJcXpCGj6gw" name="plugin_synFree" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM4cCaEemEJcXpCGj6gw" name="Content" guid="_OFbM4cCaEemEJcXpCGj6gw">
@@ -652,6 +654,10 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2vruIMCcEemEJcXpCGj6gw" name="agility" guid="_2vruIMCcEemEJcXpCGj6gw" presentationName="Agility">
           <methodElementProperty xmi:id="_2vruIcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_2_JGcMCcEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_3CdsEMaCEemVo5QlDrdhrw" name="test_adding_file" guid="_3CdsEMaCEemVo5QlDrdhrw" presentationName="test_adding_file">
+            <methodElementProperty xmi:id="_C0H8QMaDEemVo5QlDrdhrw" name="me_edited" value="true"/>
+            <presentation xmi:id="-tGwABaMi2P1iLQ6yBiAeeQ" href="uma://-tGwABaMi2P1iLQ6yBiAeeQ#-tGwABaMi2P1iLQ6yBiAeeQ"/>
+          </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_33GpMMCcEemEJcXpCGj6gw" name="engineering" guid="_33GpMMCcEemEJcXpCGj6gw" presentationName="Engineering">
           <methodElementProperty xmi:id="_33GpMcCcEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
