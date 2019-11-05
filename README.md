@@ -1,6 +1,6 @@
 # BTMBOK
 
-![BTM BOK Outlline](BTM-BOK-Outline-v2-diagram.png "BTM BOK Outlline")
+![BTM BOK Outlline](BTM-BOK-Outline-v3-diagram.png "BTM BOK Outlline")
 
 
 
