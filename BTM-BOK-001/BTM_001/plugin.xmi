@@ -319,7 +319,7 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM6MCaEemEJcXpCGj6gw" name="StandardCategories" guid="_OFbM6MCaEemEJcXpCGj6gw"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM6cCaEemEJcXpCGj6gw" name="CustomCategories" guid="_OFbM6cCaEemEJcXpCGj6gw">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM6sCaEemEJcXpCGj6gw" name="Hidden" guid="_OFbM6sCaEemEJcXpCGj6gw">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_OFbM68CaEemEJcXpCGj6gw" name="Custom Categories" guid="_OFbM68CaEemEJcXpCGj6gw" categorizedElements="_GfSFcMCbEemEJcXpCGj6gw _NYeK0MCbEemEJcXpCGj6gw _SRa2wMCbEemEJcXpCGj6gw _W2lEAMCbEemEJcXpCGj6gw _bw-hcMCbEemEJcXpCGj6gw _lrxWoMCbEemEJcXpCGj6gw"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_OFbM68CaEemEJcXpCGj6gw" name="Custom Categories" guid="_OFbM68CaEemEJcXpCGj6gw" categorizedElements="_GfSFcMCbEemEJcXpCGj6gw _NYeK0MCbEemEJcXpCGj6gw _SRa2wMCbEemEJcXpCGj6gw _W2lEAMCbEemEJcXpCGj6gw _bw-hcMCbEemEJcXpCGj6gw _lrxWoMCbEemEJcXpCGj6gw _foM1cP93EemvmrQda9Gxiw _iRahIP98EemrPbCfteaqmw"/>
           </childPackages>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_GfSFcMCbEemEJcXpCGj6gw" name="overview" guid="_GfSFcMCbEemEJcXpCGj6gw" presentationName="Overview" categorizedElements="_I5EnUMCbEemEJcXpCGj6gw _K3O9IMCbEemEJcXpCGj6gw _MH4ssMCbEemEJcXpCGj6gw">
             <methodElementProperty xmi:id="_Hz-AcMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
@@ -617,6 +617,120 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7Aq9AMCuEemEJcXpCGj6gw" name="web" guid="_7Aq9AMCuEemEJcXpCGj6gw" presentationName="Web">
             <methodElementProperty xmi:id="_7bhF8MCuEemEJcXpCGj6gw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_foM1cP93EemvmrQda9Gxiw" name="career" guid="_foM1cP93EemvmrQda9Gxiw" presentationName="Career" categorizedElements="_hYRr8P93EemvmrQda9Gxiw _iwSnwP93EemvmrQda9Gxiw _kGrL4P93EemvmrQda9Gxiw">
+            <methodElementProperty xmi:id="_gLa3QP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hYRr8P93EemvmrQda9Gxiw" name="goal" guid="_hYRr8P93EemvmrQda9Gxiw" presentationName="Goal" categorizedElements="_lNx94P93EemvmrQda9Gxiw _mXZRUP93EemvmrQda9Gxiw _oqi_sP93EemvmrQda9Gxiw _px9TsP93EemvmrQda9Gxiw _qzDkUP93EemvmrQda9Gxiw">
+            <methodElementProperty xmi:id="_h2WvEP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_iwSnwP93EemvmrQda9Gxiw" name="path" guid="_iwSnwP93EemvmrQda9Gxiw" presentationName="Path" categorizedElements="_sEWNEP93EemvmrQda9Gxiw _tGaHAP93EemvmrQda9Gxiw _uD2msP93EemvmrQda9Gxiw _vHCiAP93EemvmrQda9Gxiw _wJbzIP93EemvmrQda9Gxiw">
+            <methodElementProperty xmi:id="_jHNS8P93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_kGrL4P93EemvmrQda9Gxiw" name="progression" guid="_kGrL4P93EemvmrQda9Gxiw" presentationName="Progression" categorizedElements="_cVpGQP98EemrPbCfteaqmw _dV30MP98EemrPbCfteaqmw _ep8rMP98EemrPbCfteaqmw _fmzVAP98EemrPbCfteaqmw _gqJoYP98EemrPbCfteaqmw">
+            <methodElementProperty xmi:id="_kWo6gP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lNx94P93EemvmrQda9Gxiw" name="specialist" guid="_lNx94P93EemvmrQda9Gxiw" presentationName="Specialist">
+            <methodElementProperty xmi:id="_lgrrwP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mXZRUP93EemvmrQda9Gxiw" name="complement" guid="_mXZRUP93EemvmrQda9Gxiw" presentationName="Complement">
+            <methodElementProperty xmi:id="_mqS_MP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_oqi_sP93EemvmrQda9Gxiw" name="generalist" guid="_oqi_sP93EemvmrQda9Gxiw" presentationName="Generalist">
+            <methodElementProperty xmi:id="_o8sfoP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_px9TsP93EemvmrQda9Gxiw" name="senior" guid="_px9TsP93EemvmrQda9Gxiw" presentationName="Senior">
+            <methodElementProperty xmi:id="_qC89EP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qzDkUP93EemvmrQda9Gxiw" name="occasional" guid="_qzDkUP93EemvmrQda9Gxiw" presentationName="Occasional">
+            <methodElementProperty xmi:id="_rDcwwP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_sEWNEP93EemvmrQda9Gxiw" name="corporate" guid="_sEWNEP93EemvmrQda9Gxiw" presentationName="Corporate">
+            <methodElementProperty xmi:id="_sTNIcP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_tGaHAP93EemvmrQda9Gxiw" name="embedded" guid="_tGaHAP93EemvmrQda9Gxiw" presentationName="Embedded">
+            <methodElementProperty xmi:id="_tVOmIP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_uD2msP93EemvmrQda9Gxiw" name="small" guid="_uD2msP93EemvmrQda9Gxiw" presentationName="Small">
+            <methodElementProperty xmi:id="_uRzjIP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_vHCiAP93EemvmrQda9Gxiw" name="startup" guid="_vHCiAP93EemvmrQda9Gxiw" presentationName="Startup">
+            <methodElementProperty xmi:id="_vVaVMP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_wJbzIP93EemvmrQda9Gxiw" name="consulting" guid="_wJbzIP93EemvmrQda9Gxiw" presentationName="Consulting">
+            <methodElementProperty xmi:id="_wZTbIP93EemvmrQda9Gxiw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_cVpGQP98EemrPbCfteaqmw" name="beginning" guid="_cVpGQP98EemrPbCfteaqmw" presentationName="Beginning">
+            <methodElementProperty xmi:id="_cnd2EP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_dV30MP98EemrPbCfteaqmw" name="diversity" guid="_dV30MP98EemrPbCfteaqmw" presentationName="Diversity">
+            <methodElementProperty xmi:id="_dkOZQP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ep8rMP98EemrPbCfteaqmw" name="education" guid="_ep8rMP98EemrPbCfteaqmw" presentationName="Education">
+            <methodElementProperty xmi:id="_e4NwsP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_fmzVAP98EemrPbCfteaqmw" name="experience" guid="_fmzVAP98EemrPbCfteaqmw" presentationName="Experience">
+            <methodElementProperty xmi:id="_f0fywP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gqJoYP98EemrPbCfteaqmw" name="promotion" guid="_gqJoYP98EemrPbCfteaqmw" presentationName="Promotion">
+            <methodElementProperty xmi:id="_g5nnwP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_iRahIP98EemrPbCfteaqmw" name="standard" guid="_iRahIP98EemrPbCfteaqmw" presentationName="Standard" categorizedElements="_jUHUQP98EemrPbCfteaqmw _1ae8YP9_EemrPbCfteaqmw _-mxFwP9_EemrPbCfteaqmw">
+            <methodElementProperty xmi:id="_iiitYP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jUHUQP98EemrPbCfteaqmw" name="accreditation" guid="_jUHUQP98EemrPbCfteaqmw" presentationName="Accreditation" categorizedElements="_3F58YP9_EemrPbCfteaqmw _4GEY4P9_EemrPbCfteaqmw _5MvGAP9_EemrPbCfteaqmw _6Ib5QP9_EemrPbCfteaqmw _7ECl4P9_EemrPbCfteaqmw">
+            <methodElementProperty xmi:id="_jl2kgP98EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_1ae8YP9_EemrPbCfteaqmw" name="benchmark" guid="_1ae8YP9_EemrPbCfteaqmw" presentationName="Benchmark" categorizedElements="_9Y0r8P9_EemrPbCfteaqmw _A4wWgP-AEemrPbCfteaqmw _CZ2V0P-AEemrPbCfteaqmw _Hj3-UAScEeqsTeO17jouqQ _I0gfwAScEeqsTeO17jouqQ">
+            <methodElementProperty xmi:id="_1yksQP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_3F58YP9_EemrPbCfteaqmw" name="diploma" guid="_3F58YP9_EemrPbCfteaqmw" presentationName="Diploma">
+            <methodElementProperty xmi:id="_3Y4iwP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_4GEY4P9_EemrPbCfteaqmw" name="certificate" guid="_4GEY4P9_EemrPbCfteaqmw" presentationName="Certificate">
+            <methodElementProperty xmi:id="_4bZvsP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_5MvGAP9_EemrPbCfteaqmw" name="bachelor" guid="_5MvGAP9_EemrPbCfteaqmw" presentationName="Bachelor">
+            <methodElementProperty xmi:id="_5dmMgP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_6Ib5QP9_EemrPbCfteaqmw" name="master" guid="_6Ib5QP9_EemrPbCfteaqmw" presentationName="Master">
+            <methodElementProperty xmi:id="_6Yu_EP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7ECl4P9_EemrPbCfteaqmw" name="doctorate" guid="_7ECl4P9_EemrPbCfteaqmw" presentationName="Doctorate">
+            <methodElementProperty xmi:id="_7Ty5IP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_9Y0r8P9_EemrPbCfteaqmw" name="forerunner" guid="_9Y0r8P9_EemrPbCfteaqmw" presentationName="Forerunner">
+            <methodElementProperty xmi:id="_9snxsP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_-mxFwP9_EemrPbCfteaqmw" name="certification" guid="_-mxFwP9_EemrPbCfteaqmw" presentationName="Certification" categorizedElements="_GCCkgP-AEemrPbCfteaqmw _G-bUQP-AEemrPbCfteaqmw _IOX5MP-AEemrPbCfteaqmw _JaiKUP-AEemrPbCfteaqmw _KkFzYP-AEemrPbCfteaqmw">
+            <methodElementProperty xmi:id="_-18KMP9_EemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_A4wWgP-AEemrPbCfteaqmw" name="challenger" guid="_A4wWgP-AEemrPbCfteaqmw" presentationName="Challenger">
+            <methodElementProperty xmi:id="_BdtdsP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_CZ2V0P-AEemrPbCfteaqmw" name="innovator" guid="_CZ2V0P-AEemrPbCfteaqmw" presentationName="Innovator">
+            <methodElementProperty xmi:id="_CpKkMP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_GCCkgP-AEemrPbCfteaqmw" name="associate" guid="_GCCkgP-AEemrPbCfteaqmw" presentationName="Associate">
+            <methodElementProperty xmi:id="_GSn-MP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_G-bUQP-AEemrPbCfteaqmw" name="professional" guid="_G-bUQP-AEemrPbCfteaqmw" presentationName="Professional">
+            <methodElementProperty xmi:id="_Hc8cQP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_IOX5MP-AEemrPbCfteaqmw" name="manager" guid="_IOX5MP-AEemrPbCfteaqmw" presentationName="Manager">
+            <methodElementProperty xmi:id="_IejqQP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_JaiKUP-AEemrPbCfteaqmw" name="entrepreneur" guid="_JaiKUP-AEemrPbCfteaqmw" presentationName="Entrepreneur">
+            <methodElementProperty xmi:id="_Jp1xoP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_KkFzYP-AEemrPbCfteaqmw" name="executive" guid="_KkFzYP-AEemrPbCfteaqmw" presentationName="Executive">
+            <methodElementProperty xmi:id="_Kz7mMP-AEemrPbCfteaqmw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Hj3-UAScEeqsTeO17jouqQ" name="optimizer" guid="_Hj3-UAScEeqsTeO17jouqQ" presentationName="Optimizer">
+            <methodElementProperty xmi:id="_H8WvwAScEeqsTeO17jouqQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_I0gfwAScEeqsTeO17jouqQ" name="disruptor" guid="_I0gfwAScEeqsTeO17jouqQ" presentationName="Disruptor">
+            <methodElementProperty xmi:id="_JIBRoAScEeqsTeO17jouqQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
