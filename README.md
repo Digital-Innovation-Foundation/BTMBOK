@@ -18,7 +18,7 @@ It is delivered in a single Eclipse Process Framework (EPF) Method Library and W
 
 **Practices**
 
-BTM BOK doesn't reinvent the wheel, but instead to connect readily existing industry certifications and standards. We focus on specifications covering the whole range of Digital Transformation roles and tasks.
+BTM BOK doesn't reinvent the wheel, but instead intends to connect readily existing industry certifications and standards. We focus on specifications covering the whole range of Digital Transformation roles and tasks.
 
 ![BTM BOK Practices](new-v2-fig-2-flos-sources.png "BTM BOK Practices")
 
