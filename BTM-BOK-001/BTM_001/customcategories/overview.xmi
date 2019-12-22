@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fo2ZRlbcy7w7JlDHbJb5Yw" name="overview,_GfSFcMCbEemEJcXpCGj6gw" guid="-fo2ZRlbcy7w7JlDHbJb5Yw" changeDate="2019-12-21T19:13:56.722-0500">
-  <mainDescription>&lt;h3>&#xD;
-    1 Overview&#xD;
-&lt;/h3>&#xD;
-&lt;p align=&quot;justify&quot;>&#xD;
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fo2ZRlbcy7w7JlDHbJb5Yw" name="overview,_GfSFcMCbEemEJcXpCGj6gw" guid="-fo2ZRlbcy7w7JlDHbJb5Yw" changeDate="2019-12-22T14:54:19.899-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
     Business Technology Management (BTM) Body of Knowledge (BOK) is a guide for professional development and learning of&#xD;
     key roles, core competencies, best practices, and supporting references.&#xD;
 &lt;/p>&#xD;
@@ -29,5 +26,7 @@
     fully open, customizable, and reusable, with a version in XMI consumable with APIs to seamlessly integrate its contents&#xD;
     in various Talent Management systems, e.g., custom BTM-compliant job descriptions, automated matching of CVs and job&#xD;
     competencies, learning path recommendations given prior experience for recognized BTM careers, etc.&#xD;
-&lt;/p></mainDescription>
+&lt;/p>&#xD;
+&lt;br align=&quot;justify&quot; />&#xD;
+&lt;br /></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
