@@ -3,21 +3,31 @@
   <mainDescription>&lt;h3>&#xD;
     1 Overview&#xD;
 &lt;/h3>&#xD;
-&lt;p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
     Business Technology Management (BTM) Body of Knowledge (BOK) is a guide for professional development and learning of&#xD;
     key roles, core competencies, best practices, and supporting references.&#xD;
 &lt;/p>&#xD;
-&lt;p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
     Whether in private, public, or non-profit sectors, organizations everywhere are being transformed by the innovative use&#xD;
     of technology and are required to rethink their business models and IT investments. This creates an unprecedented&#xD;
     demand for a new generation of leaders with hybrid skillsets, requiring Information Systems (IS) and Information&#xD;
     Technology (IT) professions, traditionally separated in business and computing schools, to grow beyond their fragmented&#xD;
     and competing specializations.&#xD;
 &lt;/p>&#xD;
-&lt;p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
     To overcome these challenges, IT Association of Canada (ITAC) developed the BTM initiative to promote a renewed sense&#xD;
     of community and help map the many career paths crossing business and technology functions. It grew into a global&#xD;
     community, BTM Forum / Forum GTA (&lt;a href=&quot;https://www.btm-forum.org/&quot;>https://www.btm-forum.org/&lt;/a>), to build new&#xD;
     certifications, accreditation, and practice references to support digital transformation leaders.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    As the BTM Forum’s core reference, BTM BOK (&lt;a&#xD;
+    href=&quot;https://www.btm-forum.org/standards/bok&quot;>https://www.btm-forum.org/standards/bok&lt;/a>) will become a resourceful&#xD;
+    web site to guide practitioners at all levels of competency: associate, professional, manager, entrepreneur, and&#xD;
+    executive. It does not replace existing BOKs, but instead provide a generic core model centered on business value and&#xD;
+    technological innovation, a guide to additional knowledge and sources relevant to enter new BTM positions. It is also&#xD;
+    fully open, customizable, and reusable, with a version in XMI consumable with APIs to seamlessly integrate its contents&#xD;
+    in various Talent Management systems, e.g., custom BTM-compliant job descriptions, automated matching of CVs and job&#xD;
+    competencies, learning path recommendations given prior experience for recognized BTM careers, etc.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
