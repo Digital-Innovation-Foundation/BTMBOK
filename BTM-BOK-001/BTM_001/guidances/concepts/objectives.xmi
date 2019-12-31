@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fxZmDloHYMa41JT3jHuCJQ" name=",_GwbvwCmqEeqnTbsZNHXyXw" guid="-fxZmDloHYMa41JT3jHuCJQ" authors="Stéphane Gagnon, Jean-Bosco Ntakirutimana" changeDate="2019-12-29T00:29:52.608-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    BTM BOK as a “knowledge tool” aims to support IS-IT professionals to develop a unified BTM expertise, and help all&#xD;
+    stakeholders at all levels to work together more seamlessly within a coherent profession (Figure 2). It is primarily&#xD;
+    used to help coach the next generation of Leaders of the Digital Transformation, slogan describing its founding&#xD;
+    organization, BTM Forum. It also serves to define the distinctive approaches to help strengthen the hybrid&#xD;
+    business-technology-management acumen, which builds upon existing practices, and provide guidance on their common core&#xD;
+    knowledge base. It also serves to broaden the vision of digital transformation from an information to a business focus.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;br />&#xD;
+    &lt;em>Figure 2: BTM BOK Objectives&lt;/em>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;BTM objectives&quot; src=&quot;./resources/fig-02.png&quot; width=&quot;450&quot; height=&quot;200&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The BTM vision is fueled by an emerging consensus within the profession on converging observations:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            BTM specializations, such as business analysis, project management, enterprise architecture, data analytics,&#xD;
+            etc., share the same hybrid acumen in business and technology.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            BTM specializations are essential to lead the digital transformation, with more diverse (still undefined)&#xD;
+            career paths crossing beyond traditional roles, reaching increasingly at management, entrepreneurial, and&#xD;
+            executive levels.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            BTM is still concerned with supporting operations but is more than ever the centerpiece of digital business&#xD;
+            strategies in all sectors, with renewed focus on innovation and value creation.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    BTM BOK as a “professional guide” aims at addressing these trends, creating seamless bridges between key&#xD;
+    specializations, identifying expected competencies, and offering learning guidelines to develop new BTM expertise. It&#xD;
+    can be used as a guide for individual and team-based professional development and learning. It describes the key roles,&#xD;
+    core competencies, best practices, and supporting references of this emerging profession. It references and builds upon&#xD;
+    several existing open BOKs and complements them by offering integration pathways between specializations. It seeks to&#xD;
+    provide a simple logic to integrate complex practices around the core mission of digital transformation.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

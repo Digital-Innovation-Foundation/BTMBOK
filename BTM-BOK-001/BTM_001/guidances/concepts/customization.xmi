@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--JJ-70pK87XJM1BDXjl3og" name="customization_,_87n4ECn8EeqnTbsZNHXyXw" guid="--JJ-70pK87XJM1BDXjl3og" changeDate="2019-12-29T13:57:29.497-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    BTM BOK customization is essentially an “exploratory/experimental” process like R&amp;amp;D. It is encouraged through the&#xD;
+    open availability of its contents in various editable and reusable formats. These open assets can have compounded value&#xD;
+    as they get reused throughout several customization opportunities, leading to a “specification-driven” approach where&#xD;
+    changes in assets get recovered throughout their continuously updated reuse endpoints (Figure 5).&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    It can be leveraged among professionals for career development and certification, within organizations of all sectors&#xD;
+    for HRM and best practice benchmarking, by higher education institutions for program accreditation, and by knowledge&#xD;
+    base authors who can import and reuse as long as they share-alike their own derivatives. Reintegration of derivatives&#xD;
+    within BTM BOK is dependent on active participation in community discussions, and exploratory efforts of like-minded&#xD;
+    professionals.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;br />&#xD;
+    &lt;em>Figure 5: BTM BOK Customization Opportunities&lt;/em>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Customization&quot; src=&quot;./resources/fig-05.png&quot; width=&quot;600&quot; height=&quot;500&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

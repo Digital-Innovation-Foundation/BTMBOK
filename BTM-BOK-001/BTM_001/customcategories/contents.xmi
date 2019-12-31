@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HMSo4hMieUCgxQNooTezlw" name="contents,_K3O9IMCbEemEJcXpCGj6gw" guid="-HMSo4hMieUCgxQNooTezlw" authors="Jean-Bosco Ntakirutimana" changeDate="2019-12-30T10:00:46.183-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    BTM BOK contents can be navigated within a single Eclipse Process Framework (EPF) Wiki (Figure 7). The resulting&#xD;
+    contents are structured along a simple menu-driven navigation, allowing to quickly pinpoint contents of interest, as&#xD;
+    well as map thoroughly the relationships between all components. It is developed through an open community effort to&#xD;
+    simplify the relationships between several BOKs. It is supported by multiple citations to academic and professional&#xD;
+    literature, helping learners find the most trusted sources. It is also highly open and customizable, with API to reuse&#xD;
+    its contents in various Talent Management functions (e.g., custom BTM-compliant job descriptions, automated matching of&#xD;
+    CVs and job competencies, learning path recommendations given experience for recognized BTM careers, etc.).&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;br />&#xD;
+    &lt;em>Figure 7: BTM BOK Wiki Similar to Open Unified Process (OpenUP)&lt;/em>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;BTM Contents&quot; src=&quot;./resources/fig-07.png&quot; width=&quot;800&quot; height=&quot;600&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

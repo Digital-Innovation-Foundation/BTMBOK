@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3ClA2Un2TOWOKFipVPnmMw" name="purpose,_I5EnUMCbEemEJcXpCGj6gw" guid="-3ClA2Un2TOWOKFipVPnmMw" authors="Jean-Bosco Ntakirutimana" changeDate="2019-12-30T09:59:35.156-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    BTM as a “brand” is a new professional designation seeking to unify IS and IT graduates within a stronger community of&#xD;
+    practice, sharing a distinctive, vibrant, and engaging identity. The BTM name, and its French version Gestion des&#xD;
+    technologies d’affaire (GTA), are registered trademarks in Canada, and in United States and 104 countries under the&#xD;
+    Madrid System. A dozen Canadian colleges and universities have rebranded their programs, and more stakeholders&#xD;
+    worldwide are invited to join the BTM Forum / Forum GTA.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    BTM as a “concept” can be understood as a fundamental redefinition of the IS-IT profession, shifting from an&#xD;
+    “information” to a broader “business” focus, supported by the integration of 4 “streams” of expertise (Figure 1). It&#xD;
+    builds on Digital Transformation and Strategy (DTS) as the set of key decisions to develop an IT-enabled business at&#xD;
+    the most strategic level of an organization. It also blurs boundaries and integrates DTS with more traditional&#xD;
+    expertise in IS-IT Management, IS, and IT. BTM doesn’t replace but instead enriches all “streams” of our profession,&#xD;
+    providing more fluid, collaborative, and agile approaches to help accomplish digital transformation.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;em>Figure 1: BTM Scope and Integration of DTS, IS-IT Management, IS, and IT&lt;/em>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Integration&quot; src=&quot;./resources/Integration%202&quot; width=&quot;500&quot; height=&quot;300&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The scope of BTM practices have been studied by various researchers in IS-IT disciplines, primarily in business,&#xD;
+    computing, or engineering schools. Their integration helps redefine the nature of the profession and its impact,&#xD;
+    emphasizing distinctive professional abilities for digital leadership, such as:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Focusing on innovation and digital business value, in addition to leading traditional IS-IT services&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Helping leaders to accelerate digital transformation, in addition to improving IS-IT management&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Ensuring digital leaders share a distinctively hybrid business-technology-management acumen&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

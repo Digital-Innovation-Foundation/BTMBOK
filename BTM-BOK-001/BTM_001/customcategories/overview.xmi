@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fo2ZRlbcy7w7JlDHbJb5Yw" name="overview,_GfSFcMCbEemEJcXpCGj6gw" guid="-fo2ZRlbcy7w7JlDHbJb5Yw" changeDate="2019-12-22T14:54:19.899-0500">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fo2ZRlbcy7w7JlDHbJb5Yw" name="overview,_GfSFcMCbEemEJcXpCGj6gw" guid="-fo2ZRlbcy7w7JlDHbJb5Yw" authors="Jean-Bosco Ntakirutimana" changeDate="2019-12-30T09:59:07.688-0500">
   <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
     Business Technology Management (BTM) Body of Knowledge (BOK) is a guide for professional development and learning of&#xD;
     key roles, core competencies, best practices, and supporting references.&#xD;
@@ -27,6 +27,49 @@
     in various Talent Management systems, e.g., custom BTM-compliant job descriptions, automated matching of CVs and job&#xD;
     competencies, learning path recommendations given prior experience for recognized BTM careers, etc.&#xD;
 &lt;/p>&#xD;
-&lt;br align=&quot;justify&quot; />&#xD;
-&lt;br /></mainDescription>
+&lt;p align=&quot;justify&quot;>&#xD;
+    BTM BOK reuses primarily 100+ Share-Alike references under CC BY-SA 3.0, EPL 1.0, and EUPL 1.2, with some under freer&#xD;
+    licenses such as CC-BY, Apache, and MIT. It is developed through an open community effort to help map its contents to&#xD;
+    several open and proprietary BOKs. It is supported by numerous citations to academic and professional literature,&#xD;
+    guiding learners to most trusted sources. It is delivered to the community in 3 formats allowing anyone to browse,&#xD;
+    read, download, edit, reuse, and republish:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;span lang=&quot;EN-US&quot; style=&quot;mso-ansi-language: EN-US&quot;>All can freely download the present guide (links&amp;nbsp;to&#xD;
+            the BTM BOK web page, no registration required) in PDF as well as DOCX for free open editing. We also provide a&#xD;
+            ZIP containing all figures in PNG, along with editable versions in VSDX and some in addition with PPTX&#xD;
+            versions.&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;font face=&quot;Arial&quot;>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;EN-US&quot; style=&quot;mso-ansi-language: EN-US&quot;>It can be consulted for&#xD;
+            free through a detailed menu within an Eclipse Process Framework (EPF) Wiki (&lt;/span>&lt;span lang=&quot;EN-CA&quot;>&lt;a&#xD;
+            href=&quot;https://www.btm-forum.org/boks/&quot;>&lt;u>&lt;font&#xD;
+            color=&quot;#0563c1&quot;>https://www.btm-forum.org/boks/&lt;/font>&lt;/u>&lt;/a>&lt;/span>&lt;span lang=&quot;EN-US&quot;&#xD;
+            style=&quot;mso-ansi-language: EN-US&quot;>). The community can also sign up to edit, contribute contents, and join our&#xD;
+            BTM group on Zotero (&lt;/span>&lt;span lang=&quot;EN-CA&quot;>&lt;a href=&quot;https://www.zotero.org/groups/1145457/btm&quot;>&lt;u>&lt;font&#xD;
+            color=&quot;#0563c1&quot;>https://www.zotero.org/groups/1145457/btm&lt;/font>&lt;/u>&lt;/a>&lt;/span>&lt;span lang=&quot;EN-US&quot;&#xD;
+            style=&quot;mso-ansi-language: EN-US&quot;>) to add references to external sources and insert/cite them within various&#xD;
+            pages of our wiki.&lt;/span>&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;span lang=&quot;EN-US&quot; style=&quot;mso-ansi-language: EN-US&quot;>More complex editing and customization is possible by&#xD;
+            importing the contents of the EPF Wiki, including the latest contributed contents regularly vetted by an&#xD;
+            editorial team, hosted on GitLab (&lt;/span>&lt;span lang=&quot;EN-CA&quot;>&lt;a&#xD;
+            href=&quot;https://gitlab.com/BTMprof/btmbok&quot;>&lt;u>&lt;font&#xD;
+            color=&quot;#0563c1&quot;>https://gitlab.com/BTMprof/btmbok&lt;/font>&lt;/u>&lt;/a>&lt;/span>&lt;span lang=&quot;EN-US&quot;&#xD;
+            style=&quot;mso-ansi-language: EN-US&quot;>) with all files packaged within an EPF Method Library (&lt;/span>&lt;span&#xD;
+            lang=&quot;EN-CA&quot;>&lt;a href=&quot;https://www.eclipse.org/epf/&quot;>&lt;u>&lt;font&#xD;
+            color=&quot;#0563c1&quot;>https://www.eclipse.org/epf/&lt;/font>&lt;/u>&lt;/a>&lt;/span>&lt;span lang=&quot;EN-US&quot;&#xD;
+            style=&quot;mso-ansi-language: EN-US&quot;>). It is editable within EPF Composer, with an invitation to share back your&#xD;
+            edits on GitLab within the group, and/or fork your Method Library, and/or publish in your own way your BTM BOK&#xD;
+            derivatives, e.g., your own EPF Wiki, but without the brand name.&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

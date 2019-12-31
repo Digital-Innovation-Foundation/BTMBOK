@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NTHiTSHilRqFf7oYvfYvQw" name="methodology,_MH4ssMCbEemEJcXpCGj6gw" guid="-NTHiTSHilRqFf7oYvfYvQw" authors="Jean-Bosco Ntakirutimana" changeDate="2019-12-30T09:13:51.633-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    BTM BOK development methodology relies on the Eclipse Process Framework (EPF), which comes with readily developed&#xD;
+    practices, such as the Open Unified Process (OpenUP), Scrum, Extreme Programming, Agile Business Rules Development&#xD;
+    (ABRD), and DSDM. The main feature of EPF is the Composer, a set of extensions installed within the Eclipse Integrated&#xD;
+    Development Environment (IDE). They are published in a wiki to enable the collaborative editing of open assets, which&#xD;
+    are then reintegrated as new assets.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a href=&quot;http://www.eclipse.org/epf/composer_architecture/&quot;>http://www.eclipse.org/epf/composer_architecture/&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a&#xD;
+        href=&quot;https://www.eclipse.org/epf/general/EPFComposerOverviewPart1.pdf&quot;>https://www.eclipse.org/epf/general/EPFComposerOverviewPart1.pdf&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a&#xD;
+        href=&quot;https://www.eclipse.org/epf/general/EPFComposerOverviewPart2.pdf&quot;>https://www.eclipse.org/epf/general/EPFComposerOverviewPart2.pdf&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a&#xD;
+        href=&quot;http://www.etsmtl.ca/Professeurs/rchampagne/documents/epftutorial/index.html&quot;>http://www.etsmtl.ca/Professeurs/rchampagne/documents/epftutorial/index.html&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    BTM BOK editorial teams are responsible for separate and parallel tasks (Figure 14):&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Use the EPF Composer to design the BTM BOK framework and integrate various external assets. It is used to develop&#xD;
+        the “plug-ins” that contain various BTM BOK assets, integrated within various process configurations” describing&#xD;
+        BTM certification levels&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Use the EPF Wiki to maintain and add contents and citations to external BOKs and references. It is used to host the&#xD;
+        EPF site that helps to navigate the BTM BOK assets and allows registered users to comment and edit the BTM BOK&#xD;
+        guide (limited to the team and assessors for first year)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Use EPF Wiki API extensions to help reuse BTM BOK assets into key Talent Management tasks&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;em>Figure 14: BTM BOK Development Process Based on Eclipse Process Framework (EPF)&lt;/em>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;Metho&quot; src=&quot;resources/fig-14.png&quot; width=&quot;600&quot; height=&quot;400&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

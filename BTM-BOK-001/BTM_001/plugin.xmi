@@ -2,6 +2,39 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_OFrEgMCaEemEJcXpCGj6gw" guid="_OFrEgMCaEemEJcXpCGj6gw">
     <resourceDescriptors xmi:id="_BpNFwCRQEeq8l-0LTRH7AQ" id="-fo2ZRlbcy7w7JlDHbJb5Yw" uri="customcategories/overview.xmi"/>
+    <resourceDescriptors xmi:id="_k16lsCnjEeqnTbsZNHXyXw" id="-3ClA2Un2TOWOKFipVPnmMw" uri="customcategories/purpose.xmi"/>
+    <resourceDescriptors xmi:id="_RRtsoCnrEeqnTbsZNHXyXw" id="-fxZmDloHYMa41JT3jHuCJQ" uri="guidances/concepts/objectives.xmi"/>
+    <resourceDescriptors xmi:id="_7h53oCnyEeqnTbsZNHXyXw" id="-N6Q-oNciradUHp2VqCvp9g" uri="customcategories/objectives.xmi"/>
+    <resourceDescriptors xmi:id="_kutLoCn9EeqnTbsZNHXyXw" id="-Zl13WDXzUVYC5vdDHX-kUg" uri="guidances/concepts/profession.xmi"/>
+    <resourceDescriptors xmi:id="_4kA3oCpJEeqJqa-iUQrjOA" id="-de8fcYL1oSiPb0LRiDrwIQ" uri="customcategories/profession.xmi"/>
+    <resourceDescriptors xmi:id="_aUO-8CpMEeqJqa-iUQrjOA" id="-dKwMe_TxmkSgHhJKUmxYsw" uri="guidances/concepts/adoption.xmi"/>
+    <resourceDescriptors xmi:id="_Z896MCpnEeqJqa-iUQrjOA" id="-gS9L0aW7PWf0yhvuw013-g" uri="customcategories/adoption.xmi"/>
+    <resourceDescriptors xmi:id="_146Y8CptEeqJqa-iUQrjOA" id="--JJ-70pK87XJM1BDXjl3og" uri="guidances/concepts/customization.xmi"/>
+    <resourceDescriptors xmi:id="_nzRXICpxEeqJqa-iUQrjOA" id="-nhNaORXdr41XamLrHMlwsQ" uri="customcategories/customization.xmi"/>
+    <resourceDescriptors xmi:id="_G4EE4CpyEeqJqa-iUQrjOA" id="-_35xtK6yYRrWlHajnOWo6Q" uri="guidances/concepts/community.xmi"/>
+    <resourceDescriptors xmi:id="_siY_YCp2EeqJqa-iUQrjOA" id="-NL_OqWvmVMThBla8u5Eqog" uri="customcategories/community.xmi"/>
+    <resourceDescriptors xmi:id="_c75JoCqMEeqJqa-iUQrjOA" id="-HMSo4hMieUCgxQNooTezlw" uri="customcategories/contents.xmi"/>
+    <resourceDescriptors xmi:id="_JXyJcCqPEeqJqa-iUQrjOA" id="-QB4uH97xnJY_oRfsg8KQeA" uri="guidances/concepts/metamodel.xmi"/>
+    <resourceDescriptors xmi:id="_NeVq8CqWEeqJqa-iUQrjOA" id="-y-zSJh9cXoKSiUzkO0kTVA" uri="guidances/concepts/structure.xmi"/>
+    <resourceDescriptors xmi:id="_DggYwCqqEeqJqa-iUQrjOA" id="-BfYJu8MHJfKcuM8lcYlARg" uri="guidances/concepts/components.xmi"/>
+    <resourceDescriptors xmi:id="_TqXCICqzEeqUTZ_iLgxpGw" id="-3dygNUi2bbcdn3Q7-cNC4Q" uri="customcategories/structure.xmi"/>
+    <resourceDescriptors xmi:id="_X4xt4Cq0EeqUTZ_iLgxpGw" id="-0CBLmcri38c8BpEDwifLHQ" uri="customcategories/components.xmi"/>
+    <resourceDescriptors xmi:id="_DXQ00Cq4EeqUTZ_iLgxpGw" id="-YN5TGUpsnKAax2iCfSntzA" uri="guidances/concepts/dependencies.xmi"/>
+    <resourceDescriptors xmi:id="_XNSkECq4EeqUTZ_iLgxpGw" id="-9No37XcCUP00x_AnFTX0wg" uri="guidances/concepts/sources.xmi"/>
+    <resourceDescriptors xmi:id="_0L6IICq7EeqUTZ_iLgxpGw" id="-FWqbfXxjFQj7ndnSWISNvQ" uri="customcategories/dependencies.xmi"/>
+    <resourceDescriptors xmi:id="_rIs-ECrCEeqUTZ_iLgxpGw" id="-X_JmqCTPFGjXkZK6uKGs2A" uri="guidances/concepts/licenses.xmi"/>
+    <resourceDescriptors xmi:id="_sD6-oCsOEeqEwL-I9ZZdpA" id="-NTHiTSHilRqFf7oYvfYvQw" uri="customcategories/methodology.xmi"/>
+    <resourceDescriptors xmi:id="_niv1UCsVEeqEwL-I9ZZdpA" id="-n5dCCVizm3vQ35MXNq-8gA" uri="customcategories/metamodel.xmi"/>
+    <resourceDescriptors xmi:id="_niy4oCsVEeqEwL-I9ZZdpA" id="-pKk1qrkqOLoIAhrCp9P9vg" uri="customcategories/sources.xmi"/>
+    <resourceDescriptors xmi:id="_ni178CsVEeqEwL-I9ZZdpA" id="-nA3OdVIrSA0ccA97XKpbaw" uri="customcategories/licenses.xmi"/>
+    <resourceDescriptors xmi:id="_ni4YMCsVEeqEwL-I9ZZdpA" id="-mV-VCMA2fejbbTCGo8fUqg" uri="customcategories/references.xmi"/>
+    <resourceDescriptors xmi:id="_ni60cCsVEeqEwL-I9ZZdpA" id="-2vfstflERMEMix8a0B3mUA" uri="customcategories/editing.xmi"/>
+    <resourceDescriptors xmi:id="_ni9QsCsVEeqEwL-I9ZZdpA" id="-0l24qm8zEWYqPewN-XPyhw" uri="customcategories/contribution.xmi"/>
+    <resourceDescriptors xmi:id="_uEMJECsVEeqEwL-I9ZZdpA" id="-VV-ZwdkYCDT_Ql0hTlopEw" uri="customcategories/authors.xmi"/>
+    <resourceDescriptors xmi:id="_p_1-gCtEEeqEwL-I9ZZdpA" id="-zexDzq6xjzDq0gtu_-A9jw" uri="guidances/concepts/references.xmi"/>
+    <resourceDescriptors xmi:id="_e8rH0CtLEeqEwL-I9ZZdpA" id="-m91q3BbiIWSeHpekDBIShg" uri="guidances/concepts/editing.xmi"/>
+    <resourceDescriptors xmi:id="_lEVooCtWEeqEwL-I9ZZdpA" id="-yeWwxkL0JLffaSkgd_tClQ" uri="guidances/concepts/contribution.xmi"/>
+    <resourceDescriptors xmi:id="_-HEJcCtaEeqEwL-I9ZZdpA" id="-U_2ky3bQNorT2jMdaG5chg" uri="guidances/concepts/authors.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_OFbM4MCaEemEJcXpCGj6gw" name="BTM_001" guid="_OFbM4MCaEemEJcXpCGj6gw">
     <methodElementProperty xmi:id="_OFsSoMCaEemEJcXpCGj6gw" name="plugin_synFree" value="true"/>
@@ -323,18 +356,21 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFbM6sCaEemEJcXpCGj6gw" name="Hidden" guid="_OFbM6sCaEemEJcXpCGj6gw">
             <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_OFbM68CaEemEJcXpCGj6gw" name="Custom Categories" guid="_OFbM68CaEemEJcXpCGj6gw" categorizedElements="_GfSFcMCbEemEJcXpCGj6gw _NYeK0MCbEemEJcXpCGj6gw _SRa2wMCbEemEJcXpCGj6gw _W2lEAMCbEemEJcXpCGj6gw _bw-hcMCbEemEJcXpCGj6gw _lrxWoMCbEemEJcXpCGj6gw _foM1cP93EemvmrQda9Gxiw _iRahIP98EemrPbCfteaqmw"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_GfSFcMCbEemEJcXpCGj6gw" name="overview" guid="_GfSFcMCbEemEJcXpCGj6gw" presentationName="Overview" categorizedElements="_I5EnUMCbEemEJcXpCGj6gw _K3O9IMCbEemEJcXpCGj6gw _MH4ssMCbEemEJcXpCGj6gw">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_GfSFcMCbEemEJcXpCGj6gw" name="overview" guid="_GfSFcMCbEemEJcXpCGj6gw" presentationName="Overview" briefDescription="Business Technology Management (BTM) is an emergent profession whose mission is to highlight the importance of a hybrid business-technology-management acumen for all business actors (associates, professionals, managers, entrepreneurs and executives). In order to succeed, organizations must constantly rethink their business models, have innovative digital transformation (DT) and a thoughtful information technology (IT) investment among their top priorities. Existing technology, business and management BOKs have been developed with different underlying philosophies and this has resulted in fragemented worldviews held by practitioners and BTM intends to solve this problem by harmonizing standards contained in those diffent BOKs. BTM intends to achieve its mission by different means and coaching the next generation of Leaders of the Digital Transformation is one of its top strategies.&#xD;&#xA;&#xD;&#xA;" categorizedElements="_I5EnUMCbEemEJcXpCGj6gw _K3O9IMCbEemEJcXpCGj6gw _MH4ssMCbEemEJcXpCGj6gw">
             <methodElementProperty xmi:id="_Hz-AcMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
             <presentation xmi:id="-fo2ZRlbcy7w7JlDHbJb5Yw" href="uma://-fo2ZRlbcy7w7JlDHbJb5Yw#-fo2ZRlbcy7w7JlDHbJb5Yw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_I5EnUMCbEemEJcXpCGj6gw" name="purpose" guid="_I5EnUMCbEemEJcXpCGj6gw" presentationName="Purpose" categorizedElements="_hn_CAMCkEemEJcXpCGj6gw _ixIbYMCkEemEJcXpCGj6gw _j29bAMCkEemEJcXpCGj6gw _k3tGUMCkEemEJcXpCGj6gw _l6YrUMCkEemEJcXpCGj6gw">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_I5EnUMCbEemEJcXpCGj6gw" name="purpose" guid="_I5EnUMCbEemEJcXpCGj6gw" presentationName="Purpose" briefDescription="The concept of Business Technology Management (BTM) as an emerging profession and the  BTM BOK Project meant to create the guide of this profession were proposed and initiated in 2009 by and the Information Technology Association of Canada (ITAC).  What has motivated this organization to do so? According to ITAC, the hybrid Business-Technology-Management acumen was, and is still, crucial to business success and yet generally overlooked by organizations. So, this was a gap and ITAC decided to bridge it by championning the BTM BOK Project a project whose the mission is to map and harmonize dozens of business, technology and management guides found in different industries.&#xD;&#xA;" categorizedElements="_hn_CAMCkEemEJcXpCGj6gw _ixIbYMCkEemEJcXpCGj6gw _j29bAMCkEemEJcXpCGj6gw _k3tGUMCkEemEJcXpCGj6gw _l6YrUMCkEemEJcXpCGj6gw">
             <methodElementProperty xmi:id="_Jd-rMMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-3ClA2Un2TOWOKFipVPnmMw" href="uma://-3ClA2Un2TOWOKFipVPnmMw#-3ClA2Un2TOWOKFipVPnmMw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_K3O9IMCbEemEJcXpCGj6gw" name="contents" guid="_K3O9IMCbEemEJcXpCGj6gw" presentationName="Contents" categorizedElements="_nfckoMCkEemEJcXpCGj6gw _ou9rwMCkEemEJcXpCGj6gw _pyBEMMCkEemEJcXpCGj6gw _qxaEoMCkEemEJcXpCGj6gw _r2rDkMCkEemEJcXpCGj6gw">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_K3O9IMCbEemEJcXpCGj6gw" name="contents" guid="_K3O9IMCbEemEJcXpCGj6gw" presentationName="Contents" briefDescription="BTM BOK is composed of sept (7) chapters and its contents are designed after a metamodel i.e. a broad framework that shows key elements and interdependences between them." categorizedElements="_nfckoMCkEemEJcXpCGj6gw _ou9rwMCkEemEJcXpCGj6gw _pyBEMMCkEemEJcXpCGj6gw _qxaEoMCkEemEJcXpCGj6gw _r2rDkMCkEemEJcXpCGj6gw">
             <methodElementProperty xmi:id="_LNikUMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-HMSo4hMieUCgxQNooTezlw" href="uma://-HMSo4hMieUCgxQNooTezlw#-HMSo4hMieUCgxQNooTezlw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_MH4ssMCbEemEJcXpCGj6gw" name="methodology" guid="_MH4ssMCbEemEJcXpCGj6gw" presentationName="Methodology" categorizedElements="_tJ_FkMCkEemEJcXpCGj6gw _uU-SAMCkEemEJcXpCGj6gw _vhRtEMCkEemEJcXpCGj6gw _wq7cwMCkEemEJcXpCGj6gw _yaWzAMCkEemEJcXpCGj6gw">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_MH4ssMCbEemEJcXpCGj6gw" name="methodology" guid="_MH4ssMCbEemEJcXpCGj6gw" presentationName="Methodology" briefDescription="BTM  BOK is developped with a methodology based on the following three Eclipse Processus Framework (EPF) capabilities.&#xD;&#xA;1. EPF Editor to design the guide framework, add and edit its content&#xD;&#xA;2. EPF Wiki to allow users contribute to the improvement of the guide's content via their comments&#xD;&#xA;3. EPF Wiki API extensions to allow the reuse of the guide's assets" categorizedElements="_tJ_FkMCkEemEJcXpCGj6gw _uU-SAMCkEemEJcXpCGj6gw _vhRtEMCkEemEJcXpCGj6gw _wq7cwMCkEemEJcXpCGj6gw _yaWzAMCkEemEJcXpCGj6gw">
             <methodElementProperty xmi:id="_MbhaYMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-NTHiTSHilRqFf7oYvfYvQw" href="uma://-NTHiTSHilRqFf7oYvfYvQw#-NTHiTSHilRqFf7oYvfYvQw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NYeK0MCbEemEJcXpCGj6gw" name="transformation" guid="_NYeK0MCbEemEJcXpCGj6gw" presentationName="Transformation" categorizedElements="_OgwokMCbEemEJcXpCGj6gw _PnKP8MCbEemEJcXpCGj6gw _QvvooMCbEemEJcXpCGj6gw">
             <methodElementProperty xmi:id="_NpnlMMCbEemEJcXpCGj6gw" name="me_edited" value="true"/>
@@ -564,50 +600,65 @@
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_eMnuYMCkEemEJcXpCGj6gw" name="public" guid="_eMnuYMCkEemEJcXpCGj6gw" presentationName="Public">
             <methodElementProperty xmi:id="_eaa50MCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hn_CAMCkEemEJcXpCGj6gw" name="objectives" guid="_hn_CAMCkEemEJcXpCGj6gw" presentationName="Objectives">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hn_CAMCkEemEJcXpCGj6gw" name="objectives" guid="_hn_CAMCkEemEJcXpCGj6gw" presentationName="Objectives" briefDescription="The BTM profession hopes to realize its mission by achieving the following 3 objectives:&#xD;&#xA;1. Coach Digital Transformation Leaders&#xD;&#xA;2. Help practitioners develop a hybrid business-technology-management acumen&#xD;&#xA;3. Help practitioners look at information technology (IT) through a wide business lens">
             <methodElementProperty xmi:id="_h6UIIMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-N6Q-oNciradUHp2VqCvp9g" href="uma://-N6Q-oNciradUHp2VqCvp9g#-N6Q-oNciradUHp2VqCvp9g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ixIbYMCkEemEJcXpCGj6gw" name="profession" guid="_ixIbYMCkEemEJcXpCGj6gw" presentationName="Profession">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ixIbYMCkEemEJcXpCGj6gw" name="profession" guid="_ixIbYMCkEemEJcXpCGj6gw" presentationName="Profession" briefDescription="BTM is an emerging profession meant to help people with different backgrounds aquire skillsets required to effectively lead innovation and optimization in  digital transformation projects.">
             <methodElementProperty xmi:id="_i_BGYMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-de8fcYL1oSiPb0LRiDrwIQ" href="uma://-de8fcYL1oSiPb0LRiDrwIQ#-de8fcYL1oSiPb0LRiDrwIQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_j29bAMCkEemEJcXpCGj6gw" name="adoption" guid="_j29bAMCkEemEJcXpCGj6gw" presentationName="Adoption">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_j29bAMCkEemEJcXpCGj6gw" name="adoption" guid="_j29bAMCkEemEJcXpCGj6gw" presentationName="Adoption" briefDescription="BTM intends to promote Evidence Based Professions and this is achievable thanks to the practice-grounded nature of its guide. BTM and BTM BOK are expected to become free resources available to all kinds of businesses, in the form of a broad and customizable framework that can be adopted by different organizations for growth purpose. ">
             <methodElementProperty xmi:id="_kF4n0MCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-gS9L0aW7PWf0yhvuw013-g" href="uma://-gS9L0aW7PWf0yhvuw013-g#-gS9L0aW7PWf0yhvuw013-g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_k3tGUMCkEemEJcXpCGj6gw" name="customization" guid="_k3tGUMCkEemEJcXpCGj6gw" presentationName="Customization">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_k3tGUMCkEemEJcXpCGj6gw" name="customization" guid="_k3tGUMCkEemEJcXpCGj6gw" presentationName="Customization" briefDescription="BTM presents BTM BOK, its guide, in different editable formats and this makes it possible for organizations to customize it to their specific needs and contexts.">
             <methodElementProperty xmi:id="_lHhrAMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-nhNaORXdr41XamLrHMlwsQ" href="uma://-nhNaORXdr41XamLrHMlwsQ#-nhNaORXdr41XamLrHMlwsQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_l6YrUMCkEemEJcXpCGj6gw" name="community" guid="_l6YrUMCkEemEJcXpCGj6gw" presentationName="Community" briefDescription="Community&#xD;&#xA;">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_l6YrUMCkEemEJcXpCGj6gw" name="community" guid="_l6YrUMCkEemEJcXpCGj6gw" presentationName="Community" briefDescription="BTM Forum is a platform that was initiated in Canada with the mandate to advance the BTM Profession by tapping the ''widsom of crowds''. The Forum welcomes and encourages contributions from all of those who believe in contribution of information technology (IT) and digital transformation to business success.&#xD;&#xA;">
             <methodElementProperty xmi:id="_mMjZYMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-NL_OqWvmVMThBla8u5Eqog" href="uma://-NL_OqWvmVMThBla8u5Eqog#-NL_OqWvmVMThBla8u5Eqog"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nfckoMCkEemEJcXpCGj6gw" name="metamodel" guid="_nfckoMCkEemEJcXpCGj6gw" presentationName="Metamodel">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nfckoMCkEemEJcXpCGj6gw" name="metamodel" guid="_nfckoMCkEemEJcXpCGj6gw" presentationName="Metamodel" briefDescription="BTM BOK Project uses Eclipse Process Framework to create the metamodel of the guide. This metamodel is a broad fremework that contains key elements of the proposed standard and their interdependencies.">
             <methodElementProperty xmi:id="_ntHNMMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-n5dCCVizm3vQ35MXNq-8gA" href="uma://-n5dCCVizm3vQ35MXNq-8gA#-n5dCCVizm3vQ35MXNq-8gA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ou9rwMCkEemEJcXpCGj6gw" name="structure" guid="_ou9rwMCkEemEJcXpCGj6gw" presentationName="Structure">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_ou9rwMCkEemEJcXpCGj6gw" name="structure" guid="_ou9rwMCkEemEJcXpCGj6gw" presentationName="Structure" briefDescription="The content of BTM BOK is likely to change as more materials are integrated and more people edit this guide but the BOK's outline has been determined and consists of the following 7 chapters:&#xD;&#xA;1. Overview&#xD;&#xA;2. Transformation&#xD;&#xA;3. Practice&#xD;&#xA;4. Discipline&#xD;&#xA;5. Lifecycle&#xD;&#xA;6. Career&#xD;&#xA;7. Standard&#xD;&#xA;">
             <methodElementProperty xmi:id="_o99KAMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-3dygNUi2bbcdn3Q7-cNC4Q" href="uma://-3dygNUi2bbcdn3Q7-cNC4Q#-3dygNUi2bbcdn3Q7-cNC4Q"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_pyBEMMCkEemEJcXpCGj6gw" name="components" guid="_pyBEMMCkEemEJcXpCGj6gw" presentationName="Components">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_pyBEMMCkEemEJcXpCGj6gw" name="components" guid="_pyBEMMCkEemEJcXpCGj6gw" presentationName="Components" briefDescription="BTM BOK is founded on 7 core knowledge areas. These are:&#xD;&#xA;1. Competency integration&#xD;&#xA;2. Interpersonal competencies&#xD;&#xA;3. Business acumen&#xD;&#xA;4. Technlogical competencies&#xD;&#xA;5. Technology's contribution to business success&#xD;&#xA;6. Importance of innovation in business and technology&#xD;&#xA;7. Process, project and change management&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
             <methodElementProperty xmi:id="_p_4hEMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-0CBLmcri38c8BpEDwifLHQ" href="uma://-0CBLmcri38c8BpEDwifLHQ#-0CBLmcri38c8BpEDwifLHQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qxaEoMCkEemEJcXpCGj6gw" name="dependencies" guid="_qxaEoMCkEemEJcXpCGj6gw" presentationName="Dependencies">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qxaEoMCkEemEJcXpCGj6gw" name="dependencies" guid="_qxaEoMCkEemEJcXpCGj6gw" presentationName="Dependencies" briefDescription="In order to successfully lead digital transformation processes, practitioners must collaborate in different areas such as knowledge, methods, guidelines, policies etc.">
             <methodElementProperty xmi:id="_q_s_UMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-FWqbfXxjFQj7ndnSWISNvQ" href="uma://-FWqbfXxjFQj7ndnSWISNvQ#-FWqbfXxjFQj7ndnSWISNvQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_r2rDkMCkEemEJcXpCGj6gw" name="sources" guid="_r2rDkMCkEemEJcXpCGj6gw" presentationName="Sources">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_r2rDkMCkEemEJcXpCGj6gw" name="sources" guid="_r2rDkMCkEemEJcXpCGj6gw" presentationName="Sources" briefDescription="The sources of BTM BOK are primarily different Free Libre Open Source (FLOS) publications and feedback from Community end-users.">
             <methodElementProperty xmi:id="_sDkQEMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-pKk1qrkqOLoIAhrCp9P9vg" href="uma://-pKk1qrkqOLoIAhrCp9P9vg#-pKk1qrkqOLoIAhrCp9P9vg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_tJ_FkMCkEemEJcXpCGj6gw" name="licenses" guid="_tJ_FkMCkEemEJcXpCGj6gw" presentationName="Licenses">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_tJ_FkMCkEemEJcXpCGj6gw" name="licenses" guid="_tJ_FkMCkEemEJcXpCGj6gw" presentationName="Licenses" briefDescription="BTM BOK development is facilitated by different licenses that allow the integration of several Free Libre Open Source (FLOS) specifications, methodologies, reference models, and standards.&#xD;&#xA;These licenses include:&#xD;&#xA;1. Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)&#xD;&#xA;2. Eclipse Public License (EPL 1.0)&#xD;&#xA;3. European Union Public Licence (EUPL 1.2)">
             <methodElementProperty xmi:id="_tY2oAMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-nA3OdVIrSA0ccA97XKpbaw" href="uma://-nA3OdVIrSA0ccA97XKpbaw#-nA3OdVIrSA0ccA97XKpbaw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_uU-SAMCkEemEJcXpCGj6gw" name="references" guid="_uU-SAMCkEemEJcXpCGj6gw" presentationName="References">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_uU-SAMCkEemEJcXpCGj6gw" name="references" guid="_uU-SAMCkEemEJcXpCGj6gw" presentationName="References" briefDescription="BTM BOK development is integrating dozens of references from Free Libre Open Source (FLOS) resources, 57 of these at the initial phase but this number is expected to increase to 100+. These resources have a diverse source and originate from different parties such as vendors, textbooks' authors, research institutions,  professional associations and governement agencies.">
             <methodElementProperty xmi:id="_ukxBgMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-mV-VCMA2fejbbTCGo8fUqg" href="uma://-mV-VCMA2fejbbTCGo8fUqg#-mV-VCMA2fejbbTCGo8fUqg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_vhRtEMCkEemEJcXpCGj6gw" name="editing" guid="_vhRtEMCkEemEJcXpCGj6gw" presentationName="Editing">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_vhRtEMCkEemEJcXpCGj6gw" name="editing" guid="_vhRtEMCkEemEJcXpCGj6gw" presentationName="Editing" briefDescription="BTM BOK results froms FLOS materials whose edition is based on Eclipse Process Framework (EPF)'s core language">
             <methodElementProperty xmi:id="_vtpVIMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-2vfstflERMEMix8a0B3mUA" href="uma://-2vfstflERMEMix8a0B3mUA#-2vfstflERMEMix8a0B3mUA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_wq7cwMCkEemEJcXpCGj6gw" name="contribution" guid="_wq7cwMCkEemEJcXpCGj6gw" presentationName="Contribution">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_wq7cwMCkEemEJcXpCGj6gw" name="contribution" guid="_wq7cwMCkEemEJcXpCGj6gw" presentationName="Contribution" briefDescription="BTM BOK development relies on the engagement of different knowledgeable people who contribute to the guide's content via applications such as BTM Forum Joomla,, BTM Jomsocial, BTM Forum Project Fork, Tiki Wiki, EPF Wiki, Zotero, Mapping App, LimeSurvey, EPF Composer etc.">
             <methodElementProperty xmi:id="_xCK4EMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-0l24qm8zEWYqPewN-XPyhw" href="uma://-0l24qm8zEWYqPewN-XPyhw#-0l24qm8zEWYqPewN-XPyhw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_yaWzAMCkEemEJcXpCGj6gw" name="authors" guid="_yaWzAMCkEemEJcXpCGj6gw" presentationName="Authors">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_yaWzAMCkEemEJcXpCGj6gw" name="authors" guid="_yaWzAMCkEemEJcXpCGj6gw" presentationName="Authors" briefDescription="BTM BOK is co-authored by the following 3 development roles:&#xD;&#xA;1. The BOK asset designer&#xD;&#xA;2. The BOK asset integrator&#xD;&#xA;3, The BOK asset re-user">
             <methodElementProperty xmi:id="_yoVkoMCkEemEJcXpCGj6gw" name="me_edited" value="true"/>
+            <presentation xmi:id="-VV-ZwdkYCDT_Ql0hTlopEw" href="uma://-VV-ZwdkYCDT_Ql0hTlopEw#-VV-ZwdkYCDT_Ql0hTlopEw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xGSGkMClEemEJcXpCGj6gw" name="operation" guid="_xGSGkMClEemEJcXpCGj6gw" presentationName="Operation">
             <methodElementProperty xmi:id="_xVHz0MClEemEJcXpCGj6gw" name="me_edited" value="true"/>
@@ -857,6 +908,86 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Pbiz0MCxEemEJcXpCGj6gw" name="ai" guid="_Pbiz0MCxEemEJcXpCGj6gw" presentationName="AI">
           <methodElementProperty xmi:id="_Pbiz0cCxEemEJcXpCGj6gw" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_PmVHgMCxEemEJcXpCGj6gw" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_h073sCmFEeqJQ8jfN7Fcgw" name="overview" guid="_h073sCmFEeqJQ8jfN7Fcgw" presentationName="Overview">
+          <methodElementProperty xmi:id="_h09s4CmFEeqJQ8jfN7Fcgw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_6ScvcCmFEeqJQ8jfN7Fcgw" name="me_edited" value="true"/>
+          <methodElementProperty xmi:id="_KoS5gCmnEeqnTbsZNHXyXw" name="pakage_supporting" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qUJfsCmFEeqJQ8jfN7Fcgw" name="purpose" guid="_qUJfsCmFEeqJQ8jfN7Fcgw" presentationName="Purpose">
+            <methodElementProperty xmi:id="_qUJfsSmFEeqJQ8jfN7Fcgw" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_6SWBwCmFEeqJQ8jfN7Fcgw" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_KoVVwCmnEeqnTbsZNHXyXw" name="pakage_supporting" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="__S7cYCmpEeqnTbsZNHXyXw" name="objectives" guid="__S7cYCmpEeqnTbsZNHXyXw" presentationName="Objectives">
+              <methodElementProperty xmi:id="_KS3UsCmqEeqnTbsZNHXyXw" name="me_edited" value="true"/>
+              <presentation xmi:id="-fxZmDloHYMa41JT3jHuCJQ" href="uma://-fxZmDloHYMa41JT3jHuCJQ#-fxZmDloHYMa41JT3jHuCJQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_QCRHgCmqEeqnTbsZNHXyXw" name="profession" guid="_QCRHgCmqEeqnTbsZNHXyXw" presentationName="Profession">
+              <methodElementProperty xmi:id="_YyHMgCmqEeqnTbsZNHXyXw" name="me_edited" value="true"/>
+              <presentation xmi:id="-Zl13WDXzUVYC5vdDHX-kUg" href="uma://-Zl13WDXzUVYC5vdDHX-kUg#-Zl13WDXzUVYC5vdDHX-kUg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_Skl6UCmqEeqnTbsZNHXyXw" name="adoption" guid="_Skl6UCmqEeqnTbsZNHXyXw" presentationName="Adoption">
+              <methodElementProperty xmi:id="_Yx4jACmqEeqnTbsZNHXyXw" name="me_edited" value="true"/>
+              <presentation xmi:id="-dKwMe_TxmkSgHhJKUmxYsw" href="uma://-dKwMe_TxmkSgHhJKUmxYsw#-dKwMe_TxmkSgHhJKUmxYsw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_87n4ECn8EeqnTbsZNHXyXw" name="customization" guid="_87n4ECn8EeqnTbsZNHXyXw" presentationName="Customization ">
+              <methodElementProperty xmi:id="_CWMqYCn9EeqnTbsZNHXyXw" name="me_edited" value="true"/>
+              <presentation xmi:id="--JJ-70pK87XJM1BDXjl3og" href="uma://--JJ-70pK87XJM1BDXjl3og#--JJ-70pK87XJM1BDXjl3og"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_ANss0Cn9EeqnTbsZNHXyXw" name="community" guid="_ANss0Cn9EeqnTbsZNHXyXw" presentationName="Community">
+              <methodElementProperty xmi:id="_CWBEMCn9EeqnTbsZNHXyXw" name="me_edited" value="true"/>
+              <presentation xmi:id="-_35xtK6yYRrWlHajnOWo6Q" href="uma://-_35xtK6yYRrWlHajnOWo6Q#-_35xtK6yYRrWlHajnOWo6Q"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tcgXwCmFEeqJQ8jfN7Fcgw" name="contents" guid="_tcgXwCmFEeqJQ8jfN7Fcgw" presentationName="Contents">
+            <methodElementProperty xmi:id="_tcgXwSmFEeqJQ8jfN7Fcgw" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_6SM30CmFEeqJQ8jfN7Fcgw" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_KoV80CmnEeqnTbsZNHXyXw" name="pakage_supporting" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_vSiw0CqMEeqJqa-iUQrjOA" name="metamodel" guid="_vSiw0CqMEeqJqa-iUQrjOA" presentationName="Metamodel">
+              <methodElementProperty xmi:id="_JdJcgCqNEeqJqa-iUQrjOA" name="me_edited" value="true"/>
+              <presentation xmi:id="-QB4uH97xnJY_oRfsg8KQeA" href="uma://-QB4uH97xnJY_oRfsg8KQeA#-QB4uH97xnJY_oRfsg8KQeA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_x_L9QCqMEeqJqa-iUQrjOA" name="structure" guid="_x_L9QCqMEeqJqa-iUQrjOA" presentationName="Structure">
+              <methodElementProperty xmi:id="_JdBgsCqNEeqJqa-iUQrjOA" name="me_edited" value="true"/>
+              <presentation xmi:id="-y-zSJh9cXoKSiUzkO0kTVA" href="uma://-y-zSJh9cXoKSiUzkO0kTVA#-y-zSJh9cXoKSiUzkO0kTVA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_3MV-oCqMEeqJqa-iUQrjOA" name="components" guid="_3MV-oCqMEeqJqa-iUQrjOA" presentationName="Components">
+              <methodElementProperty xmi:id="_Jc6L8CqNEeqJqa-iUQrjOA" name="me_edited" value="true"/>
+              <presentation xmi:id="-BfYJu8MHJfKcuM8lcYlARg" href="uma://-BfYJu8MHJfKcuM8lcYlARg#-BfYJu8MHJfKcuM8lcYlARg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_CK26oCqNEeqJqa-iUQrjOA" name="dependencies" guid="_CK26oCqNEeqJqa-iUQrjOA" presentationName="Dependencies">
+              <methodElementProperty xmi:id="_Jcy3MCqNEeqJqa-iUQrjOA" name="me_edited" value="true"/>
+              <presentation xmi:id="-YN5TGUpsnKAax2iCfSntzA" href="uma://-YN5TGUpsnKAax2iCfSntzA#-YN5TGUpsnKAax2iCfSntzA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_HCxEwCqNEeqJqa-iUQrjOA" name="sources" guid="_HCxEwCqNEeqJqa-iUQrjOA" presentationName="Sources">
+              <methodElementProperty xmi:id="_JcptQCqNEeqJqa-iUQrjOA" name="me_edited" value="true"/>
+              <presentation xmi:id="-9No37XcCUP00x_AnFTX0wg" href="uma://-9No37XcCUP00x_AnFTX0wg#-9No37XcCUP00x_AnFTX0wg"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xtu8YCmFEeqJQ8jfN7Fcgw" name="methodology" guid="_xtu8YCmFEeqJQ8jfN7Fcgw" presentationName="Methodology">
+            <methodElementProperty xmi:id="_xtvjcCmFEeqJQ8jfN7Fcgw" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_6R2SgCmFEeqJQ8jfN7Fcgw" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_KoV80SmnEeqnTbsZNHXyXw" name="pakage_supporting" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_kah14CrCEeqUTZ_iLgxpGw" name="licenses" guid="_kah14CrCEeqUTZ_iLgxpGw" presentationName="Licenses">
+              <methodElementProperty xmi:id="_rIimACrCEeqUTZ_iLgxpGw" name="me_edited" value="true"/>
+              <presentation xmi:id="-X_JmqCTPFGjXkZK6uKGs2A" href="uma://-X_JmqCTPFGjXkZK6uKGs2A#-X_JmqCTPFGjXkZK6uKGs2A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_LFt_kCsLEeqEwL-I9ZZdpA" name="references" guid="_LFt_kCsLEeqEwL-I9ZZdpA" presentationName="References">
+              <methodElementProperty xmi:id="_p_we8CtEEeqEwL-I9ZZdpA" name="me_edited" value="true"/>
+              <presentation xmi:id="-zexDzq6xjzDq0gtu_-A9jw" href="uma://-zexDzq6xjzDq0gtu_-A9jw#-zexDzq6xjzDq0gtu_-A9jw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_PB-QkCtJEeqEwL-I9ZZdpA" name="editing" guid="_PB-QkCtJEeqEwL-I9ZZdpA" presentationName="Editing">
+              <methodElementProperty xmi:id="_vldJ4CtJEeqEwL-I9ZZdpA" name="me_edited" value="true"/>
+              <presentation xmi:id="-m91q3BbiIWSeHpekDBIShg" href="uma://-m91q3BbiIWSeHpekDBIShg#-m91q3BbiIWSeHpekDBIShg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_6d3PICtPEeqEwL-I9ZZdpA" name="contribution" guid="_6d3PICtPEeqEwL-I9ZZdpA" presentationName="Contribution">
+              <methodElementProperty xmi:id="_mZ64UCtSEeqEwL-I9ZZdpA" name="me_edited" value="true"/>
+              <presentation xmi:id="-yeWwxkL0JLffaSkgd_tClQ" href="uma://-yeWwxkL0JLffaSkgd_tClQ#-yeWwxkL0JLffaSkgd_tClQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_u6OoUCtZEeqEwL-I9ZZdpA" name="authors" guid="_u6OoUCtZEeqEwL-I9ZZdpA" presentationName="Authors">
+              <methodElementProperty xmi:id="_-G2uECtaEeqEwL-I9ZZdpA" name="me_edited" value="true"/>
+              <presentation xmi:id="-U_2ky3bQNorT2jMdaG5chg" href="uma://-U_2ky3bQNorT2jMdaG5chg#-U_2ky3bQNorT2jMdaG5chg"/>
+            </contentElements>
+          </childPackages>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_OFbz8MCaEemEJcXpCGj6gw" name="CapabilityPatterns" guid="_OFbz8MCaEemEJcXpCGj6gw">
