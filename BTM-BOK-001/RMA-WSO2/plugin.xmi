@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_bJaUgDDQEeqUqvGmwOpKGQ" guid="_bJaUgDDQEeqUqvGmwOpKGQ">
+    <resourceDescriptors xmi:id="_Fg1JEDD9EeqUqvGmwOpKGQ" id="-LYaWHp2jiQVCZ__C8dcx9A" uri="customcategories/overview.xmi"/>
+    <resourceDescriptors xmi:id="_Fg4zcDD9EeqUqvGmwOpKGQ" id="-ReJK8DSk-BBxyvAui9LjHA" uri="guidances/concepts/overview.xmi"/>
+    <resourceDescriptors xmi:id="_JpgpgDFcEeqlbI72dyJobA" id="-atBoMyEfMWpaWYxuJgp_1A" uri="guidances/concepts/introduction_to_rma_wso2.xmi"/>
+    <resourceDescriptors xmi:id="_EP5uQDFhEeqlbI72dyJobA" id="-s3vEsFXSnLjx8H6YBnWH-g" uri="guidances/concepts/people.xmi"/>
+    <resourceDescriptors xmi:id="_kymdEDFkEeqlbI72dyJobA" id="-to7XlubMlyRI3S1y7YeYlA" uri="guidances/concepts/process.xmi"/>
+    <resourceDescriptors xmi:id="_Z5QNkDFnEeqlbI72dyJobA" id="-hOeNQCKBgGrxgPipIXbt3g" uri="guidances/concepts/technology.xmi"/>
+    <resourceDescriptors xmi:id="_gHyvQDFuEeqlbI72dyJobA" id="-9TkqYItCrTHia6zaAqX6pQ" uri="customcategories/outcome_of_organizational_improvement.xmi"/>
+    <resourceDescriptors xmi:id="_Hi3cYDF4EeqlbI72dyJobA" id="-5r4eD_xbichvE36vPq4Y-A" uri="guidances/concepts/swo2's_agility_maturity_model.xmi"/>
+    <resourceDescriptors xmi:id="_prFpcDF5EeqlbI72dyJobA" id="-16c4gW-QfQE28QMLtFVwqA" uri="guidances/concepts/fast_waterfall.xmi"/>
+    <resourceDescriptors xmi:id="_cWC58DGEEeqlbI72dyJobA" id="-NuycSW2VNulMoIdQ2d3n_Q" uri="guidances/concepts/api-driven.xmi"/>
+    <resourceDescriptors xmi:id="_7KH1sDGFEeqlbI72dyJobA" id="-Q0YPi3Z3NYwYUD6jPghl2A" uri="guidances/concepts/early_agility.xmi"/>
+    <resourceDescriptors xmi:id="_CP0bIDGIEeqlbI72dyJobA" id="-8JGLmsF2LASBynFkHXFPtw" uri="guidances/concepts/integration_agile.xmi"/>
+    <resourceDescriptors xmi:id="_Pqf_IDGqEeqyKaY-Jwohbw" id="-mgG_iZf9ZL4VeaWf96pCig" uri="guidances/supportingmaterials/new_supporting_material.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_bJDIIDDQEeqUqvGmwOpKGQ" name="RMA-WSO2" guid="_bJDIIDDQEeqUqvGmwOpKGQ" presentationName="RMA -WSO2" authors="Jean-Bosco Ntakirutimana" changeDate="2020-01-07T08:32:36.729-0500" copyrightStatement="_NTXIoDGqEeqyKaY-Jwohbw">
+    <methodElementProperty xmi:id="_bJa7kDDQEeqUqvGmwOpKGQ" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_0SobsDDQEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDIITDQEeqUqvGmwOpKGQ" name="Content" guid="_bJDIITDQEeqUqvGmwOpKGQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDIIjDQEeqUqvGmwOpKGQ" name="Categories" guid="_bJDIIjDQEeqUqvGmwOpKGQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDIIzDQEeqUqvGmwOpKGQ" name="Domains" guid="_bJDIIzDQEeqUqvGmwOpKGQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDIJDDQEeqUqvGmwOpKGQ" name="Disciplines" guid="_bJDIJDDQEeqUqvGmwOpKGQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDIJTDQEeqUqvGmwOpKGQ" name="RoleSets" guid="_bJDIJTDQEeqUqvGmwOpKGQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDIJjDQEeqUqvGmwOpKGQ" name="WP Types" guid="_bJDIJjDQEeqUqvGmwOpKGQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDIJzDQEeqUqvGmwOpKGQ" name="Tools" guid="_bJDIJzDQEeqUqvGmwOpKGQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDIKDDQEeqUqvGmwOpKGQ" name="StandardCategories" guid="_bJDIKDDQEeqUqvGmwOpKGQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDIKTDQEeqUqvGmwOpKGQ" name="CustomCategories" guid="_bJDIKTDQEeqUqvGmwOpKGQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDIKjDQEeqUqvGmwOpKGQ" name="Hidden" guid="_bJDIKjDQEeqUqvGmwOpKGQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_bJDIKzDQEeqUqvGmwOpKGQ" name="Custom Categories" guid="_bJDIKzDQEeqUqvGmwOpKGQ" categorizedElements="_SBOywDD2EeqUqvGmwOpKGQ _qcUdEDEAEeqUqvGmwOpKGQ _0AqhIDEAEeqUqvGmwOpKGQ __ZvSMDEAEeqUqvGmwOpKGQ _E-Jo4DD0EeqUqvGmwOpKGQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_E-Jo4DD0EeqUqvGmwOpKGQ" name="overview" guid="_E-Jo4DD0EeqUqvGmwOpKGQ" presentationName="Overview" categorizedElements="_N2OjADDXEeqUqvGmwOpKGQ _5FmhkDF3EeqlbI72dyJobA">
+            <methodElementProperty xmi:id="_rWQMMDD0EeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-LYaWHp2jiQVCZ__C8dcx9A" href="uma://-LYaWHp2jiQVCZ__C8dcx9A#-LYaWHp2jiQVCZ__C8dcx9A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_SBOywDD2EeqUqvGmwOpKGQ" name="rma_wso2" guid="_SBOywDD2EeqUqvGmwOpKGQ" presentationName="RMA-WSO2" briefDescription="Reference Methodology For Agile developed by Web Services Oxgenated (RMA-WSO2) is a guide for project management in the area of web services." categorizedElements="_KbloIDDXEeqUqvGmwOpKGQ _E-Jo4DD0EeqUqvGmwOpKGQ _qcUdEDEAEeqUqvGmwOpKGQ _0AqhIDEAEeqUqvGmwOpKGQ __ZvSMDEAEeqUqvGmwOpKGQ">
+            <methodElementProperty xmi:id="_FhHc8DD9EeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qcUdEDEAEeqUqvGmwOpKGQ" name="stages_of_methodology_for_agility" guid="_qcUdEDEAEeqUqvGmwOpKGQ" presentationName="Stages Of Methodology For Agility" briefDescription="MRA-WSO2 describes 5 stages of an iterative approach to web service projects. Most organizations aim at attaining Integration Agile, the last stage of the described methodology." categorizedElements="_Oo6yIDEBEeqUqvGmwOpKGQ _GyBHUDEBEeqUqvGmwOpKGQ _TOWsMDEBEeqUqvGmwOpKGQ _WlkfoDEBEeqUqvGmwOpKGQ _Zy7McDEBEeqUqvGmwOpKGQ">
+            <methodElementProperty xmi:id="_7hywQDEAEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_0AqhIDEAEeqUqvGmwOpKGQ" name="dimensions_of_organizational_improvement" guid="_0AqhIDEAEeqUqvGmwOpKGQ" presentationName="Dimensions Of Organizational Improvement" categorizedElements="_d-7S0DEBEeqUqvGmwOpKGQ _gc0RkDEBEeqUqvGmwOpKGQ _jG2O4DEBEeqUqvGmwOpKGQ">
+            <methodElementProperty xmi:id="_7hxiIDEAEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="__ZvSMDEAEeqUqvGmwOpKGQ" name="outcome_of_organizational_improvement" guid="__ZvSMDEAEeqUqvGmwOpKGQ" presentationName="Outcome Of Organizational Improvement" categorizedElements="_zaAo0DFYEeqlbI72dyJobA _3D6uwDFYEeqlbI72dyJobA">
+            <methodElementProperty xmi:id="_c4ZvoDEBEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-9TkqYItCrTHia6zaAqX6pQ" href="uma://-9TkqYItCrTHia6zaAqX6pQ#-9TkqYItCrTHia6zaAqX6pQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bJDILDDQEeqUqvGmwOpKGQ" name="CoreContent" guid="_bJDILDDQEeqUqvGmwOpKGQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Dpe_ADDTEeqUqvGmwOpKGQ" name="rma_wso2_content_package" guid="_Dpe_ADDTEeqUqvGmwOpKGQ" presentationName="RMA-WSO2 Content Package">
+          <methodElementProperty xmi:id="_Dpe_ATDTEeqUqvGmwOpKGQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="__euHYDDVEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_KbloIDDXEeqUqvGmwOpKGQ" name="introduction_to_rma_wso2" guid="_KbloIDDXEeqUqvGmwOpKGQ" presentationName="Introduction To RMA-WSO2" briefDescription="MRA-WSO2 helps organizations become Integration Agile with the ultimate goal to achieve intenal and external alignement between technologies and businesses. Thanks to internal digital alignment, employees can work effectively and efficiently. As for external digital alignment,  it allows an organization to effectively interact with its parteners like customers and suppliers, the outcome being the increase of competitivity.">
+            <methodElementProperty xmi:id="_S0AroDDXEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-atBoMyEfMWpaWYxuJgp_1A" href="uma://-atBoMyEfMWpaWYxuJgp_1A#-atBoMyEfMWpaWYxuJgp_1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_N2OjADDXEeqUqvGmwOpKGQ" name="overview" guid="_N2OjADDXEeqUqvGmwOpKGQ" presentationName="Foundation Of Agility" briefDescription="In order to attain the highest level of agility, organizations must have conducive culture and an appropriate technology architecture. ">
+            <methodElementProperty xmi:id="_Sz7MEDDXEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ReJK8DSk-BBxyvAui9LjHA" href="uma://-ReJK8DSk-BBxyvAui9LjHA#-ReJK8DSk-BBxyvAui9LjHA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_GyBHUDEBEeqUqvGmwOpKGQ" name="fast_waterfall" guid="_GyBHUDEBEeqUqvGmwOpKGQ" presentationName="Fast Waterfall">
+            <methodElementProperty xmi:id="_c4UQEDEBEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-16c4gW-QfQE28QMLtFVwqA" href="uma://-16c4gW-QfQE28QMLtFVwqA#-16c4gW-QfQE28QMLtFVwqA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_Oo6yIDEBEeqUqvGmwOpKGQ" name="monolithic" guid="_Oo6yIDEBEeqUqvGmwOpKGQ" presentationName="Monolithic" briefDescription="Initial stage when  a team is structured around a single project and its members following a waterfall process.">
+            <methodElementProperty xmi:id="_c4OwgDEBEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_TOWsMDEBEeqUqvGmwOpKGQ" name="api-driven" guid="_TOWsMDEBEeqUqvGmwOpKGQ" presentationName="API-Driven">
+            <methodElementProperty xmi:id="_c4J4ADEBEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-NuycSW2VNulMoIdQ2d3n_Q" href="uma://-NuycSW2VNulMoIdQ2d3n_Q#-NuycSW2VNulMoIdQ2d3n_Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_WlkfoDEBEeqUqvGmwOpKGQ" name="early_agility" guid="_WlkfoDEBEeqUqvGmwOpKGQ" presentationName="Early Agility">
+            <methodElementProperty xmi:id="_c4CjQDEBEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Q0YPi3Z3NYwYUD6jPghl2A" href="uma://-Q0YPi3Z3NYwYUD6jPghl2A#-Q0YPi3Z3NYwYUD6jPghl2A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_Zy7McDEBEeqUqvGmwOpKGQ" name="integration_agile" guid="_Zy7McDEBEeqUqvGmwOpKGQ" presentationName="Integration Agile">
+            <methodElementProperty xmi:id="_c39DsDEBEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-8JGLmsF2LASBynFkHXFPtw" href="uma://-8JGLmsF2LASBynFkHXFPtw#-8JGLmsF2LASBynFkHXFPtw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_d-7S0DEBEeqUqvGmwOpKGQ" name="people" guid="_d-7S0DEBEeqUqvGmwOpKGQ" presentationName="People">
+            <methodElementProperty xmi:id="_p3A7IDEBEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-s3vEsFXSnLjx8H6YBnWH-g" href="uma://-s3vEsFXSnLjx8H6YBnWH-g#-s3vEsFXSnLjx8H6YBnWH-g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_gc0RkDEBEeqUqvGmwOpKGQ" name="process" guid="_gc0RkDEBEeqUqvGmwOpKGQ" presentationName="Process">
+            <methodElementProperty xmi:id="_p27bkDEBEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-to7XlubMlyRI3S1y7YeYlA" href="uma://-to7XlubMlyRI3S1y7YeYlA#-to7XlubMlyRI3S1y7YeYlA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_jG2O4DEBEeqUqvGmwOpKGQ" name="technology" guid="_jG2O4DEBEeqUqvGmwOpKGQ" presentationName="Technology">
+            <methodElementProperty xmi:id="_p218ADEBEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-hOeNQCKBgGrxgPipIXbt3g" href="uma://-hOeNQCKBgGrxgPipIXbt3g#-hOeNQCKBgGrxgPipIXbt3g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_ma2WQDEBEeqUqvGmwOpKGQ" name="outcome_of_organizational_improvement" guid="_ma2WQDEBEeqUqvGmwOpKGQ" presentationName="Outcome Of Organizational Improvement">
+            <methodElementProperty xmi:id="_p2uAMDEBEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_zaAo0DFYEeqlbI72dyJobA" name="internal_digital_alignment" guid="_zaAo0DFYEeqlbI72dyJobA" presentationName="Internal Digital Alignment" briefDescription="The extent to which employees benefit from digital products when they make decisions in their daily work.">
+            <methodElementProperty xmi:id="_94eLwDFYEeqlbI72dyJobA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_3D6uwDFYEeqlbI72dyJobA" name="external_digital_alignment" guid="_3D6uwDFYEeqlbI72dyJobA" presentationName="External Digital Alignment" briefDescription="The importance of collaboration between consumers and services providers when a firm want to create services that really correspond to customer needs.">
+            <methodElementProperty xmi:id="_94YsMDFYEeqlbI72dyJobA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_5FmhkDF3EeqlbI72dyJobA" name="swo2's_agility_maturity_model" guid="_5FmhkDF3EeqlbI72dyJobA" presentationName="SWO2's Agility Maturity Model" briefDescription="RMA-WSO2 as a guide for web service project management focuses on the following 3 elements: stages of agility, dimensions of organizational improvement and the outcome of this improvement.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_prkxoDF5EeqlbI72dyJobA" name="me_edited" value="true"/>
+            <presentation xmi:id="-5r4eD_xbichvE36vPq4Y-A" href="uma://-5r4eD_xbichvE36vPq4Y-A#-5r4eD_xbichvE36vPq4Y-A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_NTXIoDGqEeqyKaY-Jwohbw" name="new_supporting_material" guid="_NTXIoDGqEeqyKaY-Jwohbw" presentationName="New Supporting Material">
+            <methodElementProperty xmi:id="_Pqc70DGqEeqyKaY-Jwohbw" name="me_edited" value="true"/>
+            <presentation xmi:id="-mgG_iZf9ZL4VeaWf96pCig" href="uma://-mgG_iZf9ZL4VeaWf96pCig#-mgG_iZf9ZL4VeaWf96pCig"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bJDILTDQEeqUqvGmwOpKGQ" name="CapabilityPatterns" guid="_bJDILTDQEeqUqvGmwOpKGQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bJDILjDQEeqUqvGmwOpKGQ" name="DeliveryProcesses" guid="_bJDILjDQEeqUqvGmwOpKGQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bJDILzDQEeqUqvGmwOpKGQ" name="ProcessContributions" guid="_bJDILzDQEeqUqvGmwOpKGQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

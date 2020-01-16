@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_geGeYC9pEeqWrIjoYi1B2w" guid="_geGeYC9pEeqWrIjoYi1B2w">
+    <resourceDescriptors xmi:id="_gHBFAC9yEeqWrIjoYi1B2w" id="-0EeUyHZwwOVnD27TDvWpLw" uri="guidances/supportingmaterials/oceb_2_copyright.xmi"/>
+    <resourceDescriptors xmi:id="_AQIIQDCsEeqJ9IWYKJgosA" id="-6qs9biKZqm14SqIPlkBqtQ" uri="guidances/concepts/introduction_to_oceb_2.xmi"/>
+    <resourceDescriptors xmi:id="_MwRPEDCsEeqJ9IWYKJgosA" id="-TbOv8mIJgdFb5c7x42Fcvw" uri="guidances/concepts/overview.xmi"/>
+    <resourceDescriptors xmi:id="_kT4DUDCsEeqJ9IWYKJgosA" id="-yL5lQwbrWOxr-0hFatlUYg" uri="guidances/concepts/oceb_2_fundamental.xmi"/>
+    <resourceDescriptors xmi:id="_GTWZgDCtEeqJ9IWYKJgosA" id="-ImrJjok8TDgEwIFjfArBLw" uri="guidances/concepts/oceb_2_business_intermediate.xmi"/>
+    <resourceDescriptors xmi:id="_cPuxQDCtEeqJ9IWYKJgosA" id="-Qn5KT4gyWloQKLNsQRGJFg" uri="guidances/concepts/oceb_2_technical_intermediate.xmi"/>
+    <resourceDescriptors xmi:id="_qnHtkDCtEeqJ9IWYKJgosA" id="-BC8o2nkW6Xdox4cR44Oj-Q" uri="guidances/concepts/oceb_2_business_advanced.xmi"/>
+    <resourceDescriptors xmi:id="_880SgDCtEeqJ9IWYKJgosA" id="-jypVut9Z9H7UIxt3gMsFgg" uri="guidances/concepts/oceb_2_technical_advanced.xmi"/>
+    <resourceDescriptors xmi:id="_8TDQEDDqEeqUqvGmwOpKGQ" id="-wmgcKM6PU3WaQ2qyUpN7_Q" uri="guidances/concepts/oceb_2_fundamental_content.xmi"/>
+    <resourceDescriptors xmi:id="_8TFsUDDqEeqUqvGmwOpKGQ" id="-fBYpqx98apoD_EKGIziUMA" uri="guidances/concepts/oceb_2_business_intermediate_content.xmi"/>
+    <resourceDescriptors xmi:id="_Yd3gADDrEeqUqvGmwOpKGQ" id="-H-QyGFQOVefn80gngqBBjA" uri="guidances/concepts/oceb_2_technical_intermediate_content.xmi"/>
+    <resourceDescriptors xmi:id="_3OJWUDDrEeqUqvGmwOpKGQ" id="-10Z21ohOM6HLfe6Elz7Lqw" uri="guidances/concepts/oceb_2_business_advanced_content.xmi"/>
+    <resourceDescriptors xmi:id="_yDYsMDDsEeqUqvGmwOpKGQ" id="-5rtX-WDh8_mNntMgttW6ow" uri="guidances/concepts/oceb_2_technical_advanced_content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_gdyVUC9pEeqWrIjoYi1B2w" name="OCEB 2" guid="_gdyVUC9pEeqWrIjoYi1B2w" presentationName="OCEB 2" changeDate="2020-01-07T08:28:43.778-0500" copyrightStatement="_HalngC9yEeqWrIjoYi1B2w">
+    <methodElementProperty xmi:id="_geHsgC9pEeqWrIjoYi1B2w" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_pFDtIC9pEeqWrIjoYi1B2w" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVUS9pEeqWrIjoYi1B2w" name="Content" guid="_gdyVUS9pEeqWrIjoYi1B2w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVUi9pEeqWrIjoYi1B2w" name="Categories" guid="_gdyVUi9pEeqWrIjoYi1B2w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVUy9pEeqWrIjoYi1B2w" name="Domains" guid="_gdyVUy9pEeqWrIjoYi1B2w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVVC9pEeqWrIjoYi1B2w" name="Disciplines" guid="_gdyVVC9pEeqWrIjoYi1B2w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVVS9pEeqWrIjoYi1B2w" name="RoleSets" guid="_gdyVVS9pEeqWrIjoYi1B2w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVVi9pEeqWrIjoYi1B2w" name="WP Types" guid="_gdyVVi9pEeqWrIjoYi1B2w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVVy9pEeqWrIjoYi1B2w" name="Tools" guid="_gdyVVy9pEeqWrIjoYi1B2w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVWC9pEeqWrIjoYi1B2w" name="StandardCategories" guid="_gdyVWC9pEeqWrIjoYi1B2w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVWS9pEeqWrIjoYi1B2w" name="CustomCategories" guid="_gdyVWS9pEeqWrIjoYi1B2w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVWi9pEeqWrIjoYi1B2w" name="Hidden" guid="_gdyVWi9pEeqWrIjoYi1B2w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gdyVWy9pEeqWrIjoYi1B2w" name="Custom Categories" guid="_gdyVWy9pEeqWrIjoYi1B2w" categorizedElements="_EA2xQDCTEeq1KrUEkil8oQ _66ZxUDHKEeq3kIZKz7c1WA _LUPtkDHLEeq3kIZKz7c1WA"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_EA2xQDCTEeq1KrUEkil8oQ" name="oceb_2" guid="_EA2xQDCTEeq1KrUEkil8oQ" presentationName="OCEB 2" briefDescription="Object Management MG cerfification  is a program that helps practitioners acquire knowledge and skills required in Business Process Modeling activities." categorizedElements="_kACXQC9tEeqWrIjoYi1B2w _LUPtkDHLEeq3kIZKz7c1WA _66ZxUDHKEeq3kIZKz7c1WA">
+            <methodElementProperty xmi:id="_y8sQMDCTEeq1KrUEkil8oQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_66ZxUDHKEeq3kIZKz7c1WA" name="oceb_2_content" guid="_66ZxUDHKEeq3kIZKz7c1WA" presentationName="OCEB 2 Content" categorizedElements="_LcMBIDDlEeqUqvGmwOpKGQ _9uaCgDDkEeqUqvGmwOpKGQ _0_TkYDDkEeqUqvGmwOpKGQ _Pu1iEDDlEeqUqvGmwOpKGQ _HFK9kDDlEeqUqvGmwOpKGQ">
+            <methodElementProperty xmi:id="_UEA6EDHLEeq3kIZKz7c1WA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_LUPtkDHLEeq3kIZKz7c1WA" name="overview" guid="_LUPtkDHLEeq3kIZKz7c1WA" presentationName="Overview" categorizedElements="_QDMY4C9uEeqWrIjoYi1B2w _EwANYC9uEeqWrIjoYi1B2w _7430oC9tEeqWrIjoYi1B2w _hgG7sC9uEeqWrIjoYi1B2w _a3V38C9uEeqWrIjoYi1B2w">
+            <methodElementProperty xmi:id="_UD5lUDHLEeq3kIZKz7c1WA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gdyVXC9pEeqWrIjoYi1B2w" name="CoreContent" guid="_gdyVXC9pEeqWrIjoYi1B2w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ExWGoC9tEeqWrIjoYi1B2w" name="oceb_2_content_package" guid="_ExWGoC9tEeqWrIjoYi1B2w" presentationName="OCEB 2 Content Package">
+          <methodElementProperty xmi:id="_ExWtsC9tEeqWrIjoYi1B2w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_z0nYYC9vEeqWrIjoYi1B2w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_kACXQC9tEeqWrIjoYi1B2w" name="introduction_to_oceb_2" guid="_kACXQC9tEeqWrIjoYi1B2w" presentationName="Introduction To OCEB 2" briefDescription=" OCEB 2 is a certification program managed by Object Management Group (OMG), a not-for-profit computer industry standards consortium.  Companies have been using  OMG's open, vendor-neutral and interoperability-enabling standards since 1989.">
+            <methodElementProperty xmi:id="_zziaUC9vEeqWrIjoYi1B2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-6qs9biKZqm14SqIPlkBqtQ" href="uma://-6qs9biKZqm14SqIPlkBqtQ#-6qs9biKZqm14SqIPlkBqtQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_7430oC9tEeqWrIjoYi1B2w" name="oceb_2_fundamental" guid="_7430oC9tEeqWrIjoYi1B2w" presentationName="OCEB 2 Fundamental" briefDescription="This is the beginner certification obtained by those who have acquired basic knowledge and skills in Business Process Modeling. It constitutes the prerequisite for OCEB 2 higher-level certifications.">
+            <methodElementProperty xmi:id="_z0cZQC9vEeqWrIjoYi1B2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-yL5lQwbrWOxr-0hFatlUYg" href="uma://-yL5lQwbrWOxr-0hFatlUYg#-yL5lQwbrWOxr-0hFatlUYg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_EwANYC9uEeqWrIjoYi1B2w" name="oceb_2_business_intermediate" guid="_EwANYC9uEeqWrIjoYi1B2w" presentationName="OCEB 2 Business Intermediate" briefDescription="OCEB 2 certificate that equips practitioners with knowledge and skills needed to manage BPM projects of moderate scope.">
+            <methodElementProperty xmi:id="_z0XgwC9vEeqWrIjoYi1B2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-ImrJjok8TDgEwIFjfArBLw" href="uma://-ImrJjok8TDgEwIFjfArBLw#-ImrJjok8TDgEwIFjfArBLw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_QDMY4C9uEeqWrIjoYi1B2w" name="oceb_2_business_advanced" guid="_QDMY4C9uEeqWrIjoYi1B2w" presentationName="OCEB 2 Business Advanced" briefDescription="Certification whose holder can successfully manage a major BPM project by providing both visionary and practical guidance to team members.">
+            <methodElementProperty xmi:id="_z0RaIC9vEeqWrIjoYi1B2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-BC8o2nkW6Xdox4cR44Oj-Q" href="uma://-BC8o2nkW6Xdox4cR44Oj-Q#-BC8o2nkW6Xdox4cR44Oj-Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_a3V38C9uEeqWrIjoYi1B2w" name="oceb_2_technical_intermediate" guid="_a3V38C9uEeqWrIjoYi1B2w" presentationName="OCEB 2 Technical Intermediate" briefDescription="OCEB certification program which equips practitioners with knowledge and skills required to effectively manage BPM project implementation among others.">
+            <methodElementProperty xmi:id="_z0MhoC9vEeqWrIjoYi1B2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-Qn5KT4gyWloQKLNsQRGJFg" href="uma://-Qn5KT4gyWloQKLNsQRGJFg#-Qn5KT4gyWloQKLNsQRGJFg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_hgG7sC9uEeqWrIjoYi1B2w" name="oceb_2_technical_advanced" guid="_hgG7sC9uEeqWrIjoYi1B2w" presentationName="OCEB 2 Technical Advanced" briefDescription="Certification program which prepares practitioners to provide vision and technical guidance in BPM projects.">
+            <methodElementProperty xmi:id="_zznS0C9vEeqWrIjoYi1B2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-jypVut9Z9H7UIxt3gMsFgg" href="uma://-jypVut9Z9H7UIxt3gMsFgg#-jypVut9Z9H7UIxt3gMsFgg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_HalngC9yEeqWrIjoYi1B2w" name="oceb_2_copyright" guid="_HalngC9yEeqWrIjoYi1B2w" presentationName="OCEB 2 Copyright">
+            <methodElementProperty xmi:id="_gG-owC9yEeqWrIjoYi1B2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-0EeUyHZwwOVnD27TDvWpLw" href="uma://-0EeUyHZwwOVnD27TDvWpLw#-0EeUyHZwwOVnD27TDvWpLw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_Bv21oDCsEeqJ9IWYKJgosA" name="overview" guid="_Bv21oDCsEeqJ9IWYKJgosA" presentationName="Overview" briefDescription="OCEB 2 certification program consists in helping practitioner acquire knowledge and skills in the area or business and technology. They are three levels of certification:&#xD;&#xA;1. OCEB 2 Fundamental&#xD;&#xA;2. OCEB 2 Business / Technical Intermediate&#xD;&#xA;3. OCEB 2 Business / Technical Advanced">
+            <methodElementProperty xmi:id="_MwOy0DCsEeqJ9IWYKJgosA" name="me_edited" value="true"/>
+            <presentation xmi:id="-TbOv8mIJgdFb5c7x42Fcvw" href="uma://-TbOv8mIJgdFb5c7x42Fcvw#-TbOv8mIJgdFb5c7x42Fcvw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_0_TkYDDkEeqUqvGmwOpKGQ" name="oceb_2_fundamental_content" guid="_0_TkYDDkEeqUqvGmwOpKGQ" presentationName="OCEB 2 Fundamental Content">
+            <methodElementProperty xmi:id="_7qitUDDkEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-wmgcKM6PU3WaQ2qyUpN7_Q" href="uma://-wmgcKM6PU3WaQ2qyUpN7_Q#-wmgcKM6PU3WaQ2qyUpN7_Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_9uaCgDDkEeqUqvGmwOpKGQ" name="oceb_2_business_intermediate_content" guid="_9uaCgDDkEeqUqvGmwOpKGQ" presentationName="OCEB 2 Business Intermediate Content">
+            <methodElementProperty xmi:id="_TL77EDDlEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-fBYpqx98apoD_EKGIziUMA" href="uma://-fBYpqx98apoD_EKGIziUMA#-fBYpqx98apoD_EKGIziUMA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_HFK9kDDlEeqUqvGmwOpKGQ" name="oceb_2_technical_intermediate_content" guid="_HFK9kDDlEeqUqvGmwOpKGQ" presentationName="OCEB 2 Technical Intermediate Content">
+            <methodElementProperty xmi:id="_TLz_QDDlEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-H-QyGFQOVefn80gngqBBjA" href="uma://-H-QyGFQOVefn80gngqBBjA#-H-QyGFQOVefn80gngqBBjA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_LcMBIDDlEeqUqvGmwOpKGQ" name="oceb_2_business_advanced_content" guid="_LcMBIDDlEeqUqvGmwOpKGQ" presentationName="OCEB 2 Business Advanced Content">
+            <methodElementProperty xmi:id="_TLqOQDDlEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-10Z21ohOM6HLfe6Elz7Lqw" href="uma://-10Z21ohOM6HLfe6Elz7Lqw#-10Z21ohOM6HLfe6Elz7Lqw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_Pu1iEDDlEeqUqvGmwOpKGQ" name="oceb_2_technical_advanced_content" guid="_Pu1iEDDlEeqUqvGmwOpKGQ" presentationName="OCEB 2 Technical Advanced Content">
+            <methodElementProperty xmi:id="_TLpAIDDlEeqUqvGmwOpKGQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-5rtX-WDh8_mNntMgttW6ow" href="uma://-5rtX-WDh8_mNntMgttW6ow#-5rtX-WDh8_mNntMgttW6ow"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gdyVXS9pEeqWrIjoYi1B2w" name="CapabilityPatterns" guid="_gdyVXS9pEeqWrIjoYi1B2w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gdyVXi9pEeqWrIjoYi1B2w" name="DeliveryProcesses" guid="_gdyVXi9pEeqWrIjoYi1B2w"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gdyVXy9pEeqWrIjoYi1B2w" name="ProcessContributions" guid="_gdyVXy9pEeqWrIjoYi1B2w"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9TkqYItCrTHia6zaAqX6pQ" name="outcome_of_organizational_improvement,__ZvSMDEAEeqUqvGmwOpKGQ" guid="-9TkqYItCrTHia6zaAqX6pQ" changeDate="2020-01-07T11:49:15.182-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    Digital alignment is an outcome of the improvement of people, process and technology. Digital alignment mainly focuses&#xD;
+    on the maturity of digital transformation, both internally and externally, with employees and customers. Internally it&#xD;
+    affects how employees benefit from digital products and endpoints, such as APIs, events and streams, to increase their&#xD;
+    productivity and improve their decision-making process. Externally, it affects the experiences that customers and&#xD;
+    partners have with the digital products and endpoints focused on enabling an external transformation. In the current&#xD;
+    digital era, consumers are looking for a real-time, personalized, geo-sensitive and predictive experience from the&#xD;
+    products and the services they use.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Together, &lt;strong>culture&lt;/strong> and the &lt;strong>architecture&lt;/strong> create a platform for enabling people,&#xD;
+    process, and technology to operate and improve. Culture plays the primary role in supporting people while architecture&#xD;
+    has the primary role in supporting technology. However, both of these foundations have overlapping and complementary&#xD;
+    roles in supporting all three pillars of digital alignment: people, process, and technology.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/RMA digital alignment.png&quot; width=&quot;600&quot; height=&quot;300&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    Figure 1. MRA-WSO2 digital alignment&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

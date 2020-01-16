@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Yrg1hc5WcZfH5V8m8JAjdg" name="new_concept,_6ssZkDHXEeq3kIZKz7c1WA" guid="-Yrg1hc5WcZfH5V8m8JAjdg" changeDate="2020-01-08T00:55:34.064-0500">
+  <mainDescription>&lt;h5 align=&quot;justify&quot;>&#xD;
+    How is UXBOK organized?&#xD;
+&lt;/h5>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Content pages are organized to be useful to a wide range of users. They provide a definition and simple overview to the&#xD;
+    topic, as well as linked references to the most important information about that topic that is available on the Web or&#xD;
+    in print. They can also contain additional detail that is useful for specific audiences, or to explore questions that&#xD;
+    are a source of active debate within the profession.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Because of the way that Usability BoK content is managed using a database, it is possible in the future to use&#xD;
+    particular chunks of content from a Topic page. For example, if a user indicates that they are an HR manager or&#xD;
+    journalist, rather than a usability practitioner, they may have the option to see only the 'overview' (title,&#xD;
+    definition, and simple description) for each Topic, as a way of matching the content to their experience and need for&#xD;
+    information.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Here is an illustration of the main elements of content within each topic page:&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/UX%20Organization%20.PNG&quot; width=&quot;500&quot; height=&quot;500&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    Figure 1. UXBOK structure&#xD;
+&lt;/p>&#xD;
+&lt;h5 align=&quot;justify&quot;>&#xD;
+    Can 'Authoritative' and 'Contributed' Content Co-exist in a Living Model?&#xD;
+&lt;/h5>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The above content model has some interesting attributes in our community-collaborative world. It helps resolve the&#xD;
+    tensions between:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;strong>A strong editorial process&lt;/strong>, creating an authoritative/definitive 'Body of Knowledge' that can&#xD;
+            support activities like professional development and certification within the profession, as well as acting as&#xD;
+            a consistent reference for people outside the profession.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;strong>A community collaborative process&lt;/strong>, creating a living, dynamic reference guide that keeps the&#xD;
+            profession relevant to the social and organizational contexts in which it operates, and maintains information&#xD;
+            over time.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The content model provides a lightweight segmentation of content between the authoritative 'overview' and the&#xD;
+    potentially more dynamic 'detail'. While the current features don't include specific implementation of that editorial&#xD;
+    segmentation, it is something to consider as part of the technology roadmap going forward, if it is considered valuable&#xD;
+    by the Association and the user community.&lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-464b-S2QWpuLYZRYqlcz2A" name="new_concept,_WRxugDJBEeqT9-1a-kU6Zg" guid="-464b-S2QWpuLYZRYqlcz2A" changeDate="2020-01-08T13:52:30.878-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    In 1857, having observed the beginnings of work adaptations in industry, the Polish scientist Wojciech Jastrzebowski&#xD;
+    provided the first known use of the term &quot;ergonomics&quot;, derived from Greek roots meaning &quot;the laws of work.&quot;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    In about the 1920s, work such as Frank and Lillian Gilbreth's &quot;time motion studies,&quot; popularly known as &quot;efficiency&#xD;
+    studies,&quot; emerged, moving this science into a visible and practical realm. The Gilbreths' efforts focused primarily on&#xD;
+    adapting human activities and processes to the work, with Lillian Gilbreth later making significant inroads for General&#xD;
+    Electric into more efficient designs for kitchens and household appliances. The concept of efficient design developed&#xD;
+    into a profession in the 1950s, in part with the support of the United States Department of Defense. As the field&#xD;
+    matured, it split into two areas of knowledge and approach:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;strong>Cognitive ergonomics&lt;/strong>, covering human behavior and attributes such as decision making process,&#xD;
+            organization design, human perception relative to design&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;strong>Industrial ergonomics&lt;/strong>, covering the physical interactions of humans and workplace design, such&#xD;
+            as human ranges of strength for lifting, tolerance of repetitive movement both for the sake of efficiency of&#xD;
+            work and safety of workers, and length of reach of the human arm for best design with respect to where&#xD;
+            equipment elements were placed and human movements performed.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    In the 1940s, engineering psychology emerged as a separate discipline, the initial focus of which was post-World War II&#xD;
+    aviation human factors. The field was solidified by the publication of the textbook Applied Experimental Psychology&#xD;
+    based on lectures presented in preceding years at the Naval Postgraduate School. This marked the continuing, intense&#xD;
+    application of cognitive psychology to aviation human factors, focusing not only on flight displays and the ergonomics&#xD;
+    sometimes called &quot;knob-ology,&quot; but also on flight missions, control principles, and the measurement of pilot behavior.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Driven by war casualties that were identified as being caused by &quot;human error,&quot; the United States Department of Defense&#xD;
+    began funding efforts to account for human error in aviation design and implementation. This type of cognitive design&#xD;
+    made its way into general product design, and the field of human factors psychology, alternately known as engineering&#xD;
+    psychology or applied experimental psychology, took root as central to creating tools with which humans would interact.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

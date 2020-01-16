@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-to7XlubMlyRI3S1y7YeYlA" name="process,_gc0RkDEBEeqUqvGmwOpKGQ" guid="-to7XlubMlyRI3S1y7YeYlA" changeDate="2020-01-07T10:40:41.782-0500">
+  <mainDescription>&lt;p>&#xD;
+    Process defines the steps an organization should take to achieve its goals. A process is connected with the people&#xD;
+    involved in its execution, as well as the technology being implemented to optimize their productivity. This document&#xD;
+    mainly focuses on defining a meta-process.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/RMA Process.png&quot; width=&quot;600&quot; height=&quot;200&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    Figure 1. Evolution of software development processes&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    While many software development processes have been introduced, we can put them all into two buckets:&#xD;
+    &lt;strong>waterfall&lt;/strong> and &lt;strong>agile&lt;/strong>. To date, there have been many attempts to become truly agile,&#xD;
+    but it has not been an easy task due to several technical and cultural constraints. As a result, many enterprises have&#xD;
+    had to fall back to waterfall-agile or fast waterfall processes. However, now we are living in an era with of DevOps&#xD;
+    improvements and extremely flexible deployment infrastructures, which create continuous processes that allow teams to&#xD;
+    operate in a truly agile manner.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

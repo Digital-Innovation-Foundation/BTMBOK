@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mPGg1REh9enIvhIa7qIesg" name="new_concept,_lf3PcDHXEeq3kIZKz7c1WA" guid="-mPGg1REh9enIvhIa7qIesg" changeDate="2020-01-08T00:32:02.350-0500">
+  <mainDescription>&lt;h5>&#xD;
+    How is UXBOK created?&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    The Usability BoK content is created and managed initially in a wiki (draft.usabilitybok.org - login required), shared&#xD;
+    by over 500 volunteers. The wiki provides a lot of flexibility when adding content to existing topics and allowing&#xD;
+    contributors to identify new topics. The process for contribution is:&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/UXBOK%20Content%20creation.png&quot; width=&quot;600&quot; height=&quot;250&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    Figure 1. Process of UXBOK creation&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NuycSW2VNulMoIdQ2d3n_Q" name="api-driven,_TOWsMDEBEeqUqvGmwOpKGQ" guid="-NuycSW2VNulMoIdQ2d3n_Q" changeDate="2020-01-07T14:30:02.015-0500">
+  <mainDescription>&lt;h5>&#xD;
+    From Fast-Waterfall to API-Driven&#xD;
+&lt;/h5>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/FW-API.png&quot; width=&quot;500&quot; height=&quot;300&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    Figure 1. Fast-Waterfall stage&amp;nbsp;to API-Driven stage&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;strong>People:&lt;/strong> Build multiple project plans and groups by planning the execution of projects in parallel.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;strong>Process:&lt;/strong> Introduce agility by converting API and end-user application development teams into small&#xD;
+    teams. Use APIs as the connectors for these small teams.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;strong>Technology:&lt;/strong> Start an API program, and expose the core business capabilities created by integrating&#xD;
+    internal and external systems as APIs. Follow API design guidelines [5], and standardize the APIs in the industry.&#xD;
+    Encourage internal and external app developers to use the APIs when developing applications to consume business&#xD;
+    functions and data. Use federation, and move towards a segmented architecture from the layard architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;strong>Digital Alignment:&lt;/strong> Encourage internal and external app developers to deliver creative and competitive&#xD;
+    ideas as a digital experience for consumers by utilizing the APIs. Allow partners to seamlessly connect using the APIs.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

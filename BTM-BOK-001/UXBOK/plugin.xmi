@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_i_-_YDGlEeqyKaY-Jwohbw" guid="_i_-_YDGlEeqyKaY-Jwohbw">
+    <resourceDescriptors xmi:id="_KdBi8DHREeq3kIZKz7c1WA" id="-zLgq2uCdqm29qIPE5d42jQ" uri="guidances/concepts/introduction_to_uxbok.xmi"/>
+    <resourceDescriptors xmi:id="_fCIeYDHUEeq3kIZKz7c1WA" id="-j_qbkYkbJUQQbQ_ahdSFmg" uri="guidances/supportingmaterials/uxbok_copyright.xmi"/>
+    <resourceDescriptors xmi:id="_VSelYDHYEeq3kIZKz7c1WA" id="-mPGg1REh9enIvhIa7qIesg" uri="guidances/concepts/oxbok_creation_process.xmi"/>
+    <resourceDescriptors xmi:id="_j4kvQDHcEeq3kIZKz7c1WA" id="-Yrg1hc5WcZfH5V8m8JAjdg" uri="guidances/concepts/oxbok_content_organization.xmi"/>
+    <resourceDescriptors xmi:id="_utmDgDJJEeqT9-1a-kU6Zg" id="-464b-S2QWpuLYZRYqlcz2A" uri="guidances/concepts/early_foundations_of_usability.xmi"/>
+    <resourceDescriptors xmi:id="_OyaOYDJLEeqT9-1a-kU6Zg" id="-SRMlYfgG-oPZzLMqgtJMfQ" uri="guidances/concepts/from_ergonomics_to_usability.xmi"/>
+    <resourceDescriptors xmi:id="_uJ61EDJREeqT9-1a-kU6Zg" id="-psK-JTuf8DG8EgAEWOFBKg" uri="guidances/concepts/professional_development.xmi"/>
+    <resourceDescriptors xmi:id="_cuQjkDJeEeqT9-1a-kU6Zg" id="-Vm2ldRvcAlfL_lLwjdnxmg" uri="guidances/concepts/overview.xmi"/>
+    <resourceDescriptors xmi:id="_P-pHQDJnEeqT9-1a-kU6Zg" id="-fvRop2cDw0vyPBI9ZBypBQ" uri="guidances/concepts/uxbok_glossary.xmi"/>
+    <resourceDescriptors xmi:id="_Ok9soDJpEeqT9-1a-kU6Zg" id="-nZ9W2qGGApfyPcOuZHK9Ew" uri="guidances/concepts/history_of_usability_bok_uxbok.xmi"/>
+    <resourceDescriptors xmi:id="_AozhgDJuEeqT9-1a-kU6Zg" id="-t7c1s6hqCeTc-U7GOS5I9Q" uri="guidances/concepts/usability_and_interdisciplinarity.xmi"/>
+    <resourceDescriptors xmi:id="_kZuDUDJyEeqT9-1a-kU6Zg" id="-4RPLZwxPtRGRXb6Ber-rmA" uri="guidances/concepts/design.xmi"/>
+    <resourceDescriptors xmi:id="_eDU3EDJ0EeqT9-1a-kU6Zg" id="-KR79MduyoKsQPs_lxegBvg" uri="guidances/concepts/methods.xmi"/>
+    <resourceDescriptors xmi:id="_eDX6YDJ0EeqT9-1a-kU6Zg" id="-tG_-qBmnwjFQB878B-X5CQ" uri="guidances/concepts/managing_usability.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_i_5f0DGlEeqyKaY-Jwohbw" name="UXBOK" guid="_i_5f0DGlEeqyKaY-Jwohbw" authors="Jean-Bosco Ntakirutimana" changeDate="2020-01-08T00:21:11.290-0500" copyrightStatement="_IOzQgDHUEeq3kIZKz7c1WA">
+    <methodElementProperty xmi:id="_i__mcDGlEeqyKaY-Jwohbw" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_ZwX_wDGmEeqyKaY-Jwohbw" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f0TGlEeqyKaY-Jwohbw" name="Content" guid="_i_5f0TGlEeqyKaY-Jwohbw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f0jGlEeqyKaY-Jwohbw" name="Categories" guid="_i_5f0jGlEeqyKaY-Jwohbw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f0zGlEeqyKaY-Jwohbw" name="Domains" guid="_i_5f0zGlEeqyKaY-Jwohbw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f1DGlEeqyKaY-Jwohbw" name="Disciplines" guid="_i_5f1DGlEeqyKaY-Jwohbw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f1TGlEeqyKaY-Jwohbw" name="RoleSets" guid="_i_5f1TGlEeqyKaY-Jwohbw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f1jGlEeqyKaY-Jwohbw" name="WP Types" guid="_i_5f1jGlEeqyKaY-Jwohbw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f1zGlEeqyKaY-Jwohbw" name="Tools" guid="_i_5f1zGlEeqyKaY-Jwohbw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f2DGlEeqyKaY-Jwohbw" name="StandardCategories" guid="_i_5f2DGlEeqyKaY-Jwohbw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f2TGlEeqyKaY-Jwohbw" name="CustomCategories" guid="_i_5f2TGlEeqyKaY-Jwohbw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f2jGlEeqyKaY-Jwohbw" name="Hidden" guid="_i_5f2jGlEeqyKaY-Jwohbw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_i_5f2zGlEeqyKaY-Jwohbw" name="Custom Categories" guid="_i_5f2zGlEeqyKaY-Jwohbw" categorizedElements="_vMLPcDGlEeqyKaY-Jwohbw _9bf0oDJEEeqT9-1a-kU6Zg _XG53UDJPEeqT9-1a-kU6Zg _T839wDJvEeqT9-1a-kU6Zg"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_vMLPcDGlEeqyKaY-Jwohbw" name="uxbok" guid="_vMLPcDGlEeqyKaY-Jwohbw" presentationName="UXBOK" briefDescription="Usability Book Of Knowledge (UXBOK) is a guide which covers topics related to the design and creation of usable products and services i.e. those whose use is considered as effective and efficient. This BOK has been created by Usability Professionals' Association International (UPA)" categorizedElements="_vE-pMDHPEeq3kIZKz7c1WA _9bf0oDJEEeqT9-1a-kU6Zg _cFRtcDJdEeqT9-1a-kU6Zg _lf3PcDHXEeq3kIZKz7c1WA _6ssZkDHXEeq3kIZKz7c1WA _T839wDJvEeqT9-1a-kU6Zg _XG53UDJPEeqT9-1a-kU6Zg _8V7bQDJmEeqT9-1a-kU6Zg">
+            <methodElementProperty xmi:id="_1vpHADGmEeqyKaY-Jwohbw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_9bf0oDJEEeqT9-1a-kU6Zg" name="history_of_usabillty_and_uxbok" guid="_9bf0oDJEEeqT9-1a-kU6Zg" presentationName="History Of Usability And UXBOK" categorizedElements="_WRxugDJBEeqT9-1a-kU6Zg _bywq0DJBEeqT9-1a-kU6Zg _jRLScDJoEeqT9-1a-kU6Zg">
+            <methodElementProperty xmi:id="_KQfxIDJFEeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_XG53UDJPEeqT9-1a-kU6Zg" name="career_path_in_usability" guid="_XG53UDJPEeqT9-1a-kU6Zg" presentationName="Career Path In Usability" briefDescription="Many disciplines are related to Usability and people with different backgrounds can join this profession by leveraging their respective experiences." categorizedElements="_43GwgDJREeqT9-1a-kU6Zg _0O5hMDJPEeqT9-1a-kU6Zg">
+            <methodElementProperty xmi:id="_uKEmEDJREeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_T839wDJvEeqT9-1a-kU6Zg" name="uxbok_toolkit" guid="_T839wDJvEeqT9-1a-kU6Zg" presentationName="UXBOK Toolkit" categorizedElements="_DKF9EDJvEeqT9-1a-kU6Zg _ZXQi0DJvEeqT9-1a-kU6Zg _bf31IDJvEeqT9-1a-kU6Zg">
+            <methodElementProperty xmi:id="_XyPFwDJvEeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_i_5f3DGlEeqyKaY-Jwohbw" name="CoreContent" guid="_i_5f3DGlEeqyKaY-Jwohbw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oZgo0DGlEeqyKaY-Jwohbw" name="uxbok" guid="_oZgo0DGlEeqyKaY-Jwohbw" presentationName="UXBOK">
+          <methodElementProperty xmi:id="_oZhP4DGlEeqyKaY-Jwohbw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_1vt_gDGmEeqyKaY-Jwohbw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_vE-pMDHPEeq3kIZKz7c1WA" name="introduction_to_uxbok" guid="_vE-pMDHPEeq3kIZKz7c1WA" presentationName="Introduction To UXBOK">
+            <methodElementProperty xmi:id="_2LW2ADHPEeq3kIZKz7c1WA" name="me_edited" value="true"/>
+            <presentation xmi:id="-zLgq2uCdqm29qIPE5d42jQ" href="uma://-zLgq2uCdqm29qIPE5d42jQ#-zLgq2uCdqm29qIPE5d42jQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_IOzQgDHUEeq3kIZKz7c1WA" name="uxbok_copyright" guid="_IOzQgDHUEeq3kIZKz7c1WA" presentationName="UXBOK Copyright">
+            <methodElementProperty xmi:id="_fCE0ADHUEeq3kIZKz7c1WA" name="me_edited" value="true"/>
+            <presentation xmi:id="-j_qbkYkbJUQQbQ_ahdSFmg" href="uma://-j_qbkYkbJUQQbQ_ahdSFmg#-j_qbkYkbJUQQbQ_ahdSFmg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_lf3PcDHXEeq3kIZKz7c1WA" name="oxbok_creation_process" guid="_lf3PcDHXEeq3kIZKz7c1WA" presentationName="OXBOK Creation Process">
+            <methodElementProperty xmi:id="_VSyHYDHYEeq3kIZKz7c1WA" name="me_edited" value="true"/>
+            <presentation xmi:id="-mPGg1REh9enIvhIa7qIesg" href="uma://-mPGg1REh9enIvhIa7qIesg#-mPGg1REh9enIvhIa7qIesg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_6ssZkDHXEeq3kIZKz7c1WA" name="oxbok_content_organization" guid="_6ssZkDHXEeq3kIZKz7c1WA" presentationName="OXBOK Content Organization">
+            <methodElementProperty xmi:id="_VTM-IDHYEeq3kIZKz7c1WA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Yrg1hc5WcZfH5V8m8JAjdg" href="uma://-Yrg1hc5WcZfH5V8m8JAjdg#-Yrg1hc5WcZfH5V8m8JAjdg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_WRxugDJBEeqT9-1a-kU6Zg" name="early_foundations_of_usability" guid="_WRxugDJBEeqT9-1a-kU6Zg" presentationName="Early Foundations Of Usability" briefDescription="The origin of the Usability Profession can be traced back to mid-19th century and this profession is closely related to the discipline of ergonomics.">
+            <methodElementProperty xmi:id="_QV7JMDJDEeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-464b-S2QWpuLYZRYqlcz2A" href="uma://-464b-S2QWpuLYZRYqlcz2A#-464b-S2QWpuLYZRYqlcz2A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_bywq0DJBEeqT9-1a-kU6Zg" name="from_ergonomics_to_usability" guid="_bywq0DJBEeqT9-1a-kU6Zg" presentationName="From Ergonomics To Usability">
+            <methodElementProperty xmi:id="_QV0bgDJDEeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-SRMlYfgG-oPZzLMqgtJMfQ" href="uma://-SRMlYfgG-oPZzLMqgtJMfQ#-SRMlYfgG-oPZzLMqgtJMfQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_0O5hMDJPEeqT9-1a-kU6Zg" name="professional_development" guid="_0O5hMDJPEeqT9-1a-kU6Zg" presentationName="Professional Development" briefDescription="Usability practitioners work in a multidiscipliary context and this makes it possible for people with different backgrounds to join this profession.">
+            <methodElementProperty xmi:id="_uJ3xwDJREeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-psK-JTuf8DG8EgAEWOFBKg" href="uma://-psK-JTuf8DG8EgAEWOFBKg#-psK-JTuf8DG8EgAEWOFBKg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_43GwgDJREeqT9-1a-kU6Zg" name="usability_and_interdisciplinarity" guid="_43GwgDJREeqT9-1a-kU6Zg" presentationName="Usability And Interdisciplinarity" briefDescription="A number of disciplines are related to Usability and their contribution is crucial to the development of Usability as a profession.">
+            <methodElementProperty xmi:id="_-Pg_oDJREeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-t7c1s6hqCeTc-U7GOS5I9Q" href="uma://-t7c1s6hqCeTc-U7GOS5I9Q#-t7c1s6hqCeTc-U7GOS5I9Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_cFRtcDJdEeqT9-1a-kU6Zg" name="overview" guid="_cFRtcDJdEeqT9-1a-kU6Zg" presentationName="Overview" briefDescription="UXBOK covers a variety of topics including methods, design techniques meant to increase the consumer effectiveness and efficiency when using different products and services.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_cuOHUDJeEeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Vm2ldRvcAlfL_lLwjdnxmg" href="uma://-Vm2ldRvcAlfL_lLwjdnxmg#-Vm2ldRvcAlfL_lLwjdnxmg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_8V7bQDJmEeqT9-1a-kU6Zg" name="uxbok_glossary" guid="_8V7bQDJmEeqT9-1a-kU6Zg" presentationName="UXBOK Glossary">
+            <methodElementProperty xmi:id="_P-lc4DJnEeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-fvRop2cDw0vyPBI9ZBypBQ" href="uma://-fvRop2cDw0vyPBI9ZBypBQ#-fvRop2cDw0vyPBI9ZBypBQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_jRLScDJoEeqT9-1a-kU6Zg" name="history_of_usability_bok_uxbok" guid="_jRLScDJoEeqT9-1a-kU6Zg" presentationName="History Of Usability BoK (UXBOK)">
+            <methodElementProperty xmi:id="_tMTe0DJoEeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-nZ9W2qGGApfyPcOuZHK9Ew" href="uma://-nZ9W2qGGApfyPcOuZHK9Ew#-nZ9W2qGGApfyPcOuZHK9Ew"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_DKF9EDJvEeqT9-1a-kU6Zg" name="methods" guid="_DKF9EDJvEeqT9-1a-kU6Zg" presentationName="Methods" briefDescription="This section of the Usability BoK presents descriptions of methods, including procedures, resources needed, outcomes, appropriate uses, benefits, and costs. These descriptions will form the core of a knowledge base that defines our field and will help communicate usability methods to clients, project managers, and team members. Usability practitioners will also benefit from cross-referencing of related methods and pointers to outside resources for more details.">
+            <methodElementProperty xmi:id="_XyVzcDJvEeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-KR79MduyoKsQPs_lxegBvg" href="uma://-KR79MduyoKsQPs_lxegBvg#-KR79MduyoKsQPs_lxegBvg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_ZXQi0DJvEeqT9-1a-kU6Zg" name="design" guid="_ZXQi0DJvEeqT9-1a-kU6Zg" presentationName="Design" briefDescription="This section of the Usability BoK presents patterns, principles, and guidelines on interaction design, information design, graphical design, and interface design, which have evolved over time from foundations in HCI and other design disciplines.">
+            <methodElementProperty xmi:id="_gPu2gDJvEeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-4RPLZwxPtRGRXb6Ber-rmA" href="uma://-4RPLZwxPtRGRXb6Ber-rmA#-4RPLZwxPtRGRXb6Ber-rmA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_bf31IDJvEeqT9-1a-kU6Zg" name="managing_usability" guid="_bf31IDJvEeqT9-1a-kU6Zg" presentationName="Managing Usability" briefDescription="As our profession has matured, we have developed common strategies and approaches for dealing with organizational challenges, from marketing usability to integration with existing processes to managing a large and diverse usability department. This section of the Usability BoK presents these practical guidelines using a &quot;Question and Answer&quot; approach.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_gPm6sDJvEeqT9-1a-kU6Zg" name="me_edited" value="true"/>
+            <presentation xmi:id="-tG_-qBmnwjFQB878B-X5CQ" href="uma://-tG_-qBmnwjFQB878B-X5CQ#-tG_-qBmnwjFQB878B-X5CQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_i_5f3TGlEeqyKaY-Jwohbw" name="CapabilityPatterns" guid="_i_5f3TGlEeqyKaY-Jwohbw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_i_5f3jGlEeqyKaY-Jwohbw" name="DeliveryProcesses" guid="_i_5f3jGlEeqyKaY-Jwohbw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_i_5f3zGlEeqyKaY-Jwohbw" name="ProcessContributions" guid="_i_5f3zGlEeqyKaY-Jwohbw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

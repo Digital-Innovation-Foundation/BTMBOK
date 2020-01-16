@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Qn5KT4gyWloQKLNsQRGJFg" name="oceb_2_technical_intermediate,_a3V38C9uEeqWrIjoYi1B2w" guid="-Qn5KT4gyWloQKLNsQRGJFg" changeDate="2020-01-06T20:15:20.551-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    Original OCEB (supposed to be followed by OCEB 2)&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    With this level of knowledge and expertise, and a corresponding amount of industry experience, a BPM Practitioner&#xD;
+    holding the OCEB Technical Intermediate Level Certification could be qualified for a number of responsible positions on&#xD;
+    the technical side of an organization: He or she could initiate, organize, and lead a BPM project implementation or&#xD;
+    integration of a single application within an existing technical architecture, or supervise a group implementing a&#xD;
+    process that integrates into an enterprise-wide system coordinated by a holder of an OCEB Advanced Certification. Or,&#xD;
+    such a Certified BPM practitioner would be able to provide high-level support for Technical-side topics in an&#xD;
+    enterprise-scale BPM Center of Excellence (CoE), or direct initial technical-oriented training and quality assurance&#xD;
+    for BPM projects.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The OCEB Technical Intermediate Certification requires the OCEB Fundamental Certification, and is the prerequisite for&#xD;
+    the OCEB Technical Advanced Certification.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

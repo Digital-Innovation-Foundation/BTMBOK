@@ -114,6 +114,10 @@
     <subManagers xmi:id="_NAlv-sCTEemv0a6P8REMBA" href="uma://_0X1NYCtDEeOtxv6skWyFcQ#_NAlv-sCTEemv0a6P8REMBA"/>
     <subManagers xmi:id="_NBegzcCTEemv0a6P8REMBA" href="uma://_0F9oACtIEeO2VIPdswWadg#_NBegzcCTEemv0a6P8REMBA"/>
     <subManagers xmi:id="_OFrEgMCaEemEJcXpCGj6gw" href="uma://_OFbM4MCaEemEJcXpCGj6gw#_OFrEgMCaEemEJcXpCGj6gw"/>
+    <subManagers xmi:id="_geGeYC9pEeqWrIjoYi1B2w" href="uma://_gdyVUC9pEeqWrIjoYi1B2w#_geGeYC9pEeqWrIjoYi1B2w"/>
+    <subManagers xmi:id="_bJaUgDDQEeqUqvGmwOpKGQ" href="uma://_bJDIIDDQEeqUqvGmwOpKGQ#_bJaUgDDQEeqUqvGmwOpKGQ"/>
+    <subManagers xmi:id="_i_-_YDGlEeqyKaY-Jwohbw" href="uma://_i_5f0DGlEeqyKaY-Jwohbw#_i_-_YDGlEeqyKaY-Jwohbw"/>
+    <subManagers xmi:id="__QRSgDhmEeqz2aaJo6ss5g" href="uma://__P10sDhmEeqz2aaJo6ss5g#__QRSgDhmEeqz2aaJo6ss5g"/>
     <resourceDescriptors xmi:id="_pIwCQKv_Eem8vdVoHclNtA" id="_pIuNEKv_Eem8vdVoHclNtA" uri=""/>
     <resourceDescriptors xmi:id="_ul0u8av_Eem8vdVoHclNtA" id="_0TLvwMlgEdmt3adZL5Dmdw" uri="openup/plugin.xmi"/>
     <resourceDescriptors xmi:id="_ux41Aav_Eem8vdVoHclNtA" id="_WCUhAO8KEdmKSqa_gSYthg" uri="core.default.uma_concept.base/plugin.xmi"/>
@@ -228,6 +232,10 @@
     <resourceDescriptors xmi:id="_NAlv-8CTEemv0a6P8REMBA" id="_0X1NYCtDEeOtxv6skWyFcQ" uri="toolmentor.remics.validate.extend_redset-tecnalia/plugin.xmi"/>
     <resourceDescriptors xmi:id="_NBegzsCTEemv0a6P8REMBA" id="_0F9oACtIEeO2VIPdswWadg" uri="toolmentor.remics.scrum.extend_redmine-tecnalia/plugin.xmi"/>
     <resourceDescriptors xmi:id="_OFrEgcCaEemEJcXpCGj6gw" id="_OFbM4MCaEemEJcXpCGj6gw" uri="BTM_001/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_geGeYS9pEeqWrIjoYi1B2w" id="_gdyVUC9pEeqWrIjoYi1B2w" uri="OCEB%202/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_bJaUgTDQEeqUqvGmwOpKGQ" id="_bJDIIDDQEeqUqvGmwOpKGQ" uri="RMA-WSO2/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_i_-_YTGlEeqyKaY-Jwohbw" id="_i_5f0DGlEeqyKaY-Jwohbw" uri="UXBOK/plugin.xmi"/>
+    <resourceDescriptors xmi:id="__QRSgThmEeqz2aaJo6ss5g" id="__P10sDhmEeqz2aaJo6ss5g" uri="jBPM/plugin.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodLibrary xmi:id="_pIuNEKv_Eem8vdVoHclNtA" name="BTM-BOK-000" guid="_pIuNEKv_Eem8vdVoHclNtA">
     <methodElementProperty xmi:id="_pKQeIKv_Eem8vdVoHclNtA" name="library_synFree" value="true"/>
@@ -344,5 +352,9 @@
     <methodPlugins xmi:id="_0X1NYCtDEeOtxv6skWyFcQ" href="uma://_0X1NYCtDEeOtxv6skWyFcQ#_0X1NYCtDEeOtxv6skWyFcQ"/>
     <methodPlugins xmi:id="_0F9oACtIEeO2VIPdswWadg" href="uma://_0F9oACtIEeO2VIPdswWadg#_0F9oACtIEeO2VIPdswWadg"/>
     <methodPlugins xmi:id="_OFbM4MCaEemEJcXpCGj6gw" href="uma://_OFbM4MCaEemEJcXpCGj6gw#_OFbM4MCaEemEJcXpCGj6gw"/>
+    <methodPlugins xmi:id="_gdyVUC9pEeqWrIjoYi1B2w" href="uma://_gdyVUC9pEeqWrIjoYi1B2w#_gdyVUC9pEeqWrIjoYi1B2w"/>
+    <methodPlugins xmi:id="_bJDIIDDQEeqUqvGmwOpKGQ" href="uma://_bJDIIDDQEeqUqvGmwOpKGQ#_bJDIIDDQEeqUqvGmwOpKGQ"/>
+    <methodPlugins xmi:id="_i_5f0DGlEeqyKaY-Jwohbw" href="uma://_i_5f0DGlEeqyKaY-Jwohbw#_i_5f0DGlEeqyKaY-Jwohbw"/>
+    <methodPlugins xmi:id="__P10sDhmEeqz2aaJo6ss5g" href="uma://__P10sDhmEeqz2aaJo6ss5g#__P10sDhmEeqz2aaJo6ss5g"/>
   </org.eclipse.epf.uma:MethodLibrary>
 </xmi:XMI>

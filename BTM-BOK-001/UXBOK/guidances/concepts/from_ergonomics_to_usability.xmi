@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SRMlYfgG-oPZzLMqgtJMfQ" name="new_concept,_bywq0DJBEeqT9-1a-kU6Zg" guid="-SRMlYfgG-oPZzLMqgtJMfQ" changeDate="2020-01-08T14:15:07.509-0500">
+  <mainDescription>&lt;br />&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Usability is an umbrella term encompassing ease of use, learnability, quick error recovery, and support of a range of&#xD;
+    defined users, from novices to experts. It is more formally defined by the Institute of Electrical and Electronics&#xD;
+    Engineers (IEEE) as &quot;the ease with which a user can learn to operate, prepare inputs for, and interpret outputs of a&#xD;
+    system or component&quot; (IEEE, 1990). At its most basic level, a usable product facilitates achievement of the user's&#xD;
+    goals without making it difficult for the user to reach those goals.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The International Organization for Standardization (ISO) is a centralized network for standards organizations across&#xD;
+    the globe, which began in the electrotechnical field in 1906 and has now extended to a broad range of engineering and&#xD;
+    technology areas (ISO, 2005). The ISO 9000 standards concerns quality-management techniques intended to improve&#xD;
+    customer satisfaction. In standard 9241, ISO defines &quot;Ergonomic requirements for office work with visual display&#xD;
+    terminals (VDTs)&quot; (ISO, 1997), including in that standard a definition of usability. Volker Schöch (1999) extracted&#xD;
+    from the ISO 9241 standard the following plain language definitions of usability, and related terms:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Usability&lt;/strong> - The effectiveness, efficiency, and satisfaction with which specified users achieve&#xD;
+        specified goals in particular environments.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Effectiveness&lt;/strong> - The accuracy and completeness with which specified users can achieve specified&#xD;
+        goals in particular environments.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Efficiency&lt;/strong> - The resources expended in relation to the accuracy and completeness of goals&#xD;
+        achieved.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Satisfaction&lt;/strong> - The comfort and acceptability of the work system to its users and other people&#xD;
+        affected by its use.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Such a definition leads to design objectives and finally provides the means for explicit measurements for usability.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    While clearly related to ergonomics, usability is a comparatively new concept, having emerged tentatively in the late&#xD;
+    1980s, and having moved into more extensive use in the 1990s. The set of criteria covered by the umbrella term evolved&#xD;
+    along with the design adaptation of computers and software for widespread use, although it is now also applied to areas&#xD;
+    of design and human interaction that overlap with equipment and products addressed by the more established field of&#xD;
+    ergonomics. The science of ergonomics was not readily applied to software design for two reasons: (1) how and why&#xD;
+    software evolved as a widespread, human work tool; and (2) the complexity and maturity of the ergonomics field and its&#xD;
+    having developed into specialties by the time software emerged as an independent product. Further, usability is still&#xD;
+    largely in a state of practice, not yet having evolved into an established science. While the numbers and quality of&#xD;
+    studies on usability are increasing, empirical literature in the field remains sparse.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

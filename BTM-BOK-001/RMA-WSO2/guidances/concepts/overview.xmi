@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ReJK8DSk-BBxyvAui9LjHA" name="new_concept,_N2OjADDXEeqUqvGmwOpKGQ" guid="-ReJK8DSk-BBxyvAui9LjHA" changeDate="2020-01-08T09:14:03.372-0500">
+  <mainDescription>&lt;h5>&#xD;
+    About the foundation of Agility&#xD;
+&lt;/h5>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    A maturity model defines how an organization can measure the current stage of integration agility and defines a&#xD;
+    direction for improvement in three dimensions: people, process, and technology. There are two foundational elements for&#xD;
+    enabling the continuous improvement of an organization and move to the right in the maturity model:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            For both people and process the foundation is the culture of an organization&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            For technology the foundation is the architecture designed and implemented by the organization&lt;br />&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

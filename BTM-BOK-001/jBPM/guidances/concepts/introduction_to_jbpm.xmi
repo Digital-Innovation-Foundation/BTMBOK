@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sFfyWzmBrcBPjBR7Fw2DwQ" name="new_concept,_O7Wi8Dh1Eeqst-zTi9NTSQ" guid="-sFfyWzmBrcBPjBR7Fw2DwQ" changeDate="2020-01-16T10:45:42.527-0500">
+  <mainDescription>&lt;h5>&#xD;
+    What is jBPM?&#xD;
+&lt;/h5>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    jBPM is a flexible Business Process Management (BPM) Suite. It is light-weight, fully open-source (distributed under&#xD;
+    Apache License 2.0) and written in Java. It allows you to model, execute, and monitor business processes and cases&#xD;
+    throughout their life cycle.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    A business process allows you to model your business goals by describing the steps that need to be executed to achieve&#xD;
+    those goals, and the order of those goals is depicted using a flow chart. This process greatly improves the visibility&#xD;
+    and agility of your business logic. jBPM focuses on executable business processes, which are business processes that&#xD;
+    contain enough detail so they can actually be executed on a BPM jBPM engine. Executable business processes bridge the&#xD;
+    gap between business users and developers as they are higher-level and use domain-specific concepts that are understood&#xD;
+    by business users but can also be executed directly.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Business processes need to be supported throughout their entire life cycle: authoring, deployment, process management&#xD;
+    and task lists, and dashboards and reporting.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The core of jBPM is a light-weight, extensible workflow engine written in pure Java that allows you to execute business&#xD;
+    processes using the latest BPMN 2.0 specification. It can run in any Java environment, embedded in your application or&#xD;
+    as a service.&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

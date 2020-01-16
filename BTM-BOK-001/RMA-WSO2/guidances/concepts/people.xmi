@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-s3vEsFXSnLjx8H6YBnWH-g" name="people,_d-7S0DEBEeqUqvGmwOpKGQ" guid="-s3vEsFXSnLjx8H6YBnWH-g" changeDate="2020-01-07T10:18:41.469-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    People and their ability to define solutions by understanding the current situation is the most important thing for an&#xD;
+    organization. Culture and the organizational structure control the way people operate, and it is the platform for&#xD;
+    enabling people’s productivity. Culture plays an important role in adapting to change. Habits and best practices&#xD;
+    inherited from an organization’s culture are more powerful than those merely enforced by policies.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/People%20RMA.png&quot; width=&quot;600&quot; height=&quot;196&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    Figure 1. Organizational and decision-making structures&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The organizational and decision-making structure affects how innovative ideas from each part of the organization are&#xD;
+    implemented and delivered to end-users. Traditional divided pyramid, hub and spoke structures create a&#xD;
+    center-of-excellence (COE) mentality and can rapidly block the flow of innovation. As anThe organizational and&#xD;
+    decision-making structure affects how innovative ideas from each part of the organization are implemented and delivered&#xD;
+    to end-users. Traditional divided pyramid, hub and spoke structures create a center-of-excellence (COE) mentality and&#xD;
+    can rapidly block the flow of innovation. As an alternative, we propose &lt;strong>a podular organizational&#xD;
+    structure&lt;/strong>, which allows organizations to become adaptive, innovative and agile. People (organization &amp;amp;&#xD;
+    culture) must move from sequential waterfall and waterfall-agile approaches which include siloed “center of excellence”&#xD;
+    teams, to a fundamentally decentralized set of agile teams. In a podular structure, each of these teams then own the&#xD;
+    responsibility for building, running and managing their integration applications. One of the main characteristics of a&#xD;
+    podular organization structure is each pod act as an individual business unit which allows to operate and take&#xD;
+    decisions independently as well as add the people with the required skills to the team.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

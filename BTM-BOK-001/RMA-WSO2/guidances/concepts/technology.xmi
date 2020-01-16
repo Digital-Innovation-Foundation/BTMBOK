@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hOeNQCKBgGrxgPipIXbt3g" name="technology,_jG2O4DEBEeqUqvGmwOpKGQ" guid="-hOeNQCKBgGrxgPipIXbt3g" changeDate="2020-01-07T11:04:18.916-0500">
+  <mainDescription>&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/RMA Techno architecture.png&quot; width=&quot;600&quot; height=&quot;300&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    Figure 1. Types of technology architecture&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Although the reference methodology is fundamentally about people and process, it has technology requirements that must&#xD;
+    be met to enable the right processes and approach. For example, decentralized continuous integration/continuous&#xD;
+    development (CI/CD) with canary deployment requires a cloud orchestration model, such as Kubernetes. Agile development&#xD;
+    of integration applications requires integration tools that support continuous build, test and deployment. This is&#xD;
+    pushing a shift away from configuration-over-code approaches such as an enterprise service bus (ESB) towards&#xD;
+    code-over-configuration approaches that bring type validation and integrated development environment (IDE) integration&#xD;
+    and work more effectively with version control and CI/CD tooling. Integration applications must work in cloud native&#xD;
+    environments, including containers and serverless. Integration applications must be observable using distributed&#xD;
+    tracing and monitoring tools.&lt;br />&#xD;
+    As we described earlier, architecture is the foundation for technology. Architecture references the maturity of the&#xD;
+    overall enterprise and integration architecture of the organization as well as the technology adoption.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    There 3 types of technology architecture which can represent the enterprise and integration architecture implemented or&#xD;
+    planned in any organization.&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;strong>Layered architecture&lt;/strong>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;strong>Segmented architecture&lt;/strong>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;strong>Cell-based architecture&lt;/strong>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The desired architecture pattern has a direct impact on the technical usage and how an organization can enforce an&#xD;
+    agile approach (iterative architecture) in practice. The architecture dimension represents the maturity of internal and&#xD;
+    external integration of the business, level of integration as well as how seamless.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

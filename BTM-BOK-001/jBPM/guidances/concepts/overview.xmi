@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6VA31m0a4FwqQJrl8-r5Uw" name="new_concept,_WVcV8Dh1Eeqst-zTi9NTSQ" guid="-6VA31m0a4FwqQJrl8-r5Uw" changeDate="2020-01-16T10:59:14.184-0500">
+  <mainDescription>&lt;h5>&#xD;
+    What is jBPM?&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    jBPM is ..........XXXXXXXXXXXXXXXXXXXXXXXXXvvvvvvvvvvvvvyyyyyyyyyyyyyyyyyyyyyyylll&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    On top of the jBPM engine, a lot of features and tools are offered to support business processes throughout their&#xD;
+    entire life cycle. jBPM offers to its users capabilities that enable them to manage the entire BPM lifecycle:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Modeling and deployment&lt;/strong> - author your processes, rules, data models, forms and other assets&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Execution&lt;/strong> - execute processes, tasks, rules and events on the core runtime engine&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Runtime Management&lt;/strong> - work on assigned task, manage process instances, etc&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Reporting&lt;/strong> - keep track of the execution using Business Activity Monitoring capabilities&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

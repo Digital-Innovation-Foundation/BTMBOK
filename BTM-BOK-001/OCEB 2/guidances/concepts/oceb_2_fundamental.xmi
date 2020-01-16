@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yL5lQwbrWOxr-0hFatlUYg" name="oceb_2_fundamental,_7430oC9tEeqWrIjoYi1B2w" guid="-yL5lQwbrWOxr-0hFatlUYg" changeDate="2020-01-06T20:13:31.577-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    With the scope of knowledge and skills covered in the OCEB 2 Fundamental examination, and a corresponding amount of&#xD;
+    industry experience, a BPM Practitioner holding the OCEB 2 Fundamental Certification should be a productive and&#xD;
+    responsible member of a BPM team.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Serving as prerequisite for all of the higher-level OCEB 2 certifications, this exam first covers basic concepts and&#xD;
+    terms in business itself, business motivation and planning, and business process and business process management.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The exam then covers Business Process Modeling by testing candidates on the definition and usage of the BPMN 2 elements&#xD;
+    identified in the specification itself as essential: The Descriptive Conformance Class and the Analytic Conformance&#xD;
+    Class. (40% of the exam) The exam concludes with a section on process quality, governance, and metrics frameworks,&#xD;
+    rounding out the knowledge base of a competent fundamental BPM practitioner.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    This certification is prerequisite for the OCEB 2 Business and Technical Intermediate Certifications, and expires five&#xD;
+    years from the date the exam is passed.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="__QRSgDhmEeqz2aaJo6ss5g" guid="__QRSgDhmEeqz2aaJo6ss5g">
+    <resourceDescriptors xmi:id="_V3F7IDh3Eeqst-zTi9NTSQ" id="-sFfyWzmBrcBPjBR7Fw2DwQ" uri="guidances/concepts/introduction_to_jbpm.xmi"/>
+    <resourceDescriptors xmi:id="_vU45QDh5Eeqst-zTi9NTSQ" id="-6VA31m0a4FwqQJrl8-r5Uw" uri="guidances/concepts/overview.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="__P10sDhmEeqz2aaJo6ss5g" name="jBPM" guid="__P10sDhmEeqz2aaJo6ss5g">
+    <methodElementProperty xmi:id="__QSgoDhmEeqz2aaJo6ss5g" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10sThmEeqz2aaJo6ss5g" name="Content" guid="__P10sThmEeqz2aaJo6ss5g">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10sjhmEeqz2aaJo6ss5g" name="Categories" guid="__P10sjhmEeqz2aaJo6ss5g">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10szhmEeqz2aaJo6ss5g" name="Domains" guid="__P10szhmEeqz2aaJo6ss5g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10tDhmEeqz2aaJo6ss5g" name="Disciplines" guid="__P10tDhmEeqz2aaJo6ss5g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10tThmEeqz2aaJo6ss5g" name="RoleSets" guid="__P10tThmEeqz2aaJo6ss5g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10tjhmEeqz2aaJo6ss5g" name="WP Types" guid="__P10tjhmEeqz2aaJo6ss5g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10tzhmEeqz2aaJo6ss5g" name="Tools" guid="__P10tzhmEeqz2aaJo6ss5g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10uDhmEeqz2aaJo6ss5g" name="StandardCategories" guid="__P10uDhmEeqz2aaJo6ss5g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10uThmEeqz2aaJo6ss5g" name="CustomCategories" guid="__P10uThmEeqz2aaJo6ss5g">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10ujhmEeqz2aaJo6ss5g" name="Hidden" guid="__P10ujhmEeqz2aaJo6ss5g">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="__P10uzhmEeqz2aaJo6ss5g" name="Custom Categories" guid="__P10uzhmEeqz2aaJo6ss5g" categorizedElements="_irAkcDh1Eeqst-zTi9NTSQ _oyF3cDh1Eeqst-zTi9NTSQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_irAkcDh1Eeqst-zTi9NTSQ" name="jbpm_guide" guid="_irAkcDh1Eeqst-zTi9NTSQ" presentationName="jBPM Guide" categorizedElements="_O7Wi8Dh1Eeqst-zTi9NTSQ">
+            <methodElementProperty xmi:id="_v9XyYDh1Eeqst-zTi9NTSQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_oyF3cDh1Eeqst-zTi9NTSQ" name="overview" guid="_oyF3cDh1Eeqst-zTi9NTSQ" presentationName="Overview">
+            <methodElementProperty xmi:id="_v9yCEDh1Eeqst-zTi9NTSQ" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__P10vDhmEeqz2aaJo6ss5g" name="CoreContent" guid="__P10vDhmEeqz2aaJo6ss5g">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DqZzIDh1Eeqst-zTi9NTSQ" name="jbpm_content_package" guid="_DqZzIDh1Eeqst-zTi9NTSQ" presentationName="JBPM Content Package">
+          <methodElementProperty xmi:id="_Dqc2cDh1Eeqst-zTi9NTSQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_v-ArkDh1Eeqst-zTi9NTSQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_O7Wi8Dh1Eeqst-zTi9NTSQ" name="introduction_to_jbpm" guid="_O7Wi8Dh1Eeqst-zTi9NTSQ" presentationName="Introduction To jBPM">
+            <methodElementProperty xmi:id="_v98aIDh1Eeqst-zTi9NTSQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-sFfyWzmBrcBPjBR7Fw2DwQ" href="uma://-sFfyWzmBrcBPjBR7Fw2DwQ#-sFfyWzmBrcBPjBR7Fw2DwQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_WVcV8Dh1Eeqst-zTi9NTSQ" name="overview" guid="_WVcV8Dh1Eeqst-zTi9NTSQ" presentationName="Overview">
+            <methodElementProperty xmi:id="_v93hoDh1Eeqst-zTi9NTSQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-6VA31m0a4FwqQJrl8-r5Uw" href="uma://-6VA31m0a4FwqQJrl8-r5Uw#-6VA31m0a4FwqQJrl8-r5Uw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__P10vThmEeqz2aaJo6ss5g" name="CapabilityPatterns" guid="__P10vThmEeqz2aaJo6ss5g"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__P10vjhmEeqz2aaJo6ss5g" name="DeliveryProcesses" guid="__P10vjhmEeqz2aaJo6ss5g"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__P10vzhmEeqz2aaJo6ss5g" name="ProcessContributions" guid="__P10vzhmEeqz2aaJo6ss5g"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

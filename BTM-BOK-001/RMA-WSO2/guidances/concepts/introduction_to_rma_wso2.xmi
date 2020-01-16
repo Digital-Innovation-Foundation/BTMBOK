@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-atBoMyEfMWpaWYxuJgp_1A" name="introduction_to_rma,_KbloIDDXEeqUqvGmwOpKGQ" guid="-atBoMyEfMWpaWYxuJgp_1A" changeDate="2020-01-08T11:46:22.230-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    As APIs, microservices, software as a service (SaaS), and serverless architectures evolve, integration is not fading&#xD;
+    away; instead almost every new application involves integration across an exploding set of endpoints. The microservices&#xD;
+    mantra of smart endpoints and dumb pipes fundamentally addresses a deeper problem. Integration must learn from code to&#xD;
+    become immutable, type safe, testable, continuously built and deployed so they are more robust, resilient and above all&#xD;
+    - agile.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;strong>What is the goal of MRA-WSO2?&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    MRA-WSO2 formalizes an approach to achieve a particular goal i.e.&amp;nbsp;to make an organization &lt;strong>integration&#xD;
+    agile&lt;/strong>. The proposed methodology is an iterative process characterized by five stages. Additionally, the&#xD;
+    methodology defined in this document looks at the organizational improvements in three dimensions.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The methodology does not expect an organization to start from scratch, but rather to first conduct an assessment to&#xD;
+    understand the current state and define a path to move to the next desired level. This document outlines a meta-process&#xD;
+    for organizations to refer to when they want to become integration agile.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

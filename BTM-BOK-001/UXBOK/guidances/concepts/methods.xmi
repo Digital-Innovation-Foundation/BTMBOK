@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KR79MduyoKsQPs_lxegBvg" name="new_concept,_DKF9EDJvEeqT9-1a-kU6Zg" guid="-KR79MduyoKsQPs_lxegBvg" changeDate="2020-01-08T19:01:56.768-0500">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;UXBOK methods cover the following:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Planning&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        User research&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Requirements methods&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Cognitive models&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Task analysis and modeling methods&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Design methods&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Usability evaluation methods&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

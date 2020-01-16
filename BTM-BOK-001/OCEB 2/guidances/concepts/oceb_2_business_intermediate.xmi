@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ImrJjok8TDgEwIFjfArBLw" name="oceb_2_business_intermediate,_EwANYC9uEeqWrIjoYi1B2w" guid="-ImrJjok8TDgEwIFjfArBLw" changeDate="2020-01-06T12:50:37.628-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    With this level of knowledge and expertise, and a corresponding amount of industry experience, a BPM Practitioner&#xD;
+    holding the OCEB 2 Business Intermediate Level Certification should be qualified to design and execute, as part of a&#xD;
+    team and possibly as a team leader, a BPM project of moderate scope including distributed components.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Extended coverage of the BMM lets the candidate relate their BPM projects to business need, while near-complete&#xD;
+    coverage of BPMN 2 enables modeling to cover the many aspects of processes encountered in business today including&#xD;
+    compensation, complex gateways and events, conversation and choreography diagrams, error handling, and more. (The OCEB&#xD;
+    2 Technical Intermediate exam will complete coverage of BPMN 2).&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    By adding coverage of Decision Management and Modeling to Business Rules, this level covers decision-making well beyond&#xD;
+    BPMN decision gateways, while the benefits of a shared business vocabulary, introduced through SBVR, adds another&#xD;
+    important point of view. (Similarly, the OCEB 2 Technical Intermediate exam will round out coverage of DMM.) Finally,&#xD;
+    this level covers Frameworks for Process Quality and Governance concentrating on SOX, COBIT, ITIL, Six Sigma, and LEAN.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The OCEB 2 Business Intermediate Certification requires the OCEB 2 Fundamental Certification as prerequisite, and is&#xD;
+    prerequisite for the OCEB 2 Business Advanced Certification.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    The OCEB 2 Business Intermediate Certification expires five years from the date the OCEB 2 Business Intermediate exam&#xD;
+    is passed.&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

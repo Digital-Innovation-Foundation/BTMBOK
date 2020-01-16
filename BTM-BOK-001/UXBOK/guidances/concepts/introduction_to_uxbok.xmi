@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zLgq2uCdqm29qIPE5d42jQ" name="introduction_to_uxbok,_vE-pMDHPEeq3kIZKz7c1WA" guid="-zLgq2uCdqm29qIPE5d42jQ" changeDate="2020-01-08T00:09:41.074-0500">
+  <mainDescription>&lt;h5>&#xD;
+    What is usability?&#xD;
+&lt;/h5>&#xD;
+&lt;p>&#xD;
+    Usability is the degree to which something - software, hardware or anything else - is easy to use and a good fit for&#xD;
+    the people who use it.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        It is a &lt;strong>quality&lt;/strong> or characteristic of a product.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        It is whether a product is &lt;strong>efficient, effective&lt;/strong> and &lt;strong>satisfying&lt;/strong> for those who use&#xD;
+        it.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        It is the name for a group of &lt;strong>techniques&lt;/strong> developed by usability professionals to help create&#xD;
+        usable products. See the Methods section for more information.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    Usability as a professional discipline&#xD;
+&lt;/h5>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    Usability, which is a dimension of User Experience practice, is an approach to product development that incorporates&#xD;
+    direct user feedback throughout the development cycle in order to reduce costs and create products and tools that meet&#xD;
+    user needs.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Two international standards define usability and human-centered (or user-centered) design:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Usability&lt;/strong> refers to the extent to which a product can be used by specified users to achieve&#xD;
+        specified goals with effectiveness, efficiency and satisfaction in a specified context of use - ISO 9241-11.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Human-centered design&lt;/strong> is characterised by: the active involvement of users and a clear&#xD;
+        understanding of user and task requirements; an appropriate allocation of function between users and technology;&#xD;
+        the iteration of design solutions; multi-disciplinary design - ISO 13407.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h5>&#xD;
+    What is the source of UXBOK&lt;em>?&lt;/em>&#xD;
+&lt;/h5>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;em>We recognize that the body of knowledge should be derived from published literature, conference proceedings,&#xD;
+        and the experiences of practitioners accumulated over many years. It is not possible or desirable for this project&#xD;
+        to duplicate all of the existing resources. Rather, the outcome will be a guide that contains core material&#xD;
+        supplemented by pointers to existing resources, and continues to evolve as the practice of usability evolves&lt;/em>&#xD;
+        (from the Usability BoK Mission Statement).&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

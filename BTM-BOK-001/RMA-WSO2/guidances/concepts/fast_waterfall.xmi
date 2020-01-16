@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-16c4gW-QfQE28QMLtFVwqA" name="fast_waterfall,_GyBHUDEBEeqUqvGmwOpKGQ" guid="-16c4gW-QfQE28QMLtFVwqA" changeDate="2020-01-07T13:11:26.357-0500">
+  <mainDescription>&lt;h5>&#xD;
+    From Monolithic to Fast-Waterfall&#xD;
+&lt;/h5>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/Monolith-WF.png&quot; width=&quot;600&quot; height=&quot;300&quot; />&lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;center&quot;>&#xD;
+    Figure 1.&amp;nbsp; Monolithic stage&amp;nbsp;to Fast-Waterfall stage&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;strong>People:&lt;/strong> Organize development teams by introducing the basic software development methodologies&#xD;
+    described above. Incorporate governance by introducing a source control system and test frameworks. Code quality and&#xD;
+    design reviews can be manual.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;strong>Process:&lt;/strong> Introduce a primary software development process, such as the waterfall or spiral instead of&#xD;
+    using an ad-hoc development process.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;strong>Technology:&lt;/strong> Define an enterprise architecture using a layered architecture pattern. Categorize each&#xD;
+    layer based on the functionality, most organizations follow a “system of system” (SoS) [4] view when defining each&#xD;
+    architecture layer. Start connecting internal and external systems by using integration and messaging middleware.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;strong>Digital Alignment:&lt;/strong> Build internal applications and dashboards by utilizing the consolidated data&#xD;
+    gathered by integrating internal systems and partners.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
