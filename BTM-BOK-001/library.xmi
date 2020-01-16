@@ -118,6 +118,7 @@
     <subManagers xmi:id="_bJaUgDDQEeqUqvGmwOpKGQ" href="uma://_bJDIIDDQEeqUqvGmwOpKGQ#_bJaUgDDQEeqUqvGmwOpKGQ"/>
     <subManagers xmi:id="_i_-_YDGlEeqyKaY-Jwohbw" href="uma://_i_5f0DGlEeqyKaY-Jwohbw#_i_-_YDGlEeqyKaY-Jwohbw"/>
     <subManagers xmi:id="__QRSgDhmEeqz2aaJo6ss5g" href="uma://__P10sDhmEeqz2aaJo6ss5g#__QRSgDhmEeqz2aaJo6ss5g"/>
+    <subManagers xmi:id="_0ATL0DMQEeqdfp96RDm6SQ" href="uma://_z-dYwDMQEeqdfp96RDm6SQ#_0ATL0DMQEeqdfp96RDm6SQ"/>
     <resourceDescriptors xmi:id="_pIwCQKv_Eem8vdVoHclNtA" id="_pIuNEKv_Eem8vdVoHclNtA" uri=""/>
     <resourceDescriptors xmi:id="_ul0u8av_Eem8vdVoHclNtA" id="_0TLvwMlgEdmt3adZL5Dmdw" uri="openup/plugin.xmi"/>
     <resourceDescriptors xmi:id="_ux41Aav_Eem8vdVoHclNtA" id="_WCUhAO8KEdmKSqa_gSYthg" uri="core.default.uma_concept.base/plugin.xmi"/>
@@ -236,6 +237,7 @@
     <resourceDescriptors xmi:id="_bJaUgTDQEeqUqvGmwOpKGQ" id="_bJDIIDDQEeqUqvGmwOpKGQ" uri="RMA-WSO2/plugin.xmi"/>
     <resourceDescriptors xmi:id="_i_-_YTGlEeqyKaY-Jwohbw" id="_i_5f0DGlEeqyKaY-Jwohbw" uri="UXBOK/plugin.xmi"/>
     <resourceDescriptors xmi:id="__QRSgThmEeqz2aaJo6ss5g" id="__P10sDhmEeqz2aaJo6ss5g" uri="jBPM/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_0ATL0TMQEeqdfp96RDm6SQ" id="_z-dYwDMQEeqdfp96RDm6SQ" uri="DXM/plugin.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodLibrary xmi:id="_pIuNEKv_Eem8vdVoHclNtA" name="BTM-BOK-000" guid="_pIuNEKv_Eem8vdVoHclNtA">
     <methodElementProperty xmi:id="_pKQeIKv_Eem8vdVoHclNtA" name="library_synFree" value="true"/>
@@ -356,5 +358,6 @@
     <methodPlugins xmi:id="_bJDIIDDQEeqUqvGmwOpKGQ" href="uma://_bJDIIDDQEeqUqvGmwOpKGQ#_bJDIIDDQEeqUqvGmwOpKGQ"/>
     <methodPlugins xmi:id="_i_5f0DGlEeqyKaY-Jwohbw" href="uma://_i_5f0DGlEeqyKaY-Jwohbw#_i_5f0DGlEeqyKaY-Jwohbw"/>
     <methodPlugins xmi:id="__P10sDhmEeqz2aaJo6ss5g" href="uma://__P10sDhmEeqz2aaJo6ss5g#__P10sDhmEeqz2aaJo6ss5g"/>
+    <methodPlugins xmi:id="_z-dYwDMQEeqdfp96RDm6SQ" href="uma://_z-dYwDMQEeqdfp96RDm6SQ#_z-dYwDMQEeqdfp96RDm6SQ"/>
   </org.eclipse.epf.uma:MethodLibrary>
 </xmi:XMI>
