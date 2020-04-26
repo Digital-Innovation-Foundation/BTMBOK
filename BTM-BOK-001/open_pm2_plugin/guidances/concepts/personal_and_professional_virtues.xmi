@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kvIH7TSgyoUAzaz1lQaDAw" name="new_concept,_ECefwGV2EeqXU8ldt6imrg" guid="-kvIH7TSgyoUAzaz1lQaDAw" changeDate="2020-03-31T00:16:23.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    Virtues are strengths (or excellence) of the person who possesses them and refer to the ideal management of our
+    attitude, behaviour and actions that drive personal and professional performance. Virtues are expressed in a specific
+    context as the healthy mean between the extremes of excess and deficiency, which, however, is not universal, but
+    subjective, and as such will vary between individuals and their respective circumstances . This healthy mean should be
+    determined by good judgment.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Virtues are developed through practice. Their application helps us discover the right principles of conduct, to know
+    what we ought to do in a given situation. Acting in a virtuous way enables us to raise the effectiveness and efficiency
+    of our performance as a means to serve our personal, professional, as well as our higher and more inclusive goals.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>prudence (practical wisdom)&lt;/strong> refers to our ability to carefully consider how we can
+    achieve our goal. Prudence is characterised as an executive disposition because its outcome is something to be
+    executed. It can be examined on two levels: the level of purpose (our ability to set worthy goals) and the level of
+    deliberation (our ability to carefully consider the course and the means of our actions so as to achieve the desired
+    goals).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>Judgment&lt;/strong> refers to our ability to assess what is true and what is not. Judgment forms our perception
+    about things around us. Therefore, it strongly affects our prudence, which in turn determines our actions. When there
+    is a deficiency in our Judgment (e.g. due to emotional factors or past experiences), we may consider as true something
+    that is not and vice-versa (e.g. consider an act as fair when it is unfair).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    It is through intuitive insight that the mind grasps the principles of conduct that may point the way toward success
+    and happiness. The virtue of &lt;strong>insightfulness&lt;/strong> refers to our ability to perceive things correctly, to
+    examine circumstances accurately, to understand the relationships between things, to analyse and synthesise. It
+    determines our capacity to learn or know what is the right thing to do and what is not, and to transfer this knowledge
+    to various contexts in order to contribute to our wellbeing.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>courage&lt;/strong> refers to the management of risk taking and is described as the productive mean
+    between cowardice (a deficiency) and audacity or fearlessness (an excess). A courageous person pursues (not necessarily
+    without fear) the right goals, for the right reasons, in the right way, at the right time and for the right amount of
+    time. Therefore, a person who is courageous acts and endures whatever is logically required for the attainment of a
+    worthy goal. Courage (which always involves a risk) is a necessary means for the further development of one’s
+    capacities.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>honour&lt;/strong> refers to our disposition to seek honours and rewards from others. This virtue is
+    defined as the mean between lack of ambition (seeking less honours and rewards than are deserved or having no desire
+    for honours) and over-ambitiousness (an excessive desire for honours or seeking more honours and rewards than are
+    deserved).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>Honesty&lt;/strong> refers to our ability to tell the truth about ourselves and demonstrate to others who we
+    really are, without denying or exaggerating our qualities. This virtue is the mean between self-deprecation
+    (deficiency) and boastfulness (excess).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>fairness&lt;/strong> (or Justice) in general is attained through the application of all other
+    virtues. However, there is a particular type of fairness that refers to our disposition to fairly distribute benefits
+    and damages to those who deserve them, either between others and ourselves or amongst others. Fairness is the mother of
+    all virtues, and for one to be truly fair all virtues must be fully developed (“Fairness is superior to all virtues and
+    excellent” – Aristotle).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>generosity&lt;/strong> refers to the management of things that have value (e.g. time, money,
+    knowledge, information and other assets). It is defined as the productive mean between stinginess (deficiency) and
+    wastefulness (excess). Generosity ensures that the valuable assets we possess, such as our knowledge, are shared with
+    the right person, at the right time, in the right quantity and in the right way, so as to be used productively.
+    Generosity is determined not only by our willingness and ability to give (e.g. to use and share our knowledge), but
+    also by whether our giving is in harmony with the long-term interests of the people involved, and in accordance to the
+    other moral virtues. One should follow the guidance of reason, as generosity is something that needs to be exercised
+    with wisdom if it is to promote one’s own good and that of others.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>friendliness&lt;/strong> refers to the management of our amicability in our interactions with
+    others. It is defined as the mean between rudeness (deficiency) and obsequiousness (excess). A rude person enjoys
+    conflict, without taking into consideration whether it displeases or embarrasses others, whereas an obsequious person
+    demonstrates servitude and is mostly interested in being likeable to others, avoiding conflict even at great personal
+    cost.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>humour&lt;/strong> is described as the mean between boorishness (deficiency) and buffoonery (excess)
+    The boorish person does not enjoy humour, might even be unduly upset or annoyed by it. On the other hand, the buffoon
+    is someone who enjoys humour in excess, expresses it in an unproductive way, with inappropriate timing or frequency,
+    possibly causing annoyance to others.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>calmness&lt;/strong> refers to the management of anger. It is the mean between spiritlessness
+    (deficiency) and irritability (excess). Spiritlessness refers to the lack of anger, while irritability refers to the
+    excess of anger in its duration, intensity and frequency. The calm person desires to remain calm and not get carried
+    away by passion or rage, but to always act within reasonable limits.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>temperance&lt;/strong> refers to the management of our desires and is the mean between insensibility
+    (deficiency) and intemperance (excess). A temperate person is one who desires moderately and reasonably all those
+    pleasures that promote health and wellness.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>magnificence&lt;/strong> is similar to generosity, but it refers to the management of large assets.
+    It is defined as the mean between paltriness (deficiency) and vulgarity (excess). Paltriness prevails when someone
+    contributes to an important cause with a miserly disposition. On the contrary, vulgarity is displayed when someone
+    contributes excessively, much more than is required or expected.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The virtue of &lt;strong>magnanimity&lt;/strong> is similar to honour, but it refers to the management of high honours and
+    rewards. It is defined as the mean between meekness (deficiency) and vanity (excess). A meek person believes that they
+    do not deserve great honours when they actually do deserve them, whereas a vain person believes that they deserve great
+    honours when they actually do not deserve them. The magnanimous (magnum=great) consider they deserve the greatest goods
+    (wealth, influence, prestige, distinctions, etc.) when they do indeed deserve them.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    All virtues are required for the application of professional competences, however, the intellectual virtues of
+    judgment, prudence and insightfulness need to be transversally applied for their development. The following table shows
+    the strongest relations of moral virtues to key professional competencies.&lt;br align=&quot;justify&quot; />
+    &lt;br />
+&lt;/p>
+&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;100%&quot; summary=&quot;Professional virtues&quot; border=&quot;1&quot;>
+    &lt;tbody>
+        &lt;tr>
+            &lt;th style=&quot;BACKGROUND: #eeeeee; TEXT-ALIGN: center&quot;>
+                Competence
+            &lt;/th>
+            &lt;th style=&quot;BACKGROUND: #eeeeee; TEXT-ALIGN: center&quot;>
+                Professional Virtues
+            &lt;/th>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Leadership
+            &lt;/td>
+            &lt;td>
+                All
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Relationships and engagement
+            &lt;/td>
+            &lt;td>
+                Fairness, Friendliness, Generosity, Honesty, Humour, Temperance
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Self-reflection and self-management
+            &lt;/td>
+            &lt;td>
+                Calmness, Courage, Friendliness, Honesty, Honour, Temperance
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Change and transformation
+            &lt;/td>
+            &lt;td>
+                Calmness, Courage, Friendliness, Generosity
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Personal communication
+            &lt;/td>
+            &lt;td>
+                Calmness, Friendliness, Generosity, Humour
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Resourcefulness
+            &lt;/td>
+            &lt;td>
+                Fairness, Friendliness, Generosity, Honesty, Honour
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Results orientation
+            &lt;/td>
+            &lt;td>
+                Honour, Generosity, Magnanimity, Magnificence
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Teamwork
+            &lt;/td>
+            &lt;td>
+                Calmness, Courage, Fairness, Friendliness, Generosity, Honour, Magnificence
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Negotiation
+            &lt;/td>
+            &lt;td>
+                Courage, Fairness, Friendliness, Generosity, Honesty, Honour
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Conflict and crisis management
+            &lt;/td>
+            &lt;td>
+                Calmness, Fairness, Friendliness, Generosity
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Personal integrity and reliability
+            &lt;/td>
+            &lt;td>
+                Calmness, Courage, Fairness, Friendliness, Honour, Temperance
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Culture and values management
+            &lt;/td>
+            &lt;td>
+                All virtues
+            &lt;/td>
+        &lt;/tr>
+    &lt;/tbody>
+&lt;/table>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Tab 1&lt;/strong> PM² Personal and professional virtues
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

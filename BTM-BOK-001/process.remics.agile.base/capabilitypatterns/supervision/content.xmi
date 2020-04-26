@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ErgncmsQyTedrbd2Mh4Nhw" name="detect_deviations,_bbIA8Fv6EeKLopANFXrp4g" guid="-ErgncmsQyTedrbd2Mh4Nhw">
+    <refinedDescription>&lt;SPAN style=&quot;FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol&quot; lang=EN-GB>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN style=&quot;mso-bidi-font-family: Arial&quot; lang=EN-GB>Starting from the monitoring data, develop analysis in order to detect deviations from the planned values.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/SPAN>&lt;/SPAN></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-0Wrjo8wGISdcU2knTZNAKw" name="identify_monitoring_procedures,_bbIA8Vv6EeKLopANFXrp4g" guid="-0Wrjo8wGISdcU2knTZNAKw">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the description and the models of the systems (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) define the monitoring procedures to be applied in the different stages of the service lifecycle. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-D_R42bYHsM01pcy269PAFg" name="implement_monitoring_procedures,_bbIA8lv6EeKLopANFXrp4g" guid="-D_R42bYHsM01pcy269PAFg">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the description, the models of the systems (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design), the monitoring procedures implement the monitoring procedures.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_EPnOj59zcVrzBs22V80Cg" name="monitor_corrective_actions,_bbIA81v6EeKLopANFXrp4g" guid="-_EPnOj59zcVrzBs22V80Cg">
+    <refinedDescription>&lt;SPAN style=&quot;FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol&quot; lang=EN-GB>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN style=&quot;mso-bidi-font-family: Arial&quot; lang=EN-GB>Once corrective actions are putted in place, monitor the result of the corrective actions implemented to see the validity of the corrective action.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/SPAN>&lt;/SPAN></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xMzTARIKwEu_dffN6xcgBg" name="monitor_the_performance_of_the_system_in_the_cloud,_bbIA9Fv6EeKLopANFXrp4g" guid="-xMzTARIKwEu_dffN6xcgBg">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>During the stage of time in the development process that the system is running, apply the monitoring procedures to gather the monitoring data.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-whk8tw5sVhID-CNFRayCIg" name="perform_corrective_actions,_bbIA9Vv6EeKLopANFXrp4g" guid="-whk8tw5sVhID-CNFRayCIg">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Once deviations are detected, define possible corrective actions, that may consist on the tune up of certain components or in the introduction of new features in the system.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-rGv1VODOqz1reWsSYGgF5Q" name="supervise_team,_nxk5cV7dEeKFRuoPceMYcQ" guid="-rGv1VODOqz1reWsSYGgF5Q">
+    <refinedDescription>&lt;h3>&#xD;
+    Supervise Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the team in charge of the continous monitoring of the system&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-H1b1x4njmoHPHBVn6h70_g" name="requirements_model.extends,_nxk5d17dEeKFRuoPceMYcQ" guid="-H1b1x4njmoHPHBVn6h70_g">
+    <refinedDescription>&lt;h3>&#xD;
+    Requirement Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This is an agregated deliverable that holds the information about the system and the addtional requirements from the&#xD;
+    requirements practices, it also includes the information about the recovered requirements and the validation&#xD;
+    procedures&amp;nbsp;defined in the validation phase.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-vM9mNP-Y7l7BFdfUav-Rsg" name="additional_system_requirements,_qCiPeV7dEeKFRuoPceMYcQ" guid="-vM9mNP-Y7l7BFdfUav-Rsg">
+    <refinedDescription>&lt;h3>&#xD;
+    Additional System Requirements&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The migration of a new system in most of the cases supposes an opportunitiy to introduce changes in the resulting new&#xD;
+    system over the previous one. These new or modified requirements where not present in the legacy system and therefore&#xD;
+    it is not possible to recover them from the analisis of the previous system.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-U_JVx4apDwhkV4BIo1KQyQ" name="system_overview,_qCiPe17dEeKFRuoPceMYcQ" guid="-U_JVx4apDwhkV4BIo1KQyQ">
+    <refinedDescription>&lt;h3>&#xD;
+    System Overview&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The system overview redefines and extends the system idea in terms that can be understand by the development team.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VV8JrWDVM1p03QmHv1cskA" name="requirements_model,_sz2aUf2rEeK8HINtOGo1Xg" guid="-VV8JrWDVM1p03QmHv1cskA">
+    <refinedDescription>&lt;h3>&#xD;
+    Requirement Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This is an agregated deliverable that holds the information about the system and the addtional requirements from the&#xD;
+    requirements practices, it also includes the information about the recovered requirements and the validation&#xD;
+    procedures&amp;nbsp;defined in the validation phase.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wU8IY6AmCsxu3IIi_k1H_Q" name="actors,_LUZEIf2vEeK8HINtOGo1Xg" guid="-wU8IY6AmCsxu3IIi_k1H_Q">
+    <refinedDescription>&lt;h3>&#xD;
+    Actors&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This deliverable enumerates any external entity human or system that is expected to interact with the future system. It&#xD;
+    is necessary to be identify the possible additional features required by them in the different phases of the system:&#xD;
+    migration, explotation, supervision and withdraval.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-x3dBJ_1d6-VRhEPphsiG1A" name="system_idea,_LUZrMf2vEeK8HINtOGo1Xg" guid="-x3dBJ_1d6-VRhEPphsiG1A">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>System Idea&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The system idea is a document that contains a description of the future system mainly from the prespective of the&#xD;
+    product owner. The content of the document depends largely on the kind of system to be migrated, but among other&#xD;
+    specific issues it should address:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The new ways in which the stakeholder will interact with the new system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The parts of the system that will be migrated.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Constraints in the migration of those&amp;nbsp;parts.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-xXeKe_E9vPuxOpLDlQLPPg" name="control_and_supervise,_X-ZbYVv6EeKLopANFXrp4g" guid="-xXeKe_E9vPuxOpLDlQLPPg"/>
+</xmi:XMI>

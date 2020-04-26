@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qCLZZFs395pJ5npBAmtdAQ" name="new_concept,_qaEFQOveEemsOYBuiM_KCA" guid="-qCLZZFs395pJ5npBAmtdAQ" changeDate="2019-10-11T00:24:15.000-0400">
+  <mainDescription>&lt;p>
+    Project managers and project team should&amp;nbsp;regularily ask themselves the following questions:
+&lt;/p>
+&lt;ol align=&quot;justify&quot;>
+    &lt;li>
+        &lt;strong>Do we know what we are doing?&lt;/strong> Tip: Develop a clear and shared project vision. Manage the project
+        using a holistic approach and optimise the whole project, not just parts of it. Follow a process but stay Agile and
+        try to regularly remind yourself why you are doing something.
+    &lt;/li>
+    &lt;li>
+        &lt;strong>Do we know why we are doing it?&lt;/strong> Does anyone really care? Tip: Make sure your project matters.
+        Understand its goals, value and impact, and how it relates to the organisational strategy. Define upfront what
+        project success is and deliver maximum value and real benefits, not just outputs.
+    &lt;/li>
+    &lt;li>
+        &lt;strong>Are the right people involved?&lt;/strong> Tip: People make projects work. The primary criterion for involving
+        people and assigning project roles should be to serve the needs and objectives of the project, and not politics,
+        friendship, functional hierarchy, proximity or convenience.
+    &lt;/li>
+    &lt;li>
+        &lt;strong>Do we know who is doing what?&lt;/strong> Tip: Know what you should be doing, and make sure others know what
+        they should be doing. Is it clear to everyone? Clearly define and understand roles, responsibilities and
+        accountabilities.
+    &lt;/li>
+    &lt;li>
+        &lt;strong>Deliver at any cost or risk?&lt;/strong> Tip: Show respect for people’s work and organisational funds and
+        avoid high-risk behaviour and tactics. Always keep in mind that it is not just about the end result - how you get
+        there also matters. Manage your projects based on positive values and principles.
+    &lt;/li>
+    &lt;li>
+        &lt;strong>Is this important?&lt;/strong> Tip: Everything is NOT equally important. Identify, and agree on, the project’s
+        Critical Success Criteria (CSC), Minimum Viable Product and Critical Success Factors (CSFs), and allocate effort
+        and attention both tactically and strategically for the benefit of both the project and project management goals.
+    &lt;/li>
+    &lt;li>
+        &lt;strong>Is this a task for “them” or for “us”?&lt;/strong> Tip: Make sure that client and provider groups work as one
+        team towards a common goal. Real teamwork really works; so foster clear, effective and frequent communication.
+    &lt;/li>
+    &lt;li>
+        &lt;strong>Should I be involved?&lt;/strong> Tip: Contribute from any position. Be proud of the skills, value and
+        positive attitude you bring to the project. Help everyone who needs to be involved get involved. Promote and
+        facilitate the contributions of all stakeholders.
+    &lt;/li>
+    &lt;li>
+        &lt;strong>Have we improved?&lt;/strong> Tip: Commit to ongoing self- and organisational improvement by gathering and
+        sharing knowledge. Project teams should reflect on how they can become more effective and adjust their behaviour
+        accordingly.
+    &lt;/li>
+    &lt;li>
+        &lt;strong>Is there life after the project?&lt;/strong> Tip: The product (or service) lifecycle has just begun! Make sure
+        you have contributed to its success.
+    &lt;/li>
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:org.eclipse.epf.diagram.model="http://www.eclipse.org/epf/diagram/1.0.0/diagram.ecore" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore">
+  <org.eclipse.epf.diagram.model:WorkProductDependencyDiagram xmi:id="_ChApYIyjEemUMfBd9Ww1zA">
+    <linkedElement xmi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_b38ycIuxEemyBLjcQ79CyA#_b38ycYuxEemyBLjcQ79CyA"/>
+  </org.eclipse.epf.diagram.model:WorkProductDependencyDiagram>
+  <notation:Diagram xmi:id="_ChCekIyjEemUMfBd9Ww1zA" type="WPDD" element="_ChApYIyjEemUMfBd9Ww1zA" name="PM2 Project Lifecycle" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_ChCekYyjEemUMfBd9Ww1zA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_ChCekoyjEemUMfBd9Ww1zA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_ChCek4yjEemUMfBd9Ww1zA"/>
+  </notation:Diagram>
+</xmi:XMI>

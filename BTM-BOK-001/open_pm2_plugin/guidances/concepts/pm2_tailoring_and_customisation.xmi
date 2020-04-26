@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nrhHA-CzUqvYvVY1rGX2aA" name="new_concept,_i0GLwOsVEemY--CKQaYIJA" guid="-nrhHA-CzUqvYvVY1rGX2aA" changeDate="2019-10-10T00:24:40.000-0400">
+  <mainDescription>&lt;p style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>To ensure the PM² Methodology effectively serve an organisation’s
+    and a project’s needs, some level of tailoring or/and customisation may be required.&lt;/span>
+&lt;/p>
+&lt;p class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot; align=&quot;justify&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Tailoring refers to changing specific parts of the methodology,
+    such as process steps, the content of artefacts, the distribution of responsibilities amongst the various roles, etc.
+    Organisations do this to adapt the methodology to the specific needs of their structure and culture, and to align the
+    methodology to organisational processes, policies, etc.&lt;/span>
+&lt;/p>
+&lt;p class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot; align=&quot;justify&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Tailoring makes more sense at the organisation/departmental level,
+    but some tailoring can also take place at the project level, based, for instance, on the complexity, size or type of a
+    project. In addition to any tailoring, further customisation may also be required at the project level to reflect the
+    project’s specific management needs. Examples of such customisations are the definition of decision thresholds for
+    escalation, risk tolerances based on the risk appetite of the stakeholders, etc.&lt;/span>
+&lt;/p>
+&lt;p class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>All tailoring and customisations should be documented in the
+    Project Handbook.&lt;/span>
+&lt;/p>
+&lt;p class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>The following guidelines should be considered when tailoring or
+    customising the PM² Methodology:&lt;/span>
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>First, understand the purpose and value of the methodology
+            element to be tailored, and then proceed with its tailoring&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Avoid simplifying the methodology by eliminating whole
+            chunks (e.g. a phase, a role, an activity or an artefact), but rather scale down (or up) the scope of that
+            element.&amp;nbsp;&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Balance the level of control a project needs against the
+            extra effort such control requires.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Eliminate waste (lean approach) but remain aligned with the
+            spirit of the PM² Methodology as this is reflected by its four pillars and mindsets.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Remember that the methodology was designed as an integrated
+            whole, so avoid unnecessary deviations.&lt;br />
+            &lt;/span>
+        &lt;/div>
+    &lt;/li>
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

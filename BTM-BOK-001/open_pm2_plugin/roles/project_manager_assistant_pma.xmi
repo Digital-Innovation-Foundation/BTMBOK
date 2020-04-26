@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4Le9JnIVt6RmsN1Yok8m7A" name="new_role,_nEAcMKQQEemEWZuoOiuhCg" guid="-4Le9JnIVt6RmsN1Yok8m7A" changeDate="2019-07-23T09:25:33.000-0400">
+  <mainDescription>This role exists in large projects where it carries out various&amp;nbsp;tasks assigned by the Project Manager (PM).</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

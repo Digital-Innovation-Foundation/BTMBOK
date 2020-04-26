@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-whN2b0-BM3L7Sl0aGpWLyQ" name="new_concept,_O0GToOuCEemEHK-rYivsHg" guid="-whN2b0-BM3L7Sl0aGpWLyQ" changeDate="2020-03-17T09:38:13.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    It would be convenient to assume that all PM² Project Managers (PMs) operate within their organisations in a homogenous
+    environment and with consistent levels of authority and responsibility. This is generally not the case, however.
+&lt;/p>
+&lt;p>
+    There are typically several ways of organising projects within an organisation, which utilise one of the following
+    structures or a combination of them.
+&lt;/p>
+&lt;h5>
+    The Functional Structure
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    In a functional organisational structure, project work is integrated into the work performed by the permanent
+    organisation. Project members and other resources are ‘borrowed’ from multiple sections of the functional organisation.
+    The Project Manager (PM) tends to have limited authority and needs to involve senior management in the management of
+    important project issues. Project work is often viewed as having lower priority than everyday work.
+&lt;/p>
+&lt;h5>
+    The Projectised Structure
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    On the other end of the spectrum, in a projectised organisation, there is only a basic permanent (functional)
+    hierarchy, and all work is organised and performed within temporary project organisations. Project resources are
+    brought together specifically for the purpose of a project and work more or less exclusively for the project. At the
+    end of the project, resources are either reassigned to another project or returned to a resource pool.
+&lt;/p>
+&lt;h5>
+    The Matrix Structure
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    A matrix organisation is a blended organisational structure. Additional temporary project organisations are created
+    alongside the functional hierarchy to achieve specific project goals and work. The role of the Project Manager (PM) is
+    recognised as central and key to the project’s success, and the Project Steering Committee (PSC) typically delegates
+    enough authority and responsibility to the Project Manager (PM) and the Business Manager (BM) for them to manage the
+    project and its resources. Matrix organisations can be further categorised as weak, balanced and strong matrix
+    organisations, the difference being the level of authority and autonomy given to the project organisation.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

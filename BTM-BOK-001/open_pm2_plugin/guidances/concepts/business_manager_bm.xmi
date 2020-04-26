@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-O2JW24hRO6s6AFFpYv2X5w" name="new_concept,_H8Dw4OuaEemEHK-rYivsHg" guid="-O2JW24hRO6s6AFFpYv2X5w" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:03:52.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The Business Manager (BM) represents the Project Owner (PO) on a daily basis within the project and helps in defining
+    the project’s business objectives via the Project Initiation Request, Business Case and Business Implementation Plan.
+    The Business Manager (BM) collaborates closely with the Project Manager (PM) and coordinates client-side activities and
+    roles (e.g. user and business representatives), ensuring that the project’s deliverables fulfil the business and user
+    needs.
+&lt;/p>
+&lt;p>
+    &lt;strong>Responsibilities&lt;/strong>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Guarantees cooperation and an efficient communication channel with the Project Manager (PM)
+    &lt;/li>
+    &lt;li>
+        Coordinates the Business Implementation Group (BIG) and acts as a liaison between the User Representatives (URs)
+        and the provider organisation
+    &lt;/li>
+    &lt;li>
+        Ensures that the products delivered by the project fulfil the user’s needs
+    &lt;/li>
+    &lt;li>
+        Manages the activities on the business side of the project and ensures that the required business resources are
+        made available
+    &lt;/li>
+    &lt;li>
+        Decides on the best way to introduce business change or re-engineering actions, when needed
+    &lt;/li>
+    &lt;li>
+        Ensures that the business organisation is ready to accommodate the project’s deliverables when they are made
+        available by the Solution Provider (SP)
+    &lt;/li>
+    &lt;li>
+        Leads the implementation of the business changes within the user community
+    &lt;/li>
+    &lt;li>
+        Coordinates the schedule and delivery of any user training (and production of related material)
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

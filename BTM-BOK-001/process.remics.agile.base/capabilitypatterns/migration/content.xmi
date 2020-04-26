@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mh6-6Nv2hOnh8hv946wkXg" name="complete the code,_3zayUEkZEeK7P-8D6a3Ujw" guid="-mh6-6Nv2hOnh8hv946wkXg">
+    <keyConsiderations>&lt;p>&#xD;
+    Continuous Integration&#xD;
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;H3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&lt;SPAN lang=EN-GB>Complete the Code&lt;/SPAN>&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the code stubs and the system model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) complete the code to make the code stubs working.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CY3Qyb0Zivd0v7ZggXDkHQ" name="complete_definition_of_system_requirement,_3zayUUkZEeK7P-8D6a3Ujw" guid="-CY3Qyb0Zivd0v7ZggXDkHQ">
+    <refinedDescription>&lt;H3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&lt;SPAN lang=EN-GB>Complete Definition of System Requirement&lt;/SPAN>&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the system description, the additional requirement and the recover requirements integrate the final system requirement definition. This will be basically the aggregation of the additional and recovered requirements, with some requirements about the functionality at high level. The objective is to create a unique based on requirements with the purpose of validating the final system.&lt;/SPAN>&lt;SPAN lang=EN-GB>.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-imLqVMcEsGMCsThXwggP0w" name="componentization,_3zayUkkZEeK7P-8D6a3Ujw" guid="-imLqVMcEsGMCsThXwggP0w">
+    <refinedDescription>&lt;h3>&#xD;
+    Componentization&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    An automated activity which generates suggested new components (services) from the UML or RSL models of the system.&#xD;
+    Automated componentization is used to give an overall structure of the new system which is further refined and&#xD;
+    implemented during the sprints of the migration scrum. An initial meeting with the whole team is held to discuss the&#xD;
+    new system components. Development environment is set.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-82a0jDXmzEBXEkPFT1yA5g" name="definition_of service_architecture,_3zayU0kZEeK7P-8D6a3Ujw" guid="-82a0jDXmzEBXEkPFT1yA5g">
+    <keyConsiderations>Pairing with a team member</keyConsiderations>
+    <refinedDescription>&lt;H3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&lt;SPAN lang=EN-GB>Definition of Service Architecture&lt;/SPAN>&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Starting with the system description and the recovered component models, define the architecture of the system to implement the requirements identified. The architecture will contain the identification of the services to be exchanged among the different components distributed in the cloud.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-q6CVwfqfW3algksRRy3TRQ" name="definition_of_cloud_architecture,_3zayVEkZEeK7P-8D6a3Ujw" guid="-q6CVwfqfW3algksRRy3TRQ">
+    <keyConsiderations>Pairing with a team member</keyConsiderations>
+    <refinedDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Definition of Cloud Architecture&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Starting with the system description and the SOA Model, define the deployment model of the system to&#xD;
+    implement the requirements identified. The deployment model will contain the identification of the location of the&#xD;
+    different components distributed in the cloud. Besides, it may be also necessary to take into account possible&#xD;
+    constrains (organisational, legal, etc) when defining this deployment model.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-AODV1OgFFaXyr15smcfgRQ" name="definition_of_overall_cloud_architecture,_3zayVUkZEeK7P-8D6a3Ujw" guid="-AODV1OgFFaXyr15smcfgRQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Definition of Overall Cloud Architecture&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The overall cloud architecture is specified and discussed with the whole team on a short session. The team gets&#xD;
+    acquainted with the main cloud deployment models while the details are specified in details during the migration&#xD;
+    sprints.&lt;br />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Xo3I00qe4FADfLxRxfpBxw" name="implementation_design,_3zayVkkZEeK7P-8D6a3Ujw" guid="-Xo3I00qe4FADfLxRxfpBxw">
+    <keyConsiderations>Pairing with a team member</keyConsiderations>
+    <refinedDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Implementation Design&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>With the requirements, the SOA model of the architecture and the Cloud model of the deployment start&#xD;
+    implementing the design of the different components that require a model in order to be implemented.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-g0GfzCRgATy9V4Xn4gmurA" name="perform_isolation_functional_testing,_3zayV0kZEeK7P-8D6a3Ujw" guid="-g0GfzCRgATy9V4Xn4gmurA">
+    <refinedDescription>&lt;h3>&#xD;
+    Perform Isolation Functional Testing&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Isolated testing of the functional requirements for the part of the system that is migrated during the particular&#xD;
+    sprint is performed.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aGIDgIv8zNxueWIURgeoTA" name="psm_transformation,_3zayWEkZEeK7P-8D6a3Ujw" guid="-aGIDgIv8zNxueWIURgeoTA">
+    <refinedDescription>&lt;H3>PSM Transformation &lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the complete model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) generate the code stubs necessary to run that system in the different cloud components.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-d4euQlqWT5BJe6FdrLdwTQ" name="migration_team,_VpDSAV7WEeKFRuoPceMYcQ" guid="-d4euQlqWT5BJe6FdrLdwTQ">
+    <refinedDescription>&lt;p>&#xD;
+    Migration Team&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is the scrum team in charge of the migration&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VsaIC-h5ZNIsseDcTc4vZQ" name="requirements_model.extends,_VpDSBF7WEeKFRuoPceMYcQ" guid="-VsaIC-h5ZNIsseDcTc4vZQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Requirement Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This is an agregated deliverable that holds the information about the system and the addtional requirements from the&#xD;
+    requirements practices, it also includes the information about the recovered requirements and the validation&#xD;
+    procedures&amp;nbsp;defined in the validation phase.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-D9Mk9ZGYe0q4rkI5zqbkqg" name="product_owner,_VpDSH17WEeKFRuoPceMYcQ" guid="-D9Mk9ZGYe0q4rkI5zqbkqg">
+    <refinedDescription>&lt;h3>&#xD;
+    Product Owner&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Product Owner is responsible for maximizing the value of the product and the work of the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/development_team_2BE2D5BF.html&quot;&#xD;
+    guid=&quot;_EChNoBC0EeGhfJHCQDJMKQ&quot;>Development Team&lt;/a>. How this is done may vary widely across organizations, Scrum&#xD;
+    Teams, and individuals.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Product Owner is the sole person responsible for managing the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/workproducts/product_backlog_68345C16.html&quot;&#xD;
+    guid=&quot;_OZIPIOF8Edyp34pwdTOSVQ&quot;>Product Backlog&lt;/a>. Product Backlog management includes:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Clearly expressing Product Backlog items;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ordering the items in the Product Backlog to best achieve goals and missions;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensuring the value of the work the Development Team performs;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will&#xD;
+        work on next; and,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensuring the Development Team understands items in the Product Backlog to the level needed.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The Product Owner may do the above work, or have the Development Team do it. However, the Product Owner remains&#xD;
+    accountable.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Product Owner is one person, not a committee. The Product Owner may represent the desires of a committee in the&#xD;
+    Product Backlog, but those wanting to change a backlog item’s priority must convince the Product Owner.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For the Product Owner to succeed, the entire organization must respect his or her decisions. The Product Owner’s&#xD;
+    decisions are visible in the content and ordering of the Product Backlog. No one is allowed to tell the Development&#xD;
+    Team to work from a different set of requirements, and the Development Team isn’t allowed to act on what anyone else&#xD;
+    says.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Mk9QmBlnjxSwZdqxTylcwA" name="additional_system_requirements,_VpDSJV7WEeKFRuoPceMYcQ" guid="-Mk9QmBlnjxSwZdqxTylcwA">
+    <refinedDescription>&lt;h3>&#xD;
+    Additional System Requirements&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The migration of a new system in most of the cases supposes an opportunitiy to introduce changes in the resulting new&#xD;
+    system over the previous one. These new or modified requirements where not present in the legacy system and therefore&#xD;
+    it is not possible to recover them from the analisis of the previous system.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-zYf3PbP5XkrBvPV-LY94ZA" name="recovered_system_requirements,_VpDSKF7WEeKFRuoPceMYcQ" guid="-zYf3PbP5XkrBvPV-LY94ZA">
+    <refinedDescription>&lt;h3>&#xD;
+    Recovered System Requirements&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    These are a set of requirements that were implemented in the legacy system and should continue to be implemented in the&#xD;
+    new one. They include the validation criteria.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BgfXSVGFYOusfaRvrAibPQ" name="recovered_system_model,_VpJYsF7WEeKFRuoPceMYcQ" guid="-BgfXSVGFYOusfaRvrAibPQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Recovered System Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the UML representation of the knowledge model (KDM) extracted from the legacy code&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ikYT9WoJ7WH3xr7h8-KUGg" name="system_overview,_VpJYs17WEeKFRuoPceMYcQ" guid="-ikYT9WoJ7WH3xr7h8-KUGg">
+    <refinedDescription>&lt;h3>&#xD;
+    System Overview&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The system overview redefines and extends the system idea in terms that can be understand by the development team.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-huBhcXQjOboERlze6u8yow" name="prepare_and_demo_product_backlog,_X4SwwF7WEeKFRuoPceMYcQ" guid="-huBhcXQjOboERlze6u8yow">
+    <refinedDescription>The requirements product backlog is prepared by the product owner of the requirements scrum together with an analyst with&#xD;
+knowledge and experience of interoperability issues. The backlog contains the main functional modules of the components&#xD;
+that are going to be implemented from scratch. The backlog also contains the interoperability areas which will affect the&#xD;
+new components. The requirements product backlog is presented to the team on a short meeting.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kbs143Lcl3s3cFtUkNE8Zg" name="scrum_demo_and_retrospective,_X4SwwV7WEeKFRuoPceMYcQ" guid="-kbs143Lcl3s3cFtUkNE8Zg">
+    <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YeqhYYkGLV-vQfLyYM24iQ" name="sprint_planning,_X4Swwl7WEeKFRuoPceMYcQ" guid="-YeqhYYkGLV-vQfLyYM24iQ">
+    <refinedDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
+backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jIgwefMEDhlFb9FOYuXn3Q" name="scrum_master,_X4Sww17WEeKFRuoPceMYcQ" guid="-jIgwefMEDhlFb9FOYuXn3Q">
+    <refinedDescription>&lt;h3>&#xD;
+    Scrum Master&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Scrum Master is responsible for ensuring Scrum is understood and enacted. Scrum Masters do this by ensuring that&#xD;
+    the &lt;a class=&quot;elementLink&quot; href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/scrum_team_8D8F2B3.html&quot;&#xD;
+    guid=&quot;_O65KUOF6Edyp34pwdTOSVQ&quot;>Scrum Team&lt;/a> adheres to Scrum theory, practices, and rules. The Scrum Master is a&#xD;
+    servant-leader for the Scrum Team.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are&#xD;
+    helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by&#xD;
+    the Scrum Team.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Scrum Master Service to the Product Owner&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    The Scrum Master serves the Product Owner in several ways, including:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Finding techniques for effective Product Backlog management;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Clearly communicating vision, goals, and Product Backlog items to the Development Team;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Teaching the Scrum Team to create clear and concise Product Backlog items;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understanding long-term product planning in an empirical environment;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understanding and practicing agility; and,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Facilitating Scrum events as requested or needed.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h4>&#xD;
+    Scrum Master Service to the Development Team&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    The Scrum Master serves the Development Team in several ways, including:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Coaching the Development Team in self-organization and cross-functionality;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Teaching and leading the Development Team to create high-value products;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Removing impediments to the Development Team’s progress;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Facilitating Scrum events as requested or needed; and,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and&#xD;
+        understood.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h4>&#xD;
+    Scrum Master Service to the Organization&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    The Scrum Master serves the organization in several ways, including:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Leading and coaching the organization in its Scrum adoption;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Planning Scrum implementations within the organization;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Helping employees and stakeholders understand and enact Scrum and empirical product development;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Causing change that increases the productivity of the Scrum Team; and,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mwIg88_wNrPYBkRfcfelyw" name="sprint_review.extends,_tt-2APOUEeKoGYdq-8Z_HA" guid="-mwIg88_wNrPYBkRfcfelyw">
+    <refinedDescription>&lt;h3>&#xD;
+    Sprint Review&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed.&#xD;
+    During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that&#xD;
+    and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done.&#xD;
+    This is an informal meeting, and the presentation of the Increment is intended to elicit feedback and foster&#xD;
+    collaboration.&lt;br />&#xD;
+    &lt;br />&#xD;
+    This is a four-hour time-boxed meeting for one-month Sprints. Proportionately less time is allocated for shorter&#xD;
+    Sprints. For example, two week Sprints have two-hour Sprint Reviews.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Review includes the following elements:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The Product Owner identifies what has been “Done” and what has not been “Done”;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The Development Team discusses what went well during the Sprint, what problems it ran into, and how those problems&#xD;
+        were solved;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The Development Team demonstrates the work that it has “Done” and answers questions about the Increment;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The Product Owner discusses the Product Backlog as it stands. He or she projects likely completion dates based on&#xD;
+        progress to date; and,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The entire group collaborates on what to do next, so that the Sprint Review provides valuable input to subsequent&#xD;
+        Sprint Planning Meetings.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The result of the Sprint Review is a revised Product Backlog that defines the probable Product Backlog items for the&#xD;
+    next Sprint. The Product Backlog may also be adjusted overall to meet new opportunities.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1Jine7z1Qipj1FXYzF3gpQ" name="validation_criteria,_92nTBAl4EeOmqbz9Sywm-g" guid="-1Jine7z1Qipj1FXYzF3gpQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Validation Criteria&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The validation criteria describes the way in which the requirements are validated during the validation phase. Some of&#xD;
+    these validation criteria may evolve into supervision procedures that can be checked during the supervision,&#xD;
+    explotation and withdraval phases of the system.&#xD;
+&lt;/p>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Xo476A33ApDASM0qkM6Fag" name="development_team,_QmPrwQpGEeOBM7QWB5hbCw" guid="-Xo476A33ApDASM0qkM6Fag">
+    <refinedDescription>&lt;h3>&#xD;
+    Development Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of&#xD;
+    &quot;Done&quot; product at the end of each Sprint. Only members of the Development Team create the Increment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Development Teams are structured and empowered by the organization to organize and manage their own work. The resulting&#xD;
+    synergy optimizes the Development Team’s overall efficiency and effectiveness. Development Teams have the following&#xD;
+    characteristics:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        They are self-organizing. No one (not even the Scrum Master) tells the Development Team how to turn Product Backlog&#xD;
+        into Increments of potentially releasable functionality;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Development Teams are cross-functional, with all of the skills as a team necessary to create a product Increment;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Scrum recognizes no titles for Development Team members other than Developer, regardless of the work being&#xD;
+        performed by the person; there are no exceptions to this rule;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to&#xD;
+        the Development Team as a whole; and,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Development Teams do not contain sub-teams dedicated to particular domains like testing or business analysis.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h4>&#xD;
+    Development Team Size&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    Optimal Development Team size is small enough to remain nimble and large enough to complete significant work. Fewer&#xD;
+    than three Development Team members decreases interaction and results in smaller productivity gains. Smaller&#xD;
+    Development Teams may encounter skill constraints during the Sprint, causing the Development Team to be unable to&#xD;
+    deliver a potentially releasable Increment. Having more than nine members requires too much coordination. Large&#xD;
+    Development Teams generate too much complexity for an empirical process to manage. The Product Owner and Scrum Master&#xD;
+    roles are not included in this count unless they are also executing the work of the Sprint Backlog.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-hgbmG46ZncGmBxj6e9F-xA" name="product_backlog,_QmSvEQpGEeOBM7QWB5hbCw" guid="-hgbmG46ZncGmBxj6e9F-xA">
+    <refinedDescription>&lt;h3>&#xD;
+    Product Backlog&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of&#xD;
+    requirements for any changes to be made to the product. The Product Owner is responsible for the Product Backlog,&#xD;
+    including its content, availability, and ordering.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A Product Backlog is never complete. The earliest development of it only lays out the initially known and&#xD;
+    best-understood requirements. The Product Backlog evolves as the product and the environment in which it will be used&#xD;
+    evolves. The Product Backlog is dynamic; it constantly changes to identify what the product needs to be appropriate,&#xD;
+    competitive, and useful. As long as a product exists, its Product Backlog also exists.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to&#xD;
+    be made to the product in future releases. Product Backlog items have the attributes of a description, order, and&#xD;
+    estimate.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Product Backlog is often ordered by value, risk, priority, and necessity. Top-ordered Product Backlog items drive&#xD;
+    immediate development activities. The higher the order, the more a Product Backlog item has been considered, and the&#xD;
+    more consensus exists regarding it and its value.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Higher ordered Product Backlog items are clearer and more detailed than lower ordered ones. More precise estimates are&#xD;
+    made based on the greater clarity and increased detail; the lower the order, the less detail. Product Backlog items&#xD;
+    that will occupy the Development Team for the upcoming Sprint are fine-grained, having been decomposed so that any one&#xD;
+    item can be “Done” within the Sprint time-box. Product Backlog items that can be “Done” by the Development Team within&#xD;
+    one Sprint are deemed “ready” or “actionable” for selection in a Sprint Planning Meeting.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As a product is used and gains value, and the marketplace provides feedback, the Product Backlog becomes a larger and&#xD;
+    more exhaustive list. Requirements never stop changing, so a Product Backlog is a living artifact. Changes in business&#xD;
+    requirements, market conditions, or technology may cause changes in the Product Backlog.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Multiple Scrum Teams often work together on the same product. One Product Backlog is used to describe the upcoming work&#xD;
+    on the product. A Product Backlog attribute that groups items is then employed.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Product Backlog grooming is the act of adding detail, estimates, and order to items in the Product Backlog. This is an&#xD;
+    ongoing process in which the Product Owner and the Development Team collaborate on the details of Product Backlog&#xD;
+    items. During Product Backlog grooming, items are reviewed and revised. However, they can be updated at any time by the&#xD;
+    Product Owner or at the Product Owner’s discretion.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Grooming is a part-time activity during a Sprint between the Product Owner and the Development Team. Often the&#xD;
+    Development Team has the domain knowledge to perform grooming itself. How and when grooming is done is decided by the&#xD;
+    Scrum Team. Grooming usually consumes no more than 10% of the capacity of the Development Team.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Development Team is responsible for all estimates. The Product Owner may influence the Development Team by helping&#xD;
+    understand and select trade-offs, but the people who will perform the work make the final estimate.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Monitoring Progress Toward a Goal&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    At any point in time, the total work remaining to reach a goal can be summed. The Product Owner tracks this total work&#xD;
+    remaining at least for every Sprint Review. The Product Owner compares this amount with work remaining at previous&#xD;
+    Sprint Reviews to assess progress toward completing projected work by the desired time for the goal. This information&#xD;
+    is made transparent to all stakeholders.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Various trend burndown, burnup and other projective practices have been used to forecast progress. These have proven&#xD;
+    useful. However, these do not replace the importance of empiricism. In complex environments, what will happen is&#xD;
+    unknown. Only what has happened may be used for forward-looking decision-making.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fdBFRduiPoeFHMXRPztA3A" name="sprint_backlog,_QmUkQQpGEeOBM7QWB5hbCw" guid="-fdBFRduiPoeFHMXRPztA3A">
+    <refinedDescription>&lt;h3>&#xD;
+    Sprint Backlog&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog is the set of Product Backlog items selected for the Sprint plus a plan for delivering the product&#xD;
+    Increment and realizing the Sprint Goal. The Sprint Backlog is a forecast by the Development Team about what&#xD;
+    functionality will be in the next Increment and the work needed to deliver that functionality.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog defines the work the Development Team will perform to turn Product Backlog items into a “Done”&#xD;
+    Increment. The Sprint Backlog makes visible all of the work that the Development Team identifies as necessary to meet&#xD;
+    the Sprint Goal.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog is a plan with enough detail that changes in progress can be understood in the Daily Scrum. The&#xD;
+    Development Team modifies Sprint Backlog throughout the Sprint, and the Sprint Backlog emerges during the Sprint. This&#xD;
+    emergence occurs as the Development Team works through the plan and learns more about the work needed to achieve the&#xD;
+    Sprint Goal.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As new work is required, the Development Team adds it to the Sprint Backlog. As work is performed or completed, the&#xD;
+    estimated remaining work is updated. When elements of the plan are deemed unnecessary, they are removed. Only the&#xD;
+    Development Team can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time&#xD;
+    picture of the work that the Development Team plans to accomplish during the Sprint, and it belongs solely to the&#xD;
+    Development Team.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Monitoring Sprint Progress&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    At any point in time in a Sprint, the total work remaining in the Sprint Backlog items can be summed. The Development&#xD;
+    Team tracks this total work remaining at least for every Daily Scrum. The Development Team tracks these sums daily and&#xD;
+    projects the likelihood of achieving the Sprint Goal. By tracking the remaining work throughout the Sprint, the&#xD;
+    Development Team can manage its progress.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum does not consider the time spent working on Sprint Backlog Items. The work remaining and date are the only&#xD;
+    variables of interest.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-yrkL5zyK6tLKe2wueQ9QYg" name="increment,_QmZcwQpGEeOBM7QWB5hbCw" guid="-yrkL5zyK6tLKe2wueQ9QYg">
+    <refinedDescription>&lt;h3>&#xD;
+    Increment&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Increment is the sum of all the Product Backlog items completed during a Sprint and all previous Sprints. At the&#xD;
+    end of a Sprint, the new Increment must be “Done,” which means it must be in useable condition and meet the Scrum&#xD;
+    Team’s &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/guidances/concepts/definition_of_done_B52B998F.html&quot;&#xD;
+    guid=&quot;_tprjYBCzEeGhfJHCQDJMKQ&quot;>Definition of &quot;Done&quot;&lt;/a>. It must be in useable condition regardless of whether the&#xD;
+    Product Owner decides to actually release it.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5kDuyQgTUQfp9TLgp3B2Vg" name="sprint_goal,_QmimsQpGEeOBM7QWB5hbCw" guid="-5kDuyQgTUQfp9TLgp3B2Vg">
+    <refinedDescription>&lt;h4>&#xD;
+    Sprint Goal&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal is an objective that will be met within the Sprint through the implementation of the Product Backlog,&#xD;
+    and it provides guidance to the Development Team on why it is building the Increment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal gives the Development Team some flexibility regarding the functionality implemented within the Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As the Development Team works, it keeps this goal in mind. In order to satisfy the Sprint Goal, it implements the&#xD;
+    functionality and technology. If the work turns out to be different than the Development Team expected, then they&#xD;
+    collaborate with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal may be a milestone in the larger purpose of the product roadmap.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QWztp99dDQxW-JusmfzbeA" name="future_deployment,_QnELIQpGEeOBM7QWB5hbCw" guid="-QWztp99dDQxW-JusmfzbeA">
+    <refinedDescription>&lt;h3>&#xD;
+    Future Deployment&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The future deployment describes de location of the main parts of the future system in the public and private computing&#xD;
+    infrastructures.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HnQL3OuTynF2Cz9x0C7-cQ" name="actors,_QnIckQpGEeOBM7QWB5hbCw" guid="-HnQL3OuTynF2Cz9x0C7-cQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Actors&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This deliverable enumerates any external entity human or system that is expected to interact with the future system. It&#xD;
+    is necessary to be identify the possible additional features required by them in the different phases of the system:&#xD;
+    migration, explotation, supervision and withdraval.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FJeRjcAkR5VtDYDN3jfAVw" name="feasibility_report,_QnKRwQpGEeOBM7QWB5hbCw" guid="-FJeRjcAkR5VtDYDN3jfAVw">
+    <refinedDescription>&lt;h3>&#xD;
+    Feasibility Report&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Feasybility Report is a preliminary analisys that checks if the new system is possible from the tecnical and&#xD;
+    economical point of view. The economical analysis must include the supervision, explotaition and withdraval costs.&#xD;
+&lt;/p>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-RUnwd6522PWqgMnlqfe2rw" name="glossary,_QnMuAQpGEeOBM7QWB5hbCw" guid="-RUnwd6522PWqgMnlqfe2rw">
+    <refinedDescription>&lt;h3>&#xD;
+    Glossary&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The glossary contains the definition of the terms used in the tecnical domain of the solution to be migrated. The&#xD;
+    purpose is to support the understanding by scrum team.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WtPa443JFWbXEF4VzQLWVg" name="project_plan,_QnQYYQpGEeOBM7QWB5hbCw" guid="-WtPa443JFWbXEF4VzQLWVg">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>Project Plan&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Project Plan in the REMICS Agile methodology is oriented to define the overall approach of the modernization&#xD;
+    project. It will contain:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The scrum strategy:Due to the complexity of migration proyects it might&amp;nbsp;be necessary&amp;nbsp;to organaise more&#xD;
+        than one parallel scrum with one or more teams working on them.&amp;nbsp; &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                number of scrums&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                number of teams&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                sprint duration&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Budget information&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                aproximate budget&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                aproximate cost of each team for a sprint&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-4SzKIbaN-pys47rgGlzmPA" name="system_idea,_QniFMQpGEeOBM7QWB5hbCw" guid="-4SzKIbaN-pys47rgGlzmPA">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>System Idea&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The system idea is a document that contains a description of the future system mainly from the prespective of the&#xD;
+    product owner. The content of the document depends largely on the kind of system to be migrated, but among other&#xD;
+    specific issues it should address:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The new ways in which the stakeholder will interact with the new system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The parts of the system that will be migrated.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Constraints in the migration of those&amp;nbsp;parts.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ays_hfrCRY7F5au8-JA76w" name="scrum_team,_QoH7EQpGEeOBM7QWB5hbCw" guid="-ays_hfrCRY7F5au8-JA76w">
+    <refinedDescription>&lt;h3>&#xD;
+    Scrum Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Scrum Team consists of a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/product_owner_10E7BD3.html&quot; guid=&quot;_QcnRMOF5Edyp34pwdTOSVQ&quot;>Product&#xD;
+    Owner&lt;/a>, the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/development_team_2BE2D5BF.html&quot;&#xD;
+    guid=&quot;_EChNoBC0EeGhfJHCQDJMKQ&quot;>Development Team&lt;/a>, and a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/scrum_master_357FCB70.html&quot; guid=&quot;_Bw-twOF6Edyp34pwdTOSVQ&quot;>Scrum&#xD;
+    Master&lt;/a>. Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish&#xD;
+    their work, rather than being directed by others outside the team. Cross-functional teams have all competencies needed&#xD;
+    to accomplish the work without depending on others not part of the team. The team model in Scrum is designed to&#xD;
+    optimize flexibility, creativity, and productivity.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. Incremental&#xD;
+    deliveries of “Done” product ensure a potentially useful version of working product is always available.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-2BESofRcIu4NixQGFK4tOg" name="system_model,_NJOq8QpJEeOBM7QWB5hbCw" guid="-2BESofRcIu4NixQGFK4tOg">
+    <refinedDescription>&lt;h3>&#xD;
+    System Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The system model includes all the models that are necessary to create and validate the new system.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wjRsu-dGG5BNOu0RUWrAuw" name="component_model,_NJSVUQpJEeOBM7QWB5hbCw" guid="-wjRsu-dGG5BNOu0RUWrAuw">
+    <refinedDescription>&lt;h3>&#xD;
+    Component Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Some components will be directly extracted from the recovery phase, while other could be created from scrach to satisfy&#xD;
+    addtional requirements in the new system.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BwnOVhIlH-4vdKTvUwYNjw" name="code,_fAy6sQpPEeOBM7QWB5hbCw" guid="-BwnOVhIlH-4vdKTvUwYNjw">
+    <refinedDescription>&lt;h3>&#xD;
+    Code&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the code and the confiugratnio finels necessaries to run the new system&#xD;
+&lt;/p>&lt;p/>&lt;h3>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/h3>&lt;p/>&lt;h3>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/h3>&lt;p/>&lt;h3>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/h3></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lVMkX-EbwKuR9WkQZCQprw" name="component_requirements,_fBZ-sQpPEeOBM7QWB5hbCw" guid="-lVMkX-EbwKuR9WkQZCQprw">
+    <refinedDescription>&lt;h3>&#xD;
+    Component Requirement&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It defines the requirements for&amp;nbsp; the functional testing of the component code.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VzMzcOEPJGkR1t1_HH7PUQ" name="service_architecture_model,_fBrEcQpPEeOBM7QWB5hbCw" guid="-VzMzcOEPJGkR1t1_HH7PUQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Service Architecture Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It defines the way in which the different components of the system will be grouped in bigger set. Due to different&#xD;
+    reasons in might be reasonnable or mandatory&amp;nbsp;to keep some components together (securuty, performance, money,&#xD;
+    licenses, etc). Does groups will interact with each other using services and that communication and the grouping is&#xD;
+    described in this model.&#xD;
+&lt;/p>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ouZTjZXOj-0jziRJHYDVkw" name="cloud_deployment_model,_fB3RsQpPEeOBM7QWB5hbCw" guid="-ouZTjZXOj-0jziRJHYDVkw">
+    <refinedDescription>&lt;h3>&#xD;
+    Cloud Deployment Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It specifies the cloud and the location of the different components in the cloud&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-w0SKoUEAACDE-fNvaZDMwA" name="cloud_deployment_overview,_fCEGAQpPEeOBM7QWB5hbCw" guid="-w0SKoUEAACDE-fNvaZDMwA">
+    <refinedDescription>&lt;h3>&#xD;
+    Cloud Deployment Overview&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It define the expected cloud infrastructures where the different components and set of components will be located&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7rwQDkMrSfPXeWORCla0eQ" name="isolation_testing_results,_fCZdMQpPEeOBM7QWB5hbCw" guid="-7rwQDkMrSfPXeWORCla0eQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Isolation Testing Results&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It tests that the generated components provde the expected features.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FMb4N2FChR6CGcNDgnHobg" name="implementation_design,_UQgsAQvQEeOhutvlRKZMkg" guid="-FMb4N2FChR6CGcNDgnHobg">
+    <refinedDescription>&lt;h3>&#xD;
+    Implementation Design&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the low level design of the components that will be the final refiment before the PSM transformation&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-mkprrUurhgvSk30pBCzIJA" name="migration_scrum,_qFoTwTO8EeK5hZv7WCtlvg" guid="-mkprrUurhgvSk30pBCzIJA"/>
+</xmi:XMI>

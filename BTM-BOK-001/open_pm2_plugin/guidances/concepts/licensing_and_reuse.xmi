@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KG--eeWOnHG_CTzlOWC-4Q" name="new_concept,_JhoiUOxwEemPtZ5AiUOtSg" guid="-KG--eeWOnHG_CTzlOWC-4Q" changeDate="2019-10-11T05:44:55.000-0400">
+  <mainDescription>&lt;p>
+    BTM BOK is&amp;nbsp;licensed as Free/Libre/Open Specification (FLOS).
+&lt;/p>
+&lt;p>
+    What are the advantages associated with this license?
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    We follow a FLOS strategy as we want to encourage reuse everywhere, ensuring the widest uptake and strongest critical
+    mass of users. A rapid growth will generate interest also to attract the most motivated contributors as reuse becomes
+    common practice. We also adopt licenses that require share-alike or copyleft, ensuring other groups that reuse our
+    specs develop innovative ways that will help us promote our framework.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jNcINGBkr0SIZx8RaULu1Q" name="extensions,_2nvbkOr4EemY--CKQaYIJA" guid="-jNcINGBkr0SIZx8RaULu1Q" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2019-10-29T11:12:00.000-0400" version="2.0">
+  <mainDescription>&lt;p>
+    A project can be undertaken as a stand-alone set of processes or realised in a multi-project context as part of a
+    programme or a project portfolio.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    This section provides to the reader key information on the concepts of programme which is&amp;nbsp;a collection of projects
+    with the same goal and managed in a coordinated way for efficiency purpose. As for a project portfolio, it's collection
+    of projects, programmes and activities managed in coordinated way for efficieny purpose and whose complementarity helps
+    the organisation achieve its strategic goals.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Finally, this section contains&amp;nbsp;information on the concept of Agile management, an approach to project management
+    centered on flexibility that enables the organisation to successfully adapt to the ever-changing client's needs. The
+    following are some Agile management characteristics:&amp;nbsp;Adaptive planning, involving&amp;nbsp;all key project
+    stakeholders during the entire project lifecycle, embracing change, incremental developments with short cycles
+    (sprints) and minimising project documentation and control
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

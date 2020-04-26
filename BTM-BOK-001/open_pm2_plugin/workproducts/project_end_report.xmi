@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7oOgGb6wRwIJTMN2BW1TUw" name="the_project_end_report,_7yfZgIsOEemPd45ge65XKw" guid="-7oOgGb6wRwIJTMN2BW1TUw" changeDate="2019-07-25T09:23:32.000-0400">
+  <mainDescription>&lt;p>
+    &lt;span lang=&quot;EN-GB&quot;
+    style='FONT-SIZE: 13.5pt; mso-ascii-font-family: Calibri; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; mso-ansi-language: EN-GB; mso-fareast-language: FR-CA'>
+    &lt;span lang=&quot;EN-GB&quot;
+    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: PMingLiU; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-font-size: 12.0pt; mso-bidi-language: AR-SA'>
+    &lt;font size=&quot;3&quot;>The project-end report is a document that summarises the project experience, performance, Lessons
+    Learned, successful project practices and pitfalls. It is created in the project closing phase of a PM² project by the
+    Project Manager (PM).&lt;/font>&lt;/span>&lt;/span>
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

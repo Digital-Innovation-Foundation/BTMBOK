@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gSHIZcYdMF7MxnxNYnfc-Q" name="new_concept,_SkGkEOuOEemEHK-rYivsHg" guid="-gSHIZcYdMF7MxnxNYnfc-Q" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:01:30.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    Project stakeholders are people (or groups) who can affect, or be affected by, the activities carried out during a
+    project’s lifecycle and/or by its output(s) and outcome(s). Stakeholders can be directly involved in a project’s work,
+    members of other internal organisations or external to the organisation (e.g. contractors, suppliers, users or the
+    general public).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The number of stakeholders depends on the complexity and scope of a project. However, the more people the project has
+    an impact on, the more likely it is that it will affect people who have some power or influence over the project. Given
+    that stakeholders can be useful supporters of the project or may choose to block it, the effective management and
+    involvement of them can be crucial for its success.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

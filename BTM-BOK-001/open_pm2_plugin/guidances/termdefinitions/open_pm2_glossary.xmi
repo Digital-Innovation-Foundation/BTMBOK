@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4hBNZpmDyESg0CPNi0n_Nw" name="open_pm2_glossary,_pzoooIZrEemNS-DED0vAjg" guid="-4hBNZpmDyESg0CPNi0n_Nw" changeDate="2019-08-04T01:02:25.000-0400">
+  <mainDescription>This document contains definitions of key concepts in Open PM2: &lt;a class=&quot;elementLink&quot;
+href=&quot;./../../../open_pm2_plug-in/guidances/supportingmaterials/open_pm2_glossary_CCDAEA26.html&quot;
+guid=&quot;_nU6-YLbaEemKorkmxcjSGg&quot;>Open PM2 Glossary&lt;/a></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

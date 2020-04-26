@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ARMDJrm6jUxlmeraA8LD0Q" name="project_management_plans_and_logs,_uxuTMPxfEemq5JKJlHGkCw" guid="-ARMDJrm6jUxlmeraA8LD0Q" changeDate="2020-03-29T05:34:39.000-0400">
+  <mainDescription>&lt;p>
+    &lt;strong>&amp;nbsp;1. Change Log&lt;/strong>
+&lt;/p>
+&lt;table class=&quot;MsoNormalTable&quot;
+style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 98.02%; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: auto auto auto 5.4pt; mso-border-alt: solid gray .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid gray; mso-border-insidev: .5pt solid gray&quot;
+ cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;98%&quot; border=&quot;1&quot;>
+    &lt;tbody>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 0; mso-yfti-firstrow: yes&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: gray 1pt solid; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #e6e6e6; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style='FONT-SIZE: 11pt; mso-fareast-font-family: &quot;Times New Roman&quot;'>&lt;font
+                    size=&quot;2&quot;>Change Identification and Description&lt;/font>&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 1; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>ID&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The change identifier.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 2; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Category&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Categorises the change.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Examples of categories are:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>new requirement,&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>technical&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>issue or risk related,&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>business improvement, etc.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 3; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Title&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>A short title for the requested change.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 30.45pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 4; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 30.45pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Description&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 30.45pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>A more detailed description of the requested
+                    change and the impact of not implementing the change.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 18.6pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 5; mso-height-rule: exactly&quot; valign=&quot;top&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 18.6pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Status&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 18.6pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The status of the change can be any of the
+                    following:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Submitted:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This is the initial status. Use this while the requested change
+                    is still being specified.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Assessing:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>Use this status to initiate an assessment.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;a style=&quot;mso-comment-reference: JP_1; mso-comment-date: 20180328T2155&quot;>&lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>Waiting for approval&lt;/span>&lt;/b>&lt;/a>&lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>&amp;nbsp;:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>Use this to initiate approval. Before applying this status,
+                    ensure that the investigation is complete, and the estimates shown are correct.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Approved:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This status is set once the change has been approved, as
+                    proposed, or modified&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Rejected&lt;/span>&lt;/b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>: This status is set if the change was rejected.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Postponed:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This status is set if the change is postponed
+                    indefinitely.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Merged:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This status indicates that the change has been merged into some
+                    other change, so it is no longer being actively handled. Merging is common when there are many
+                    changes.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Implemented:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This status indicates that the work implementing this change has
+                    been incorporated into the Project Work Plan.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 18.6pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 6; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 18.6pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Requested by&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 18.6pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The name of the person requesting the
+                    change.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 34pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 7; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 34pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             width=&quot;26%&quot;>
+                &lt;p class=&quot;Text3&quot; style=&quot;TEXT-ALIGN: left; MARGIN: 0.8pt 0cm&quot; align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-family: &quot;Times New Roman&quot;'>&lt;font
+                     face=&quot;Arial&quot;>&lt;font size=&quot;2&quot;>Date Identified (or Submission Date)&lt;/font>&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 34pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm; tab-stops: center 234.0pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>The
+                    initial submission date of the change request.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 8&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #d9d9d9; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-background-themecolor: background1; mso-background-themeshade: 217&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font size=&quot;2&quot;>&lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-color-alt: windowtext&quot;>Change Assessment and Action
+                    Description&lt;/span>&lt;/b>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 9&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;Text3&quot; style=&quot;TEXT-ALIGN: left; MARGIN: 0.8pt 0cm&quot; align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-family: &quot;Times New Roman&quot;'>&lt;font
+                     face=&quot;Arial&quot;>&lt;font size=&quot;2&quot;>Action Details&lt;/font>&lt;/font>&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;Text3&quot; style=&quot;TEXT-ALIGN: left; MARGIN: 0.8pt 0cm&quot; align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-family: &quot;Times New Roman&quot;'>&lt;font
+                     face=&quot;Arial&quot;>&lt;font size=&quot;2&quot;>(effort &amp;amp; responsible)&lt;/font>&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm; tab-stops: center 234.0pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>Description
+                    of the recommended action, including steps, deliverables, timescale, resources and effort
+                    involved.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 14.95pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 10&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 14.95pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;Text3&quot; style=&quot;TEXT-ALIGN: left; MARGIN: 0.8pt 0cm&quot; align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-family: &quot;Times New Roman&quot;'>&lt;font
+                     face=&quot;Arial&quot;>&lt;font size=&quot;2&quot;>Size&lt;/font>&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 14.95pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>The
+                    effort required to implement the change.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>The
+                    possible values are:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>5=Very
+                    high&lt;/span>&lt;/b>&lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-fareast-language: ZH-CN&quot;>, 4=High, 3=Medium, 2=Low,
+                    1=Very low&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 11&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;Text3&quot; style=&quot;TEXT-ALIGN: left; MARGIN: 0.8pt 0cm&quot; align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-family: &quot;Times New Roman&quot;'>&lt;font
+                     face=&quot;Arial&quot;>&lt;font size=&quot;2&quot;>Priority&lt;/font>&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm; tab-stops: center 234.0pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>A
+                    numerical value denoting the agreed priority of the change.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm; tab-stops: center 234.0pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>The
+                    possible values are:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm; tab-stops: center 234.0pt&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>5=Very
+                    high&lt;/span>&lt;/b>&lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-fareast-language: ZH-CN&quot;>, 4=High, 3=Medium, 2=Low,
+                    1=Very low&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 3.5pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 12&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Target Delivery Date&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The target date for the change to be
+                    delivered.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 13.7pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 13&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 13.7pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #d9d9d9; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-background-themecolor: background1; mso-background-themeshade: 217; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font size=&quot;2&quot;>&lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-color-alt: windowtext&quot;>Change Approval&lt;/span>&lt;/b>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 15.1pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 14&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 15.1pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Escalation&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 15.1pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Escalation to the Directing or Steering layer
+                    is needed? (&lt;b>Yes&lt;/b> or &lt;b>No&lt;/b>).&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 21.65pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 15&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 21.65pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Decision&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 21.65pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The decision taken.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 21.65pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 16&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 21.65pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Decided by&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 21.65pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Person or committee that denied or approved
+                    the change.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 20.55pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 17&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 20.55pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Decision Date&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 20.55pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Date on which the decision was made.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 18&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #d9d9d9; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-background-themecolor: background1; mso-background-themeshade: 217&quot;
+             width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font size=&quot;2&quot;>&lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 11pt; COLOR: black; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-color-alt: windowtext'>
+                    Change Implementation&lt;/span>&lt;/b>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 19&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Actual Delivery Date&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The date on which the change was actually
+                    delivered.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 20; mso-yfti-lastrow: yes&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Traceability and Comments&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The ID(s) of the tasks (in the Project Work
+                    Plan) that implement the change, and/or the IDs of related issues, risks or decisions. Also include any
+                    additional information/comments related to the change.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+    &lt;/tbody>
+&lt;/table>
+&lt;p>
+    &amp;nbsp;&lt;strong>&amp;nbsp;2. Risk Log&lt;/strong>
+&lt;/p>
+&lt;table class=&quot;MsoNormalTable&quot;
+style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 98.02%; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: auto auto auto 5.4pt; mso-border-alt: solid gray .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid gray; mso-border-insidev: .5pt solid gray&quot;
+ cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;98%&quot; border=&quot;1&quot;>
+    &lt;tbody>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 0; mso-yfti-firstrow: yes&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: gray 1pt solid; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #e6e6e6; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style='FONT-SIZE: 11pt; mso-fareast-font-family: &quot;Times New Roman&quot;'>&lt;font
+                    size=&quot;2&quot;>Risk Identification and Description&lt;/font>&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 1; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>ID&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The risk identifier.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 32.05pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 2; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 32.05pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Category&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 32.05pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Risk category related to the area affected by
+                    the risk (e.g. business, IT,&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>people &amp;amp; organisation, external or
+                    legal).&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 3; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Title&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>A short title for the risk.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 28.9pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 4; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 28.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Description&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 28.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>A structured formulation of the opportunity or
+                    threat in the form of (route) Cause – Risk –Effect, along with potential risk
+                    inter-dependencies.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 134.5pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 5; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 134.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Status&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 134.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The risk status can be any of the
+                    following:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Proposed:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This is the initial status. Use this while the risk is still
+                    being specified.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Assessing:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>Use this status to initiate an assessment.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Waiting for Approval:&lt;/span>&lt;/b> &lt;span
+                    lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Use this to request approval. Before applying this
+                    status, make sure the assessment is complete and the estimates are reliable.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Approved:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This status is set once the risk possibility has been
+                    accepted.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Rejected:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This status is set if the risk was rejected as not
+                    relevant.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Closed:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This status is set once the risk has been managed (e.g.
+                    mitigation actions have be implemented) and it is not a risk for the project anymore.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 13.9pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 6; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 13.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Identified by&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 13.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm; tab-stops: 54.8pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The person who identified the risk.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 14.9pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 7; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 14.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Identification date&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 14.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The date on which the risk was
+                    identified.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 8&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #d9d9d9; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-background-themecolor: background1; mso-background-themeshade: 217&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font size=&quot;2&quot;>&lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 11pt; COLOR: black; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-color-alt: windowtext'>
+                    Risk Assessment&lt;/span>&lt;/b>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 9&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Likelihood (L)&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>A numerical value denoting the estimate of the
+                    probability that the risk will occur. The possible values are:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>5=Very
+                    high&lt;/span>&lt;/b>&lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-fareast-language: ZH-CN&quot;>, 4=High, 3=Medium, 2=Low,
+                    1=Very low&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 14.95pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 10&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 14.95pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Impact (I)&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 14.95pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>A numerical value denoting the severity of the
+                    risk’s impact (should it occur). The possible values are:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>5=Very
+                    high&lt;/span>&lt;/b>&lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-fareast-language: ZH-CN&quot;>, 4=High, 3=Medium, 2=Low,
+                    1=Very low&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 11&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Risk Level (RL)&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The risk level is the product of the
+                    likelihood and impact (&lt;b>RL=L*I&lt;/b>).&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 3.5pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 12&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Risk owner&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The person accountable for managing and
+                    monitoring the risk.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 3.5pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 13&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Escalation&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Whether or not the risk is to be escalated to
+                    the Directing or Steering Layers (&lt;b>Yes&lt;/b> or &lt;b>No)&lt;/b>.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 14&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #d9d9d9; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-background-themecolor: background1; mso-background-themeshade: 217&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font size=&quot;2&quot;>&lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 11pt; COLOR: black; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-color-alt: windowtext'>
+                    Risk Response&lt;/span>&lt;/b>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 15&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Risk response Strategy&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;a style=&quot;mso-comment-reference: IDK_1; mso-comment-date: 20180708T2245&quot;>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>Strategies for negative risks (threats):&lt;/span>&lt;/a>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Avoid, Reduce, Accept,
+                    Transfer/Share&lt;/span>&lt;/b>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Strategies for positive risks
+                    (opportunities):&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b style=&quot;mso-bidi-font-weight: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>-Exploit, Enhance, Accept, Share&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 16&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Action details (effort &amp;amp;
+                    responsible)&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Description of the action(s) to be taken,
+                    including its objective, scope, deliverables, and the person responsible and estimated effort
+                    needed.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 17&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Target date&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The date on which the action is expected to be
+                    implemented.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 18; mso-yfti-lastrow: yes&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Traceability/Comments&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The ID(s) of the tasks (in the Project Work
+                    Plan) that implement the risk response actions, and/or the IDs of related changes, issues or decisions
+                    (log entries). Also include any additional information/comments related to the risk.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+    &lt;/tbody>
+&lt;/table>
+&lt;br />
+&lt;br />
+&lt;p>
+    &lt;strong>&amp;nbsp; 3. Issue Log&lt;/strong>
+&lt;/p>
+&lt;table class=&quot;MsoNormalTable&quot;
+style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 98.02%; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: auto auto auto 5.4pt; mso-border-alt: solid gray .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid gray; mso-border-insidev: .5pt solid gray&quot;
+ cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;98%&quot; border=&quot;1&quot;>
+    &lt;tbody>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 0; mso-yfti-firstrow: yes&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: gray 1pt solid; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #e6e6e6; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style='FONT-SIZE: 11pt; mso-fareast-font-family: &quot;Times New Roman&quot;'>&lt;font
+                    size=&quot;2&quot;>Issue Identification and Description&lt;/font>&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 1; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>ID&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The issue identifier.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 29.9pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 2; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 29.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Category&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 29.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Issue category related to the area affected by
+                    the issue (e.g. business,&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>IT, people &amp;amp; organisation, external or
+                    legal).&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 3; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Title&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Short title for the issue.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17.1pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 4; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17.1pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Description&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17.1pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm; tab-stops: 61.25pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>A description of the issue and its
+                    impact.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 14pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 5; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 14pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;a style=&quot;mso-comment-reference: IDK_1; mso-comment-date: 20180708T1959&quot;>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>Status&lt;/span>&lt;/a>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 14pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The issue status can be any of the
+                    following:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Open:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>The issue has been identified and requires attention and, if
+                    possible, a resolution.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Postponed:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This status is set if resolving the issue is postponed due to
+                    other priorities.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Resolved:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This status indicates that all necessary actions are completed,
+                    and the issue is resolved.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Closed:&lt;/span>&lt;/b> &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Calibri&quot;>This status indicates that all work is completed and verified.
+                    The issue can then be marked as closed.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 13.9pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 6; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 13.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Identified by&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 13.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The name of the person who identified the
+                    issue.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 13.45pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 7; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 13.45pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;Text3&quot; style=&quot;TEXT-ALIGN: left; MARGIN: 0.8pt 0cm&quot; align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-family: &quot;Times New Roman&quot;'>&lt;font
+                     size=&quot;2&quot;>&lt;font face=&quot;Arial&quot;>Identification date&lt;/font>&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 13.45pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm; tab-stops: center 234.0pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>The
+                    date on which the issue was raised.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 8&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #d9d9d9; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-background-themecolor: background1; mso-background-themeshade: 217&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font size=&quot;2&quot;>&lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-color-alt: windowtext&quot;>Issue Assessment and Action
+                    Description&lt;/span>&lt;/b>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 9&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;Text3&quot; style=&quot;TEXT-ALIGN: left; MARGIN: 0.8pt 0cm&quot; align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-family: &quot;Times New Roman&quot;'>&lt;font
+                     size=&quot;2&quot;>&lt;font face=&quot;Arial&quot;>Action details&lt;/font>&lt;/font>&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;Text3&quot; style=&quot;TEXT-ALIGN: left; MARGIN: 0.8pt 0cm&quot; align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-family: &quot;Times New Roman&quot;'>&lt;font
+                     size=&quot;2&quot;>&lt;font face=&quot;Arial&quot;>(effort &amp;amp; responsible)&lt;/font>&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm; tab-stops: center 234.0pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>Description
+                    of the recommended action to be taken, and the steps, deliverables, timescale, resources and effort
+                    involved.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 14.95pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 10&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 14.95pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;Text3&quot; style=&quot;TEXT-ALIGN: left; MARGIN: 0.8pt 0cm&quot; align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-family: &quot;Times New Roman&quot;'>&lt;font
+                     size=&quot;2&quot;>&lt;font face=&quot;Arial&quot;>Urgency&lt;/font>&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 14.95pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>A
+                    numerical value denoting how urgent the issue is. The possible values are:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>5=Very
+                    high&lt;/span>&lt;/b>&lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-fareast-language: ZH-CN&quot;>, 4=High, 3=Medium, 2=Low,
+                    1=Very low&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 29.3pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 11&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 29.3pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;Text3&quot; style=&quot;TEXT-ALIGN: left; MARGIN: 0.8pt 0cm&quot; align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-family: &quot;Times New Roman&quot;'>&lt;font
+                     size=&quot;2&quot;>&lt;font face=&quot;Arial&quot;>Impact&lt;/font>&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 29.3pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm; tab-stops: center 234.0pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>A
+                    numerical value denoting the issue’s impact. The possible values are:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>5=Very
+                    high&lt;/span>&lt;/b>&lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-fareast-language: ZH-CN&quot;>, 4=High, 3=Medium, 2=Low,
+                    1=Very low&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 3.5pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 12&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Size&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Issue size represents the effort needed to
+                    resolve the issue.&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The possible values are:&lt;/span>
+                &lt;/p>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-fareast-font-family: SimSun; mso-bidi-font-family: Calibri; mso-fareast-language: ZH-CN&quot;>5=Very
+                    high&lt;/span>&lt;/b>&lt;b>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-fareast-language: ZH-CN&quot;>, 4=High, 3=Medium, 2=Low,
+                    1=Very low&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 3.5pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 13&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Target date&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>The date on which the issue is expected to be
+                    resolved.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 3.5pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 14&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style='mso-fareast-font-family: &quot;Times New Roman&quot;'>Issue owner&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style='mso-fareast-font-family: &quot;Times New Roman&quot;'>The person accountable for
+                    resolving the issue.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 3.5pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 15&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style='mso-fareast-font-family: &quot;Times New Roman&quot;'>Escalation&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 3.5pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style='mso-fareast-font-family: &quot;Times New Roman&quot;'>Whether or not the issue is to be
+                    escalated to the Directing or Steering Layers (&lt;b>Yes&lt;/b> or &lt;b>No)&lt;/b>.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 44.55pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 16; mso-yfti-lastrow: yes&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 44.55pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style='mso-fareast-font-family: &quot;Times New Roman&quot;'>Traceability/Comments&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 44.55pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm; tab-stops: 67.3pt&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style='mso-fareast-font-family: &quot;Times New Roman&quot;'>The ID(s) of the tasks (in the
+                    Project Work Plan) that implement the issue actions, and/or the IDs of related changes, risks or
+                    decisions (Log entries). Also include any additional information/comments related to the issue.&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+    &lt;/tbody>
+&lt;/table>
+&lt;p>
+    &amp;nbsp; &lt;strong>4. Decision Log&lt;/strong>
+&lt;/p>
+&lt;table class=&quot;MsoNormalTable&quot;
+style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 98.02%; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: auto auto auto 5.4pt; mso-border-alt: solid gray .5pt; mso-yfti-tbllook: 992; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid gray; mso-border-insidev: .5pt solid gray&quot;
+ cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;98%&quot; border=&quot;1&quot;>
+    &lt;tbody>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 0; mso-yfti-firstrow: yes&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: gray 1pt solid; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #e6e6e6; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;b>&lt;span lang=&quot;EN-GB&quot; style='FONT-SIZE: 11pt; mso-fareast-font-family: &quot;Times New Roman&quot;'>&lt;font
+                    face=&quot;Arial CE&quot;>&lt;font size=&quot;2&quot;>Decision Identification and Description&lt;/font>&lt;/font>&lt;/span>&lt;/b>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 1; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>ID&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>The decision
+                    identifier.&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 29.8pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 2; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 29.8pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Category&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 29.8pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Decision category
+                    related to the area affected by the decision (e.g. business, IT, people &amp;amp; organisation, external or
+                    legal).&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 3; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Title&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Short title for the
+                    decision.&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 19.9pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 4; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 19.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font
+                    face=&quot;Arial CE&quot;>Description&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 19.9pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>A description of the
+                    decision’s details and impact, if applicable.&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 5; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BACKGROUND: white; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-background-themecolor: background1&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font face=&quot;Arial CE&quot;>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-color-alt: windowtext&quot;>Identified
+                    by&lt;/span>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BACKGROUND: white; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-background-themecolor: background1&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm 0.8pt 70.9pt; TEXT-INDENT: -70.9pt&quot;>
+                    &lt;font face=&quot;Arial CE&quot;>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-color-alt: windowtext&quot;>The name of the person
+                    who identified the need for a decision.&lt;/span>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 29.8pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 6; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 29.8pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>People
+                    present&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 29.8pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>
+                    &lt;font face=&quot;Arial CE&quot;>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>Log the names of those
+                    present when then decision was made. Reference can be made to the relevant Minutes of Meeting (MoM) if
+                    appropriate.&lt;/span>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 27.4pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 7; mso-height-rule: exactly&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 27.4pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BACKGROUND: white; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-background-themecolor: background1&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font face=&quot;Arial CE&quot;>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-color-alt: windowtext&quot;>Comments&lt;/span>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 27.4pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BACKGROUND: white; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-height-rule: exactly; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-background-themecolor: background1&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font face=&quot;Arial CE&quot;>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-color-alt: windowtext&quot;>The IDs of related
+                    Change, Risk or Issue Log entries and any additional information related to the decision.&lt;/span>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 17.35pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 8&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 17.35pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #d9d9d9; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-background-themecolor: background1; mso-background-themeshade: 217; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font face=&quot;Arial CE&quot;>&lt;font size=&quot;2&quot;>&lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 11pt; COLOR: black; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-color-alt: windowtext'>
+                    Ownership&lt;/span>&lt;/b>&lt;/font>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 13.4pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 9&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 13.4pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Decision
+                    owner&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 13.4pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>The person accountable
+                    for the decision.&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 20.55pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 10&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 20.55pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Decision
+                    date&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 20.55pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Date on which the
+                    decision was taken.&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;HEIGHT: 20.55pt; PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 11&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 20.55pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Escalation&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 20.55pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Whether or not the
+                    decision is to be escalated to the Directing or Steering Layers (&lt;b>Yes&lt;/b> or
+                    &lt;b>No)&lt;/b>.&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 12&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 100%; BACKGROUND: #d9d9d9; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-background-themecolor: background1; mso-background-themeshade: 217&quot;
+             valign=&quot;top&quot; width=&quot;100%&quot; colspan=&quot;2&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;font face=&quot;Arial CE&quot;>&lt;font size=&quot;2&quot;>&lt;b>&lt;span lang=&quot;EN-GB&quot;
+                    style='FONT-SIZE: 11pt; COLOR: black; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-color-alt: windowtext'>
+                    Decision Implementation&lt;/span>&lt;/b>&lt;/font>&lt;/font>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 13&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Date of
+                    Application&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>The date on which the
+                    decision is applicable.&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr style=&quot;PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 14; mso-yfti-lastrow: yes&quot;>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 26.78%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;26%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>Decision communicated
+                    to:&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+            &lt;td
+            style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 73.22%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt&quot;
+             valign=&quot;top&quot; width=&quot;73%&quot;>
+                &lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 0.8pt 0cm&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font face=&quot;Arial CE&quot;>The group, teams and
+                    other audiences to whom the decision should be communicated.&lt;/font>&lt;/span>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+    &lt;/tbody>
+&lt;/table>
+&lt;br />
+&lt;br />
+&lt;br class=&quot;MsoCommentText&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot; />
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

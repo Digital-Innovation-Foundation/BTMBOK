@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TgPexnA42Ym_OBRznqxP9g" name="new_concept,_R0t5EOuPEemEHK-rYivsHg" guid="-TgPexnA42Ym_OBRznqxP9g" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:01:42.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The diagram below provides an overview of the layers and main roles in project organisation from a project management
+    point of view.
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;PL&quot; src=&quot;resources/Pjct Layers.png&quot; width=&quot;700&quot; height=&quot;413&quot; />&lt;br />
+    &lt;br />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig. 1&lt;/strong> Project organisation
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Note that there is only one project team, which is composed of the people assuming the roles defined in the Performing,
+    Managing and Directing layers. For the project to succeed, these people need to work together as a team.
+&lt;/p>
+&lt;h5>
+    1. Business Governing Layer
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    The Business Governing Layer determines the vision and strategy for the organisation as a whole. It consists of one or
+    more management committees operating at a high or the highest management level. It is here that priorities are defined,
+    investment decisions are made, and resources are allocated.
+&lt;/p>
+&lt;h5>
+    2. Steering Layer
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    The Steering Layer provides general project direction and guidance. It keeps the project focused on its objectives. It
+    reports to the Appropriate Governance Body (AGB). The Steering Layer is composed of the roles defined in the Directing
+    and Management Layers plus other optional roles.
+&lt;/p>
+&lt;h5>
+    3. Directing Layer
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    The Directing Layer champions the project and owns its Business Case. It mobilises the necessary resources and monitors
+    the project’s performance in order to realise the project’s objectives. The Directing Layer comprises the roles of
+    Project Owner (PO) and Solution Provider (SP).
+&lt;/p>
+&lt;h5>
+    4. Managing Layer
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    The Managing Layer focuses on day-to-day project management. It organises, monitors and controls work to produce the
+    intended deliverables and implement them in the business organisation. Members of the Managing Layer report to the
+    Directing Layer. The Managing Layer comprises the roles of Business Manager (BM) and Project Manager (PM). It is of
+    utmost importance for the success of the project that there is close collaboration and good communication between these
+    two roles.
+&lt;/p>
+&lt;h5>
+    5. Performing Layer
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    The Performing Layer carries out the project work. It produces the deliverables and implements them in the business
+    organisation. Members of the Performing Layer report to the Managing Layer. The Performing Layer comprises the roles of
+    the Business Implementation Group (BIG) and the Project Core Team (PCT).&lt;br />
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

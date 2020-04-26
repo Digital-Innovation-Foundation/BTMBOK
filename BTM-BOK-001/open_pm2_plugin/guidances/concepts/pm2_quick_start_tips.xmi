@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8ZYKJfn-3R8Byl4nTkK3nw" name="new_concept,_Jc-ikOsBEemY--CKQaYIJA" guid="-8ZYKJfn-3R8Byl4nTkK3nw" changeDate="2020-03-17T09:02:08.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The purpose of this quick start guide is to help you get started with applying PM². Naturally, you will want to start
+    by learning more about the PM² Methodology and review the available PM² material. Keep in mind, however, that you don’t
+    have to become an expert before you can start applying the basics of PM² in your projects. All you need is a brief
+    introduction to the PM² Methodology and then you can continue by following the six Quick Start steps:
+&lt;/p>
+&lt;h5 style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+    1. Define the Project Governance and Create a Business Case
+&lt;/h5>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Set up the Project Steering Committee (PSC).
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Provide the justification for the project, capture the business requirements and establish its budgetary
+            constraints
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;h5 style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+    2. Identify stakeholders and create the Project Charter
+&lt;/h5>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Define the project scope.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Identify the stakeholders who should contribute to the Project Charter.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Capture the high-level requirements, assumptions and constraints.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;p style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Decide on a project approach and estimate required resources, costs and timing.
+        &lt;/p>
+    &lt;/li>
+&lt;/ul>
+&lt;h5 style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+    3. Set up the Project Logs
+&lt;/h5>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Set up the Risk Log, Issue Log, Decision Log and Change Log.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            These will be used to document the management of risks, issues and changes to project scope.
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;h5 style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+    4. Kick-off the Project Planning with a Meeting
+&lt;/h5>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Invite all necessary participants to the planning meeting.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Go over the Project Charter and ensure a common understanding.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Communicate the next steps for the planning of the project.
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;h5 style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+    5. Tailor the Project Management approach
+&lt;/h5>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Decide which planning documents to use and how they should be tailored.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Define rules, assign team responsibilities and define a conflict-resolution process.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Identify all stakeholders who require information during the project.
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;h5 style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+    6. Create the Project Work Plan
+&lt;/h5>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Break down the work that needs to be done into smaller and more manageable pieces (create the Work Breakdown).
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Estimate the effort and cost for each piece of work.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Establish the detailed budgetary and resource requirements.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            Create a work schedule (identify dependencies, assign resources and dates).&lt;br />
+             
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

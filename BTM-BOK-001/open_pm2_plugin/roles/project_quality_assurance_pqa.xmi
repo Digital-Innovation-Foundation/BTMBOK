@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OodEUC9d-vQdrBP7jv9u1g" name="project_quality_assurance_(pqa),_mMGUMIygEemUMfBd9Ww1zA" guid="-OodEUC9d-vQdrBP7jv9u1g" changeDate="2019-07-10T11:08:12.000-0400">
+  <mainDescription>&lt;p>
+    &lt;img alt=&quot;BL&quot; src=&quot;resources/bonhomme-loupe.jpg&quot; width=&quot;300&quot; height=&quot;300&quot; />
+&lt;/p>
+&lt;p>
+    This role works independently of the Project Manager and is appointed by the Project Steering Committee (PSC), the
+    authority&amp;nbsp;to which it reports. Its responsibility is to ensure deliverables conform&amp;nbsp;to the project quality
+    standards.
+&lt;/p>
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

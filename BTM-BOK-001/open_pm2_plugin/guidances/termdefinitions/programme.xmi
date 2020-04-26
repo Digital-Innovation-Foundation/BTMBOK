@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-o9rFWdsz2OkmSjApO2USZw" name="new_term_definition,_lX1jYKaDEem6s7VmR70Rqw" guid="-o9rFWdsz2OkmSjApO2USZw">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;TEXT-ALIGN: justify; MARGIN: 6pt 0cm 5pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Calibri&quot;>&lt;font size=&quot;3&quot;>&lt;font face=&quot;Calibri&quot;>A programme is a
+    collection of projects aimed towards a common goal which are managed in a coordinated way to obtain benefits and
+    control that could not be obtained from managing them individually. Programmes may also include work outside the scope
+    of the discrete projects in the programme.&lt;/font>&lt;/font>&lt;/span>
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

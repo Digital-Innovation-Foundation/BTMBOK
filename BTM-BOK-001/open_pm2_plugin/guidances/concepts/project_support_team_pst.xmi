@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JTGuz5u9R5O08X297tsLhQ" name="new_concept,_k4s_AOudEemEHK-rYivsHg" guid="-JTGuz5u9R5O08X297tsLhQ" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:07:44.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The Project Support Team (PST) is an optional role that consists of the people responsible for providing support to the
+    project. Its composition and structure depend on the needs of the project. The Project Support Team (PST) is often
+    composed of representatives from various horizontal services or units.
+&lt;/p>
+&lt;h5>
+    Responsibilities
+&lt;/h5>
+&lt;ul>
+    &lt;li>
+        Provides administrative support to the project
+    &lt;/li>
+    &lt;li>
+        Defines requirements for reporting and communication
+    &lt;/li>
+    &lt;li>
+        Administers Project Steering Committee (PSC) meetings and drafts related reports
+    &lt;/li>
+    &lt;li>
+        Supports the Project Manager (PM) in planning, monitoring and controlling the project
+    &lt;/li>
+    &lt;li>
+        Advises on project management tools and administrative services
+    &lt;/li>
+    &lt;li>
+        Manages the project documentation (versioning, archiving, etc.)
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    The Project Support Team (PST) includes the following roles:
+&lt;/p>
+&lt;h5>
+    Project Support Office (PSO)
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    The Project Support Office (PSO) is an optional role that provides project management support to teams on issues
+    related to the application of the methodology and use of the artefacts, information systems, etc.
+&lt;/p>
+&lt;h5>
+    Project Quality Assurance (PQA)
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    Assigned by the Project Steering Committee (PSC) and working independently of the Project Manager (PM), the Project
+    Quality Assurance (PQA) ensures the high quality of the project and its deliverables, by reviewing processes and
+    artefacts, identifying non-conformities with the set quality standards and recommending corrective actions. This is an
+    optional role in an organisation, reporting directly to the Project Steering Committee (PSC), and may take the form of
+    either a group or individual staff member.
+&lt;/p>
+&lt;h5>
+    Other
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    Depending on the project’s nature and characteristics, the Project Support Team (PST) can be further extended and
+    include representatives from other departments/units, e.g. Legal, Procurement, Data Protection, etc.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

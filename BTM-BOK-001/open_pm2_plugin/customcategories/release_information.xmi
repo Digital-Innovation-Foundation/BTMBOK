@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DHlStxaxr6aFu0IuXsRjtw" name="release_information,_aL7f8OxxEemPtZ5AiUOtSg" guid="-DHlStxaxr6aFu0IuXsRjtw" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2019-10-29T01:33:01.000-0400" version="2.0">
+  <mainDescription>&lt;p>
+    This section provides information about institutions and individuals credited for the development of the PM2 guide. BTM
+    BOK project uses materials from various sources and this section also contains information about author's rights.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

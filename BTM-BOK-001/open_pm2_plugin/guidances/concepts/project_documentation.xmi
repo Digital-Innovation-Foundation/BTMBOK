@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KraJy21zB0MapVXZtvcAfw" name="new_concept,_GNiugOt3EemEHK-rYivsHg" guid="-KraJy21zB0MapVXZtvcAfw" changeDate="2019-10-29T09:27:54.000-0400">
+  <mainDescription>&lt;p>
+    Project documentation is a key activity in project management. It carries through from the start of a project to its
+    completion.
+&lt;/p>
+&lt;p>
+    Project documentation:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        sharpens thinking by forcing people to put vague thoughts and plans into words
+    &lt;/li>
+    &lt;li>
+        crystallises planning
+    &lt;/li>
+    &lt;li>
+        defines the project scope for approval, ensuring that all project stakeholders and project team members share the
+        same expectations on what is to be delivered and when
+    &lt;/li>
+    &lt;li>
+        provides all stakeholders with a clear picture of the project requirements
+    &lt;/li>
+    &lt;li>
+        facilitates communication with internal and external groups
+    &lt;/li>
+    &lt;li>
+        provides a baseline for monitoring and controlling a project’s progress
+    &lt;/li>
+    &lt;li>
+        provides a record of important decisions
+    &lt;/li>
+    &lt;li>
+        provides the information required by official audits
+    &lt;/li>
+    &lt;li>
+        supports organisational memory and acts as a historical reference, which can be used to increase the chances of
+        success of future projects
+    &lt;/li>
+&lt;/ol>
+&lt;p align=&quot;justify&quot;>
+    Project documentation should of course, adhere to the quality standards of the organisation and the project regarding
+    format, style, etc. However, above all, it should add value fulfilling its purpose and be clear and easy to understand.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

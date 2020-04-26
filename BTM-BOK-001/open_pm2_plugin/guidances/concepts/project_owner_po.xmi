@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f9eI8JBta0mFMvF0PaBtTQ" name="new_concept,_eiWdwOuZEemEHK-rYivsHg" guid="-f9eI8JBta0mFMvF0PaBtTQ" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:03:06.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The Project Owner (PO) is the client of the project, and as such sets the business objectives and ensures that project
+    outcomes are in line with business objectives and priorities. As the key Directing Layer role from the requestor side,
+    the Project Owner (PO) is accountable for the overall project’s success, and later becomes the owner of the project’s
+    outputs (product or service).
+&lt;/p>
+&lt;p>
+    &lt;strong>Responsibilities:&lt;/strong>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Acts as the project champion, promoting the project’s success
+    &lt;/li>
+    &lt;li>
+        Chairs the Project Steering Committee (PSC)
+    &lt;/li>
+    &lt;li>
+        Provides leadership and strategic direction to the Business Manager (BM) and Project Manager (PM)
+    &lt;/li>
+    &lt;li>
+        Sets the business objectives and defines the Business Case for the project
+    &lt;/li>
+    &lt;li>
+        Owns the overall project risks and ensures that project outcomes are in line with business objectives and
+        priorities
+    &lt;/li>
+    &lt;li>
+        Mobilises the resources necessary for the project, in accordance with the agreed budget
+    &lt;/li>
+    &lt;li>
+        Regularly monitors project progress
+    &lt;/li>
+    &lt;li>
+        Coordinates the resolution of escalated issues and conflicts
+    &lt;/li>
+    &lt;li>
+        Drives organisational change and monitors proper evolution and change implementation
+    &lt;/li>
+    &lt;li>
+        Approves and signs-off on key management milestone artefacts (Project Handbook, Project Management Plans, Business
+        Implementation Plan, etc.).
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

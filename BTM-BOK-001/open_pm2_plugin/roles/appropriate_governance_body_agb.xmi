@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-h6S9Kn5BhErcAe_PVZiCCw" name="appropriate_governance_body,_m3AZsIrwEem8zIo4sBy82g" guid="-h6S9Kn5BhErcAe_PVZiCCw" changeDate="2019-07-10T01:54:19.000-0400">
+  <mainDescription>&lt;p>
+    This&amp;nbsp;body is the organization's&amp;nbsp;top management level composed of one or more committees and&amp;nbsp;responsible
+    for the determination of&amp;nbsp;corporate vision and strategy. It is at this level that priorities are defined,
+    investment decisions made and resources allocated.
+&lt;/p>
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

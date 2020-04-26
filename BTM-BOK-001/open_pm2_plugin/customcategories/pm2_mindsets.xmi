@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-q6uYlhBE6CUjiX18cxMRqg" name="pm2_mindsets,_vadOIOr7EemY--CKQaYIJA" guid="-q6uYlhBE6CUjiX18cxMRqg" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-13T06:13:27.000-0400" version="2.0">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The PM² Mindsets are the glue that holds the PM² processes and practices together. They provide a common set of beliefs
+    and values for all PM² practitioners.&lt;br />
+    The PM² Mindsets:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            help project teams navigate through the complexities of project realities
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            help project teams (re)position project management goals in a wider organisational context
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            remind project teams what is important for project success
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            are useful reminders of effective attitudes and behaviours.&lt;br />
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

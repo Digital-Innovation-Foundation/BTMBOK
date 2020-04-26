@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YUY-qyAtYUbTsXiBIljUyA" name="new_concept,_aQOEwOuaEemEHK-rYivsHg" guid="-YUY-qyAtYUbTsXiBIljUyA" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:04:03.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The Project Manager (PM) oversees the project on a daily basis and is responsible for delivering high-quality results
+    within the identified objectives and constraints, ensuring the effective use of the allocated resources. More widely,
+    the Project Manager’s (PM) responsibility also includes risk and issue management, project communication and
+    stakeholder management.
+&lt;/p>
+&lt;p>
+    &lt;strong>Responsibilities:&lt;/strong>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Executes the project plans as approved by the Project Steering Committee (PSC)
+    &lt;/li>
+    &lt;li>
+        Coordinates the Project Core Team (PCT), ensuring the effective use of the allocated resources
+    &lt;/li>
+    &lt;li>
+        Ensures that project objectives are achieved within the identified constraints, taking preventive or corrective
+        measures where necessary
+    &lt;/li>
+    &lt;li>
+        Manages stakeholder expectations
+    &lt;/li>
+    &lt;li>
+        Oversees the creation of all management artefacts (except the Project Initiation Request, Business Case and
+        Business Implementation Plan) and secures approval from the Project Owner (PO) or the Project Steering Committee
+        (PSC)
+    &lt;/li>
+    &lt;li>
+        Ensures the controlled evolution, of products delivered, through proper change management
+    &lt;/li>
+    &lt;li>
+        Performs risk management activities for project-related risks
+    &lt;/li>
+    &lt;li>
+        Monitors project status and reports to the Project Steering Committee (PSC) on project progress at regular
+        predefined intervals
+    &lt;/li>
+    &lt;li>
+        Escalates unresolvable project issues to the Project Steering Committee (PSC)
+    &lt;/li>
+    &lt;li>
+        Liaises between the Directing and Performing Layers of the project.
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

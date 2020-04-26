@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Zqa056hw2yva0eeWRTti_Q" name="new_concept,_J9MXoOuZEemEHK-rYivsHg" guid="-Zqa056hw2yva0eeWRTti_Q" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T02:57:48.000-0400">
+  <mainDescription>The Project Steering Committee (PSC) comprises the four roles in the Managing and Directing Layers, providing a balanced
+mix of requestor- and provider-side representatives. Other roles can also participate as per the project’s needs. 
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;&quot; src=&quot;resources/PSC900x397.png&quot; width=&quot;600&quot; height=&quot;350&quot; />&lt;br />
+    &lt;br />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig 1&lt;/strong> Project Steering Committee (PSC): Permanent and indicative optional roles
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Project Steering Committee (PSC) is chaired by the Project Owner (PO) and is the key decision-making and
+    issue-resolution body for the project. Any significant decisions that may affect the project or the team’s ability to
+    deliver on the objectives will be escalated to the Project Steering Committee (PSC). Approval of key documents,
+    resolution of important project issues or significant change requests will be discussed and decided upon here.
+&lt;/p>
+&lt;h5 align=&quot;justify&quot;>
+    Responsibilities
+&lt;/h5>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Champions the project and raises awareness of it at a senior level
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Guides and promotes the successful execution of the project at a strategic level, keeping the project focused
+            on its objectives
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Ensures adherence to the organisation’s policies and rules (e.g. IT governance, data protection, information
+            security, document management, etc.)
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Provides high-level monitoring and control of the project
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Authorises transition between Phases (unless this is performed by the Appropriate Governance Body, AGB)
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Authorises deviations and scope changes with a high project impact and has the final say on decisions
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Deals with escalated issues and conflicts
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Drives and manages organisational change related to the project’s outcomes
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Approves and signs off key management milestone artefacts
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;h5>
+    Optional Project Steering Committee (PSC) members
+&lt;/h5>
+&lt;p>
+    People with other roles can also participate in the Project Steering Committee (PSC) as per the project’s needs. Some
+    indicative roles are listed in the table below.
+&lt;/p>
+&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;100%&quot; summary=&quot;Roles&quot; border=&quot;1&quot;>
+    &lt;tbody>
+        &lt;tr>
+            &lt;th scope=&quot;col&quot; abbr=&quot;&quot;>
+                &lt;h5 align=&quot;center&quot;>
+                    Roles
+                &lt;/h5>
+            &lt;/th>
+            &lt;th scope=&quot;col&quot; abbr=&quot;&quot;>
+                &lt;h5 align=&quot;center&quot;>
+                    Description
+                &lt;/h5>
+            &lt;/th>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                User Representative (UR)
+            &lt;/td>
+            &lt;td>
+                Represents the interests of the project's users, ensuring that project deliverables are fit-for-purpose
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Contractor's Project Manager (CPM)
+            &lt;/td>
+            &lt;td>
+                Responsible for the outsourced parts of the project
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Architecture Office (AO)
+            &lt;/td>
+            &lt;td>
+                Plays an advisory role on architectural aspects of IT projects
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Project Support Office (PSO)
+            &lt;/td>
+            &lt;td>
+                &lt;p>
+                    Administers Project Steering Committee (PSC) meetings and project documentation. Produces
+                    consolidatedreports for large projects
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Project Quality Assurance (PQA)
+            &lt;/td>
+            &lt;td>
+                Responsible for quality assurance and auditing
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Document Management Officer (DMO)
+            &lt;/td>
+            &lt;td>
+                Ensures the coherent implementation of document management roles
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Data Protection Coordinator (DPC)
+            &lt;/td>
+            &lt;td>
+                Consults and advises on data protection issues
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                Local Information Security Officer (LISO)
+            &lt;/td>
+            &lt;td>
+                Consults and advises on security issues
+            &lt;/td>
+        &lt;/tr>
+    &lt;/tbody>
+&lt;/table>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Tab 1&lt;/strong> Indicative optional roles in Project Steering Committee (PSC)
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

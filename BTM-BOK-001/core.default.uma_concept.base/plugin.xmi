@@ -88,7 +88,9 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_WCguRe8KEdmKSqa_gSYthg" name="Tools" guid="_WCguRe8KEdmKSqa_gSYthg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_WCguRu8KEdmKSqa_gSYthg" name="StandardCategories" guid="_WCguRu8KEdmKSqa_gSYthg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_WCguR-8KEdmKSqa_gSYthg" name="CustomCategories" guid="_WCguR-8KEdmKSqa_gSYthg">
-          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_WCguSO8KEdmKSqa_gSYthg" name="Hidden" guid="_WCguSO8KEdmKSqa_gSYthg"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_WCguSO8KEdmKSqa_gSYthg" name="Hidden" guid="_WCguSO8KEdmKSqa_gSYthg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7PR1UIdiEeqwxpuomiZLaQ" name="Custom Categories" guid="_7PR1UIdiEeqwxpuomiZLaQ"/>
+          </childPackages>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_WCguSu8KEdmKSqa_gSYthg" name="CoreContent" guid="_WCguSu8KEdmKSqa_gSYthg">

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Rijc5XVvdkWjBeqTEI8gjg" name="new_concept,_qeigwOuKEemEHK-rYivsHg" guid="-Rijc5XVvdkWjBeqTEI8gjg" changeDate="2020-03-29T01:44:23.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    PM² recognises the complex and uncertain nature of many types of project and the positive contribution of the Agile way
+    of thinking to their effective management.&amp;nbsp; Agile approaches meet various challenges, which often grow with the
+    size of the organisations in which they are applied. These challenges may include coordination between Agile and
+    non-Agile teams, compliance with various organisational governance and audit requirements, and organisational
+    architecture and interoperability constraints.
+&lt;/p>
+&lt;h5>
+    What is Agile Project Management?
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    Agile project management is&amp;nbsp;an approach to managing projects based on a specific set of principles and practices,
+    which promote adaptive planning, evolutionary development, early incremental delivery and continuous improvement. It
+    encourages rapid and flexible responses to change.&lt;br />
+    Agility takes into account the inherent uncertainty of the project environment and creates an organisation that is
+    highly adaptive. It uses short feedback loops to allow for rapid responses to changes in product requirements and for
+    ongoing improvements to processes.
+&lt;/p>
+&lt;h5 align=&quot;justify&quot;>
+    Characteristics of Agile Project Management
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    The following are&amp;nbsp;key characteristics of Agile Project Management:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            a focus on delivering value early on and frequently throughout a project
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            decisions made based on what is known
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            close cooperation among all parties involved
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            continuous stakeholder involvement at all levels
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            involving team members in planning
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            incremental development with short cycles
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            scope management through the continuous (re)prioritisation of tasks
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            embracing change, continuous learning and improvement
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            just enough documentation and control.
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;justify&quot;>
+    PM² provides a structure that helps Agile teams achieve the desired agility while still accommodating tight procurement
+    and audit requirements, good coordination with programme and portfolio levels, and collaboration with other projects,
+    contractors, other organisational units and external organisationsPM² and Agile Management.
+&lt;/p>
+&lt;h5 align=&quot;justify&quot;>
+    Challenges associated with Agile approaches
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    &amp;nbsp;Agile approaches face various challenges, which grow with the size of the organisations in which they are
+    applied. In the case of many organisations, these challenges includethe following:&amp;nbsp;
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            coordination between Agile and non-Agile teams
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            compliance with various organisational governance and audit requirements
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            organisational architecture and interoperability constraints.
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;Ag 1&quot; src=&quot;resources/fAgile800x124.png&quot; width=&quot;800&quot; height=&quot;124&quot; />&lt;br />
+    &lt;img alt=&quot;AC&quot; src=&quot;resources/agile cycle200x239.png&quot; width=&quot;200&quot; height=&quot;239&quot; />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig.1&lt;/strong> From project phases to daily cycles
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Agile extension to PM² incorporates Agile into the overall PM² framework and creates the foundations for moving
+    towards increased project management and organisational agility. It helps project teams achieve the desired level of
+    agility while accommodating tight procurement and audit requirements, coordination with the programme and portfolio
+    levels, and collaboration with other projects, contractors, other organisational units and even external organisations.
+&lt;/p>
+&lt;h5 align=&quot;justify&quot;>
+    What does the Agile extension&amp;nbsp;to PM² provide for IT projects?
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    This approach provides the following:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Agile roles &amp;amp; responsibilities (as an extension to the PM² governance).
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            integration with the overall PM² project lifecycle.
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            a set of suggested Agile PM² Artefacts (as an extension to the PM² Artefacts).&lt;br />
+            &lt;br />
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-V1JoaIBwPSwMxVQOmRS63Q" name="new_concept,_fkpDUKzyEemvwrP7A8OV1Q" guid="-V1JoaIBwPSwMxVQOmRS63Q" changeDate="2019-07-22T10:38:13.000-0400">
+  <mainDescription>&lt;p>
+    The administrative closure of a project consists in following activites:
+&lt;/p>
+&lt;p>
+    1. The Project Manager( PM) ensures that project deliverables are accepted by&amp;nbsp; the Project Owner (PO)&amp;nbsp;/ the
+    client by securing acceptance note if necessary
+&lt;/p>
+&lt;p>
+    2. The PM&amp;nbsp;transfers the accepted deliverables into the&amp;nbsp;custody of the client
+&lt;/p>
+&lt;p>
+    3. Helped by the Project Support Office (PSO), the PM reviews, organizes and securely archives all the project
+    documentation and records
+&lt;/p>
+&lt;p>
+    4. The PM releases resources and formally closes the project
+&lt;/p>
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

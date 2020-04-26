@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fL9JFuP3SxZ5hVd3TElHZw" name="new_concept,_QZ7HIOtwEemEHK-rYivsHg" guid="-fL9JFuP3SxZ5hVd3TElHZw" changeDate="2020-03-28T02:52:58.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    Although project teams tend to focus their efforts on producing deliverables, it should be remembered that project
+    deliverables are merely a means to an end. The real purpose of a project is to achieve given outcomes that will yield
+    measurable benefits.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Therefore, it is important for everyone involved in managing and executing a project (managers and team members) to
+    understand the relationship between project outputs, outcomes and benefits. They must be able to identify the outputs,
+    outcomes and benefits of their projects. Without this understanding, the project participants can lose sight of the
+    project’s original purpose and produce deliverables, which are of little (or no) value to the organisation. Thus:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Project &lt;strong>outputs&lt;/strong> (deliverables) are products/services, which introduce something new (a change)
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The change results in an &lt;strong>outcome&lt;/strong>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The &lt;strong>benefits&lt;/strong> are the measurable improvements resulting from this outcome.&lt;br />
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;PR&quot; src=&quot;resources/Pjct Results_700x52.png&quot; width=&quot;700&quot; height=&quot;52&quot; />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig&amp;nbsp;1&lt;/strong> Project outputs, outcomes and benefits
+&lt;/p>
+&lt;p class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>&lt;strong>Note&lt;/strong>: project outcomes and benefits are often
+    realised only after the project has closed. The table below illustrates this with a simple example:&lt;/span>&lt;br
+    class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm&quot; />
+    &lt;br />
+&lt;/p>
+&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;100%&quot; summary=&quot;Project results&quot; border=&quot;1&quot;>
+    &lt;tbody>
+        &lt;tr>
+            &lt;th scope=&quot;row&quot; abbr=&quot;&quot;>
+                Project Output
+            &lt;/th>
+            &lt;td>
+                Adoption of the PM² Methodology within an organisation
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;th scope=&quot;row&quot; abbr=&quot;&quot;>
+                Project Outcomes
+            &lt;/th>
+            &lt;td>
+                &lt;ul>
+                    &lt;li>
+                        Increased project quality
+                    &lt;/li>
+                    &lt;li>
+                        Improved visibility of project objectives, status and forecasts
+                    &lt;/li>
+                    &lt;li>
+                        Capability to have better control over contractor work and deliverables
+                    &lt;/li>
+                &lt;/ul>
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;th scope=&quot;row&quot; abbr=&quot;&quot;>
+                Project Benefits
+            &lt;/th>
+            &lt;td>
+                &lt;ul>
+                    &lt;li>
+                        Project cost overruns decreased by 30%
+                    &lt;/li>
+                    &lt;li>
+                        Productivity increased by 30%
+                    &lt;/li>
+                &lt;/ul>
+            &lt;/td>
+        &lt;/tr>
+    &lt;/tbody>
+&lt;/table>
+&lt;br />
+&lt;br />
+ 
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Tab 1&lt;/strong> Project outputs, outcomes and benefits
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

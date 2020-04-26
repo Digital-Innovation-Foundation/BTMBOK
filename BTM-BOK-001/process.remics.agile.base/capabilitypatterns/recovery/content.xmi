@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-D2u7uuFMne-E43n1klsPgA" name="collect_the_code,_mYyugEkZEeK7P-8D6a3Ujw" guid="-D2u7uuFMne-E43n1klsPgA">
+    <refinedDescription>&lt;H3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&lt;SPAN lang=EN-GB>Collect the Code&lt;/SPAN>&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>The first activity in the recover activity area is to gather the code of those components designated to be reengineered through the recovery process. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TA4fsDIbiuKgIXohJPBghg" name="customer_reviews,_mYyugUkZEeK7P-8D6a3Ujw" guid="-TA4fsDIbiuKgIXohJPBghg">
+    <refinedDescription>&lt;h3>&#xD;
+    Customer Reviews&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Customer reviews generated models and requirements during sprint execution as soon as a part of a model is ready. The&#xD;
+    reviews might be needed in case that the recovered part of the code needs clarification. The reviews are held as&#xD;
+    informal meetings with analysts and/or developers.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gxnT8y1m2ACOJhdVQxpDHw" name="generate_system_model,_mYyugkkZEeK7P-8D6a3Ujw" guid="-gxnT8y1m2ACOJhdVQxpDHw">
+    <refinedDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>Generate System Model&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>With the refined system knowledge representation (KDM) the next&#xD;
+    step will be the generation of the UML representation of the system knowledge. UML in contrast to KDM, is a modelling&#xD;
+    language familiar to analyst and programmers. KDM is an abstract representation of the system knowledge that can be&#xD;
+    placed in the middle way from the code to the UML models.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ykv7_70T5vszqbMCjK8uEw" name="generate_system_requirement,_mYyug0kZEeK7P-8D6a3Ujw" guid="-Ykv7_70T5vszqbMCjK8uEw">
+    <refinedDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>Recover System Requirements&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>With the refined system knowledge representation (KDM) the next&#xD;
+    step will be the generation of the requirements out from the system knowledge. These requirements will be represented&#xD;
+    using the RSL (Requirement Specification Language) approach. RSL propose to describe the requirements of the system&#xD;
+    with a combination of use case models, scenario description language and domain models.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-OcbkmCSGuIZBjgCS3e-Ekg" name="recover_application_testing,_mYyuhUkZEeK7P-8D6a3Ujw" guid="-OcbkmCSGuIZBjgCS3e-Ekg">
+    <refinedDescription>&lt;h3 style=&quot;MARGIN: 0cm 0cm 6pt&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>Recover System Testing&lt;/span>&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>With the refined system knowledge representation (KDM) the next&#xD;
+    step will be the generation of the testing out from the system knowledge. These testing procedures will be focused in&#xD;
+    the validation of the requirement extracted in other activity of this activity area.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kBHZnB-2q2fH_y-mtVIKdw" name="recover_system_knowledge,_mYyuhkkZEeK7P-8D6a3Ujw" guid="-kBHZnB-2q2fH_y-mtVIKdw">
+    <keyConsiderations>Iterative</keyConsiderations>
+    <refinedDescription>&lt;h3>&#xD;
+    Recover System Knowledge&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Once the code has been collected, the next activity is to process the code and recover the&#xD;
+    application logic, business logic, business rules, architecture, etc. out from it. This is achieved by the searching of&#xD;
+    structural statements in the code and patterns of code. These elements are then used to construct the KDM of the&#xD;
+    system. The KDM representation is a model that represents the knowledge of the system.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mw91bGNNkCILvw7NKzhJ0g" name="refine_system_knowledge,_mYyuh0kZEeK7P-8D6a3Ujw" guid="-mw91bGNNkCILvw7NKzhJ0g">
+    <keyConsiderations>&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;H3>Refine System Knowledge&lt;/H3>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN style=&quot;mso-bidi-font-family: Arial&quot; lang=EN-GB>Once we have a preliminary version of the system knowledge, this representation is analysed to find additional patterns proper of the application that can facilitate and simplify the understanding system knowledge extracted from the code.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HcyxkxazwnqJccufJLnD1w" name="system_overview,_KLgNd17SEeKFRuoPceMYcQ" guid="-HcyxkxazwnqJccufJLnD1w">
+    <refinedDescription>&lt;h3>&#xD;
+    System Overview&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The system overview redefines and extends the system idea in terms that can be understand by the development team.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZF7CCPrujH0T5a-LWTMtIg" name="legacy_code,_KLgNel7SEeKFRuoPceMYcQ" guid="-ZF7CCPrujH0T5a-LWTMtIg">
+    <refinedDescription>&lt;h3>&#xD;
+    Legacy Code&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The code that builds up the legacy system&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tc1S3jaz2_iPMRlJDG0c-Q" name="knowledge_model,_KLmUFF7SEeKFRuoPceMYcQ" guid="-tc1S3jaz2_iPMRlJDG0c-Q">
+    <refinedDescription>&lt;h3>&#xD;
+    Knowledge Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the abstract representation of the legacy code. It is representated in an intermediate format between UML and the&#xD;
+    legacy code.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WUszZ_I9SB8y_lqL1VvCYg" name="recovered_system_requirements,_KLmUGl7SEeKFRuoPceMYcQ" guid="-WUszZ_I9SB8y_lqL1VvCYg">
+    <refinedDescription>&lt;h3>&#xD;
+    Recovered System Requirements&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    These are a set of requirements that were implemented in the legacy system and should continue to be implemented in the&#xD;
+    new one. They include the validation criteria.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-vEndyqyar2becvFZOe0Qhg" name="prepare_and_demo_product_backlog,_MDkiUF7SEeKFRuoPceMYcQ" guid="-vEndyqyar2becvFZOe0Qhg">
+    <refinedDescription>The requirements product backlog is prepared by the product owner of the requirements scrum together with an analyst with&#xD;
+knowledge and experience of interoperability issues. The backlog contains the main functional modules of the components&#xD;
+that are going to be implemented from scratch. The backlog also contains the interoperability areas which will affect the&#xD;
+new components. The requirements product backlog is presented to the team on a short meeting.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_opik8vYu-W8yaBDbvGaMw" name="scrum_demo_and_retrospective,_MDqo8F7SEeKFRuoPceMYcQ" guid="-_opik8vYu-W8yaBDbvGaMw">
+    <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uwq0-uzMSJlcdnn2KTTopw" name="sprint_planning,_MDqo8V7SEeKFRuoPceMYcQ" guid="-uwq0-uzMSJlcdnn2KTTopw">
+    <refinedDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
+backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--8efKk1Ja863p4Du41hQxQ" name="additional_system_requirements,_MDqo9l7SEeKFRuoPceMYcQ" guid="--8efKk1Ja863p4Du41hQxQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Additional System Requirements&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The migration of a new system in most of the cases supposes an opportunitiy to introduce changes in the resulting new&#xD;
+    system over the previous one. These new or modified requirements where not present in the legacy system and therefore&#xD;
+    it is not possible to recover them from the analisis of the previous system.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-j5OukIMLkYNE_dCBJ7Bfuw" name="recovered_system_model,_6epAUeloEeKXeuh9rEjGtw" guid="-j5OukIMLkYNE_dCBJ7Bfuw">
+    <refinedDescription>&lt;h3>&#xD;
+    Recovered System Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the UML representation of the knowledge model (KDM) extracted from the legacy code&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dQr22IHWfD8l964nlbZOqw" name="sprint_review.extends,_umH0YPOTEeKoGYdq-8Z_HA" guid="-dQr22IHWfD8l964nlbZOqw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-z407M3cmMV3wkvmUZatFTg" name="recovered_testing_model,_AxI9MQDjEeOBVZ2G27rUkQ" guid="-z407M3cmMV3wkvmUZatFTg">
+    <refinedDescription>&lt;p>&#xD;
+    Recovered Testing Model&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is the testing procedures and testing cases recovered from the legacy testing code&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-68elQM0o7LWlAbWjWA4heQ" name="recovery_team,_LY4rgQpFEeOBM7QWB5hbCw" guid="-68elQM0o7LWlAbWjWA4heQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Recovery Team&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the scrum team in charge of the recovery&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NW-ffuQkIXK_Pvgi0l6uxA" name="product_owner,_LZFf0QpFEeOBM7QWB5hbCw" guid="-NW-ffuQkIXK_Pvgi0l6uxA">
+    <refinedDescription>&lt;h3>&#xD;
+    Product Owner&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Product Owner is responsible for maximizing the value of the product and the work of the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/roles/development_team_2BE2D5BF.html&quot;&#xD;
+    guid=&quot;_EChNoBC0EeGhfJHCQDJMKQ&quot;>Development Team&lt;/a>. How this is done may vary widely across organizations, Scrum&#xD;
+    Teams, and individuals.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Product Owner is the sole person responsible for managing the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/workproducts/product_backlog_68345C16.html&quot;&#xD;
+    guid=&quot;_OZIPIOF8Edyp34pwdTOSVQ&quot;>Product Backlog&lt;/a>. Product Backlog management includes:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Clearly expressing Product Backlog items;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ordering the items in the Product Backlog to best achieve goals and missions;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensuring the value of the work the Development Team performs;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will&#xD;
+        work on next; and,&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensuring the Development Team understands items in the Product Backlog to the level needed.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    The Product Owner may do the above work, or have the Development Team do it. However, the Product Owner remains&#xD;
+    accountable.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Product Owner is one person, not a committee. The Product Owner may represent the desires of a committee in the&#xD;
+    Product Backlog, but those wanting to change a backlog item’s priority must convince the Product Owner.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For the Product Owner to succeed, the entire organization must respect his or her decisions. The Product Owner’s&#xD;
+    decisions are visible in the content and ordering of the Product Backlog. No one is allowed to tell the Development&#xD;
+    Team to work from a different set of requirements, and the Development Team isn’t allowed to act on what anyone else&#xD;
+    says.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-RwUAf6Bo7OphDy8tk776xQ" name="requirements_model,_LZGG4gpFEeOBM7QWB5hbCw" guid="-RwUAf6Bo7OphDy8tk776xQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Requirement Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This is an agregated deliverable that holds the information about the system and the addtional requirements from the&#xD;
+    requirements practices, it also includes the information about the recovered requirements and the validation&#xD;
+    procedures&amp;nbsp;defined in the validation phase.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5A_I_L2YPEFEf29QCJANqg" name="tool_expert,_LZLmcgpFEeOBM7QWB5hbCw" guid="-5A_I_L2YPEFEf29QCJANqg">
+    <refinedDescription>&lt;h3>&#xD;
+    Tool Expert&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    It is the person with expertice in the tools to be used&amp;nbsp; during the migration&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-JGtSauDSd3i_OLhcDmyQWA" name="product_backlog,_QKUkwQpGEeOBM7QWB5hbCw" guid="-JGtSauDSd3i_OLhcDmyQWA">
+    <refinedDescription>&lt;h3>&#xD;
+    Product Backlog&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of&#xD;
+    requirements for any changes to be made to the product. The Product Owner is responsible for the Product Backlog,&#xD;
+    including its content, availability, and ordering.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A Product Backlog is never complete. The earliest development of it only lays out the initially known and&#xD;
+    best-understood requirements. The Product Backlog evolves as the product and the environment in which it will be used&#xD;
+    evolves. The Product Backlog is dynamic; it constantly changes to identify what the product needs to be appropriate,&#xD;
+    competitive, and useful. As long as a product exists, its Product Backlog also exists.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to&#xD;
+    be made to the product in future releases. Product Backlog items have the attributes of a description, order, and&#xD;
+    estimate.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Product Backlog is often ordered by value, risk, priority, and necessity. Top-ordered Product Backlog items drive&#xD;
+    immediate development activities. The higher the order, the more a Product Backlog item has been considered, and the&#xD;
+    more consensus exists regarding it and its value.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Higher ordered Product Backlog items are clearer and more detailed than lower ordered ones. More precise estimates are&#xD;
+    made based on the greater clarity and increased detail; the lower the order, the less detail. Product Backlog items&#xD;
+    that will occupy the Development Team for the upcoming Sprint are fine-grained, having been decomposed so that any one&#xD;
+    item can be “Done” within the Sprint time-box. Product Backlog items that can be “Done” by the Development Team within&#xD;
+    one Sprint are deemed “ready” or “actionable” for selection in a Sprint Planning Meeting.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As a product is used and gains value, and the marketplace provides feedback, the Product Backlog becomes a larger and&#xD;
+    more exhaustive list. Requirements never stop changing, so a Product Backlog is a living artifact. Changes in business&#xD;
+    requirements, market conditions, or technology may cause changes in the Product Backlog.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Multiple Scrum Teams often work together on the same product. One Product Backlog is used to describe the upcoming work&#xD;
+    on the product. A Product Backlog attribute that groups items is then employed.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Product Backlog grooming is the act of adding detail, estimates, and order to items in the Product Backlog. This is an&#xD;
+    ongoing process in which the Product Owner and the Development Team collaborate on the details of Product Backlog&#xD;
+    items. During Product Backlog grooming, items are reviewed and revised. However, they can be updated at any time by the&#xD;
+    Product Owner or at the Product Owner’s discretion.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Grooming is a part-time activity during a Sprint between the Product Owner and the Development Team. Often the&#xD;
+    Development Team has the domain knowledge to perform grooming itself. How and when grooming is done is decided by the&#xD;
+    Scrum Team. Grooming usually consumes no more than 10% of the capacity of the Development Team.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Development Team is responsible for all estimates. The Product Owner may influence the Development Team by helping&#xD;
+    understand and select trade-offs, but the people who will perform the work make the final estimate.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Monitoring Progress Toward a Goal&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    At any point in time, the total work remaining to reach a goal can be summed. The Product Owner tracks this total work&#xD;
+    remaining at least for every Sprint Review. The Product Owner compares this amount with work remaining at previous&#xD;
+    Sprint Reviews to assess progress toward completing projected work by the desired time for the goal. This information&#xD;
+    is made transparent to all stakeholders.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Various trend burndown, burnup and other projective practices have been used to forecast progress. These have proven&#xD;
+    useful. However, these do not replace the importance of empiricism. In complex environments, what will happen is&#xD;
+    unknown. Only what has happened may be used for forward-looking decision-making.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6Eu6SYAlOcYb4aBkapmfeQ" name="actors,_QK4lcQpGEeOBM7QWB5hbCw" guid="-6Eu6SYAlOcYb4aBkapmfeQ">
+    <refinedDescription>&lt;h3>&#xD;
+    Actors&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    This deliverable enumerates any external entity human or system that is expected to interact with the future system. It&#xD;
+    is necessary to be identify the possible additional features required by them in the different phases of the system:&#xD;
+    migration, explotation, supervision and withdraval.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-rKdMsmYTV-fIQ8sXjDcRNQ" name="system_idea,_QNB6gQpGEeOBM7QWB5hbCw" guid="-rKdMsmYTV-fIQ8sXjDcRNQ">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;font size=&quot;4&quot;>&lt;strong>System Idea&lt;/strong>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The system idea is a document that contains a description of the future system mainly from the prespective of the&#xD;
+    product owner. The content of the document depends largely on the kind of system to be migrated, but among other&#xD;
+    specific issues it should address:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The new ways in which the stakeholder will interact with the new system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The parts of the system that will be migrated.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Constraints in the migration of those&amp;nbsp;parts.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FNluKGAd_GDMR9DGrg0RMg" name="system_model,_e5uCUQpPEeOBM7QWB5hbCw" guid="-FNluKGAd_GDMR9DGrg0RMg">
+    <refinedDescription>&lt;h3>&#xD;
+    System Model&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The system model includes all the models that are necessary to create and validate the new system.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-BVz8CpHiDyN_gWmmWJsYXw" name="recovery_scrum,_tzY-8TO8EeK5hZv7WCtlvg" guid="-BVz8CpHiDyN_gWmmWJsYXw"/>
+</xmi:XMI>

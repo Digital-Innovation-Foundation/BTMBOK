@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lrodP_Q41qLo2YE3HdWSaA" name="relevance_of_projects_in_organisations,_a68rUOtvEemEHK-rYivsHg" guid="-lrodP_Q41qLo2YE3HdWSaA" changeDate="2020-03-18T05:14:40.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    Every project aims to introduce a new product/service or to change an existing one. Achieving the goal is expected to
+    bring about benefits to the organisation (e.g. a new organisation-wide document management system can increase
+    productivity by introducing a new way of searching, reading and filing documents). A project can also be seen as a
+    transformational process, which turns ideas into reality.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Projects may be carried out to maintain current business operations
+    (e.g. sustain the current level of service, relationships, productivity), to transform business operations, or to
+    improve the way of working so the organisation can be more efficient in the future.&lt;/span>
+&lt;/p>
+&lt;p class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Projects start for many different reasons:&lt;/span>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>In response to a client request for a new product or
+            service.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>In response to a market demand or opportunity for a new
+            product or service.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>In response to a change in legislation or organisational
+            needs.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>In response to an audit which outlines improvements that
+            should be made.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>In response to a new product or service from a
+            competitor.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>To make use of a new technology.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>To integrate processes in the light of the merger of two or
+            more departments.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>To update an existing process.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>To relocate to new premises.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>To raise awareness on a topic.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>To provide a proof-of-concept.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>To migrate information to a new document management
+            system.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>&lt;font face=&quot;Calibri&quot;>&lt;font size=&quot;3&quot;>&lt;font size=&quot;2&quot;
+            face=&quot;Arial&quot;>To improve an existing service&lt;/font>.&lt;/font>&lt;/font>&lt;/span>
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

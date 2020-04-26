@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ojk9XNHGBB7l9UyrH25phA" name="new_supporting_material,_tAedsOxpEemPtZ5AiUOtSg" guid="-Ojk9XNHGBB7l9UyrH25phA" changeDate="2019-10-11T05:05:21.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    This section introduces a number of commonly used Project Management Tools &amp;amp; Techniques useful for dealing with
+    various project management challenges. Each Tool &amp;amp; Technique is summarised in a few paragraphs providing a simple
+    and high-level overview of that tool or technique.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Note that the set of tools presented is not an exhaustive list of Project Management Tools &amp;amp; Techniques available.
+    Relevant sources for further reading and exploration are also presented at the end of this section.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>1. PESTEL Analysis&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The PESTEL Analysis is used to understand how the environment might impact a project or an objective. PESTEL stands
+    for: Political, Economic, Social, Technological, Environmental and Legal. A PESTEL analysis helps identify the external
+    factors that influence an organisation, and therefore, could have an impact on the objectives, planning or execution of
+    projects.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    This type of analysis is particularly important in the context of business justification and risk management and will
+    feed the process of designing a plan comprehensive enough to identify and tackle potential risk scenarios
+    (threats/opportunities) arising from outside the organisation or project.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>2. Make or Buy Analysis&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    A Make or Buy Analysis helps the organisation to take an informed decision about what to outsource and what not to
+    outsource. Portfolio managers and project sponsors are often faced with the dilemma to make or buy, considering the
+    availability and skills of resources at hand.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The various factors to be considered for a Make or Buy Analysis include cost comparison, technology and business
+    processes, supplier-related information and support systems.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Potential reasons for a make decision include cost effectiveness, intellectual property concerns, quality control
+    issues or supplier unreliability issues. Potential reasons for buy decision include cost considerations, lack of
+    technical expertise, suppliers’ technical experience and/or insufficient in-house resources.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>3. Stakeholder Interest/Influence Matrix (SIIM)&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    This technique is used to facilitate and document the analysis of the interest and influence of each stakeholder in the
+    project. It is of utmost importance to know the stakeholders and their relevance for the project in order to identify
+    project champions and possible detractors. As the document makes reference to people within your organisation, care
+    should be used to keep the information confidential.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>Interest&lt;/strong> indicates the level of interest a stakeholder has for the project. Interest is measured as
+    the degree of enthusiasm displayed by the stakeholder in support of the project. Stakeholders can be positive, neutral
+    or negative towards the project.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>Influence&lt;/strong> indicates the power the stakeholder has over the planning and implementation of activities.
+    The higher a stakeholder’s power of decision, the higher their influence. Most often the person(s) who can make
+    decisions on project funding and/or resources has a high influence.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>4. Risk Likelihood/Impact Matrix&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Risk Likelihood/Impact Matrix (sometimes called the Likelihood-Impact Matrix or Risk Matrix) is used in the
+    qualitative assessment of risks, after the project risks have been identified. The matrix is designed as a tool to
+    supplement the risk log or risk register.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Risk Likelihood/Impact Matrix is based on two criteria: the likelihood that a risk will materialise and the
+    potential impact caused by the risk event. Most commonly five bands are used for each of the dimensions (also called
+    bands) of the matrix: 1=Very low, 2=Low, 3=Medium, 4=High, 5=Very high.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The two factors are then combined by multiplying their values, resulting in the Risk Level. Measured on a relative
+    scale from 1 to 25, the Risk Level will trigger different risk response strategies.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The cells of the matrix are painted in different colours to indicate the criticality of the risk, typically Green for
+    low-level risks (risk level &amp;lt;=2), Yellow for medium-level risks (risk level between 3 and 16), and Red for
+    high-level risks (risk level &amp;gt;=20). Based on the risk appetite of the organisation, adequate risk-response
+    strategies can be developed for each identified risk.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>5. Work Breakdown Structure (WBS)&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    A Work Breakdown Structure (WBS) is a hierarchical division of the project into smaller work components that can be
+    used to assign work or to estimate effort and cost. A well-made Work Breakdown Structure (WBS) should be easy to
+    understand, be complete, and should facilitate progress monitoring during execution. Commonly used techniques include
+    breaking down the project by phases or stages, deliverables or outputs, by work packages, or based on the organisation,
+    its departments and business units.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Work Breakdown Structure (WBS) constitutes a good basis for the Project Manager (PM) in assigning different
+    responsibilities to team members. Each task in the structure can then be further defined: work can be estimated, risks
+    and dependencies can be identified, and resources can be mobilised.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>6. Deliverables Breakdown Structure (DBS)&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    A Deliverables Breakdown Structure (DBS) is an essential part of Product Based Planning. It can be used to identify and
+    document the deliverables of a project (both project deliverables and project management deliverables) and their
+    interdependencies. This results in a hierarchical tree of deliverables and sub-deliverables (physical, functional or
+    conceptual) that make up the entire project, which helps the project team to identify the full set of deliverables that
+    comprise the project.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    A Deliverables Breakdown Structure (DBS) is similar to a Work Breakdown Structure (WBS) but is used at a different step
+    in the planning process. The former can precede the latter and identifies the desired outputs (deliverables) which are
+    then used in the creation of the Work Breakdown Structure (WBS)—identification of tasks and activities required to
+    deliver these outputs.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    You could say that the Deliverables Breakdown Structure (DBS) defines what the project will produce (as a whole and as
+    parts), and the Work Breakdown Structure (WBS) defines the work needed to produce them.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>7. Effort and Cost Estimates&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Effort and Cost Estimates technique derives from the Work Breakdown Structure (WBS): each work item (task) is
+    estimated in terms of effort and cost. Effort is typically measured in person days or person months. This work is done
+    in close cooperation with the task owners or other experts within the Project Core Team (PCT), to ensure more precise
+    estimates and buy-in from the team members in charge of executing the work.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    A high-quality Work Breakdown Structure (WBS) forms the basis for high-quality estimates.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>8. Three-Point Estimates&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Three-Point Estimate is commonly used, in conjunctions with Network Diagrams, to provide a weighted average of
+    activity duration or cost. It is primarily a quantitative risk assessment technique that makes use of a stochastic
+    approach rather than a deterministic one (e.g. single point estimates). The expected duration/cost and standard
+    deviation of a project’s duration or cost is calculated based on three data points, namely an optimistic estimate of
+    duration or cost, a most likely estimate and a pessimistic estimate. These estimates are then weighed to provide a
+    weighted average of the effort, cost or duration.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    In addition, these estimates can be used to calculate a standard deviation, to estimate confidence levels of the
+    weighted average per activity, and to build simple statistical models of a task’s time and cost. This method can be
+    applied to forecast and mitigate risk and to assign buffers/contingencies to tasks. Nowadays, numerous Project
+    Management Software, can perform automated calculation of the above through modelling and simulation (e.g.&amp;nbsp; by
+    using the Beta-PERT distribution).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Involving experts increases the accuracy of the three-point estimates and reduces the degree of uncertainty of the
+    project.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>9. Decision Trees&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The decision tree is a visual decision support tool, consisting of nodes and branches that helps us describe possible
+    alternatives (paths) by representing choices, and events with different likelihood of occurrence. It uses three types
+    of nodes: (a) Decision nodes (represented by squares) (b) Chance nodes (represented by circles) and (c) End nodes
+    (represented by triangles).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    In decision tree analysis (primarily being performed during project risk management), the decision tree is principally
+    used in conjunction with the Expected Monetary Value (EMV) where we compute the EMV of each alternative (branch) and
+    thus select the most favourable one. The decision tree analysis can also be performed by creating a stochastically
+    determined structure and then simulate the outcomes (e.g. through Monte Carlo simulation), in order to derive to
+    probability-based decisions.&amp;nbsp;
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>10. Project Scheduling&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Project Scheduling aims to identify dependencies between tasks, to assign resources for each task, to identify task
+    start and end dates, and to work out the overall project duration.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Scheduling can be done for the entire project upfront or for portions thereof, such as individual stages or iterations.
+    Different scheduling methods and representations can be used: a list of dates/deadlines, a milestone plan, bar charts,
+    network diagrams and linked bar charts (Gantt charts), all of which can be seen complementary to each other.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Once approved, the project schedule is baselined and any further change to the schedule needs to follow the change
+    management process and the corresponding governance arrangements.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>11. Resource Levelling&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Resource Levelling is a technique used to analyse the unbalanced use of project resources and to resolve conflicts
+    related to resource allocation (i.e. human resources, material or equipment).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Resource Levelling focuses on an efficient/optimal resource allocation in order for the project to be completed within
+    the defined timeline. Project Managers (PMs) analyse dependencies between projects or activities to ensure that
+    activities can be executed in a timely manner. Taking into account the identified constraints, Resource Levelling can
+    be performed. Resource Levelling can for example require the delay of specific tasks until resources are available,
+    resource reallocation etc.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>12. Gantt Charts&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    A Gantt Chart is a common project management tool used to represent the schedule, phases and activities of a project in
+    a single visual (generally a type of horizontal bar chart). It focuses on project sequence, duration, dependencies and
+    status in a manner that is easy to understand.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    A Gantt Chart represents the order in which activities need to be carried out and provides an overview of the progress
+    that has been achieved at any point in time. A Gantt Chart is used to communicate a project schedule in a visual way
+    but is also used to show progress made and current schedule status by adding percent-complete shadings and a vertical
+    “today” line. The main strength of this technique is the ability to clearly display the status of each activity at a
+    glance.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>13. Critical Path Method (CPM)&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Critical Path Method (CPM) is a modelling technique that uses a mathematically based algorithm to calculate the
+    total duration of a project. It calculates the longest necessary path (i.e. the longest unavoidable duration) of
+    planned activities from beginning to the end of the project, otherwise known as the critical path of the project. This
+    technique helps to understand which activities have a critical influence on the overall duration of the project.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Since the critical path represents the longest necessary path of activities, it also represents the shortest possible
+    duration of the project to completion. Based on this information, activities can be prioritised in order to shorten the
+    duration of the critical path by pruning the critical path activities, performing more activities in parallel or adding
+    more resources.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>14. Critical Chain Method (CCM)&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Critical Chain Method (CCM) is a modelling technique used to plan and schedule a set of activities or projects. It
+    is similar to the Critical Path Method (CPM), but takes into account resources and their levelling, as well as the
+    behaviour of the Project Manager (PM) when estimating the duration of project activities.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The technique is based on the observation that activity time estimates for projects are close to double the time
+    required to complete the activities. Reasons that lead to a delay can include not taking advantage of the early finish
+    of an activity, pacing of the team members to fill the time available for the completion of a task, waiting until the
+    last moment to really focus on the task at hand, etc.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Critical Chain Method (CCM) assumes that a Project Manager’s (PM) estimates of duration for activities are padded,
+    and immediately proceeds to reduce them. Additional buffers (project buffer, feeding buffer, resource buffer) are then
+    added to account for the reduction in project estimates.
+&lt;/p>
+&lt;p>
+    &lt;strong>15. Earned Value Management (EVM)&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Earned Value Management (EVM) is a technique used to monitor and control the performance of projects, providing an
+    objective view of performance based on the project financials. Both cost and value are measured in terms of cost units
+    (e.g. person days or euro). Earned Value Management (EVM) provides relatively objective metrics—or key performance
+    indicators (KPIs)—to proactively manage project performance. Some indicators reflect on progress made so far, or
+    deviations from the plan from a cost or work value point of view, while other indicators focus on forecasting total
+    budget deviation, or on the productivity levels required to complete the project on schedule.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The principal metrics being used are the Planned Value (PV), also known as Budgeted Cost of Work Scheduled (BCWS), the
+    Actual Cost (AC), also known as Actual Cost of Work Performed (AVWP) and the Earned Value, also known as Budgeted Cost
+    of Work Performed (BCWP). Through the combination of the above metrics we can have various KPIs, e.g. Schedule Variance
+    (SV) and Schedule performance Index (SPI), Cost Variance (CV) and Cost Performance Index (CPI) or even more advanced
+    ones for forecasting future project performance, like the Estimate at Completion (EAC), the Estimate to Complete (ETC)
+    and the To Complete Performance Index (TCPI).
+&lt;/p>
+&lt;p>
+    &lt;strong>16. Pareto Analysis&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Pareto Analysis is a formal technique to identify those issues that cause the majority of problems in a project.
+    The Pareto principle states that generally 80% of the effects come from 20% of the causes (e.g. 80% of costs may be
+    attributed to 20% of activities or 80% of risk effects may arise from just 20% of identified risks).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    By focusing on these top issues (the 20%), the Pareto Analysis can be useful for risk or quality management as it helps
+    to focus on those risks or quality issues with the highest impact on a project, therefore facilitating the
+    prioritisation of necessary mitigation or contingency actions.
+&lt;/p>
+&lt;p>
+    &lt;strong>17. Lessons Learned&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Capturing Lessons Learned is a way of identifying areas for development/improvement within a project for the purpose of
+    helping similar projects avoid certain pitfalls in the future. Information that can be captured includes Lessons
+    Learned from the management of risks, quality issues, outsourcing or contractor issues, change requests, etc.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The project team can capture ideas through brainstorming sessions, reviewing project reports and logs, sending project
+    questionnaires, etc., during the lifecycle of the project. The Project Manager (PM) will group and prioritise Lessons
+    Learned in order to understand key potential improvement areas.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    To avoid making the same mistakes twice, Lessons Learned should be shared with other project managers. In some cases,
+    Lessons Learned can lead to process improvements, enhanced checklists and templates, or more effective training
+    courses.&lt;br />
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

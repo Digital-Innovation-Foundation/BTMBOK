@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hmJf9Hy5tTSLfgK6wxv1WA" name="new_concept,_Vml6kOsTEemY--CKQaYIJA" guid="-hmJf9Hy5tTSLfgK6wxv1WA" changeDate="2020-03-17T06:51:50.000-0400">
+  <mainDescription>&lt;p>
+    The PM² Guide's audience comprises the following groups:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        Entry-level Project Managers (PMs)
+    &lt;/li>
+    &lt;li>
+        Experienced Project Managers (PMs)
+    &lt;/li>
+    &lt;li>
+        Project teams wishing to learn more about project management and the PM² Methodology
+    &lt;/li>
+    &lt;li>
+        Project team members who wish to learn more about the PM² Methodology
+    &lt;/li>
+    &lt;li>
+        Project teams that wish to start using the PM² Methodology in their projects.
+    &lt;/li>
+&lt;/ol>
+&lt;p>
+    This guide can be read from beginning to end, to learn about the methodology, or it can be used as a reference, to help
+    you as you practise PM².
+&lt;/p>
+&lt;p>
+    PM² provides:
+&lt;/p>
+&lt;p>
+    A common vocabulary (glossary) which makes it easier for project teams to communicate and apply project management
+    concepts.&lt;br />
+    Best practices - it is up to the Project Managers (PMs) and project teams to choose the PM² practices that will bring
+    most value to their projects.&lt;br />
+    A link to the Agile PM² and PM² Project Portfolio Management models. Links to PM² resources (online resources, Artefact
+    templates and examples).&lt;br />
+    &lt;br align=&quot;justify&quot; />
+    &lt;br />
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

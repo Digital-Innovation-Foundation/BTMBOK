@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7MSjxnJ8hQIk5-EXtv4dlg" name="new_concept,_W7aPoOubEemEHK-rYivsHg" guid="-7MSjxnJ8hQIk5-EXtv4dlg" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:05:37.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The Project Core Team (PCT) comprises the specialist roles responsible for creating the project deliverables. Its
+    composition and structure depend on the project size and type (e.g. IT project, policy development project, etc.) and
+    is defined by the Project Manager (PM) based on the project’s needs.
+&lt;/p>
+&lt;p>
+    &lt;strong>Responsibilities&lt;/strong>
+&lt;/p>
+&lt;p>
+    Coordinated by the Project Manager (PM), the Project Core Team (PCT):
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Participates in developing the project scope and planning project activities
+    &lt;/li>
+    &lt;li>
+        Carries out project activities based on the Project Work Plan and schedule
+    &lt;/li>
+    &lt;li>
+        Produces project deliverables
+    &lt;/li>
+    &lt;li>
+        Provides the Project Manager (PM) with information on the progress of activities
+    &lt;/li>
+    &lt;li>
+        Participates in project meetings as needed and helps resolve issues
+    &lt;/li>
+    &lt;li>
+        Participates in the Project-End Review Meeting during the collection of Lessons Learned
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;justify&quot;>
+    Aside from the specialist roles that create the project deliverables, there are two specific Project Core Team (PCT)
+    roles that deserve to be discussed in more detail from a project management point of view: the Contractor’s Project
+    Manager (CPM) and the Project Manager Assistant (PMA).
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

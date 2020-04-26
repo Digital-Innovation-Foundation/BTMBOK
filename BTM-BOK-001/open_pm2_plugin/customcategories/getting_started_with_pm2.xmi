@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N1xmW9G0nN2uIwc2s-Ozjw" name="getting_started_with_pm2,_YPGu4PNsEemO38O67PlJcw" guid="-N1xmW9G0nN2uIwc2s-Ozjw" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-31T09:55:04.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    This section contains&amp;nbsp;basic information on key PM2 concepts&amp;nbsp;such as project stakeholders, phases, activities
+    realised during each phase and associated artefacts. The project result depends on the degree of implication and
+    collaboration between project actors, from the Appropriate Governance Body (AGB), at the top management level&amp;nbsp;of
+    the firm to the project core team (PCT) via roles such as those of the project manager (PM), business manage
+    (BM)&amp;nbsp;etc.
+&lt;/p>
+&lt;p>
+    A PM² project lifecycle comprises the four (4) following phases:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        The &lt;strong>initiating phase&lt;/strong> during which&amp;nbsp;a &lt;strong>business case&lt;/strong> and a &lt;strong>project
+        charter&lt;/strong> are created.
+    &lt;/li>
+    &lt;li>
+        The &lt;strong>planning phase&lt;/strong> during which different &lt;strong>project management plans&lt;/strong> are created.
+    &lt;/li>
+    &lt;li>
+        The &lt;strong>executing phase&lt;/strong>, during which the project manager coordinates activities meant to create the
+        &lt;strong>project deliverables&lt;/strong>.
+    &lt;/li>
+    &lt;li>
+        The &lt;strong>closing phase&lt;/strong> associated whith the increase of an organisation's project management
+        maturity&amp;nbsp;by documenting the &lt;strong>lessons learned.&lt;/strong>
+    &lt;/li>
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hEJuzA4fUFBMeFe3u14_vg" name="new_concept,_1BLbEOt0EemEHK-rYivsHg" guid="-hEJuzA4fUFBMeFe3u14_vg" changeDate="2019-10-10T11:45:10.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    Projects are temporary and should therefore have a definite start and end. A project should be considered complete when
+    it is determined that its goals and objectives have been accomplished. Once this happens, the project team should be
+    disbanded.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Operations, on the other hand, comprises the ongoing day-to-day activities undertaken by a permanent organisation to
+    deliver services or products.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    However, people often find themselves involved in so-called projects that have been going on for years, working with
+    moving targets or a continuously expanded scope, which sometimes includes activities that should be classified as
+    maintenance or operations. These are situations where the projects have been allowed to either become uncontrollable,
+    or to move into operations (maintenance) mode.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    In most projects, the operations period begins after the project’s main products have been produced and accepted by the
+    client.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    How do you recognise that a project has slipped into operations mode?
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The main project deliverables have been produced and the client has accepted them
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The main project output (deliverable) is in use
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Support is provided to users
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Maintenance activities are undertaken
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Minor updates (improvements) are planned and implemented over time
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

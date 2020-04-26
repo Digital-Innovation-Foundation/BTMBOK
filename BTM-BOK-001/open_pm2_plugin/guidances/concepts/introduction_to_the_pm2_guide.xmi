@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ovWAwXusRG5OWiKWfSLDmA" name="introduction_to_the_pm2_guide,_pzbE0AsTEeq8puqX6Knz1Q" guid="-ovWAwXusRG5OWiKWfSLDmA" changeDate="2019-11-19T04:34:42.000-0500">
+  <mainDescription>&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;p>
+    &lt;strong>Who&lt;/strong> has developed the PM2 Guide?
+&lt;/p>
+&lt;p>
+    This project management standard has been produced and published by the Centre of Excellence in Project Management (CoE
+    &lt;span lang=&quot;EN-GB&quot;
+    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: PMingLiU; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA'>
+    PM²),&lt;/span> an entity of the European Commission.
+&lt;/p>
+&lt;p>
+    &lt;strong>What&lt;/strong> does the PM2 Guide provide to its users?
+&lt;/p>
+&lt;p>
+    The PM2 Guide provides&amp;nbsp;the&amp;nbsp;following to its users:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            A project governance structure&lt;br />
+            &lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Process guidelines&lt;br />
+            &lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Artefact templates&lt;br />
+            &lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Guidelines for using the artefacts&lt;br />
+            &lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            A set of effective mindsets&lt;br />
+        &lt;/div>
+    &lt;/li>
+&lt;/ol>
+&lt;p>
+    &lt;strong>When&lt;/strong> was the&amp;nbsp;Open PM2 guide&amp;nbsp;created?
+&lt;/p>
+&lt;p>
+    The current edition of the PM2 guide (v 3.0)&amp;nbsp;was published in October 2018.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>Where&lt;/strong> can the PM2 guide be successfully deployed?
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    When the Centre of Excellence in Project Management (CoEPM²) of the European Commission created this project management
+    standard, its objective was to respond to the needs of European Union institutions and projects but, any institutions
+    can also use this guide to effectively manage their projects.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>How&lt;/strong> does the use PM2 guide improve the project success?
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The PM2 guide emphasises among others&amp;nbsp;the importance of close collaboration between two groups, namely,
+    the&amp;nbsp;requestor side and the provider side. During the entire project, the requestor side (the Project Owner, the
+    Business Manager ane the Business Implementation Group) work hand in hand with the provider side (the Solution
+    Provider, the Project Manager and the Project Core team) in order to achieve the project objectives. Also important in
+    PM2 are transition and business implementation plans, plans whose execution ensures project deliverables are seemlessly
+    integrated in the client's operations.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>How many&lt;/strong> stakeholder categories&amp;nbsp;does a PM2 project have?
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Rather than instrumental, projects are &lt;a href=&quot;https://doi.org/10.1016/j.ijproman.2006.08.006&quot;>&lt;u>&lt;font
+    color=&quot;#0066cc&quot;>sociopolitical processes&lt;/font>&lt;/u>&lt;/a> in which&amp;nbsp;politics and &lt;a
+    href=&quot;https://www.crcpress.com/Tools-for-Complex-Projects/Remington-Pollack/p/book/9780566087417&quot;
+    target=&quot;_blank&quot;>&lt;u>&lt;font color=&quot;#0066cc&quot;>conflicting interests&lt;/font>&lt;/u>&lt;/a> among stakeholders are commonplace, hence
+    the importance of adopting&amp;nbsp;a&amp;nbsp;&lt;a href=&quot;https://journals.sagepub.com/doi/abs/10.1177/8756972818786663&quot;
+    target=&quot;_blank&quot;>&lt;u>&lt;font color=&quot;#0066cc&quot;>multiple stakeholder perspective&lt;/font>&lt;/u>&lt;/a>&amp;nbsp;when
+    discussing&amp;nbsp;various concepts such as project objectives and success. PM2 groups project stakeholders into
+    the&amp;nbsp;following five (5) categories or layers:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The Business Governing Layer&lt;br />
+            &lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The Steering Layer&lt;br />
+            &lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The Directing Layer&lt;br />
+            &lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The Managing Layer&lt;br />
+            &lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The Performing Layer&lt;br />
+        &lt;/div>
+    &lt;/li>
+&lt;/ol>
+&lt;p align=&quot;justify&quot;>
+    In addition to&amp;nbsp;these five&amp;nbsp;regular categories, there is another called Project Support Team
+    which&amp;nbsp;comprises
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

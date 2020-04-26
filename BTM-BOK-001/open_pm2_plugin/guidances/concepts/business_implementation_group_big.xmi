@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OQ-cX_DkVZVpl_4Up8JV0Q" name="new_concept,_CPRXwOubEemEHK-rYivsHg" guid="-OQ-cX_DkVZVpl_4Up8JV0Q" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:05:23.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The Business Implementation Group (BIG) sits on the requestor side and consists of representatives of business and user
+    groups. Coordinated by the Business Manager (BM), it is responsible for planning and implementing the business changes
+    that need to be made for the organisation to effectively integrate the project deliverables into its everyday work.
+&lt;/p>
+&lt;h5 align=&quot;justify&quot;>
+    Responsibilities
+&lt;/h5>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Analyses the impact of the project’s implementation on ongoing operations, existing business processes, staff
+            and organisational culture
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Participates in the design and updating of affected business processes
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Prepares the affected business area for the upcoming change
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Advises the Business Manager (BM) on the organisation’s readiness for change
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Embeds the project deliverables into business operations and implements the organisational change activities
+            that fall within the project’s scope.
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;h5>
+    User Representatives (URs)
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    User Representatives (URs) represent the interests of the project’s end-users and are part of the Business
+    Implementation Group (BIG). It is important to designate User Representatives (URs) and involve them throughout the
+    project, keep them up to date with developments and provide them with a sense of ownership. User Representatives (URs)
+    help define project requirements and validate them at regular intervals, ensuring that the final deliverables are fit
+    for the business purpose.
+&lt;/p>
+&lt;h5>
+    Responsibilities
+&lt;/h5>
+&lt;ul dir=&quot;ltr&quot;>
+    &lt;li>
+        &lt;div style=&quot;MARGIN-RIGHT: 0px&quot;>
+            Help define the business needs and requirements
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div style=&quot;MARGIN-RIGHT: 0px&quot;>
+            Ensure that the project specifications and deliverables meet the needs of all users
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div style=&quot;MARGIN-RIGHT: 0px&quot;>
+            Review the project specification and acceptance criteria on behalf of the users
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div style=&quot;MARGIN-RIGHT: 0px&quot;>
+            Communicate and prioritise user opinions in the Project Steering Committee (PSC) ensure that these opinions are
+            taken into consideration when decisions are made whether or not to implement a proposed change
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div style=&quot;MARGIN-RIGHT: 0px&quot;>
+            Participate in demonstrations and pilot phases as needed
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div style=&quot;MARGIN-RIGHT: 0px&quot;>
+            Perform user acceptance tests
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div style=&quot;MARGIN-RIGHT: 0px&quot;>
+            Sign off on user-related documents (requirements document, deliverable acceptance testing, etc.)
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div style=&quot;MARGIN-RIGHT: 0px&quot;>
+            Guarantee business stability during the transition towards the new operational state.&lt;br />
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

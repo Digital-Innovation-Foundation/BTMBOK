@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-O8Y60Vs4H3jppLsZiSfL9Q" name="new_concept,_GSBlcBCQEeq5fZ74P6RAQg" guid="-O8Y60Vs4H3jppLsZiSfL9Q" authors="Jean-Bosco Ntakirurimana, Miloud Eloumri" changeDate="2019-11-26T04:26:05.000-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    A Project Support Office (PSO) is an organisational body (or entity) that provides services, which support project
+    management. These can range from providing simple support functions to helping link projects to strategic goals. Not
+    all organisations have a Project Support Office (PSO).
+&lt;/p>
+&lt;p>
+    A Project Support Office (PSO) can:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        offer administrative support, assistance and training to Project Managers (PMs) and other staff
+    &lt;/li>
+    &lt;li>
+        collect, analyse and report on project progress data and information
+    &lt;/li>
+    &lt;li>
+        assist with project scheduling, resource planning, coordination and Project Management Information System (PMIS)
+        use
+    &lt;/li>
+    &lt;li>
+        maintain a central project repository (of Project Documents, Risks, Lessons Learned)
+    &lt;/li>
+    &lt;li>
+        coordinate configuration management and quality assurance activities
+    &lt;/li>
+    &lt;li>
+        monitor adherence to methodology guidelines and other organisational standards
+    &lt;/li>
+    &lt;li>
+        tailor the project management methodology to new best practices and help project teams implement the updated
+        methodology effectively.&lt;br />
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

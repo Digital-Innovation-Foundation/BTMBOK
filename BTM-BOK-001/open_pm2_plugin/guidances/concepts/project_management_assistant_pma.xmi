@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FJQeNUGdTxUUr8AOfB18yw" name="new_concept,_N1BoAOudEemEHK-rYivsHg" guid="-FJQeNUGdTxUUr8AOfB18yw" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:07:00.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    For large projects, the Project Manager (PM) might find it useful to delegate some management tasks to an assistant.
+    This Project Management Assistant (PMA) can work on a range of coordination and supportive tasks as assigned by the
+    Project Manager (PM), and acts as the Project Manager’s (PM) backup in meetings, etc. However, the Project Manager (PM)
+    remains the person responsible for all project management tasks and deliverables.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JT3HwAeb-dEulnQZZUPZgA" name="new_concept,_X3_QEOsAEemY--CKQaYIJA" guid="-JT3HwAeb-dEulnQZZUPZgA" changeDate="2019-11-27T00:30:59.000-0500">
+  <mainDescription>&lt;p>
+    The PM² Methodology is built on Project Management best practices and supported by the following four pillars:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>a project governance model (i.e. Roles &amp;amp;
+        Responsibilities)&lt;/span>
+    &lt;/li>
+    &lt;li>
+        &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>a project lifecycle (i.e. Project Phases)&lt;/span>
+    &lt;/li>
+    &lt;li>
+        &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>a set of processes (i.e. project management activities)&lt;/span>
+    &lt;/li>
+    &lt;li>
+        &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>a set of project Artefacts (i.e. documentation templates and
+        guidelines).&lt;/span>&lt;br class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt&quot; />
+        &lt;br />
+        &lt;br class=&quot;PM2-Body&quot; style=&quot;MARGIN: 6pt 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l2 level1 lfo2&quot; />
+    &lt;/li>
+&lt;/ol>
+&lt;p align=&quot;center&quot;>
+    &lt;img src=&quot;resources/house_of_opm2_500x433.png&quot; width=&quot;450&quot; height=&quot;389&quot; of=&quot;of&quot; house=&quot;house&quot; />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig 1&lt;/strong> The House Of PM²
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

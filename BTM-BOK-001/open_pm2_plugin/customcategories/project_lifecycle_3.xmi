@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Y-VAZ85tsITWSBP1qcYZpg" name="project_lifecycle,_AHDOoOr5EemY--CKQaYIJA" guid="-Y-VAZ85tsITWSBP1qcYZpg" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2019-10-29T01:02:45.000-0400" version="2.0">
+  <mainDescription>&lt;p>
+    This section contains detailed information on activities realised in each of the five (5) project phases associated
+    roles and artifacts. These phases are:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        The Initiating Phase
+    &lt;/li>
+    &lt;li>
+        The Planning Phase
+    &lt;/li>
+    &lt;li>
+        The Executing Phase
+    &lt;/li>
+    &lt;li>
+        The Closing Phase
+    &lt;/li>
+    &lt;li>
+        The Monitor and Control Phases
+    &lt;/li>
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

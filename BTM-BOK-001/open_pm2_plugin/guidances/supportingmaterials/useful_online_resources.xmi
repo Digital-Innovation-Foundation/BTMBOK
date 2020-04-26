@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-71jSt2aKE-gc8vdIIDpWlA" name="new_supporting_material,_COrrYOxrEemPtZ5AiUOtSg" guid="-71jSt2aKE-gc8vdIIDpWlA" changeDate="2020-03-29T05:38:36.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The Centre of Excellence in PM² (CoEPM²) provides a central location for downloading all Open PM² information,
+    publications, etc. To study PM² in more detail you can download and review the free PM² Methodology Guide and document
+    templates, and explore the online resources:
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>The PM² Guide (PDF)&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    You can download the PDF version of this overview document in multiple languages, as well as the full PM² Methodology
+    Guide – Open Edition from the EU Bookshop.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    PM² Methodology Guide – Open Edition: &lt;a href=&quot;http://europa.eu/!UR34mB&quot;>http://europa.eu/!UR34mB&lt;/a>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>Open PM² Wiki&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Open PM² Wiki details the PM² [Open Edition] approach and provides one central place for information on the Open
+    PM² Methodology. To gain access to the wiki, you need to have a personal EU Login. If you do not have an EU Login,
+    please create one when requested.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;a
+    href=&quot;https://webgate.ec.europa.eu/fpfis/wikis/display/openPM2/&quot;>https://webgate.ec.europa.eu/fpfis/wikis/display/openPM2/&lt;/a>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;a
+    href=&quot;https://webgate.ec.europa.eu/fpfis/wikis/display/openPM2/Artefacts&quot;>https://webgate.ec.europa.eu/fpfis/wikis/display/openPM2/Artefacts&lt;/a>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>Open PM² Support&lt;/strong>
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Join the Open PM² Community on Join-up:
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;a
+    href=&quot;https://joinup.ec.europa.eu/collection/open-pm2-project-management-methodology&quot;>https://joinup.ec.europa.eu/collection/open-pm2-project-management-methodology&lt;/a>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Discuss specific project management issues, ask questions and share experiences
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Learn about PM², the PM² Artefacts and processes
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Receive support to help you start using PM²
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Tap into the knowledge of more experienced PM² Practitioners
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Receive guidance in rolling out PM² in your organisation
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Provide feedback and share your own experience of using PM².
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>To register to our Mailing List:&lt;/strong> &lt;a
+    href=&quot;https://ec.europa.eu/eusurvey/runner/openpm2-contact&quot;>https://ec.europa.eu/eusurvey/runner/openpm2-contact&lt;/a>&lt;br />
+
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

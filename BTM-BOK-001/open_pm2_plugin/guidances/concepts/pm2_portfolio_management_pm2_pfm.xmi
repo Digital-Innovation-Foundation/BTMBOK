@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qyazzspchZBwYeMp6l_Ebw" name="pm2_project_portfolio_management_pm2_pfm,_68aL8OuLEemEHK-rYivsHg" guid="-qyazzspchZBwYeMp6l_Ebw" changeDate="2020-03-29T11:15:17.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    A Project Portfolio is a collection of projects, programmes and other activities which are grouped together to
+    facilitate better control over their financial resources and to support their effective management in terms of meeting
+    strategic objectives. The projects or programmes in the portfolio are not necessarily related or inter-dependent. From
+    a strategic point of view, portfolios are higher-level structures than programmes and projects. It is at the portfolio
+    level that investment decisions are made, priorities are identified, and resources are allocated.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    It is very important for people involved in project definition and management to understand the differences between,
+    and specific management requirements of, projects, programmes and portfolios. They should also be able to define or
+    position their work at the right level (i.e. know if their work would be better managed as a programme or a network of
+    projects), while always being aware of the management and organisational context of their work.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The PM² Portfolio management process encompasses a range of activities, which are organised in four groups.
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            &lt;strong>Portfolio Framework Definition:&lt;/strong> Defines the way the organisation will address portfolio
+            management by delineating the portfolio structure, the governance bodies and their responsibilities, together
+            with the necessary processes
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            &lt;strong>Portfolio Composition:&lt;/strong> Is the process containing the activities to evaluate portfolio
+            candidates, make investment decisions and allocate resources. These are activities that are regularly performed
+            depending on the needs of the organisation
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            &lt;strong>Portfolio Realisation:&lt;/strong> Is the continuous process in which the authorised programmes and
+            projects are managed towards realising their objectives. Although programmes and projects are temporary
+            endeavours, the portfolio activities are performed continuously until the portfolio is closed
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            &lt;strong>Stakeholder Management &amp;amp; Communication:&lt;/strong> Is the continuous process of analysing and
+            interacting with the different stakeholders to ensure their effective involvement in the composition and
+            realisation of the portfolio’s objectives.
+        &lt;/div>
+    &lt;/li>
+&lt;/ol>
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;PfM&quot; src=&quot;resources/PfM.PNG&quot; width=&quot;450&quot; height=&quot;455&quot; />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig 1&lt;/strong> PM² Portfolio Management Process Model
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The Portfolio Composition process feeds the continuous processes of Portfolio Realisation with new portfolio components
+    (i.e. programmes or projects), the progress and results of which are communicated by executing the Portfolio
+    Communication &amp;amp; Stakeholder Management process. The characteristics and governance of the portfolio, as well as the
+    activities of the portfolio management processes and the artefacts produced are defined by the Portfolio Framework.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    An overarching view of the organisational management of portfolios, programmes and projects is illustrated in the
+    following diagram.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

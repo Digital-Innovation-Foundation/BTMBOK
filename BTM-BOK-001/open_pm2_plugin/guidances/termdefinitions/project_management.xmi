@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8BPRwUTK-Z29A0BvNtHUpg" name="new_term_definition,_PfdXYI1UEemFdbh4QXpZVg" guid="-8BPRwUTK-Z29A0BvNtHUpg" changeDate="2019-06-13T00:07:32.000-0400">
+  <mainDescription>&lt;p>
+    &lt;strong>What is Project Management?&lt;/strong>
+&lt;/p>
+&lt;p>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>&lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Project Management can be described
+    as the activities of planning, organising, securing, monitoring and managing the resources and work necessary to
+    deliver specific project goals and objectives in an effective and efficient way.&lt;/font>&lt;/span>
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

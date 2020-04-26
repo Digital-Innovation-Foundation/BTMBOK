@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NxUo6VbaifeaFLrtp7a88w" name="project_organisation_and_roles,_77mh4Or4EemY--CKQaYIJA" guid="-NxUo6VbaifeaFLrtp7a88w" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T04:58:39.000-0400" version="2.0">
+  <mainDescription>&lt;p>
+    This section covers different roles involved in a PM² project and these are grouped in the following five (5) main
+    categories called layers:
+&lt;/p>
+&lt;p>
+    The Business Governing Layer: Appropriate Governance Body (AGB)
+&lt;/p>
+&lt;p>
+    The Steering
+    Layer&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : The
+    Project Owner (PO), the Solution Provider (SP), the Businees Manager (BM) and&amp;nbsp;the Project Manager (PM)
+&lt;/p>
+&lt;p>
+    The Directing
+    Layer&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : The
+    Project Owner (PO) and the Solution Provider (SP)
+&lt;/p>
+&lt;p>
+    The Managing Layer&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; : The
+    Business Manager (BM) and the Project Manager (PM)
+&lt;/p>
+&lt;p>
+    The Performing Layer&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : The Business
+    Implementation Group (BIG) and the Project Core Team (PCT)&lt;br />
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

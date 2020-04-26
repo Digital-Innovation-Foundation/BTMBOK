@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ueao7g2_XwhgQr7qXWYcPQ" name="new_concept,_kuRaAOuEEemEHK-rYivsHg" guid="-ueao7g2_XwhgQr7qXWYcPQ" changeDate="2020-03-28T09:38:15.000-0400">
+  <mainDescription>&lt;h5>
+    Developing Project Management Competences
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    Project management involves much more than creating schedules and budgets, and Project Managers (PMs) must have a wide
+    range of technical and behavioural skills at their disposal.&lt;br />
+    To develop the competences required to manage projects effectively.&amp;nbsp; Project Managers (PMs) need to:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            understand how projects are handled within the organisation (talk to colleagues)
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            review any project methodologies, standards and frameworks that exist in the organisation
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            follow a project management course (e.g. a course offered by a recognised PM2 training provider)
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            reflect on their project management—what is successful, what could be improved?
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            become an active member of the PM² Community—participate in forum discussions and learn from questions asked by
+            other Project Managers (PMs)
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            talk to more experienced Project Managers (PMs) about how they run their projects.
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;justify&quot;>
+    It is up to the Project Manager (PM) to acquire these skills and invest in their project management skills set. Project
+    management knowledge comes from study and practice, from discussing, sharing experiences and reflecting on what went
+    well and what can be improved.
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;PM Competences&quot; src=&quot;resources/PM Competences.PNG&quot; width=&quot;350&quot; height=&quot;300&quot; />&lt;br />
+    &lt;br />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig&amp;nbsp;1&lt;/strong> What Project Managers (PMs) need to understand.
+&lt;/p>
+&lt;h5>
+    Project Management Competences
+&lt;/h5>
+&lt;p>
+    Project Managers (PMs) need to:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        understand the project management methodology used in their organisation (e.g. PM²)
+    &lt;/li>
+    &lt;li>
+        have the technical competences required to effectively manage the initiation, planning, execution, control and
+        closing of a project.
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;justify&quot;>
+    On top of this, the role requires skills to work effectively with people and within the broader organisational context.
+    These include the contextual and behavioural skills necessary to manage complex projects with diverse teams and
+    stakeholder groups that have pluralistic and conflicting priorities.
+&lt;/p>
+&lt;p>
+    Project Managers (PMs) thus also need to know/understand:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        how to communicate, lead, motivate, negotiate, solve problems and deal with issues, conduct meetings and workshops,
+        report project status, etc
+    &lt;/li>
+    &lt;li>
+        the business context and the general project environment (i.e. sociocultural, political, physical, etc.)
+    &lt;/li>
+    &lt;li>
+        organisational policies and standards (e.g. security, organisational architecture, audits, etc.)
+    &lt;/li>
+    &lt;li>
+        how the end-product or service will be maintained after it is delivered.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    Additionally, subject-specific knowledge (e.g. IT, policy, etc.) is often relevant and useful to a Project Manager’s
+    (PM) role.
+&lt;/p>
+&lt;p>
+    Most, if not all, of the above-mentioned points are also required of Business Managers (BM).
+&lt;/p>
+&lt;p>
+    The table below lists the main competences for Projects Managers (PMs) and Business Managers (BMs):&lt;br />
+    &lt;br />
+&lt;/p>
+&lt;table style=&quot;WIDTH: 100%; TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;100%&quot;
+summary=&quot;PM Competences&quot; border=&quot;1&quot;>
+    &lt;tbody>
+        &lt;tr>
+            &lt;th style=&quot;BACKGROUND: #eeeeee; TEXT-ALIGN: center&quot;>
+                People Competences
+            &lt;/th>
+            &lt;th style=&quot;BACKGROUND: #eeeeee; TEXT-ALIGN: center&quot;>
+                Perspective competences
+            &lt;/th>
+        &lt;/tr>
+        &lt;tr align=&quot;left&quot; valign=&quot;top&quot;>
+            &lt;td>
+                &lt;ul>
+                    &lt;li>
+                        Self-reflection and self-management
+                    &lt;/li>
+                    &lt;li>
+                        Personal integrity and reliability
+                    &lt;/li>
+                    &lt;li>
+                        Personal communication
+                    &lt;/li>
+                    &lt;li>
+                        Relationships and engagement
+                    &lt;/li>
+                    &lt;li>
+                        Leadership
+                    &lt;/li>
+                    &lt;li>
+                        Teamwork
+                    &lt;/li>
+                    &lt;li>
+                        Conflict and crisis management
+                    &lt;/li>
+                    &lt;li>
+                        Resourcefulness
+                    &lt;/li>
+                    &lt;li>
+                        Negotiation
+                    &lt;/li>
+                    &lt;li>
+                        Results orientation
+                    &lt;/li>
+                &lt;/ul>
+            &lt;/td>
+            &lt;td>
+                &lt;ul>
+                    &lt;li>
+                        Strategy
+                    &lt;/li>
+                    &lt;li>
+                        Governance, structures and processes
+                    &lt;/li>
+                    &lt;li>
+                        Compliance, standards and regulations
+                    &lt;/li>
+                    &lt;li>
+                        Power and interest
+                    &lt;/li>
+                    &lt;li>
+                        Change and transformation
+                    &lt;/li>
+                    &lt;li>
+                        Culture and values
+                    &lt;/li>
+                &lt;/ul>
+                &lt;p style=&quot;TEXT-ALIGN: right&quot;>
+                    &lt;em>Source: IPMA-ICB (adapted)&lt;/em>
+                &lt;/p>
+            &lt;/td>
+        &lt;/tr>
+    &lt;/tbody>
+&lt;/table>
+&lt;br />
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Tab 1&lt;/strong> Project Manager's competences
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The above competences may not necessarily be independent and each can have an impact on others. However, the filter
+    that determines what is more important (e.g. self or common interest, time or quality, results or balance, etc.) lies
+    in our values and ethics. Therefore, competences related to the appreciation of values and ethics have a prominent
+    position compared to the rest because it is our ethical profile that guides us on how we should apply our competencies,
+    and determines what we consider good or bad, right or wrong, in any given situation, decision and action.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Note that Project Managers (PMs) and Business Managers (BMs) should demonstrate these competencies effectively,
+    consistently and appropriately to the given situation, while remaining aligned with organisational and professional
+    values and ethics. The aim is to achieve the project goals by making (and acting on) the right decisions, at the right
+    time, in the right way and for the right reasons. This can be a challenge for Project Managers (PMs), who often face
+    tensions between making decisions based on goals and values, and meeting the needs of various stakeholders.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Such decisions and tensions become easier to manage when Project Managers (PMs) have developed an ethical disposition,
+    which involves the balancing of goals and skills, personal integrity and moral virtue.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Although all virtues (logical and moral) affect all competences, the virtues of judgment, prudence and insightfulness
+    are (comparatively) more related to demonstrating the perspective competencies, while the moral virtues of honesty,
+    fairness, friendliness, generosity, temperance, courage, humour, and magnanimity and magnificence, are (comparatively)
+    more related to demonstrating people competences.&lt;br />
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

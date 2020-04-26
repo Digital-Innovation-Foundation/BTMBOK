@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dSsH1u4uZlUtASBfAheoEA" name="new_supporting_material,_a_HEwOXsEemqiLXgX7zFIg" guid="-dSsH1u4uZlUtASBfAheoEA" changeDate="2020-03-17T09:11:36.000-0400">
+  <mainDescription>&lt;h5>
+    What is a project?
+&lt;/h5>
+&lt;p>
+    A project is a temporary organisational structure set up to create a unique product or service (output) within certain
+    constraints such as time, cost and quality.
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;strong>Temporary&lt;/strong> means that the project has a well-defined start and end.
+    &lt;/li>
+    &lt;li>
+        &lt;strong>Unique&lt;/strong> output means that the project’s product or service has not been created before. It may be
+        similar to another product, but there will always be a degree of uniqueness.
+    &lt;/li>
+    &lt;li>
+        A project’s output may be a &lt;strong>product&lt;/strong> (e.g. a new application) or a &lt;strong>service&lt;/strong> (e.g. a
+        consulting service, a conference or a training programme).
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    The project is defined, planned and executed under certain external (or self-imposed) &lt;strong>constraints&lt;/strong>.
+    These can relate to scheduling, budgeting, quality, but also to the project’s organizational environment (e.g. risk
+    attitude, capabilities, available capacity, etc.)
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;PC&quot; src=&quot;resources/Pjct characteristics_800x129.png&quot; width=&quot;800&quot; height=&quot;129&quot; />&lt;br />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig 1&lt;/strong>. Key project characteristics
+&lt;/p>
+&lt;p>
+    A successful project ends when its objectives have been achieved and all deliverables have been produced and accepted
+    by the organisation or person that requested the project (the client). The deliverables are then handed over to the
+    client and the project team is disbanded.&lt;br />
+    Projects are different from normal day-to-day work (operations) and one best managed with a special temporary
+    organisational structure in order to:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        define the project scope and its deliverables (products or services)
+    &lt;/li>
+    &lt;li>
+        create a business justification for the investment (by defining the project’s value for the organisation, outlining
+        the business context, listing alternative solutions, etc.)
+    &lt;/li>
+    &lt;li>
+        identify project stakeholders and define a project core team
+    &lt;/li>
+    &lt;li>
+        create the project plans to help guide and manage the project
+    &lt;/li>
+    &lt;li>
+        assign and coordinate project work to teams
+    &lt;/li>
+    &lt;li>
+        monitor and control the project daily (progress, changes, risks, issues, quality, etc.)
+    &lt;/li>
+    &lt;li>
+        hand over the deliverables and administratively close the project.
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;PT&quot; src=&quot;resources/Pjct transformation_600x289.png&quot; width=&quot;600&quot; height=&quot;289&quot; />&lt;br />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig 2&lt;/strong>. A project as a transformational process which turn ideas into reality
+&lt;/p>
+&lt;p>
+    &lt;br />
+    &lt;strong>What is a PM² Project?&lt;/strong>
+&lt;/p>
+&lt;p>
+    Many PM² best practices can be applied to any type of project or work activity. However, to be able to apply the whole
+    PM² Methodology, a project must have certain characteristics.
+&lt;/p>
+&lt;p>
+    &amp;nbsp;Thus, a PM² project:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        is (above all) a project (i.e. not operations, not a work activity, not a programme, etc.)
+    &lt;/li>
+    &lt;li>
+        has a duration of more than 4–5 weeks and involves more than 2–3 people
+    &lt;/li>
+    &lt;li>
+        runs within an organisation and can be subject to internal or external audits
+    &lt;/li>
+    &lt;li>
+        requires a clearly defined governance structure and clearly assigned roles and responsibilities
+    &lt;/li>
+    &lt;li>
+        requires approval of its budget and scope
+    &lt;/li>
+    &lt;li>
+        includes more than just construction/delivery activities
+    &lt;/li>
+    &lt;li>
+        includes transition and business implementation activities
+    &lt;/li>
+    &lt;li>
+        requires a certain level of documentation, transparency and reporting
+    &lt;/li>
+    &lt;li>
+        requires a certain level of control and traceability
+    &lt;/li>
+    &lt;li>
+        has a broad base of internal (and external) stakeholders
+    &lt;/li>
+    &lt;li>
+        may require the collaboration of several organisations or organisational units
+    &lt;/li>
+    &lt;li>
+        contributes to raising the organisation’s project management maturity.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    The number of the above characteristics, apparent in a project, drive the tailoring and customization that will have to
+    be applied to the PM2 methodology.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

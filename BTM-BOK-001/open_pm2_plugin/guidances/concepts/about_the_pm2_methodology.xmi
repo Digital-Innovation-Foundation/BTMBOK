@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eF3VT3X7ypxE_dW9tzDWZw" name="new_concept,_COzgIOsLEemY--CKQaYIJA" guid="-eF3VT3X7ypxE_dW9tzDWZw" changeDate="2020-04-01T10:11:28.000-0400">
+  <mainDescription>&lt;h5>
+    What is PM² Methodology?
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    PM² is a Project Management Methodology developed by the European Commission. Its purpose is to enable Project Managers
+    (PMs) to deliver solutions and benefits to their organisations by effectively managing the entire lifecycle of their
+    project. PM² has been created with the needs of European Union Institutions and projects in mind, but is transferrable
+    to projects in any organisation.
+&lt;/p>
+&lt;br />
+&lt;br />
+&lt;p align=&quot;justify&quot;>
+    PM² is a light and easy-to-implement methodology which project teams can tailor to their specific needs. PM² is fully
+    supported by a comprehensive training programme (including workshops and coaching sessions), online documentation and
+    an active Community of Practice (currently only available within the European Commission and to a number of affiliate
+    European Institutions).
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    PM² incorporates elements from a wide range of globally accepted project management best practices, captured in
+    standards and methodologies. Its development has also been influenced by operational experience on various projects
+    both within European Union Institutions and external bodies.
+&lt;/p>
+&lt;h5>
+    What does the PM² Methodology provide to its users?
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    The adoption of the PM² Guide allows project professionals access the following tools:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            a project governance structure
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            process guidelines
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            artefact templates
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            guidelines for using the artefacts
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            a set of effective mindsets
+        &lt;/div>
+    &lt;/li>
+&lt;/ol>
+&lt;h5>
+    How does PM² Methodology help its users improve project success?
+&lt;/h5>
+&lt;p>
+    PM² Guide helps organisations achieve project goals by:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        improving communication and the dissemination of information
+    &lt;/li>
+    &lt;li>
+        clarifying expectations as early as possible in the project lifecycle
+    &lt;/li>
+    &lt;li>
+        defining the project lifecycle (from Initiating to Closing)
+    &lt;/li>
+    &lt;li>
+        providing guidelines for project planning
+    &lt;/li>
+    &lt;li>
+        introducing monitor and control activities
+    &lt;/li>
+    &lt;li>
+        proposing management activities and outputs (plans, meetings, decisions)
+    &lt;/li>
+    &lt;li>
+        providing a link to agile practices (Agile PM²)
+    &lt;/li>
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

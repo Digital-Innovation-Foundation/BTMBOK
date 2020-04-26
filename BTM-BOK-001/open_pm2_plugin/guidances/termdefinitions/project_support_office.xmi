@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Zs12d6oS07EAkq2BE9MPxg" name="new_term_definition,_bKz3gI2REemwht2DQP2Tzw" guid="-Zs12d6oS07EAkq2BE9MPxg" changeDate="2019-06-13T00:14:28.000-0400">
+  <mainDescription>&lt;span lang=&quot;EN-GB&quot;
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: PMingLiU; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA'>
+A Project Support Office (PSO) is an organisational body (or entity) that provides services, which support project
+management. These can range from providing simple support functions to helping link projects to strategic goals. Not all
+organisations have a PSO.&lt;/span></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

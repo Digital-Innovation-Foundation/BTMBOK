@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bfptqSOVylMHWMbN70kRqQ" name="new_concept,_hoRA0OvQEemsOYBuiM_KCA" guid="-bfptqSOVylMHWMbN70kRqQ" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2019-10-24T00:22:42.000-0400">
+  <mainDescription>&lt;P align=justify>The PM² project lifecycle has four phases with a different type of activity predominant in each phase (i.e. initiating activities are predominant in the Initiating Phase, etc.). However, while phase-related activities peak in terms of effort during a specific phase, activities of this type can also be executed during neighbouring phase(s) (e.g. planning activities are also repeated in the Executing Phase). &lt;/P>
+&lt;P>A project moves on to the next phase when the goals of its current phase have been deemed achieved as the results of a formal (or less formal) phase-exit review. &lt;/P>
+&lt;P align=center>&lt;IMG alt=&quot;&quot; src=&quot;resources/2 Pjct phases 2.png&quot; width=600 height=179> &lt;/P>
+&lt;P align=center>&lt;STRONG>Fig 1&lt;/STRONG> The PM² project lifecycle: indicative phase overlapping and cumulative effort &lt;/P>
+&lt;P align=justify>The focus of a project shifts from initiating and planning activities in the beginning to executing, monitoring and controlling activities in the middle and acceptance, transitioning and closing activities at the end.&lt;/P>
+&lt;P align=justify>Inexperienced project teams sometimes underestimate the importance of the work done in the initial project phases and start working on deliverables that are inadequately defined or planned. This results in the delivery of outputs, which are of poor quality and of little value to end-users. This is a common and costly mistake, which is often the root cause of overall project failure and the failure to realise the project’s intended benefits.&lt;/P>
+&lt;P>
+&lt;TABLE class=MsoNormalTable style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 98.02%; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: auto auto auto 5.4pt; mso-border-alt: solid gray .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid gray; mso-border-insidev: .5pt solid gray&quot; cellSpacing=0 cellPadding=0 width=&quot;98%&quot; border=1>
+&lt;TBODY>
+&lt;TR style=&quot;mso-yfti-irow: 0; mso-yfti-firstrow: yes&quot;>
+&lt;TD style=&quot;BORDER-TOP: gray 1pt solid; BORDER-RIGHT: gray 1pt solid; WIDTH: 18.58%; BACKGROUND: #d9d9d9; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-border-bottom-themecolor: text1; mso-border-bottom-themetint: 127; mso-border-bottom-alt: solid gray .5pt; mso-background-themecolor: background1; mso-background-themeshade: 217&quot; width=&quot;18%&quot;>
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&lt;B>&lt;SPAN lang=EN-GB>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Project Phase&lt;?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>&lt;/TD>
+&lt;TD style=&quot;BORDER-TOP: gray 1pt solid; BORDER-RIGHT: gray 1pt solid; WIDTH: 81.42%; BACKGROUND: #d9d9d9; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-background-themecolor: background1; mso-background-themeshade: 217; mso-border-left-alt: solid gray .5pt&quot; width=&quot;81%&quot;>
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-color-alt: windowtext&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Description&lt;/SPAN>&lt;/B>&lt;SPAN lang=EN-GB>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/TD>&lt;/TR>
+&lt;TR style=&quot;mso-yfti-irow: 1&quot;>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 18.58%; BACKGROUND: white; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-background-themecolor: background1; mso-border-top-alt: solid gray .5pt&quot; width=&quot;18%&quot;>
+&lt;P class=MsoListParagraph style=&quot;MARGIN: 0cm 0cm 3pt 15.85pt; TEXT-INDENT: -14.2pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-fareast-font-family: Calibri&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.&lt;SPAN style='FONT: 7pt &quot;Times New Roman&quot;'>&lt;FONT size=2 face=Arial>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/FONT>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/B>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>Initiating&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>&lt;/TD>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 81.42%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot; width=&quot;81%&quot;>
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>Define the desired outcomes. Create a Business Case. Define the project scope. G&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-themecolor: text1&quot;>et the project off to a good start.&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/TD>&lt;/TR>
+&lt;TR style=&quot;mso-yfti-irow: 2&quot;>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 18.58%; BACKGROUND: white; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-background-themecolor: background1; mso-border-top-alt: solid gray .5pt&quot; width=&quot;18%&quot;>
+&lt;P class=MsoListParagraph style=&quot;MARGIN: 0cm 0cm 3pt 15.85pt; TEXT-INDENT: -14.2pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-fareast-font-family: Calibri&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2.&lt;SPAN style='FONT: 7pt &quot;Times New Roman&quot;'>&lt;FONT size=2 face=Arial>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/FONT>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/B>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>Planning&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>&lt;/TD>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 81.42%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot; width=&quot;81%&quot;>
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>Assign the Project Core Team (PCT). Elaborate the project scope. &lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-themecolor: text1&quot;>Plan the work.&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;> &lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/TD>&lt;/TR>
+&lt;TR style=&quot;mso-yfti-irow: 3&quot;>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 18.58%; BACKGROUND: white; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-background-themecolor: background1; mso-border-top-alt: solid gray .5pt&quot; width=&quot;18%&quot;>
+&lt;P class=MsoListParagraph style=&quot;MARGIN: 0cm 0cm 3pt 15.85pt; TEXT-INDENT: -14.2pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-fareast-font-family: Calibri&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3.&lt;SPAN style='FONT: 7pt &quot;Times New Roman&quot;'>&lt;FONT size=2 face=Arial>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/FONT>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/B>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>Executing&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>&lt;/TD>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 81.42%; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-left-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot; width=&quot;81%&quot;>
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-themecolor: text1&quot;>Coordinate the execution of project plans. Produce deliverables.&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/TD>&lt;/TR>
+&lt;TR style=&quot;mso-yfti-irow: 4&quot;>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 18.58%; BACKGROUND: white; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-background-themecolor: background1; mso-border-top-alt: solid gray .5pt&quot; width=&quot;18%&quot;>
+&lt;P class=MsoListParagraph style=&quot;MARGIN: 0cm 0cm 3pt 15.85pt; TEXT-INDENT: -14.2pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-fareast-font-family: Calibri&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.&lt;SPAN style='FONT: 7pt &quot;Times New Roman&quot;'>&lt;FONT size=2 face=Arial>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/FONT>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/B>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>Closing&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>&lt;/TD>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: gray 1pt solid; WIDTH: 81.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid gray .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-left-alt: solid gray .5pt; mso-border-top-alt: solid gray .5pt&quot; width=&quot;81%&quot;>
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>Coordinate formal acceptance of the project. Report on project performance. Capture Lessons Learned and post-project recommendations. &lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-themecolor: text1&quot;>Close the project administratively.&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/TD>&lt;/TR>
+&lt;TR style=&quot;mso-yfti-irow: 5&quot;>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 18.58%; BACKGROUND: white; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; mso-border-bottom-alt: solid windowtext .5pt; mso-background-themecolor: background1; mso-border-top-alt: solid windowtext .5pt&quot; width=&quot;18%&quot;>
+&lt;P class=MsoListParagraph style=&quot;MARGIN: 0cm 0cm 3pt 15.85pt; mso-add-space: auto&quot;>&lt;B>&lt;SPAN lang=EN-GB style=&quot;FONT-SIZE: 5pt; COLOR: black; mso-themecolor: text1; mso-bidi-font-size: 12.0pt&quot;>&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>&lt;/TD>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 81.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt&quot; width=&quot;81%&quot;>
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&lt;SPAN lang=EN-GB style=&quot;FONT-SIZE: 5pt; COLOR: black; mso-themecolor: text1; mso-bidi-font-size: 12.0pt&quot;>&lt;o:p>&lt;FONT size=2>&amp;nbsp;&lt;/FONT>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/TD>&lt;/TR>
+&lt;TR style=&quot;HEIGHT: 40.6pt; mso-yfti-irow: 6; mso-yfti-lastrow: yes&quot;>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 40.6pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 18.58%; BACKGROUND: white; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: gray 1pt solid; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-background-themecolor: background1; mso-border-top-alt: solid windowtext .5pt&quot; width=&quot;18%&quot;>
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>Monitor &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>&amp;amp; &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/B>&lt;/P>
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center>&lt;B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>Control &lt;/SPAN>&lt;/B>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/TD>
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 40.6pt; BORDER-RIGHT: gray 1pt solid; WIDTH: 81.42%; BACKGROUND: white; BORDER-BOTTOM: gray 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; mso-border-alt: solid gray .5pt; mso-background-themecolor: background1; mso-border-left-alt: solid gray .5pt; mso-border-top-alt: solid windowtext .5pt&quot; width=&quot;81%&quot;>
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-themecolor: text1&quot;>Oversee all project work and management activities &lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>over the duration of the project:&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-bidi-font-family: Calibri; mso-themecolor: text1&quot;> &lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black; mso-themecolor: text1&quot;>monitor project performance, measure progress, manage changes, address risks and issues, identify corrective actions etc.&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;COLOR: black&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE>&lt;/P>
+&lt;P align=center>&lt;STRONG>Tab 1&lt;/STRONG> Description of project phases&lt;/P>
+&lt;P>&lt;BR>1&lt;STRONG>. Initiating Phase&lt;/STRONG>&lt;/P>
+&lt;P align=center>&lt;IMG alt=&quot;&quot; src=&quot;resources/Initial phase 900x80.png&quot; width=600 height=53>&lt;/P>
+&lt;P align=justify>The first phase of a PM² project is the Initiating Phase. &lt;/P>
+&lt;P align=justify>During this phase, the people involved formulate the project’s objective, ensure the project’s alignment to the organisation’s strategic objectives, undertake some initial planning to get the project off to a good start, and put together the information required to gain approval to continue to the Planning Phase. The main input of this phase is a (client) request to address a need, problem or opportunity.&lt;BR>The following activities are part of the Initiating Phase:&lt;/P>
+&lt;UL>
+&lt;LI>
+&lt;DIV align=justify>Creation of the Project Initiation Request containing information about the requestor, business needs and desired project outcomes.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Creation of the Business Case, which provides the project justification and defines its budgetary requirements outlined in sections covering the business context, problem description, project description, possible alternative solutions, costs and timetable. &lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Creation of the Project Charter, which provides more details on the project definition in terms of scope, cost, time and risk. It also defines milestones, deliverables, project organisation, etc.&lt;/DIV>&lt;/LI>&lt;/UL>
+&lt;P align=center>&lt;STRONG>&lt;IMG alt=&quot;&quot; src=&quot;resources/Overview Initiating phase.png&quot; width=600 height=89>&lt;/STRONG>&lt;/P>
+&lt;P align=center>&lt;STRONG>Fig 2 &lt;/STRONG>Overview of the Initiating Phase&lt;/P>
+&lt;P align=justify>&lt;STRONG>2. Planning Phase&lt;/STRONG>&lt;/P>
+&lt;P align=center>&lt;IMG alt=&quot;&quot; src=&quot;resources/Planning 900x80.png&quot; width=600 height=53>&lt;/P>
+&lt;P align=justify>The second phase of a PM² project is the Planning Phase.&lt;/P>
+&lt;P align=justify>During the Planning Phase, the project’s objective is developed into a specific and workable plan ready to be executed. The Project Work Plan specifies the project scope and appropriate approach, decides on a schedule for the tasks involved, estimates the necessary resources and develops the detail of the project plans. Several times during the Planning Phase, the Project Work Plan can be updated. Once agreed and finalised it is baselined and signed off.&lt;/P>
+&lt;P align=justify>The following activities are part of the Planning Phase: &lt;/P>
+&lt;UL>
+&lt;LI>
+&lt;DIV align=justify>Running the Planning Kick-off Meeting to officially start the Planning Phase.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Creating the Project Handbook, which defines the project’s management approach.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Developing the Project Work Plan (Work Breakdown, Effort and Costs, Schedule).&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Updating the Project Stakeholder Matrix, which identifies all project stakeholders.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Creating other important plans such as the Communications Management Plan, the Transition Plan and the Business Implementation Plan.&lt;/DIV>&lt;/LI>&lt;/UL>
+&lt;P align=center>&lt;IMG alt=&quot;&quot; src=&quot;resources/overview planning900x194.jpg&quot; width=600 height=134>&lt;/P>
+&lt;P align=center>&lt;STRONG>Fig&amp;nbsp;3&lt;/STRONG> Overview of the Planning Phase&lt;/P>
+&lt;P>&lt;STRONG>3. Executing Phase&lt;/STRONG>&lt;/P>
+&lt;P align=center>&lt;IMG alt=&quot;&quot; src=&quot;resources/Executing phase 900x80.png&quot; width=600 height=53>&lt;/P>
+&lt;P align=justify>The third phase of a PM² project is the Executing Phase. &lt;/P>
+&lt;P align=justify>During the Executing Phase the project team produces the project deliverables (outputs) as outlined in the Project Work Plan. This is typically the stage of the project lifecycle that involves the most resources and requires the most monitoring.&lt;/P>
+&lt;P align=justify>The following activities are part of the Executing Phase:&lt;/P>
+&lt;UL>
+&lt;LI>
+&lt;DIV align=justify>Running the Executing Kick-off Meeting.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Distributing information based on the Communications Management Plan.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Performing Quality Assurance (QA) activities as defined in the Quality Management Plan &lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Coordinating project, work people and resources, and resolving conflicts and issues.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Producing the project deliverables in accordance with the project plans.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Handing over the deliverables as described in the Deliverables Acceptance Plan.&lt;/DIV>&lt;/LI>&lt;/UL>
+&lt;P align=center>&lt;IMG alt=&quot;&quot; src=&quot;resources/overv exec phase900x637.png&quot; width=600 height=428> 
+&lt;P align=center>&lt;STRONG>Fig 4&lt;/STRONG> Overview of the Executing Phase&lt;/P>
+&lt;P>Once the project deliverables have been accepted by the Project Owner (PO), the Project Manager (PM) can request approval to move on to the Closing Phase. This decision to move on is taken by the Project Steering Committee (PSC).&lt;/P>
+&lt;P>&lt;STRONG>4. Closing Phase&lt;/STRONG>&lt;/P>
+&lt;P align=center>&lt;IMG alt=&quot;&quot; src=&quot;resources/Closing phase 900x80.png&quot; width=600 height=53>&lt;/P>
+&lt;P align=justify>The final phase of a PM² project is the Closing Phase. &lt;/P>
+&lt;P align=justify>During a project’s Closing Phase, the finished deliverables are officially transferred into the care, custody and control of the Project Owner (PO) and the project is administratively closed. Information on overall project performance and Lessons Learned is captured in the Project-End Report. The Project Manager (PM) ensures that the deliverables produced are accepted, all project documents are correctly filed and archived, and that all resources used by the project are formally released.&lt;/P>
+&lt;P align=justify>The following activities are part of the Closing Phase:&lt;/P>
+&lt;UL>
+&lt;LI>
+&lt;DIV align=justify>Finalising all activities in order to formally close the project.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Discussing the overall project experience and Lessons Learned with the project team.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Documenting Lessons Learned and best practices for future projects.&lt;/DIV>
+&lt;LI>
+&lt;DIV align=justify>Closing the project administratively and archiving all project documents&lt;/DIV>&lt;/LI>&lt;/UL>
+&lt;P align=center>&lt;IMG alt=&quot;&quot; src=&quot;resources/OCP900x837.png&quot; width=600 height=500> 
+&lt;P align=center>&lt;STRONG>Fig 5&lt;/STRONG> Overview of the Closing Phase&lt;/P>
+&lt;P>&lt;STRONG>5. Monitor &amp;amp; Control Phase&lt;/STRONG>&lt;/P>
+&lt;P align=center>&lt;IMG alt=&quot;&quot; src=&quot;resources/Monit_Control phase 900x80.png&quot; width=600 height=53>&lt;/P>
+&lt;P align=justify>Monitor &amp;amp; Control activities run throughout the project’s lifecycle.&lt;/P>
+&lt;P align=justify>During Monitor &amp;amp; Control, all work is observed from the point of view of the Project Manager (PM). Monitoring is about measuring ongoing activities and assessing project performance against project plans. Controlling is about identifying and taking corrective action to address deviations from plans and to address issues and risks.&lt;/P>
+&lt;P align=center>&lt;IMG alt=&quot;&quot; src=&quot;resources/Monit_ Control_885x790.png&quot; width=400 height=400>&lt;/P>
+&lt;P align=center>&lt;STRONG>Fig 6&lt;/STRONG> Monitor &amp;amp; Control activities&lt;/P>
+&lt;P>&lt;STRONG>6. Phase Gates and Approvals&lt;/STRONG>&lt;/P>
+&lt;P LIGN=&quot;JUSTIFY&quot;>At the end of each phase, the project passes through a review and approval gate. This ensures that the project is reviewed by the appropriate people (i.e. the Project Manager (PM), Project Owner (PO), the Project Steering Committee (PSC) or other delegated role) before it moves on to the next phase. These checkpoints contribute to the overall project management quality and allow the project to proceed in a more controlled way. &lt;/P>
+&lt;P>The three PM² phase gates are:&lt;/P>
+&lt;OL>
+&lt;LI>&lt;STRONG>RfP&lt;/STRONG> (Ready for Planning): at the end of the Initiating Phase 
+&lt;LI>&lt;STRONG>RfE&lt;/STRONG> (Ready for Executing): at the end of the Planning Phase 
+&lt;LI>&lt;STRONG>RfC&lt;/STRONG> (Ready for Closing): at the end of the Executing Phase.&lt;/LI>&lt;/OL>
+&lt;P align=justify>&lt;STRONG>7. PM² Phase Drivers and Key Artefacts&lt;/STRONG>&lt;/P>
+&lt;P align=justify>Projects depend on people to define, plan and execute them. These project drivers change from phase to phase in a PM² project. &lt;/P>
+&lt;P align=justify>During the Initiating Phase, the Project Owner (PO) is the main driver, initiating the project and being accountable for all documentation.&lt;/P>
+&lt;P align=justify>In the Planning Phase, the main driver is the Project Manager (PM), who is responsible for coordinating the delivery of all project plans.&lt;/P>
+&lt;P align=justify>The carrying out of the Project Work Plan and creation of the project deliverables in the Executing Phase is driven by the Project Core Team (PCT).&lt;/P>
+&lt;P align=justify>Finally, the Closing Phase is driven by the stakeholders who evaluate the project’s overall performance. &lt;/P></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

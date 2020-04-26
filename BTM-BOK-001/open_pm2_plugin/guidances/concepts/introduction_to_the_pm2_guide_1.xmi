@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2zn-eTF-SXi7iJIAiutQdQ" name="introduction_to_pm2_guide,_RIPcIAshEeq8puqX6Knz1Q" guid="-2zn-eTF-SXi7iJIAiutQdQ" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-17T06:11:06.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    In order to achieve their goals, organisations increasingly relie on the realisation of projects and PM² is a guide
+    that can help them manage projects in an effective way.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>Who&lt;/strong> has developed the PM² Guide?
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    This project management standard has been produced and published by the Centre of Excellence in Project Management (CoE
+    PM²), an entity of the European Commission.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>What&lt;/strong> does the PM² Guide provide to its users?
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The PM² Guide provides the following to its users:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            A project governance structure&lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Process guidelines&lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Artefact templates&lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            Guidelines for using the artefacts&lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            A set of effective mindsets
+        &lt;/div>
+    &lt;/li>
+&lt;/ol>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>When&lt;/strong> was the Open PM² Guide created?
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The current edition of the PM² guide (v 3.0) was published in October 2018.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>Where&lt;/strong> can the PM² Guide be deployed?
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    When the Centre of Excellence in Project Management (CoEPM²) of the European Commission created this project management
+    standard, its objective was to respond to the needs of European Union institutions and projects but, any institutions
+    can also use this guide to effectively manage their projects.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>How&lt;/strong> does the PM² Guide help organisations effectively manage their projects?
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The PM² guide emphasises among others the importance of close collaboration between two groups, namely, the requestor
+    side and the provider side. During the entire project, the requestor side (the Project Owner, the Business Manager ane
+    the Business Implementation Group) work hand in hand with the provider side (the Solution Provider, the Project Manager
+    and the Project Core team) in order to achieve the project objectives. Also important in PM² are transition and
+    business implementation plans, plans whose execution ensures project deliverables are seemlessly integrated in the
+    client's operations.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    &lt;strong>How many&lt;/strong> stakeholder categories do we find in a PM² project?
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    Rather than instrumental, projects are sociopolitical processes in which politics and conflicting interests among
+    stakeholders are commonplace, hence the importance of adopting a multiple stakeholder perspective when discussing
+    concepts such as project objectives and success criteria. According to the PM² Guide, project stakeholders can be
+    grouped into the following five (5) categories or layers:
+&lt;/p>
+&lt;ol>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The Business Governing Layer&lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The Steering Layer&lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The Directing Layer&lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The Managing Layer&lt;br />
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            The Performing Layer
+        &lt;/div>
+    &lt;/li>
+&lt;/ol>
+&lt;p align=&quot;justify&quot;>
+    In addition to these categories, there is another called Project Support Team and this comprises a variety of optional
+    roles.&lt;br />
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

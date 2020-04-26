@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nInLLjAHbgZlAi_dcHrWFA" name="new_concept,_sXDcYOucEemEHK-rYivsHg" guid="-nInLLjAHbgZlAi_dcHrWFA" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:06:44.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The Contractor’s Project Manager (CPM) leads the contractor’s staff working on the project, planning controlling and
+    reporting on the production of outsourced deliverables. Working closely with the Project Manager (PM), the Contractor’s
+    Project Manager (CPM) ensures that all work is carried out on time and to the agreed standards, guaranteeing the
+    successful completion and delivery of subcontracted activities.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

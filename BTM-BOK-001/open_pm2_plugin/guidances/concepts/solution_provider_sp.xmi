@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FDX8SHseZKwYArG-rWPO7w" name="new_concept,_wFBqUOuZEemEHK-rYivsHg" guid="-FDX8SHseZKwYArG-rWPO7w" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T05:03:30.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    The Solution Provider (SP) assumes overall accountability for project deliverables and represents the interests of
+    those who design, manage and implement (or outsource) the project’s deliverables.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    As the key Directing Layer role from the provider side, the Solution Provider (SP) usually has a management position in
+    the functional hierarchy of the organisation undertaking the project, and therefore often works with the Project Owner
+    (PO) in defining the project’s business objectives.
+&lt;/p>
+&lt;h5>
+    Responsibilities
+&lt;/h5>
+&lt;ul>
+    &lt;li>
+        Assumes overall accountability for the project deliverables and services requested by the Project Owner (PO)
+    &lt;/li>
+    &lt;li>
+        Mobilises the required resources from the provider side and appoints the Project Manager (PM)
+    &lt;/li>
+    &lt;li>
+        Approves the objectives of any outsourced activities and deliverables and becomes accountable for the contractor’s
+        performance.&lt;br />
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

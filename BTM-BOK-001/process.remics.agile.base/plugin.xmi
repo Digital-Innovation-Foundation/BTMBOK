@@ -2,9 +2,19 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_MTn8QMCTEemv0a6P8REMBA" guid="_MTn8QMCTEemv0a6P8REMBA">
     <subManagers xmi:id="_MTn8Q8CTEemv0a6P8REMBA" href="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_MTn8Q8CTEemv0a6P8REMBA"/>
+    <subManagers xmi:id="_fvvhkIdjEeqwxpuomiZLaQ" href="uma://_xsG88DO8EeK5hZv7WCtlvg#_fvvhkIdjEeqwxpuomiZLaQ"/>
+    <subManagers xmi:id="_f035MIdjEeqwxpuomiZLaQ" href="uma://_tzY-8DO8EeK5hZv7WCtlvg#_f035MIdjEeqwxpuomiZLaQ"/>
+    <subManagers xmi:id="_f15z8IdjEeqwxpuomiZLaQ" href="uma://_qFoTwDO8EeK5hZv7WCtlvg#_f15z8IdjEeqwxpuomiZLaQ"/>
+    <subManagers xmi:id="_f3tx0IdjEeqwxpuomiZLaQ" href="uma://_1kHlwDO7EeK5hZv7WCtlvg#_f3tx0IdjEeqwxpuomiZLaQ"/>
+    <subManagers xmi:id="_f5IuIIdjEeqwxpuomiZLaQ" href="uma://_X-ZbYFv6EeKLopANFXrp4g#_f5IuIIdjEeqwxpuomiZLaQ"/>
     <resourceDescriptors xmi:id="_MTn8QsCTEemv0a6P8REMBA" id="_4t6FQPXCEeGkJrjWR9R9NQ" uri="deliveryprocesses/remics_lifecycle/model.xmi"/>
+    <resourceDescriptors xmi:id="_fvqCAIdjEeqwxpuomiZLaQ" id="_xsG88DO8EeK5hZv7WCtlvg" uri="capabilitypatterns/requirements/model.xmi"/>
+    <resourceDescriptors xmi:id="_f0014IdjEeqwxpuomiZLaQ" id="_tzY-8DO8EeK5hZv7WCtlvg" uri="capabilitypatterns/recovery/model.xmi"/>
+    <resourceDescriptors xmi:id="_f13XsIdjEeqwxpuomiZLaQ" id="_qFoTwDO8EeK5hZv7WCtlvg" uri="capabilitypatterns/migration/model.xmi"/>
+    <resourceDescriptors xmi:id="_f3pgYIdjEeqwxpuomiZLaQ" id="_1kHlwDO7EeK5hZv7WCtlvg" uri="capabilitypatterns/validation/model.xmi"/>
+    <resourceDescriptors xmi:id="_f5G48IdjEeqwxpuomiZLaQ" id="_X-ZbYFv6EeKLopANFXrp4g" uri="capabilitypatterns/supervision/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="__20psPNGEeGUHqJDPoQpuw" name="process.remics.agile.base" guid="__20psPNGEeGUHqJDPoQpuw" changeDate="2013-08-23T06:32:19.454-0400" bases="_-kDhQFmDEeKrerZnFJznjw _wwMUUFvqEeKHU9XooDK5Ng _fkWigPOMEeKb3NsawrMs1A _GuCEoFvrEeKHU9XooDK5Ng _MGQtkFvrEeKHU9XooDK5Ng _S0dD4FvrEeKHU9XooDK5Ng _ZfNEoFvrEeKHU9XooDK5Ng _d9RLYFvrEeKHU9XooDK5Ng _H5KxEAA5EeO8guHzeWZLgg _zHlbIPOYEeKoGYdq-8Z_HA">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="__20psPNGEeGUHqJDPoQpuw" name="process.remics.agile.base" guid="__20psPNGEeGUHqJDPoQpuw" changeDate="2013-08-23T06:32:19.454-0400">
     <methodElementProperty xmi:id="_MTeyUMCTEemv0a6P8REMBA" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_MTeyUcCTEemv0a6P8REMBA" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__20psfNGEeGUHqJDPoQpuw" name="Content" guid="__20psfNGEeGUHqJDPoQpuw">
@@ -22,7 +32,13 @@
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__20pvPNGEeGUHqJDPoQpuw" name="CoreContent" guid="__20pvPNGEeGUHqJDPoQpuw"/>
-      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__20pvfNGEeGUHqJDPoQpuw" name="CapabilityPatterns" guid="__20pvfNGEeGUHqJDPoQpuw"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__20pvfNGEeGUHqJDPoQpuw" name="CapabilityPatterns" guid="__20pvfNGEeGUHqJDPoQpuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_xsG88DO8EeK5hZv7WCtlvg" href="uma://_xsG88DO8EeK5hZv7WCtlvg#_xsG88DO8EeK5hZv7WCtlvg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_tzY-8DO8EeK5hZv7WCtlvg" href="uma://_tzY-8DO8EeK5hZv7WCtlvg#_tzY-8DO8EeK5hZv7WCtlvg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_qFoTwDO8EeK5hZv7WCtlvg" href="uma://_qFoTwDO8EeK5hZv7WCtlvg#_qFoTwDO8EeK5hZv7WCtlvg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_1kHlwDO7EeK5hZv7WCtlvg" href="uma://_1kHlwDO7EeK5hZv7WCtlvg#_1kHlwDO7EeK5hZv7WCtlvg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_X-ZbYFv6EeKLopANFXrp4g" href="uma://_X-ZbYFv6EeKLopANFXrp4g#_X-ZbYFv6EeKLopANFXrp4g"/>
+      </childPackages>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__20pvvNGEeGUHqJDPoQpuw" name="DeliveryProcesses" guid="__20pvvNGEeGUHqJDPoQpuw">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_4t6FQPXCEeGkJrjWR9R9NQ" href="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_4t6FQPXCEeGkJrjWR9R9NQ"/>

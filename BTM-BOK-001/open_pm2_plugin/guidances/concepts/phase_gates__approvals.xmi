@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-j1axgxrFQXmejFiM7yDe-w" name="phase_gates__approvals,_JIs0MBOcEeq1sp9_G4QTuQ" guid="-j1axgxrFQXmejFiM7yDe-w" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2019-11-30T01:07:59.000-0500">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    At the end of each phase, the project passes through a review and approval gate. This ensures that the project is
+    reviewed by the appropriate people (i.e. the Project Manager (PM), Project Owner (PO), the Project Steering Committee
+    (PSC) or other delegated role) before it moves on to the next phase. These checkpoints contribute to the overall
+    project management quality and allow the project to proceed in a more controlled way.&lt;br />
+    The three PM² phase gates are:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        RfP (Ready for Planning): at the end of the Initiating Phase
+    &lt;/li>
+    &lt;li>
+        RfE (Ready for Executing): at the end of the Planning Phase
+    &lt;/li>
+    &lt;li>
+        RfC (Ready for Closing): at the end of the Executing Phase.&lt;br />
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

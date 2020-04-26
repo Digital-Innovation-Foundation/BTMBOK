@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--ONXPa5J2IE5zszLb6r8bw" name="pm2_programme_management_pm2_pgm,_UhYQcOuLEemEHK-rYivsHg" guid="--ONXPa5J2IE5zszLb6r8bw" authors="Jean-Bosco Ntakirutimana, Miloud Eloumri" changeDate="2020-03-29T00:03:03.000-0400">
+  <mainDescription>&lt;p align=&quot;justify&quot;>
+    A programme is a collection of projects aimed towards a common goal which are managed in a coordinated way to obtain
+    benefits and control that could not be obtained from managing them individually. Programmes may also include work
+    outside the scope of the discrete projects in the programme. Programme management is the process of managing these
+    interrelated projects to better achieve the programme’s objectives and benefits.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The programme management layer interacts with the project management layer in that it initiates and coordinates the
+    projects within the programme. The programme itself is initiated from the portfolio management layer within the
+    organisation.
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;Strategy&quot; src=&quot;resources/Pjct-Pgm-Ptfolio-Strategy.PNG&quot; width=&quot;600&quot; height=&quot;450&quot; />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig 1&lt;/strong> Relationships between strategy, project, programme, portfolio and operations
+&lt;/p>
+&lt;h5>
+    &lt;span lang=&quot;EN-GB&quot;
+    style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Calibri&quot;,sans-serif; mso-ansi-language: EN-GB; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: PMingLiU; mso-fareast-language: EN-US; mso-bidi-language: AR-SA'>
+    PM²&lt;/span> Programme Lifecycle
+&lt;/h5>
+&lt;p align=&quot;justify&quot;>
+    A programme has a defined start and end during which all programme activities are performed, and the projects are
+    delivered. The PM² programme lifecycle has four phases, which are similar but distinct to the PM² project lifecycle:
+    The Initiating Phase, the Planning Phase, the Executing Phase and the Closing Phase. Throughout the whole life of the
+    programme Monitor &amp;amp; Control activities are performed. The Executing Phase can also contain several stages, each one
+    being linked to a major achievement in terms of programme outcome, which enables the realisation of the
+    benefits.&amp;nbsp;&amp;nbsp;
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            &lt;font face=&quot;Arial&quot;>Initiating Phase&lt;/font>
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;justify&quot;>
+    The need for a programme and the key stakeholders are identified in the Programme Initiation Request. Based on the
+    desired benefits and the estimated costs presented in the Programme Business Case, the programme viability is assessed,
+    and a decision is taken on whether to authorise this programme. If the Programme Business Case is accepted, a Programme
+    Charter is created defining the programme objectives, a high-level roadmap and budget, along with the programme
+    organisation. During this phase the Programme Logs are also created.
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            &lt;font face=&quot;Arial&quot;>Planning Phase&lt;/font>
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;justify&quot;>
+    The stakeholders are further analysed in the Programme Stakeholder Matrix, which leads to an adapted way of
+    distributing information defined in the Programme Communication Plan. The way of working in the programme is documented
+    in the Programme Handbook. The programme scope and work is broken down in smaller and more manageable chunks, and
+    grouped in several interrelated projects and programme-level activities. This work is scheduled in the Programme Work
+    Plan, which is closely linked to the various Project Initiation Requests framing the projects within the programme.
+    During this phase the programme business implementation activities are also planned and documented in the Programme
+    Business Implementation Plan, with a focus on planning necessary organisational changes and on benefits realisation.
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            &lt;font face=&quot;Arial&quot;>Executing Phase&lt;/font>
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;justify&quot;>
+    The planned projects are initiated and coordinated during this phase, producing their outputs. The programme status is
+    regularly reported to management using the Programme Status Report. Possible programme and significant project-scope
+    changes are documented in the Programme Change Log. As the project outputs are delivered, the programme activities
+    related to organisational change are also implemented, facilitating the realisation of programme benefits. Finally,
+    when all the projects are completed, and the programme objectives are achieved, the programme can move to the Closing
+    Phase.
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            &lt;font face=&quot;Arial&quot;>Closing Phase&lt;/font>
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;justify&quot;>
+    The Lessons Learned and Post-Programme Recommendations are formulated in the Programme-End Report, facilitating the
+    sustainability of the realised benefits after the programme has ended. The programme organisation is disbanded, all
+    resources released, and the programme is closed administratively.
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div align=&quot;justify&quot;>
+            &lt;font face=&quot;Arial&quot;>Monitor &amp;amp; Control&lt;/font>
+        &lt;/div>
+    &lt;/li>
+&lt;/ul>
+&lt;p align=&quot;justify&quot;>
+    Throughout the programme duration Monitor &amp;amp; Control activities are performed. The overall programme performance is
+    monitored, programme-level changes, risks and issues are managed, and any required corrective measures are taken. In
+    addition, the programme-level business implementation and benefits realisation activities are also managed. As a result
+    of the Monitor &amp;amp; Control activities, the baselined Programme Work Plan and the Programme Business Implementation
+    Plan may be updated as necessary.
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;por&quot; src=&quot;resources/pgm organ. 900x700.png&quot; width=&quot;700&quot; height=&quot;400&quot; />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig&amp;nbsp;2&lt;/strong> The PM²-Programme organisation
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The &lt;strong>Programme Owner (PgO)&lt;/strong> is accountable for the programme’s success, whereas the day-to-day
+    management of the programme is delegated to the Programme Manager (PgM), whose focus is to achieve the programme
+    outcomes.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The &lt;strong>Programme Business Manager (PgBM)&lt;/strong> represents the Programme Owner (PgO) on a daily basis within the
+    programme and collaborates closely with the Programme Manager (PgM). The focus of this role is to realise the programme
+    benefits, enabled by the programme outcomes.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    The &lt;strong>Programme Steering Committee (PgSC)&lt;/strong> comprises the Programme Owner (PgO), Programme Business
+    Manager (PgBM) and Programme Manager (PgM). Other expert roles can participate as needed. The Programme Steering
+    Committee (PgSC) is responsible for realising the programme’s objectives and benefits.
+&lt;/p>
+&lt;p align=&quot;justify&quot;>
+    A programme can also have a temporary &lt;strong>Programme Support Team (PgST)&lt;/strong> to provide administrative
+    assistance to the programme and its component projects.
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;img alt=&quot;Programme Lifecycle Artefacts&quot; src=&quot;resources/PM2 Programme Lifecycle 0320.PNG&quot; width=&quot;700&quot;
+    height=&quot;500&quot; />
+&lt;/p>
+&lt;p align=&quot;center&quot;>
+    &lt;strong>Fig 3&lt;/strong> The PM² Programme Lifecycle and Artefacts Landscape
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

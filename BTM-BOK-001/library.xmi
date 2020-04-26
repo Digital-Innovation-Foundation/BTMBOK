@@ -119,6 +119,7 @@
     <subManagers xmi:id="_i_-_YDGlEeqyKaY-Jwohbw" href="uma://_i_5f0DGlEeqyKaY-Jwohbw#_i_-_YDGlEeqyKaY-Jwohbw"/>
     <subManagers xmi:id="__QRSgDhmEeqz2aaJo6ss5g" href="uma://__P10sDhmEeqz2aaJo6ss5g#__QRSgDhmEeqz2aaJo6ss5g"/>
     <subManagers xmi:id="_0ATL0DMQEeqdfp96RDm6SQ" href="uma://_z-dYwDMQEeqdfp96RDm6SQ#_0ATL0DMQEeqdfp96RDm6SQ"/>
+    <subManagers xmi:id="_fZDf4IdjEeqwxpuomiZLaQ" href="uma://_2UB6IFGREem0Go2qfBrTHA#_fZDf4IdjEeqwxpuomiZLaQ"/>
     <resourceDescriptors xmi:id="_pIwCQKv_Eem8vdVoHclNtA" id="_pIuNEKv_Eem8vdVoHclNtA" uri=""/>
     <resourceDescriptors xmi:id="_ul0u8av_Eem8vdVoHclNtA" id="_0TLvwMlgEdmt3adZL5Dmdw" uri="openup/plugin.xmi"/>
     <resourceDescriptors xmi:id="_ux41Aav_Eem8vdVoHclNtA" id="_WCUhAO8KEdmKSqa_gSYthg" uri="core.default.uma_concept.base/plugin.xmi"/>
@@ -238,9 +239,14 @@
     <resourceDescriptors xmi:id="_i_-_YTGlEeqyKaY-Jwohbw" id="_i_5f0DGlEeqyKaY-Jwohbw" uri="UXBOK/plugin.xmi"/>
     <resourceDescriptors xmi:id="__QRSgThmEeqz2aaJo6ss5g" id="__P10sDhmEeqz2aaJo6ss5g" uri="jBPM/plugin.xmi"/>
     <resourceDescriptors xmi:id="_0ATL0TMQEeqdfp96RDm6SQ" id="_z-dYwDMQEeqdfp96RDm6SQ" uri="DXM/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_fZDf4YdjEeqwxpuomiZLaQ" id="_2UB6IFGREem0Go2qfBrTHA" uri="open_pm2_plugin/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_fvRAcIdjEeqwxpuomiZLaQ" id="_bB4NAH0pEeiCHoMhAnpU3g" uri=""/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodLibrary xmi:id="_pIuNEKv_Eem8vdVoHclNtA" name="BTM-BOK-000" guid="_pIuNEKv_Eem8vdVoHclNtA">
-    <methodElementProperty xmi:id="_pKQeIKv_Eem8vdVoHclNtA" name="library_synFree" value="true"/>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_bB4NAH0pEeiCHoMhAnpU3g" name="btm_bok_method_library" guid="_bB4NAH0pEeiCHoMhAnpU3g" briefDescription="BTM BOK Method Library.">
+    <methodElementProperty xmi:id="_fabY4IdjEeqwxpuomiZLaQ" name="library_synFree" value="true"/>
+    <methodElementProperty xmi:id="_fabY4YdjEeqwxpuomiZLaQ" value="0"/>
+    <methodElementProperty xmi:id="_fabY4odjEeqwxpuomiZLaQ" value="_2UB6IFGREem0Go2qfBrTHA"/>
+    <methodElementProperty xmi:id="_fabY44djEeqwxpuomiZLaQ" value="open_pm2_plugin"/>
     <methodPlugins xmi:id="_0TLvwMlgEdmt3adZL5Dmdw" href="uma://_0TLvwMlgEdmt3adZL5Dmdw#_0TLvwMlgEdmt3adZL5Dmdw"/>
     <methodPlugins xmi:id="_WCUhAO8KEdmKSqa_gSYthg" href="uma://_WCUhAO8KEdmKSqa_gSYthg#_WCUhAO8KEdmKSqa_gSYthg"/>
     <methodPlugins xmi:id="_Nq0WYFkVEdul8L-IGeA7TA" href="uma://_Nq0WYFkVEdul8L-IGeA7TA#_Nq0WYFkVEdul8L-IGeA7TA"/>
@@ -359,5 +365,6 @@
     <methodPlugins xmi:id="_i_5f0DGlEeqyKaY-Jwohbw" href="uma://_i_5f0DGlEeqyKaY-Jwohbw#_i_5f0DGlEeqyKaY-Jwohbw"/>
     <methodPlugins xmi:id="__P10sDhmEeqz2aaJo6ss5g" href="uma://__P10sDhmEeqz2aaJo6ss5g#__P10sDhmEeqz2aaJo6ss5g"/>
     <methodPlugins xmi:id="_z-dYwDMQEeqdfp96RDm6SQ" href="uma://_z-dYwDMQEeqdfp96RDm6SQ#_z-dYwDMQEeqdfp96RDm6SQ"/>
+    <methodPlugins xmi:id="_2UB6IFGREem0Go2qfBrTHA" href="uma://_2UB6IFGREem0Go2qfBrTHA#_2UB6IFGREem0Go2qfBrTHA"/>
   </org.eclipse.epf.uma:MethodLibrary>
 </xmi:XMI>
