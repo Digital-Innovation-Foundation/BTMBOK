@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N7fv604MR5OKzL1WjVRz0w" name="new_supporting_material,_R9AaAOGCEeqHbKOWEwn35w" guid="-N7fv604MR5OKzL1WjVRz0w">
+  <mainDescription>&lt;p>&#xD;
+    The concept for the NICE Framework began before the establishment of NICE in 2010 and grew out of the recognition that&#xD;
+    the cybersecurity workforce had not been defined and assessed. To address this challenge, the Federal Chief Information&#xD;
+    Officers (CIO) Council took on the task in 2008 to provide a standard framework to understand the cybersecurity roles&#xD;
+    within the federal government. The first version was posted in September 2012. A subsequent U.S. government-wide review&#xD;
+    noted specific areas to be further examined and refined. The Department of Homeland Security (DHS) gathered input and&#xD;
+    validated final recommendations via focus groups with subject matter experts from around the country and across&#xD;
+    industry, academia, and government resulting in a second version of the NICE Framework, version 2.0, shared publicly in&#xD;
+    2014. The Office of the Secretary of Defense (OSD) expanded on version 2.0 through internal engagements with service&#xD;
+    components and external engagements with the private sector. The DHS and NIST co-authors worked with OSD to refine&#xD;
+    their expansion to become the current version, published in August 2017, with a goal to emphasize private sector&#xD;
+    applicability and to reinforce the vision that the NICE Framework is a reference resource for both the public and&#xD;
+    private sectors.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    EARLIER VERSIONS OF THE NICE FRAMEWORK&lt;br />&#xD;
+    The NICE Cybersecurity Workforce Framework (aka the NICE Framework), NIST Special Publication 800-181, is a national&#xD;
+    focused resource that categorizes and describes cybersecurity work.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    NICE Framework Specialty Areas of Time Spreadsheet (January 2018)&lt;br />&#xD;
+    NICE Framework 2.0 Spreadsheet (April 2014)&lt;br />&#xD;
+    NSA DHS CAE Knowledge Unit (KU Mapping to the NICE Framework 2.0)&lt;br />&#xD;
+    NICE Framework 1.0 - Interactive PDF (April 2013)&lt;br />&#xD;
+    NICE Framework 1.0 Development Process (September 2012)&lt;br />&#xD;
+    OPM Federal Cybersecurity Coding Structure&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    DEVELOPMENT PROCESS&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

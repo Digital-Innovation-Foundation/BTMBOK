@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RoEj3mCa2GZG2nQBw-pOiw" name="new_supporting_material,_YNJAsOGVEeqxFs6enGkR7A" guid="-RoEj3mCa2GZG2nQBw-pOiw">
+  <mainDescription>&lt;p>&#xD;
+    The NCCoE accelerates businesses' adoption of standards-based, advanced security technologies. We:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    consult with IT security professionals and other leaders to identify their most pressing cybersecurity issues&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    generate detailed technical descriptions of the problems and map the desired solution to NIST and industry standards&#xD;
+    and best practices&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    seek comments from the public to make the problem descriptions as broadly applicable as possible&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    invite technology vendors to collaborate with us: their standards-based products are modules in the end-to-end example&#xD;
+    solutions we build in our labs&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Each project results in a freely available NIST Cybersecurity Practice Guide (Special Publication series 1800), which&#xD;
+    includes information and instructions organizations can use to implement an example solution for themselves.&#xD;
+    Organizations that want to adopt similar solutions can use products from our collaborating vendors, or products with&#xD;
+    similar characteristics that fit their budgets and IT infrastructure.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

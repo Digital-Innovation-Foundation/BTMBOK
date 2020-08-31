@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hjKcEPdw_NhRPZb0qqEFiQ" name="new_supporting_material,_nwmtYOF7EeqHbKOWEwn35w" guid="-hjKcEPdw_NhRPZb0qqEFiQ">
+  <mainDescription>&lt;p>&#xD;
+    Informative Reference Catalog&lt;br />&#xD;
+    The Online Informative Reference Catalog contains all the Reference Data—Informative References and Derived&#xD;
+    Relationship Mappings (DRMs)—for the National Cybersecurity Online Informative References (OLIR) Program. All Reference&#xD;
+    Data in the Informative Reference Catalog has been validated against the requirements of NIST Interagency Report (IR)&#xD;
+    8278A, National Cybersecurity Online Informative References (OLIR) Program: Submission Guidance for OLIR Developers. If&#xD;
+    interested in participating in the OLIR program, please refer to the Informative Reference submission page.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The OLIR Catalog provides an interface for Developers and Users to view Informative References and analyze Reference&#xD;
+    Data. The Catalog includes links to draft content that is being evaluated during a 30-day public comment period and&#xD;
+    final versions that have completed the public comment period.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For more information on the National Cybersecurity Online Informative References (OLIR) Program, refer to NISTIR 8278,&#xD;
+    National Cybersecurity Online Informative References (OLIR) Program: Program Overview and OLIR Uses which describes the&#xD;
+    OLIR Program, focusing on explaining what OLIRs are, how they can be beneficial, and how subject matter experts can&#xD;
+    contribute OLIRs.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Representations and Warranties&lt;br />&#xD;
+    Certain commercial entities, equipment, or materials may be identified in this Web site or linked Web sites in order to&#xD;
+    support Framework understanding and use. Such identification is not intended to imply recommendation or endorsement by&#xD;
+    NIST, nor is it intended to imply that the entities, materials, or equipment are necessarily the best available for the&#xD;
+    purpose.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

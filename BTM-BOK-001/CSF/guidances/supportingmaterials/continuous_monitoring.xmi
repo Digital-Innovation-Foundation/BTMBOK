@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B9mOWTuT0XDeQs7AmMIcWg" name="new_supporting_material,_tvgV8OGVEeqxFs6enGkR7A" guid="-B9mOWTuT0XDeQs7AmMIcWg">
+  <mainDescription>&lt;p>&#xD;
+    Current Status&lt;br />&#xD;
+    The NCCoE recently released a draft project description, Continuous Monitoring for IT Infrastructure. The public&#xD;
+    comment period closed on July 26, 2019. We appreciate your feedback, which we will use to shape the direction of the&#xD;
+    project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Summary&lt;br />&#xD;
+    The NCCoE is proposing a project to explore continuous monitoring capabilities that can effectively, efficiently and&#xD;
+    automatically detect when a malicious actor, be it an authorized user or external actor, attempts to perform an action&#xD;
+    in an organization’s IT infrastructure that could result in financial, reputational, and operational impacts to the&#xD;
+    organization.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Many organizations monitor business information technology (IT) infrastructure by manual inspection or computer-aided&#xD;
+    audits, which can result in after-the-fact detection of malicious-user access events.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This project will describe how to address this issue by collecting appropriate log data from the IT infrastructure.&#xD;
+    Furthermore, the continuous monitoring capabilities can also be used to automate analysis and reporting of the log data&#xD;
+    to alert the proper personnel in the organization with actionable information and guidance so they may take measures&#xD;
+    toward resolving the detected issue. This project will result in a freely available NIST Cybersecurity Practice Guide,&#xD;
+    which includes a reference architecture, a fully implemented example solution, and a detailed guide of practical steps&#xD;
+    needed to implement the solution.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

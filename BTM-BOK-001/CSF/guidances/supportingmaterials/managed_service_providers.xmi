@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Kijl6Ii8rn5qL69bqSlyxw" name="new_supporting_material,_FBiSAOGWEeqxFs6enGkR7A" guid="-Kijl6Ii8rn5qL69bqSlyxw">
+  <mainDescription>&lt;p>&#xD;
+    Current Status&lt;br />&#xD;
+    The NCCoE published a short guide with recommendations to help MSPs conduct, maintain, and test backup files to reduce&#xD;
+    the impact of data loss incidents, such as ransomware. A more detailed guide is available here. See the Quick Planning&#xD;
+    Tools section below for more information.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For questions or to join the Community of Interest, please email &lt;a&#xD;
+    href=&quot;mailto:smb_nccoe@nist.gov&quot;>smb_nccoe@nist.gov&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Summary&lt;br />&#xD;
+    Many small and medium sized businesses use managed service providers (MSPs) to remotely manage their organization’s IT&#xD;
+    infrastructure, cybersecurity, and related business operations. As a result, MSPs have become an attractive target for&#xD;
+    cyber criminals. When an MSP is vulnerable to a cyber attack, it also increases the vulnerability to the small or&#xD;
+    medium sized businesses an MSP supports. This page offers guidance to MSPs on how to improve cybersecurity by&#xD;
+    implementing key security controls that reduces vulnerabilities to cyber attacks.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The NCCoE developed recommendations that will enable MSPs to adopt cybersecurity technologies and techniques to improve&#xD;
+    security for themselves and their small- and medium-sized business customers. MSPs can apply or customize the&#xD;
+    recommendations to fit their cybersecurity needs. The publications below offer implementation recommendations, a&#xD;
+    reference architecture, and details specific technologies/capabilities MSPs should consider deploying.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Quick Planning Tools&lt;br />&#xD;
+    Backup Planning: Data loss incidents, whether a ransomware attack, hardware failure, or accidental or intentional data&#xD;
+    destruction, can have catastrophic effects on MSPs and their customers. The NCCoE developed recommendations to help&#xD;
+    MSPs conduct, maintain, and test backup files to reduce the impact of these data loss incidents. A one-page summary of&#xD;
+    these recommendations can be accessed here.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5EJHDs8X3d8dJIs-piWsdA" name="new_supporting_material,__uKD8OGBEeqHbKOWEwn35w" guid="-5EJHDs8X3d8dJIs-piWsdA">
+  <mainDescription>&lt;p>&#xD;
+    About&lt;br />&#xD;
+    The NICE Framework, NIST Special Publication 800-181, is a national-focused resource that categorizes and describes&#xD;
+    cybersecurity work. The NICE Framework establishes a taxonomy and common lexicon that describes cybersecurity work and&#xD;
+    workers irrespective of where or for whom the work is performed. The NICE Framework is intended to be applied in the&#xD;
+    public, private, and academic sectors.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The NICE Framework is comprised of the following components:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Categories (7) – A high-level grouping of common cybersecurity functions.&lt;br />&#xD;
+    Specialty Areas (33) – Distinct areas of cybersecurity work.&lt;br />&#xD;
+    Work Roles (52) – The most detailed groupings cybersecurity work comprised of specific knowledge, skills, and abilities&#xD;
+    required to perform tasks in a work role.&lt;br />&#xD;
+    AUDIENCE&lt;br />&#xD;
+    Employers, to help assess their cybersecurity workforce, identify critical gaps in cybersecurity staffing, and improve&#xD;
+    position descriptions;&lt;br />&#xD;
+    Current and future cybersecurity workers, to help explore Tasks and Work Roles and assist with understanding the KSAs&#xD;
+    that are being valued by employers for in-demand cybersecurity jobs and positions. The NICE Framework also enables&#xD;
+    staffing specialists and guidance counselors to use the NICE Framework as a resource to support these employees or job&#xD;
+    seekers;&lt;br />&#xD;
+    Training and certification providers seeking to help current and future members of the cybersecurity workforce gain and&#xD;
+    demonstrate their KSAs;&lt;br />&#xD;
+    Education providers who use the NICE Framework as a reference to develop curriculum, courses, seminars, and research&#xD;
+    that cover the KSAs and Tasks described; and&lt;br />&#xD;
+    Technology providers who can identify cybersecurity Work Roles and specific Tasks and KSAs associated with the services&#xD;
+    and hardware/software products they supply.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

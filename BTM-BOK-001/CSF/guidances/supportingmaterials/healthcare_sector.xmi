@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hB_HJ5qqQkAMcpdtkRZVVA" name="new_supporting_material,_tOtrIOGXEeqxFs6enGkR7A" guid="-hB_HJ5qqQkAMcpdtkRZVVA">
+  <mainDescription>&lt;p>&#xD;
+    The center is conducting projects to help improve the cybersecurity postures of healthcare organizations. To stay&#xD;
+    up-to-date on project milestones, sign up for our Health IT email topic and join our community of interest.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Securing Telehealth Remote Patient Monitoring Ecosystem&lt;br />&#xD;
+    Helping to secure the telehealth ecosystems at both healthcare delivery organizations and the patient home&#xD;
+    environments. Learn more about this project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Securing Picture Archiving and Communication System&lt;br />&#xD;
+    Providing guidance for securing the PACS ecosystem in healthcare sector organizations. Learn more about this project&#xD;
+    and download the NIST Cybersecurity Practice Guide, SP 1800-24.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Securing Wireless Infusion Pumps&lt;br />&#xD;
+    Helping Healthcare Delivery Organizations secure wireless infusion pumps on an enterprise network. Learn more about&#xD;
+    this project and download the NIST Cybersecurity Practice Guide, SP 1800-8.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Securing Electronic Health Records on Mobile Devices&lt;br />&#xD;
+    A platform for healthcare providers to securely document, maintain, and exchange electronic patient information among&#xD;
+    mobile devices. Learn more about this project and download the NIST Cybersecurity Practice Guide, SP 1800-1.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

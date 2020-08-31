@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hFVh65fNy9_StpQTy95Emw" name="new_supporting_material,_0EWtQOGXEeqxFs6enGkR7A" guid="-hFVh65fNy9_StpQTy95Emw">
+  <mainDescription>&lt;p>&#xD;
+    The U.S. hospitality industry contributes nearly $600 billion to the U.S. economy and generates nearly $170 billion in&#xD;
+    federal, state, and local taxes each year. Protecting this industry and its high volume of financial transactions and&#xD;
+    related personally identifiable information from guest data is critical for its continued success. A 2016 survey by&#xD;
+    Lodging Technology ranked payment and data security as the highest priority for technology spending by hotels.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To stay up to date on this sector, please subscribe to the NCCoE Hospitality email list. If you are interested in&#xD;
+    helping shape this and future NCCOE hospitality projects, please consider joining our Community of Interest. If you&#xD;
+    have questions or are interested in joining our Community of Interest, please email the project team at &lt;a&#xD;
+    href=&quot;mailto:hospitality-nccoe@nist.gov&quot;>hospitality-nccoe@nist.gov&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Securing Property Management Systems&lt;br />&#xD;
+    Based on industry research and in collaboration with hospitality industry stakeholders, the NCCoE is proposing a&#xD;
+    solution to better secure Property Management Systems (PMS) and its connections within a hotel’s IT system that&#xD;
+    implements layers of security, such as point-to-point encryption, data tokenization, multifactor authentication for&#xD;
+    remote and partner access, network and user behavior analytics, and business-only usage restrictions. Learn more about&#xD;
+    this project.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

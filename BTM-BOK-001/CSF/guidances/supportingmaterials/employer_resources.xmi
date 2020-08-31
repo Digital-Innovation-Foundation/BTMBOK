@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nnW-DT2eTM-qAM0HwXdOLw" name="new_supporting_material,_ZFJr8OGDEeqHbKOWEwn35w" guid="-nnW-DT2eTM-qAM0HwXdOLw">
+  <mainDescription>&lt;p>&#xD;
+    Employer Resources&lt;br />&#xD;
+    Representations and Warranties:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Commercial entities or materials may be identified in this web site or linked web sites. Such identification is not&#xD;
+    intended to imply recommendation or endorsement by NIST, nor is it intended to imply that the entities or materials are&#xD;
+    necessarily the best available for the purpose.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Resources listed below include materials aimed at helping employers, including human resource managers measure, assess,&#xD;
+    and build their cybersecurity workforces.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    DoD Cyber Workforce – Description of the DoD Cyber Workforce and contact information. The DoD Cyber Workforce Framework&#xD;
+    (DCWF) describes the work performed by the full spectrum of the cyber workforce as defined in DoD Directive 8140.01.&#xD;
+    The DCWF leverages the original NICE Framework and the DoD Joint Cyberspace Training and Certification Standards&#xD;
+    (JCT&amp;amp;CS).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    DHS NICE Framework Mapping Tool – The Mapping Tool allow human resources offices and managers to input positions&#xD;
+    required knowledge skills, and abilities to build cybersecurity profiles that are mapped to the NICE Framework. This&#xD;
+    tool ensures that your organization is on the same page as hundreds of other organizations when it comes to talking&#xD;
+    about cybersecurity work in the same way.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    DHS PushButtonPD&amp;trade; Tool – This human resources and manager tool was developed to help quickly draft Federal employee&#xD;
+    cyber position description(s). It is a no cost Microsoft Excel workbook file which makes drafting of the position&#xD;
+    description easier without any prior knowledge of the cyber position. Used in concert with relevant OPM Position&#xD;
+    Classification Standards, the tool will assist in the implementation of the NICE Framework by consistently mapping job&#xD;
+    codes according to selected skills and KSAs (Knowledge, Skills, and Abilities).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Draft NISTIR 8193 NICE Framework Work Role Capability Indicators: Indicators for Performing Work Roles (Nov 2017). One&#xD;
+    can use the DHS’s Cybersecurity Careers and Training Portal to see capability indicators associated with each NICE&#xD;
+    Framework Work Role (newsletter article).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If your resource is publicly available on the Internet, accurate, and comprehensive for a given dimension of the NICE&#xD;
+    Framework, and freely available for others to use (we welcome free resources from for-profit entities), it meets the&#xD;
+    basic criteria for inclusion on the NICE Framework Resource Center. Pay-for resources associated with non-profit&#xD;
+    entities also meet the basic criteria for inclusion. If your resource qualifies and you would like it listed as a NICE&#xD;
+    Framework resource, send a description of your resource to &lt;a&#xD;
+    href=&quot;mailto:NICEFramework@nist.gov&quot;>NICEFramework@nist.gov&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cYnC5-aGqxo-j1YRgt8HBw" name="new_supporting_material,_EaE6IOF6EeqHbKOWEwn35w" guid="-cYnC5-aGqxo-j1YRgt8HBw" changeDate="2020-08-18T13:42:03.411-0400">
+  <mainDescription>&lt;p>&#xD;
+    NICE Interagency Coordinating Council (ICC)&lt;br />&#xD;
+    The NICE Interagency Coordinating Council (ICC) convenes federal government partners of NICE for consultation,&#xD;
+    communication, and coordination of policy initiatives and strategic directions related to cybersecurity education,&#xD;
+    training, and workforce development. The meetings will provide an opportunity for the NICE Program Office located at&#xD;
+    NIST, to communicate program updates with key partners in the federal government and to learn about other federal&#xD;
+    government activities in support of NICE. The group will also identify and discuss policy issues and provide input into&#xD;
+    the strategic direction for NICE.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Current NICE ICC membership includes members from the following departments and agencies:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Department of Commerce&lt;br />&#xD;
+    Department of Defense&lt;br />&#xD;
+    Department of Education&lt;br />&#xD;
+    Department of Energy&lt;br />&#xD;
+    Department of Health and Human Services&lt;br />&#xD;
+    Department of Homeland Security&lt;br />&#xD;
+    Department of Housing and Urban Development&lt;br />&#xD;
+    Department of Justice&lt;br />&#xD;
+    Department of Labor&lt;br />&#xD;
+    Department of Transportation&lt;br />&#xD;
+    Department of Veteran Affairs&lt;br />&#xD;
+    Federal Communications Commission&lt;br />&#xD;
+    National Science Foundation&lt;br />&#xD;
+    National Security Agency&lt;br />&#xD;
+    Office of Management and Budget&lt;br />&#xD;
+    Office of Personnel Management&lt;br />&#xD;
+    Office of Science and Technology Policy&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

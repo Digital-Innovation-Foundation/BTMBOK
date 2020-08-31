@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Cw3AioCJ_G8TuA4iR0EasA" name="new_supporting_material,_w8ARsOGWEeqxFs6enGkR7A" guid="-Cw3AioCJ_G8TuA4iR0EasA">
+  <mainDescription>&lt;p>&#xD;
+    Current Status&lt;br />&#xD;
+    The National Cybersecurity Center of Excellence (NCCoE) recently released the final project description: Validating the&#xD;
+    Integrity of Computing Devices.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This project is currently seeking technology vendors to participate in the development of an example solution. Please&#xD;
+    see our Federal Register notice for more information. If you as a technology vendor are interested in providing&#xD;
+    products and technical expertise as a collaborator on the reference design for this project, please send an email to &lt;a&#xD;
+    href=&quot;mailto:supplychain-nccoe@nist.gov&quot;>supplychain-nccoe@nist.gov&lt;/a> requesting a Letter of Interest template.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Summary&lt;br />&#xD;
+    Organizations today face the challenge of identifying trustworthy products due to increased risk resulting from&#xD;
+    compromises in cyber supply chains.&amp;nbsp; Cyber Supply Chain Risk Management is an evolving approach to modernizing&#xD;
+    information technology (IT) systems, as information and operational technologies rely on complex, globally distributed&#xD;
+    and interconnected, supply chain ecosystems to provide highly refined, cost-effective, and reusable solutions.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For this project, the NCCoE will produce example implementations to demonstrate how organizations can verify that the&#xD;
+    internal components of their purchased computing devices are genuine and have not been altered during the manufacturing&#xD;
+    and distribution processes.&amp;nbsp; Additionally, this project will demonstrate how to inspect the processes that verify&#xD;
+    that the components in a computing device match the attributes and measurements declared by the manufacturer.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This project will result in a publicly available NIST Cybersecurity Practice Guide, a detailed implementation guide of&#xD;
+    the practical steps needed to implement a cybersecurity reference architecture model that addresses the challenge.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

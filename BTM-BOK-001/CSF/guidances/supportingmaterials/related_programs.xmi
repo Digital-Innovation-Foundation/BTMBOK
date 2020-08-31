@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QTMntdO9vklSJ82rhVsJQQ" name="new_supporting_material,_tbvKkOGDEeqHbKOWEwn35w" guid="-QTMntdO9vklSJ82rhVsJQQ" changeDate="2020-08-18T14:50:57.196-0400">
+  <mainDescription>&lt;p>&#xD;
+    NIST SP 800-16, Information Technology Security Training Requirements: a Role- and Performance-Based Model&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Draft NISTIR 8193, Framework Work Role Capability Indicators: Indicators for Performing Work Roles&lt;br />&#xD;
+    Capability indicators are recommended education, certification, training, experiential learning, and continuous&#xD;
+    learning that could signal an increased ability to perform a given NICE Framework work role.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Cybersecurity Framework&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    NIST Cybersecurity Practice Guides&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Privacy Framework&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Baldrige Cybersecurity Initiative&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

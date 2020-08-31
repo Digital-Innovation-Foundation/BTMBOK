@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TkvwiiYjD414fNqHsZq5_A" name="new_supporting_material,_-GbGkOGAEeqHbKOWEwn35w" guid="-TkvwiiYjD414fNqHsZq5_A" changeDate="2020-08-18T14:32:38.254-0400">
+  <mainDescription>&lt;p>&#xD;
+    The Workforce Framework for Cybersecurity (NICE Framework), NIST Special Publication 800-181, is a fundamental&#xD;
+    reference for describing and sharing information about cybersecurity work in the form of Task Statements and Work Roles&#xD;
+    that perform those tasks. The NICE Framework establishes a taxonomy and common lexicon that describes cybersecurity&#xD;
+    work and workers irrespective of where or for whom the work is performed. The NICE Framework is intended to be applied&#xD;
+    in the public, private, and academic sectors.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 133px; WIDTH: 1242px&quot; alt=&quot;&quot; src=&quot;resources/NICE FRAMEWORK RESOURCE CENTER.png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;95&quot; />&lt;br />&#xD;
+    LATEST UPDATES&lt;br />&#xD;
+    On July 15, 2020, NICE released a draft revision to the NICE Framework. Learn more here.&lt;br />&#xD;
+    On July 15, 2020, NICE will hold a webinar on &quot;What’s New - Revisions to the NICE Framework.&quot; Learn more and register&#xD;
+    here.&lt;br />&#xD;
+    On March 18, 2020, NICE held a webinar on “NICE Framework Uses and Success Stories.” Learn more and view the recording&#xD;
+    here.&lt;br />&#xD;
+    On December 3, 2019, NICE held a webinar on “How You Can Influence an Update to the NICE Framework. Learn more and view&#xD;
+    the recording here.&lt;br />&#xD;
+    On November 19, 2019, NIST announced plans to update the NICE Cybersecurity Workforce Framework, NIST Special&#xD;
+    Publication 800-181. The public is invited to provide input by Jan. 13, 2020 for consideration in the update.&lt;br />&#xD;
+    On November 18, 2019, Bill Newhouse (NICE Program Office) led a seminar focused on applications and uses of the NICE&#xD;
+    Framework at the NICE Conference and Expo in Phoenix, Arizona.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

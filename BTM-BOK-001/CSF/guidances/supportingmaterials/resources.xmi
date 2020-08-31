@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Q2Mqpqt1pB1LYPtld6ULSw" name="new_supporting_material,_ws6AYOGDEeqHbKOWEwn35w" guid="-Q2Mqpqt1pB1LYPtld6ULSw">
+  <mainDescription>&lt;p>&#xD;
+    Commercial entities or materials may be identified in this web site or linked web sites. Such identification is not&#xD;
+    intended to imply recommendation or endorsement by NIST, nor is it intended to imply that the entities or materials are&#xD;
+    necessarily the best available for the purpose.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Resources include, but are not limited to: approaches, methodologies, implementation guides, articles, mappings to the&#xD;
+    NICE Framework, educational materials, internet resource centers, example profiles, and more.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If your resource is publicly available on the Internet, accurate, and comprehensive for a given dimension of the NICE&#xD;
+    Framework, and freely available for others to use (we welcome free resources from for-profit entities), it meets the&#xD;
+    basic criteria for inclusion on the NICE Framework Resource Center. Pay-for resources associated with non-profit&#xD;
+    entities also meet the basic criteria for inclusion. If your resource qualifies and you would like it listed as a NICE&#xD;
+    Framework resource, send a description of your resource to &lt;a&#xD;
+    href=&quot;mailto:niceframework@nist.gov&quot;>niceframework@nist.gov&lt;/a>.&lt;br />&#xD;
+    SEARCH THE NICE FRAMEWORK&lt;br />&#xD;
+    Using Keywords via DHS’s NICCS Portal&lt;br />&#xD;
+    AustCyber NICE Framework Dashboard&lt;br />&#xD;
+    CyberWatch West database (under development)&lt;br />&#xD;
+    GETTING STARTED&lt;br />&#xD;
+    NICE Framework One Pager - a quick way to connect with the framework. A printed document one can share with those new&#xD;
+    to the the NICE Framework&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    NICE Framework 101 - walk through the NICE Framework website and explore how to navigate the various work roles and&#xD;
+    associated links. NOTE: this tutorial was based on the old NICE Framework web page and will be updated soon!&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

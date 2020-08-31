@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RAuhWz-nYTBuXnltJxgOiQ" name="new_supporting_material,_pxvqcOGWEeqxFs6enGkR7A" guid="-RAuhWz-nYTBuXnltJxgOiQ">
+  <mainDescription>&lt;p>&#xD;
+    Current Status&lt;br />&#xD;
+    The National Cybersecurity Center of Excellence (NCCoE) recently released the final project description 5G&#xD;
+    Cybersecurity: Preparing a Secure Evolution to 5G, and is currently seeking industry participants and other interested&#xD;
+    collaborators to help us develop an example solution. Please see our Federal Register notice for more information.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Read an overview of the project on our two-page fact sheet.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    Summary&lt;br />&#xD;
+    As 5G-based networks are deployed in our nation and across the world, this brings great promise of positive changes to&#xD;
+    the way humans and machines communicate, operate, and interact in the physical and virtual world. Such changes are&#xD;
+    possible because 5G networks support increased cybersecurity protections through the addition of standards-based&#xD;
+    features and the deployment of more modern information technologies.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The NCCoE is initiating this project in collaboration with industry participants to show how the components of 5G&#xD;
+    architectures can securely mitigate risks and meet industry sectors’ compliance requirements for several 5G use case&#xD;
+    scenarios. 5G standards have been designed to support use case-specific capabilities by way of network deployment&#xD;
+    options. The proposed proof-of-concept solution will integrate commercial and open source products that leverage&#xD;
+    cybersecurity standards and recommended practices to showcase 5G’s robust security features.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This project will result in a National Institute of Standards and Technology&amp;nbsp; Cybersecurity Practice Guide, a&#xD;
+    publicly available description of the practical steps needed to implement a cybersecurity reference design that&#xD;
+    addresses this challenge.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If you have any questions or suggestions, or would like to join our Community of Interest, please email the project&#xD;
+    team at &lt;a href=&quot;mailto:5g-security@nist.gov&quot;>5g-security@nist.gov&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

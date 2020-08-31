@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wFgarHqy6IFGejnbubVFdw" name="new_guideline,_97no8OF5EeqHbKOWEwn35w" guid="-wFgarHqy6IFGejnbubVFdw">
+  <mainDescription>The Workforce Framework for Cybersecurity (NICE Framework), NIST Special Publication 800-181, is a fundamental reference&#xD;
+for describing and sharing information about cybersecurity work in the form of Task Statements and Work Roles that perform&#xD;
+those tasks. The NICE Framework establishes a taxonomy and common lexicon that describes cybersecurity work and workers&#xD;
+irrespective of where or for whom the work is performed. The NICE Framework is intended to be applied in the public,&#xD;
+private, and academic sectors.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

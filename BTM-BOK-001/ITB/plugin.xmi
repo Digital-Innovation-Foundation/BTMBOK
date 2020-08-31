@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Rrva8OFuEeqHbKOWEwn35w" guid="_Rrva8OFuEeqHbKOWEwn35w">
+    <resourceDescriptors xmi:id="_5q1KMOFuEeqHbKOWEwn35w" id="-b8m2Ly7xYIGek136-4Vteg" uri="guidances/supportingmaterials/summary.xmi"/>
+    <resourceDescriptors xmi:id="_HkvgUOFvEeqHbKOWEwn35w" id="-JPBdmZ-YJz_KVqxVTpVxXg" uri="workproducts/chapter_1.xmi"/>
+    <resourceDescriptors xmi:id="_QYsCMOFvEeqHbKOWEwn35w" id="-VTiV1WcvR3R4WfwCEaeSpQ" uri="workproducts/chapter_2.xmi"/>
+    <resourceDescriptors xmi:id="_ycF2IOFvEeqHbKOWEwn35w" id="--fewIA0EJy_DaU7lL37slQ" uri="workproducts/chapter_3.xmi"/>
+    <resourceDescriptors xmi:id="_7As7gOFvEeqHbKOWEwn35w" id="-ULxy4hWzyfnYXsGwlhO6_w" uri="workproducts/chapter_4.xmi"/>
+    <resourceDescriptors xmi:id="_CCHv0OFwEeqHbKOWEwn35w" id="-uJoQZrKdf_o8JY6rs6JsFA" uri="workproducts/chapter_5.xmi"/>
+    <resourceDescriptors xmi:id="_IF2M0OFwEeqHbKOWEwn35w" id="-G2FyS5cQ3yrznshziXKtiw" uri="workproducts/chapter_6.xmi"/>
+    <resourceDescriptors xmi:id="_NX7xgOFwEeqHbKOWEwn35w" id="-8OOsmraAyfBlohiNJG-HNg" uri="workproducts/chapter_7.xmi"/>
+    <resourceDescriptors xmi:id="_UczicOFwEeqHbKOWEwn35w" id="-iT6dmQjlgTseoJjtSkOzxA" uri="workproducts/chapter_8.xmi"/>
+    <resourceDescriptors xmi:id="_cowQMOFwEeqHbKOWEwn35w" id="-Oxy-i795nKw8PAMxBavV6A" uri="workproducts/chapter_9.xmi"/>
+    <resourceDescriptors xmi:id="_hPa5UOFwEeqHbKOWEwn35w" id="-HZeHQNOUZFD_A_-ZCCdZPw" uri="workproducts/chapter_10.xmi"/>
+    <resourceDescriptors xmi:id="_nYz5cOFwEeqHbKOWEwn35w" id="-hux6Xq3BBi_mA-dudM3BKg" uri="workproducts/chapter_11.xmi"/>
+    <resourceDescriptors xmi:id="_t6_NAOFwEeqHbKOWEwn35w" id="-D4RtTKnzyYTSgf9Ton3ydQ" uri="workproducts/chapter_12.xmi"/>
+    <resourceDescriptors xmi:id="_0q2-UOFwEeqHbKOWEwn35w" id="-igs997oqVyURSuhAKfVAgg" uri="workproducts/chapter_13.xmi"/>
+    <resourceDescriptors xmi:id="_5nvvEOFwEeqHbKOWEwn35w" id="-sji-fcULl2nToku_tKnDow" uri="workproducts/chapter_14.xmi"/>
+    <resourceDescriptors xmi:id="__nfD8OFwEeqHbKOWEwn35w" id="-BCxuUrzEqQn7cDEb8R03LQ" uri="workproducts/chapter_15.xmi"/>
+    <resourceDescriptors xmi:id="_F8zAMOFxEeqHbKOWEwn35w" id="-h2P9b20TjxKDV4ke4kG41w" uri="workproducts/chhapter_16.xmi"/>
+    <resourceDescriptors xmi:id="_L8vwcOFxEeqHbKOWEwn35w" id="-8VoFyvoqby3O_dcmmv0Dow" uri="workproducts/chapter_17.xmi"/>
+    <resourceDescriptors xmi:id="_iuXHEOFxEeqHbKOWEwn35w" id="-Pkgkl9R1WKjxAjULhyG83A" uri="customcategories/itb-tree.xmi"/>
+    <resourceDescriptors xmi:id="_InVeYOFyEeqHbKOWEwn35w" id="-RgrowLy1sEF9yRADc5QoRg" uri="guidances/supportingmaterials/understanding_legal_tax_environment.xmi"/>
+    <resourceDescriptors xmi:id="_0f_JoOu5EeqGH_E-YtfOxw" id="-CyFXEir71c8JeEyzUxS81g" uri="guidances/supportingmaterials/copyright.xmi"/>
+    <resourceDescriptors xmi:id="_kiuEkOvNEeqhXo29O7vGsA" id="-vGIli-gx_1XxNwC6PTI17Q" uri="guidances/supportingmaterials/introduction_to_business.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_RrotQOFuEeqHbKOWEwn35w" name="itb" guid="_RrotQOFuEeqHbKOWEwn35w" presentationName="ITB" briefDescription="Introduction to Business (ITB) by OpenStax Authors" authors="Lawrence J. Gitman, San Diego State University - Emeritus&#xD;&#xA;Carl McDaniel, University of Texas, Arlington&#xD;&#xA;Amit Shah, Frostburg State University&#xD;&#xA;Monique Reece&#xD;&#xA;Linda Koffel, Houston Community College&#xD;&#xA;Bethann Talsma, Davenport University and Grand Rapids Community College&#xD;&#xA;James C. Hyatt, University of The Cumberlands" changeDate="2020-08-18T12:19:04.370-0400" copyrightStatement="_tm7AEOu5EeqGH_E-YtfOxw">
+    <methodElementProperty xmi:id="_RrwCAeFuEeqHbKOWEwn35w" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_iKpdYOFuEeqHbKOWEwn35w" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotQeFuEeqHbKOWEwn35w" name="Content" guid="_RrotQeFuEeqHbKOWEwn35w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotQuFuEeqHbKOWEwn35w" name="Categories" guid="_RrotQuFuEeqHbKOWEwn35w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotQ-FuEeqHbKOWEwn35w" name="Domains" guid="_RrotQ-FuEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotROFuEeqHbKOWEwn35w" name="Disciplines" guid="_RrotROFuEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotReFuEeqHbKOWEwn35w" name="RoleSets" guid="_RrotReFuEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotRuFuEeqHbKOWEwn35w" name="WP Types" guid="_RrotRuFuEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotR-FuEeqHbKOWEwn35w" name="Tools" guid="_RrotR-FuEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotSOFuEeqHbKOWEwn35w" name="StandardCategories" guid="_RrotSOFuEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotSeFuEeqHbKOWEwn35w" name="CustomCategories" guid="_RrotSeFuEeqHbKOWEwn35w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotSuFuEeqHbKOWEwn35w" name="Hidden" guid="_RrotSuFuEeqHbKOWEwn35w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_RrotS-FuEeqHbKOWEwn35w" name="Custom Categories" guid="_RrotS-FuEeqHbKOWEwn35w" categorizedElements="_XhOgQOFxEeqHbKOWEwn35w"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_XhOgQOFxEeqHbKOWEwn35w" name="itb-tree" guid="_XhOgQOFxEeqHbKOWEwn35w" presentationName="ITB-Tree" briefDescription="Introduction to Business (ITB) by OpenStax Authors" categorizedElements="_eXsswOvNEeqhXo29O7vGsA _0MOMcOFuEeqHbKOWEwn35w _BR8skOFvEeqHbKOWEwn35w _IYtT4OFvEeqHbKOWEwn35w _uhtEMOFvEeqHbKOWEwn35w _3zagIOFvEeqHbKOWEwn35w _7qKIMOFvEeqHbKOWEwn35w _CmtqoOFwEeqHbKOWEwn35w _KtlrIOFwEeqHbKOWEwn35w _O_e-IOFwEeqHbKOWEwn35w _VDGtcOFwEeqHbKOWEwn35w _dMvHAOFwEeqHbKOWEwn35w _h8okoOFwEeqHbKOWEwn35w _ozS6cOFwEeqHbKOWEwn35w _x0cK0OFwEeqHbKOWEwn35w _1FLi0OFwEeqHbKOWEwn35w _6IOl8OFwEeqHbKOWEwn35w _CNIQgOFxEeqHbKOWEwn35w _GxyugOFxEeqHbKOWEwn35w _BLqXAOFyEeqHbKOWEwn35w _tm7AEOu5EeqGH_E-YtfOxw">
+            <methodElementProperty xmi:id="_iuV48OFxEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-Pkgkl9R1WKjxAjULhyG83A" href="uma://-Pkgkl9R1WKjxAjULhyG83A#-Pkgkl9R1WKjxAjULhyG83A"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RrotTOFuEeqHbKOWEwn35w" name="CoreContent" guid="_RrotTOFuEeqHbKOWEwn35w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pr-g0OFuEeqHbKOWEwn35w" name="introduction_to_business" guid="_pr-g0OFuEeqHbKOWEwn35w" presentationName="Introduction_to_Business" briefDescription="Introduction to Business covers the scope and sequence of most introductory business courses.">
+          <methodElementProperty xmi:id="_pr-g0eFuEeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_5q734OFuEeqHbKOWEwn35w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_0MOMcOFuEeqHbKOWEwn35w" name="summary" guid="_0MOMcOFuEeqHbKOWEwn35w" presentationName="Summary" briefDescription="ntroduction to Business covers the scope and sequence of most introductory business courses.">
+            <methodElementProperty xmi:id="_5qz8EOFuEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-b8m2Ly7xYIGek136-4Vteg" href="uma://-b8m2Ly7xYIGek136-4Vteg#-b8m2Ly7xYIGek136-4Vteg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_BR8skOFvEeqHbKOWEwn35w" name="chapter_1" guid="_BR8skOFvEeqHbKOWEwn35w" presentationName="Chapter_1" briefDescription="Understanding Economic Systems and Business">
+            <methodElementProperty xmi:id="_HkuSMOFvEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-JPBdmZ-YJz_KVqxVTpVxXg" href="uma://-JPBdmZ-YJz_KVqxVTpVxXg#-JPBdmZ-YJz_KVqxVTpVxXg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_IYtT4OFvEeqHbKOWEwn35w" name="chapter_2" guid="_IYtT4OFvEeqHbKOWEwn35w" presentationName="Chapter_2" briefDescription="Making Ethical decisions and Managing a Socially Responsible Business">
+            <methodElementProperty xmi:id="_QYqNAOFvEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-VTiV1WcvR3R4WfwCEaeSpQ" href="uma://-VTiV1WcvR3R4WfwCEaeSpQ#-VTiV1WcvR3R4WfwCEaeSpQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uhtEMOFvEeqHbKOWEwn35w" name="chapter_3" guid="_uhtEMOFvEeqHbKOWEwn35w" presentationName="Chapter_3" briefDescription="Competing in the Global Marketplace">
+            <methodElementProperty xmi:id="_ycEA8OFvEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="--fewIA0EJy_DaU7lL37slQ" href="uma://--fewIA0EJy_DaU7lL37slQ#--fewIA0EJy_DaU7lL37slQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_3zagIOFvEeqHbKOWEwn35w" name="chapter_4" guid="_3zagIOFvEeqHbKOWEwn35w" presentationName="Chapter_4" briefDescription="Forms of Business Ownership">
+            <methodElementProperty xmi:id="_7ArtYOFvEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-ULxy4hWzyfnYXsGwlhO6_w" href="uma://-ULxy4hWzyfnYXsGwlhO6_w#-ULxy4hWzyfnYXsGwlhO6_w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_7qKIMOFvEeqHbKOWEwn35w" name="chapter_5" guid="_7qKIMOFvEeqHbKOWEwn35w" presentationName="Chapter_5" briefDescription="Entrepreneurship: Stating and Managing Your Own Business">
+            <methodElementProperty xmi:id="_CCF6oOFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-uJoQZrKdf_o8JY6rs6JsFA" href="uma://-uJoQZrKdf_o8JY6rs6JsFA#-uJoQZrKdf_o8JY6rs6JsFA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_CmtqoOFwEeqHbKOWEwn35w" name="chapter_6" guid="_CmtqoOFwEeqHbKOWEwn35w" presentationName="Chapter_6" briefDescription="Management and Leadership in Today's Organizations">
+            <methodElementProperty xmi:id="_IF0-sOFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-G2FyS5cQ3yrznshziXKtiw" href="uma://-G2FyS5cQ3yrznshziXKtiw#-G2FyS5cQ3yrznshziXKtiw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KtlrIOFwEeqHbKOWEwn35w" name="chapter_7" guid="_KtlrIOFwEeqHbKOWEwn35w" presentationName="Chapter_7" briefDescription="Learning Outcomes">
+            <methodElementProperty xmi:id="_NX58UOFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-8OOsmraAyfBlohiNJG-HNg" href="uma://-8OOsmraAyfBlohiNJG-HNg#-8OOsmraAyfBlohiNJG-HNg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_O_e-IOFwEeqHbKOWEwn35w" name="chapter_8" guid="_O_e-IOFwEeqHbKOWEwn35w" presentationName="Chapter_8" briefDescription="Managing Human Resources and Labor Relations">
+            <methodElementProperty xmi:id="_UcxtQOFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-iT6dmQjlgTseoJjtSkOzxA" href="uma://-iT6dmQjlgTseoJjtSkOzxA#-iT6dmQjlgTseoJjtSkOzxA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_VDGtcOFwEeqHbKOWEwn35w" name="chapter_9" guid="_VDGtcOFwEeqHbKOWEwn35w" presentationName="Chapter_9" briefDescription="Motivating Employees">
+            <methodElementProperty xmi:id="_covCEOFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-Oxy-i795nKw8PAMxBavV6A" href="uma://-Oxy-i795nKw8PAMxBavV6A#-Oxy-i795nKw8PAMxBavV6A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_dMvHAOFwEeqHbKOWEwn35w" name="chapter_10" guid="_dMvHAOFwEeqHbKOWEwn35w" presentationName="Chapter_10" briefDescription="Achieving World-Class Operations Management">
+            <methodElementProperty xmi:id="_hPZEIOFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-HZeHQNOUZFD_A_-ZCCdZPw" href="uma://-HZeHQNOUZFD_A_-ZCCdZPw#-HZeHQNOUZFD_A_-ZCCdZPw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_h8okoOFwEeqHbKOWEwn35w" name="chapter_11" guid="_h8okoOFwEeqHbKOWEwn35w" presentationName="Chapter_11" briefDescription="Creating Products and Pricing Strategies to Meet Customers' Needs">
+            <methodElementProperty xmi:id="_nYyEQOFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-hux6Xq3BBi_mA-dudM3BKg" href="uma://-hux6Xq3BBi_mA-dudM3BKg#-hux6Xq3BBi_mA-dudM3BKg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ozS6cOFwEeqHbKOWEwn35w" name="chapter_12" guid="_ozS6cOFwEeqHbKOWEwn35w" presentationName="Chapter_12" briefDescription="Distributing and Promoting Products and Services">
+            <methodElementProperty xmi:id="_t69X0OFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-D4RtTKnzyYTSgf9Ton3ydQ" href="uma://-D4RtTKnzyYTSgf9Ton3ydQ#-D4RtTKnzyYTSgf9Ton3ydQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_x0cK0OFwEeqHbKOWEwn35w" name="chapter_13" guid="_x0cK0OFwEeqHbKOWEwn35w" presentationName="Chapter_13" briefDescription="Using Technology to Manage Information">
+            <methodElementProperty xmi:id="_0q0iEOFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-igs997oqVyURSuhAKfVAgg" href="uma://-igs997oqVyURSuhAKfVAgg#-igs997oqVyURSuhAKfVAgg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1FLi0OFwEeqHbKOWEwn35w" name="chapter_14" guid="_1FLi0OFwEeqHbKOWEwn35w" presentationName="Chapter_14" briefDescription="Using Financial Informtion and Accounting">
+            <methodElementProperty xmi:id="_5nt54OFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-sji-fcULl2nToku_tKnDow" href="uma://-sji-fcULl2nToku_tKnDow#-sji-fcULl2nToku_tKnDow"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_6IOl8OFwEeqHbKOWEwn35w" name="chapter_15" guid="_6IOl8OFwEeqHbKOWEwn35w" presentationName="Chapter_15" briefDescription="Undestanding Money and Financial Institutions">
+            <methodElementProperty xmi:id="__ndOwOFwEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-BCxuUrzEqQn7cDEb8R03LQ" href="uma://-BCxuUrzEqQn7cDEb8R03LQ#-BCxuUrzEqQn7cDEb8R03LQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_CNIQgOFxEeqHbKOWEwn35w" name="chhapter_16" guid="_CNIQgOFxEeqHbKOWEwn35w" presentationName="Chhapter_16" briefDescription="Understanding Financial Management and Securities Markets">
+            <methodElementProperty xmi:id="_F8xLAOFxEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-h2P9b20TjxKDV4ke4kG41w" href="uma://-h2P9b20TjxKDV4ke4kG41w#-h2P9b20TjxKDV4ke4kG41w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_GxyugOFxEeqHbKOWEwn35w" name="chapter_17" guid="_GxyugOFxEeqHbKOWEwn35w" presentationName="Chapter_17" briefDescription="Your Career in Business">
+            <methodElementProperty xmi:id="_L8t7QOFxEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-8VoFyvoqby3O_dcmmv0Dow" href="uma://-8VoFyvoqby3O_dcmmv0Dow#-8VoFyvoqby3O_dcmmv0Dow"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_BLqXAOFyEeqHbKOWEwn35w" name="understanding_legal_tax_environment" guid="_BLqXAOFyEeqHbKOWEwn35w" presentationName="Understanding_Legal_Tax_Environment">
+            <methodElementProperty xmi:id="_InTpMOFyEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-RgrowLy1sEF9yRADc5QoRg" href="uma://-RgrowLy1sEF9yRADc5QoRg#-RgrowLy1sEF9yRADc5QoRg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_tm7AEOu5EeqGH_E-YtfOxw" name="copyright" guid="_tm7AEOu5EeqGH_E-YtfOxw" presentationName="CopyRight">
+            <methodElementProperty xmi:id="_0qphgOu5EeqGH_E-YtfOxw" name="me_edited" value="true"/>
+            <presentation xmi:id="-CyFXEir71c8JeEyzUxS81g" href="uma://-CyFXEir71c8JeEyzUxS81g#-CyFXEir71c8JeEyzUxS81g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_eXsswOvNEeqhXo29O7vGsA" name="introduction_to_business" guid="_eXsswOvNEeqhXo29O7vGsA" presentationName="Introduction_to_Business" briefDescription="Introduction to Business covers the scope and sequence of most introductory business courses.">
+            <methodElementProperty xmi:id="_kiroUOvNEeqhXo29O7vGsA" name="me_edited" value="true"/>
+            <presentation xmi:id="-vGIli-gx_1XxNwC6PTI17Q" href="uma://-vGIli-gx_1XxNwC6PTI17Q#-vGIli-gx_1XxNwC6PTI17Q"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_RrotTeFuEeqHbKOWEwn35w" name="CapabilityPatterns" guid="_RrotTeFuEeqHbKOWEwn35w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_RrotTuFuEeqHbKOWEwn35w" name="DeliveryProcesses" guid="_RrotTuFuEeqHbKOWEwn35w"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_RrotT-FuEeqHbKOWEwn35w" name="ProcessContributions" guid="_RrotT-FuEeqHbKOWEwn35w"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

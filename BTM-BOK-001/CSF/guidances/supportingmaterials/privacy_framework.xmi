@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RSC7OOCrr6244mGKGDyBSw" name="new_supporting_material_2,_Np1KEOGBEeqHbKOWEwn35w" guid="-RSC7OOCrr6244mGKGDyBSw">
+  <mainDescription>&lt;p>&#xD;
+    ABOUT&lt;br />&#xD;
+    The NIST Privacy Framework is a voluntary tool developed in collaboration with stakeholders intended to help&#xD;
+    organizations identify and manage privacy risk to build innovative products and services while protecting individuals’&#xD;
+    privacy.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Resource Repository&lt;br />&#xD;
+    This repository contains resources to support organizations’ use of the Privacy Framework. Resources include&#xD;
+    crosswalks, common Profiles, guidance, and tools. NIST encourages new contributions and feedback on these resources as&#xD;
+    part of the ongoing collaborative effort to improve implementation of the Privacy Framework.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Any references to commercial entities, products, services, or other nongovernmental organizations or individuals on the&#xD;
+    site are not intended to reflect the opinion of NIST, the Department of Commerce or the United States, or its officers&#xD;
+    or employees. Such references are not an official or personal endorsement of any product, person, or service, nor are&#xD;
+    they intended to imply that the entities, materials, or equipment are necessarily the best available for the purpose.&#xD;
+    Information, data, and software posted to this platform is “AS IS.” See the Operating Rules for the complete&#xD;
+    Representations and Warranties.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Adoption&lt;br />&#xD;
+    LEAD ON PRIVACY&lt;br />&#xD;
+    Show leadership in privacy by adopting the Privacy Framework to support:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Building customers’ trust by supporting ethical decision-making in product and service design or deployment that&#xD;
+    optimizes beneficial uses of data while minimizing adverse consequences for individuals’ privacy and society as a&#xD;
+    whole;&lt;br />&#xD;
+    Fulfilling current compliance obligations, as well as future-proofing products and services to meet these obligations&#xD;
+    in a changing technological and policy environment; and&lt;br />&#xD;
+    Facilitating communication about privacy practices with individuals, business partners, assessors, and&#xD;
+    regulators.&lt;br />&#xD;
+    The Framework can help you answer the fundamental question, “How are we considering the privacy impacts to individuals&#xD;
+    as we develop our systems, products, and services?” To account for the unique needs of your organization, use of the&#xD;
+    Framework is flexible, although it is designed to complement existing business and system development operations. For&#xD;
+    example, if you already have robust privacy risk management processes, you might use the Core’s five Functions as a&#xD;
+    streamlined way to analyze and articulate any gaps. Alternatively, if your organization is seeking to establish a&#xD;
+    privacy program, you can use the Core’s Categories and Subcategories as a reference. For a more in depth look at some&#xD;
+    of the ways you can use it, see Section 3 of the Framework.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    IMPLEMENTATION SUPPORT&lt;br />&#xD;
+    Hypothetical Use Cases&lt;br />&#xD;
+    NIST has developed these hypothetical use cases to improve understanding of how to develop Profiles to increase&#xD;
+    collaboration and dialogue across organizations and support risk-based decisions. If you’d like to share a real&#xD;
+    implementation success story, contact us.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

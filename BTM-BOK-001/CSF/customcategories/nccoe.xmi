@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-aMCHRvQZX38elImDtCtRZQ" name="new_custom_category,_U1fo4OssEeq44bLjAW9hRQ" guid="-aMCHRvQZX38elImDtCtRZQ" changeDate="2020-08-30T21:50:46.014-0400">
+  <mainDescription>The National Cybersecurity Center of Excellence (NCCoE), a part of the National Institute of Standards and Technology&#xD;
+(NIST), is a collaborative hub where industry organizations, government agencies, and academic institutions work together&#xD;
+to address businesses’ most pressing cybersecurity issues. This public-private partnership enables the creation of&#xD;
+practical cybersecurity solutions for specific industries, as well as for broad, cross-sector technology challenges.&#xD;
+Through consortia under Cooperative Research and Development Agreements (CRADAs), including technology partners—from&#xD;
+Fortune 50 market leaders to smaller companies specializing in IT security—the NCCoE applies standards and best practices&#xD;
+to develop modular, easily adaptable example cybersecurity solutions using commercially available technology. The NCCoE&#xD;
+documents these example solutions in the NIST Special Publication 1800 series, which maps capabilities to the NIST&#xD;
+Cybersecurity Framework and details the steps needed for another entity to recreate the example solution. The NCCoE was&#xD;
+established in 2012 by NIST in partnership with the State of Maryland and Montgomery County, MD.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

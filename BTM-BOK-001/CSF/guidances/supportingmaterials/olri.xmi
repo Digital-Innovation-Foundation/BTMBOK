@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TtZqBjLMC0flLv-A5J6IBw" name="new_supporting_material,_yJnvoOF7EeqHbKOWEwn35w" guid="-TtZqBjLMC0flLv-A5J6IBw">
+  <mainDescription>&lt;p>&#xD;
+    National Cybersecurity Online Informative References (OLIR) Program: Program Overview and OLIR Uses (2nd Draft)&lt;br />&#xD;
+    Date Published: August 2020&lt;br />&#xD;
+    Comments Due: September 4, 2020&lt;br />&#xD;
+    Email Comments to: &lt;a href=&quot;mailto:olir@nist.gov&quot;>olir@nist.gov&lt;/a>&lt;br />&#xD;
+    Planning Note (8/4/2020):&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    NIST is seeking public comments on two draft NISTIRs for the National Cybersecurity Online Informative References&#xD;
+    (OLIR) Program. This Program is a NIST effort to facilitate subject matter experts in defining standardized Online&#xD;
+    Informative References (OLIRs), which are relationships between elements of their documents and elements of other&#xD;
+    documents like the NIST Cybersecurity Framework.&amp;nbsp; The draft reports focus on 1) OLIR program overview and uses&#xD;
+    (NISTIR 8278), and 2) submission guidance for OLIR developers (NISTIR 8278A).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Draft (2nd) NISTIR 8278 describes the OLIR Program: what OLIRs are, what benefits they provide, how anyone can search&#xD;
+    and access OLIRs, and how subject matter experts can contribute OLIRs. Based on feedback received from early adopters&#xD;
+    as well as discussions at the December 2019 OLIR workshop, this second draft includes:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The introduction of two new Focal Document Templates:&lt;br />&#xD;
+    Privacy Framework: A Tool for Improving Privacy through Enterprise Risk Management v1.0, and&lt;br />&#xD;
+    Special Publication 800-53 Revision 4, Security and Privacy Controls for Federal Information Systems and&#xD;
+    Organizations&lt;br />&#xD;
+    New functional enhancements to the OLIR Catalog and Derived Relationships Mapping (DRM) display tool&lt;br />&#xD;
+    NOTE: A call for patent claims is included on page iv of this draft. For additional information, see the Information&#xD;
+    Technology Laboratory (ITL) Patent Policy--Inclusion of Patents in ITL Publications.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    Author(s)&lt;br />&#xD;
+    Nicole Keller (NIST), Stephen Quinn (NIST), Karen Scarfone (Scarfone Cybersecurity), Matthew Smith (Huntington Ingalls&#xD;
+    Industries), Vincent Johnson (Electrosoft Services)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Abstract&lt;br />&#xD;
+    The National Cybersecurity Online Informative References (OLIR) Program is a NIST effort to facilitate subject matter&#xD;
+    experts in defining standardized Online Informative References (OLIRs), which are relationships between elements of&#xD;
+    their documents and elements of other documents like the NIST Cybersecurity Framework. The OLIR Program provides a&#xD;
+    standard format for expressing OLIRs as well as a centralized location for displaying them. This report describes the&#xD;
+    OLIR Program, focusing on explaining what OLIRs are, what benefits they provide, how anyone can search and access&#xD;
+    OLIRs, and how subject matter experts can contribute OLIRs.&lt;br />&#xD;
+    Keywords&lt;br />&#xD;
+    catalog; Cybersecurity Framework; informative references; mapping; National Cybersecurity OLIR Program; Online&#xD;
+    Informative References (OLIRs)&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

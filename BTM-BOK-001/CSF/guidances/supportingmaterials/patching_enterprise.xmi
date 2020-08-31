@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qEYxPbd4NdPjrokR8_p9sg" name="new_supporting_material,_fAJwIOGWEeqxFs6enGkR7A" guid="-qEYxPbd4NdPjrokR8_p9sg">
+  <mainDescription>&lt;p>&#xD;
+    Current Status&lt;br />&#xD;
+    This project is currently in the build phase. We have selected several technology collaborators who have signed a&#xD;
+    Cooperative Research and Development Agreement (CRADA, see an example) with NIST.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Download the final Critical Cybersecurity Hygiene: Patching the Enterprise&amp;nbsp; project description for more&#xD;
+    information on the project or read the two-page fact sheet for an overview.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Questions? Please send an email to &lt;a href=&quot;mailto:cyberhygiene@nist.gov&quot;>cyberhygiene@nist.gov&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    Summary&lt;br />&#xD;
+    There are a few root causes for many data breaches, malware infections, and other security incidents. Implementing a&#xD;
+    few relatively simple security hygiene practices can address those root causes—preventing many incidents from occurring&#xD;
+    and lowering the potential impact of incidents that still occur. In other words, security hygiene practices make it&#xD;
+    harder for attackers to succeed and reduce the damage they can cause.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Unfortunately, security hygiene is easier said than done. IT professionals have known for decades that patching&#xD;
+    software—operating systems and applications—eliminates vulnerabilities. Despite widespread recognition that patching is&#xD;
+    effective, it's also&amp;nbsp; resource-intensive. And the act of patching itself can reduce system and service&#xD;
+    availability. However, delaying patching deployments gives attackers a larger window of opportunity.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Critical Cybersecurity Hygiene: Patching the Enterprise Project will examine how commercial and open source tools&#xD;
+    can aid with the most challenging aspects of patching general IT systems. We are using commercial and open source tools&#xD;
+    to aid with the most challenging aspects, including system characterization and prioritization, patch testing, and&#xD;
+    patch implementation tracking and verification. We will include actionable, prescriptive guidance on establishing&#xD;
+    policies and processes for the entire patching lifecycle to include defining roles and responsibilities for all&#xD;
+    affected personnel and establishing a playbook containing mitigation actions for destructive malware outbreaks.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This project will result in a NIST Cybersecurity Practice Guide, a publicly available description of the practical&#xD;
+    steps needed to implement a cybersecurity reference design that addresses this challenge.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If you have any questions or suggestions, please email the project team at &lt;a&#xD;
+    href=&quot;mailto:cyberhygiene@nist.gov&quot;>cyberhygiene@nist.gov&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Collaborating Vendors&lt;br />&#xD;
+    Organizations participating in this project submitted their capabilities in response to an open call in the Federal&#xD;
+    Register for all sources of relevant security capabilities from academia and industry (vendors and integrators). The&#xD;
+    following respondents with relevant capabilities or product components (identified as “Technology&#xD;
+    Partners/Collaborators” herein) signed a Cooperative Research and Development Agreement to collaborate with NIST in a&#xD;
+    consortium to build this example solution.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

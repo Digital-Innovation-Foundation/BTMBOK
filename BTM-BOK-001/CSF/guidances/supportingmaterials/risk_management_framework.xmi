@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QF6Teu1bUD4f7Csdiqe2ug" name="new_supporting_material,_DnoFUOGBEeqHbKOWEwn35w" guid="-QF6Teu1bUD4f7Csdiqe2ug">
+  <mainDescription>&lt;p>&#xD;
+    Risk Management Framework&lt;br />&#xD;
+    The Cybersecurity Framework can help federal agencies to integrate existing risk management and compliance efforts and&#xD;
+    structure consistent communication, both across teams and with leadership. That is why on May 11, 2017, the President&#xD;
+    issued an Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure requiring&#xD;
+    federal agencies to use the Framework.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    NIST has been updating its suite of cybersecurity and privacy risk management publications to provide additional&#xD;
+    guidance on how to integrate the implementation of the Cybersecurity Framework.&amp;nbsp; NIST Interagency Report (IR) 8170&#xD;
+    Approaches for Federal Agencies to Use the Cybersecurity Framework summarized eight approaches that may be useful for&#xD;
+    federal agencies and others.&amp;nbsp; The NISTIR 8170 discusses how the CSF can be valuable in managing federal&#xD;
+    information and information systems according to:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    the Risk Management Framework for Information Systems and Organizations (RMF) (SP 800-37 Rev 2),&lt;br />&#xD;
+    implementing security controls detailed in Security and Privacy Controls for Federal Information Systems and&#xD;
+    Organizations (SP 800-53 revision 4), and&lt;br />&#xD;
+    using the methodology outlined in Managing Information Security Risk: Organization, Mission, and Information System&#xD;
+    View (SP 800-39).&lt;br />&#xD;
+    Conversely, the RMF incorporates key Cybersecurity Framework, privacy risk management, and systems security engineering&#xD;
+    concepts. Among other things, the CSF Core can help agencies to:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    better-organize the risks they have accepted and the risk they are working to remediate across all systems,&lt;br />&#xD;
+    use the reporting structure that aligns to Security and Privacy Controls for Federal Information Systems and&#xD;
+    Organizations (SP 800-53 Rev. 4), and&lt;br />&#xD;
+    enable agencies to reconcile mission objectives with the structure of the Core.&lt;br />&#xD;
+    Consistent with OMB Memorandum M-17-25, federal implementation of the Cybersecurity Framework fully supports the use of&#xD;
+    and is consistent with the risk management processes and approaches defined in SP 800-39 and SP 800-37. This allows&#xD;
+    agencies to meet their concurrent obligations to comply with the requirements of FISMA and E.O. 13800.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Each task in the RMF includes references to specific sections in the Cybersecurity Framework. For example:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Task P-2, Risk Management Strategy, aligns with the Cybersecurity Framework Core [Identify Function];&lt;br />&#xD;
+    Task P-4, Organizationally-Tailored Control Baselines and Cybersecurity Framework Profiles, aligns with the&#xD;
+    Cybersecurity Framework Profile construct; and&lt;br />&#xD;
+    Task R-5, Authorization Reporting, and Task M-5, Security and Privacy Reporting, support OMB reporting and risk&#xD;
+    management requirements organization-wide by using the Cybersecurity Framework constructs of Functions, Categories, and&#xD;
+    Subcategories. The Subcategory mappings to the [SP 800-53] controls are available at: &lt;a&#xD;
+    href=&quot;https://www.nist.gov/cyberframework/federal-resources&quot;>https://www.nist.gov/cyberframework/federal-resources&lt;/a>.&lt;br />&#xD;
+&#xD;
+    For more information on the NIST Risk Management Framework, see: &lt;a&#xD;
+    href=&quot;https://csrc.nist.gov/projects/risk-management/risk-management-framework-(rmf)-overview&quot;>https://csrc.nist.gov/projects/risk-management/risk-management-framework-(rmf)-overview&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

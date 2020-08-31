@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FgHBhVe6OY9p4VO5x4IE1Q" name="new_supporting_material,_oRfjMOGXEeqxFs6enGkR7A" guid="-FgHBhVe6OY9p4VO5x4IE1Q">
+  <mainDescription>&lt;p>&#xD;
+    We met with IT security leaders from financial services companies and industry organizations to learn about their&#xD;
+    cybersecurity challenges. We have undertaken three of the many potential projects they suggested.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    NCCoE cybersecurity experts are addressing these challenges through collaboration with vendors of cybersecurity&#xD;
+    technologies. If you would like to collaborate on these projects, propose alternative architectures, or know of other&#xD;
+    products that might be applicable to these challenge, please contact us or join our Community of Interest at &lt;a&#xD;
+    href=&quot;mailto:financial_nccoe@nist.gov&quot;>financial_nccoe@nist.gov&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To receive announcements about project milestones, sign up for our email alerts.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Access Rights Management&lt;br />&#xD;
+    Controlling who can obtain access to information and resources with a cohesive and secure identity and access&#xD;
+    management system. Learn more about this project and download the NIST Cybersecurity Practice Guide SP 1800-9.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    IT Asset Management&lt;br />&#xD;
+    Making software changes and network breaches more easily identifiable. Learn more about this project and download the&#xD;
+    NIST Cybersecurity Practice Guide SP 1800-5.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Privileged Account Management&lt;br />&#xD;
+    Implementing stronger controls for privileged account security to enable organizations to enforce access policies.&#xD;
+    Learn more about this project and download the NIST Cybersecurity Practice Guide SP 1800-18.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

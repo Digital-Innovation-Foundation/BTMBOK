@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dXvZYt_SGJXUmUxj0sVDhQ" name="new_supporting_material,_0LErMOGVEeqxFs6enGkR7A" guid="-dXvZYt_SGJXUmUxj0sVDhQ">
+  <mainDescription>&lt;p>&#xD;
+    Data security is the process of maintaining the confidentiality, integrity, and availability of an organization’s data&#xD;
+    in a manner consistent with the organization’s risk strategy. Preventing unauthorized access, data corruption, and&#xD;
+    denial of service attacks are all important tenets of data security and an essential aspect of IT for organizations of&#xD;
+    every size and type. Consistent, reliable, and secure access to database records, system files, user files, and&#xD;
+    customer data is necessary to prevent data from becoming vulnerable to attack. Before an incident begins, companies&#xD;
+    must have a security architecture and response plan in place. Once an incident occurs, they must be able to detect the&#xD;
+    event and respond accordingly. After the incident, the company must be able to effectively and efficiently recover.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In accordance with this methodology, the Data Security program at the NCCoE has produced guidance for both data&#xD;
+    integrity and data confidentiality. Each will consist of a series of publications that work together to identify,&#xD;
+    protect, detect, respond to and recover from critical events.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If you have questions or would like to join our Community of Interest, please email the project team at &lt;a&#xD;
+    href=&quot;mailto:ds-nccoe@nist.gov&quot;>ds-nccoe@nist.gov&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Data Integrity: Identifying and Protecting&lt;br />&#xD;
+    Exploring methods to effectively identify and protect assets against data integrity attacks. Learn more about this&#xD;
+    project and download the NIST Cybersecurity Practice Guide 1800-25.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Data Integrity: Detecting and Responding&lt;br />&#xD;
+    Detailing methods and potential tool sets that can detect, mitigate, and contain data integrity events. Learn more&#xD;
+    about this project and download the NIST Cybersecurity Practice Guide 1800-26.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Data Integrity: Recovering&lt;br />&#xD;
+    Effectively recover from a data corruption event in various Information Technology (IT) enterprise environments. Learn&#xD;
+    more about this project and download the NIST Cybersecurity Practice Guide 1800-11.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Data Confidentiality: Identifying and Protecting&lt;br />&#xD;
+    Exploring methods to effectively identify and protect assets against data confidentiality attacks. Learn more about&#xD;
+    this project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Data Confidentiality: Detect, Respond, and Recover&lt;br />&#xD;
+    Identifying methods to efficiently detect, respond, and recover from data confidentiality attacks. Learn more about&#xD;
+    this&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JixDU9qP16uIVZfSWd3tIw" name="new_supporting_material,_oPGocOGVEeqxFs6enGkR7A" guid="-JixDU9qP16uIVZfSWd3tIw">
+  <mainDescription>&lt;p>&#xD;
+    Current Status&lt;br />&#xD;
+    We are currently reviewing comments submitted for draft NISTIR 8269, A Taxonomy and Terminology of Adversarial Machine&#xD;
+    Learning. If you have questions, please email us at &lt;a href=&quot;mailto:ai-nccoe@nist.gov&quot;>ai-nccoe@nist.gov&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Summary&lt;br />&#xD;
+    Machine Learning (ML) is a field within Artificial Intelligence (AI) that focuses on the ability of computers to learn&#xD;
+    on their own without being programmed. When these systems are misled or given malicious inputs, Adversarial Machine&#xD;
+    Learning (AML) has likely been employed. AML is conducted by malicious actors to undermine the capabilities of ML;&#xD;
+    whereas, ML security focuses on understanding these attack consequences with the intention to mitigate the effects of&#xD;
+    malicious actors.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    NISTIR 8269, A Taxonomy and Terminology of Adversarial Machine Learning was developed as a step toward securing&#xD;
+    applications of AI, specifically AML, and features a taxonomy of concepts and terminologies. This NISTIR can inform&#xD;
+    future standards and best practices for assessing and managing ML security by establishing a common language and&#xD;
+    understanding of the rapidly developing AML landscape.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If you have any questions or suggestions, please email the project team at &lt;a&#xD;
+    href=&quot;mailto:ai-nccoe@nist.gov&quot;>ai-nccoe@nist.gov&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-L2ZLJwsEqsUnox8lIkFNFw" name="new_supporting_material,_tJ9XsOF7EeqHbKOWEwn35w" guid="-L2ZLJwsEqsUnox8lIkFNFw">
+  <mainDescription>&lt;p>&#xD;
+    Informative References&lt;br />&#xD;
+    The National Cybersecurity Online Informative References Program is a NIST effort to facilitate subject matter experts&#xD;
+    (SMEs) in defining standardized online informative references (OLIRs) between elements of their cybersecurity, privacy,&#xD;
+    and workforce documents and elements of other cybersecurity, privacy, and workforce documents like the Cybersecurity&#xD;
+    Framework. At this stage of the OLIR Program evolution, the initial focus is on relationships to cybersecurity and&#xD;
+    privacy documents. NIST Interagency or Internal Report (IR) 8278, National Cybersecurity Online Informative References&#xD;
+    (OLIR) Program: Program Overview and OLIR Uses describes the OLIR Program, focusing on explaining what OLIRs are, how&#xD;
+    they can be beneficial, and how subject matter experts can contribute OLIRs.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The OLIRs are in a simple standard format defined by NIST Interagency or Internal Report (IR) 8278A, National&#xD;
+    Cybersecurity Online Informative References (OLIR) Program: Submission Guidance for OLIR Developers and are displayed&#xD;
+    within the OLIR Catalog. NISTIR 8278A provides guidance to Informative Reference developers for completing and&#xD;
+    submitting OLIRs. NIST analyzes the submitted OLIRs for correctness, works with submitters regarding any corrections,&#xD;
+    and hosts links to the public draft and final versions of the OLIRs. By following this approach, cybersecurity document&#xD;
+    owners can use the OLIR Program as a mechanism for communicating with owners and users of other cybersecurity documents&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The OLIR Program integrates ongoing NIST projects that respond to administrative and legislative requirements,&#xD;
+    including those for the Cybersecurity Framework. The OLIR Program also addresses many Office of Management and Budget&#xD;
+    (OMB) memoranda that address specific cybersecurity issues and comprise large sets of regulations with which&#xD;
+    organizations must comply. The OLIR Program can represent relationships to any authoritative documents, products, or&#xD;
+    services. These resources can be generated from national and international standards, guidelines, frameworks, and&#xD;
+    regulations to policies for individual organizations, sectors, or jurisdictions&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Have a question? Please go to the Informative References FAQs page to see if it has already been answered.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Disclaimer: Informative References are linked to by NIST for informational purposes only and do not constitute an&#xD;
+    endorsement by NIST of the submitted content.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    HOW TO SUBMIT&lt;br />&#xD;
+    Do you want to submit an Informative Reference for consideration? Please follow these instructions.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

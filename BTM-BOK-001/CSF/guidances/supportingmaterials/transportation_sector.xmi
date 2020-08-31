@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5PBmZM6PNxa0UIAoqPS_hQ" name="new_supporting_material,_M_qUQOGYEeqxFs6enGkR7A" guid="-5PBmZM6PNxa0UIAoqPS_hQ">
+  <mainDescription>&lt;p>&#xD;
+    Maritime: Oil &amp;amp; Natural Gas&lt;br />&#xD;
+    With the help of the NCCoE, the United States Coast Guard (USCG) collaborated with industry to develop voluntary&#xD;
+    Cybersecurity Framework Profiles (CFP) to mitigate risks in their joint mission areas.&amp;nbsp; Learn more about this&#xD;
+    project.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    Seeking Additional Projects&lt;br />&#xD;
+    The NCCoE is seeking input from members of transportation sectors to identify cybersecurity challenges that the center&#xD;
+    can address in collaboration with vendors of commercially available products.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As with the center's other use cases, we are interested in issues that whole sectors (e.g.: automotive, rail, shipping,&#xD;
+    etc.) must contend with, so that our work is broadly applicable. Once we have identified a challenge or challenges, we&#xD;
+    will publish drafts of the technical descriptions and ask for public feedback. After incorporating that feedback, we&#xD;
+    will publish a Federal Register Notice inviting vendors of commercially available products to work in our labs to&#xD;
+    generate end-to-end example solutions.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ultimately, the NCCoE will publish freely available NIST Cybersecurity Practice Guides that will show others how they&#xD;
+    can achieve the same results.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To suggest a use case idea, email us at &lt;a href=&quot;mailto:nccoe@nist.gov&quot;>nccoe@nist.gov&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

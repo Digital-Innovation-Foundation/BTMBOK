@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9NDpHz_B6PoZ1-N4VkURMA" name="new_supporting_material,_T06cMOGVEeqxFs6enGkR7A" guid="-9NDpHz_B6PoZ1-N4VkURMA">
+  <mainDescription>&lt;p>&#xD;
+    We collaborate with experts from industry, government, and academia.&lt;br />&#xD;
+    The National Cybersecurity Center of Excellence (NCCoE) invites you to participate in a variety of opportunities at the&#xD;
+    center as a key player, building and deploying standards-based cybersecurity example solutions. You can suggest or help&#xD;
+    define problems for us to address, support the development of reference designs, and test them in real-world&#xD;
+    environments. We encourage feedback on our practice guides from users, integrators, and others interested in deploying&#xD;
+    our example solutions. Download our stakeholders brochure.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    We welcome collaborations with:&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    INFORMATION TECHNOLOGY USERS&lt;br />&#xD;
+    Cloud outline with lock&lt;br />&#xD;
+    If you have an intractable cybersecurity problem, or ideas or components for an example solution, we’d like to hear&#xD;
+    from you. Or contact us to share your ideas for projects, use cases, or workshops.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    VENDORS&lt;br />&#xD;
+    Laptop cartoon&lt;br />&#xD;
+    Work with us in our labs. You can contribute your expertise, hardware, or software to the reference design for a&#xD;
+    specific problem. Sign up for alerts from us, and watch the Federal Register for calls for participation. Vendors that&#xD;
+    participate with resources are required to sign Cooperative Research and Development Agreement (CRADA). See an example&#xD;
+    CRADA here.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    REFERENCE DESIGN USERS&lt;br />&#xD;
+    Server and 3 laptops cartoon&lt;br />&#xD;
+    Deploy one of our example solutions, then provide feedback to help us validate and improve it.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    INTEGRATORS&lt;br />&#xD;
+    Gear&lt;br />&#xD;
+    You can help companies implement our reference designs in real-world environments and provide feedback to help make&#xD;
+    them more easily deployable.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    NATIONAL CYBERSECURITY EXCELLENCE PARTNERS&lt;br />&#xD;
+    3 gears with avatars inside&lt;br />&#xD;
+    Our core partners provide hardware, software, knowledge, and personnel and designate guest researchers to work at the&#xD;
+    center in person or remotely. Email us if you are interested in becoming a National Cybersecurity Excellence Partner.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    OTHER GOVERNMENT AGENCIES&lt;br />&#xD;
+    Government&lt;br />&#xD;
+    NIST’s Work for Others Program, governed by the Program Management Office at the NCCoE, facilitates National&#xD;
+    Cybersecurity Federally Funded Research and Development Center contributions to complex and critical cyber programs of&#xD;
+    national importance.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

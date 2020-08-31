@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-h468dAmU0k0e5hTEJP5ndQ" name="new_supporting_material,__swJMOGWEeqxFs6enGkR7A" guid="-h468dAmU0k0e5hTEJP5ndQ">
+  <mainDescription>&lt;p>&#xD;
+    In cloud environments, workloads are constantly being spun up, scaled out, moved around, and shut down. Organizations&#xD;
+    often find adopting cloud technologies is not a good business proposition because they encounter security and privacy&#xD;
+    issues, such as the inability to maintain consistent protections across platforms, dictate how different information is&#xD;
+    protected, and have visibility into how information is protected to ensure compliance with requirements. Many&#xD;
+    organizations face additional challenges because security and privacy laws vary around the world, and the dynamic&#xD;
+    nature of cloud means that workloads may silently move from one jurisdiction to another. The NCCoE has developed two&#xD;
+    trusted cloud projects and supported resources that are dedicated to helping solve these challenges.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If you have questions or suggestions, please email the project team at &lt;a&#xD;
+    href=&quot;mailto:trusted-cloud-nccoe@nist.gov&quot;>trusted-cloud-nccoe@nist.gov&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Security Practice Guide for VMware Hybrid Cloud Infrastructure as a Service (IaaS) Environments&lt;br />&#xD;
+    Exploring methods to better secure cloud workloads in hybrid cloud IaaS environments. Learn more about this project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Security Practice Guide for Windows Private Cloud Infrastructure as a Service (IaaS) Environments&lt;br />&#xD;
+    Exploring methods to better secure cloud workloads in private cloud IaaS environments. Coming soon.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Supported Resources&lt;br />&#xD;
+    Hardware Enabled Security for the Server Platform - A Layered Approach to Platform Security by Leveraging Hardware&#xD;
+    Security Mechanisms for Cloud and Edge Computing Use Cases&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In today’s cloud data centers and edge computing, attack surfaces have significantly increased, hacking has become&#xD;
+    industrialized, and most security control implementations are not coherent or consistent. The foundation to any data&#xD;
+    center or edge computing security strategy should be securing the platform on which data and workloads will be executed&#xD;
+    and accessed. The physical platform represents the first layer for any layered security approach and provides initial&#xD;
+    protections to help ensure higher-layer security controls can be trusted. This white paper explains hardware-based&#xD;
+    security techniques and technologies that can improve platform security and data protection for cloud data centers and&#xD;
+    edge computing.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    NISTIR 7904 Trusted Geolocation in the Cloud: Proof of Concept Implementation&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This publication explains selected security challenges involving Infrastructure as a Service (IaaS) cloud computing&#xD;
+    technologies and geolocation. It then describes a proof of concept implementation that was designed to address those&#xD;
+    challenges. The publication provides sufficient details about the proof of concept implementation so that organizations&#xD;
+    can reproduce it if desired. The publication is intended to be a blueprint or template that can be used by the general&#xD;
+    security community to validate and implement the described proof of concept implementation.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

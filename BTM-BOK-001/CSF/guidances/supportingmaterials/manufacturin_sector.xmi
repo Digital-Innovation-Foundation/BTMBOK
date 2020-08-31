@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wklaSJjNmDCXXlSaImi-0g" name="new_supporting_material,_4fHBUOGXEeqxFs6enGkR7A" guid="-wklaSJjNmDCXXlSaImi-0g">
+  <mainDescription>&lt;p>&#xD;
+    The manufacturing sector is quite broad, including automotive, textile, electronics, and pharmaceutical companies.&#xD;
+    These organizations typically use power-driven machines or materials-handling equipment that rely on a network&#xD;
+    infrastructure. As these machines become more connected via the internet, new opportunities for cyber-attacks arise.&#xD;
+    Cybersecurity experts at the NCCoE are working with manufacturing sector stakeholders and technology vendors to develop&#xD;
+    practical example solutions to some of the sector’s most pressing cybersecurity challenges.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To stay up to date on our work in the manufacturing sector, sign up for our manufacturing email alerts.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Protecting Information and System Integrity in Industrial Control System Environments&lt;br />&#xD;
+    Protecting industrial control systems by leveraging capabilities such as behavioral anomaly detection and security&#xD;
+    incident and event monitoring . Find out more about this project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Securing Manufacturing Industrial Control Systems: Behavioral Anomaly Detection&lt;br />&#xD;
+    Implementing behavioral anomaly detection to help secure manufacturing industrial control systems. Find out more about&#xD;
+    this project.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

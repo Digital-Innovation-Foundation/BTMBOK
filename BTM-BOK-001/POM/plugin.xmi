@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_yQGOEOFaEeqHbKOWEwn35w" guid="_yQGOEOFaEeqHbKOWEwn35w">
+    <resourceDescriptors xmi:id="_UK2U8OFeEeqHbKOWEwn35w" id="-SEotzGsmJ_NFWI0gZ4XhNQ" uri="guidances/supportingmaterials/openstax.xmi"/>
+    <resourceDescriptors xmi:id="_ULFlgOFeEeqHbKOWEwn35w" id="-VE-kiZTp9VIMxhXQZlmRew" uri="workproducts/chapter_1.xmi"/>
+    <resourceDescriptors xmi:id="_ULIo0OFeEeqHbKOWEwn35w" id="-S8CyxIdFYayBjh9-V7fM8g" uri="workproducts/chapter_2.xmi"/>
+    <resourceDescriptors xmi:id="_UW_6kOFeEeqHbKOWEwn35w" id="-znEuYS5-1khUxiyhWP-0aQ" uri="workproducts/chapter_4.xmi"/>
+    <resourceDescriptors xmi:id="_UXNV8OFeEeqHbKOWEwn35w" id="-UaA2OOB5o0Hqpwjy4xm_IA" uri="workproducts/chapter_3.xmi"/>
+    <resourceDescriptors xmi:id="_T9YOwOFgEeqHbKOWEwn35w" id="-klFEykKWMROefCVmV9d-Tw" uri="workproducts/chapter_5.xmi"/>
+    <resourceDescriptors xmi:id="_pTIrYOFgEeqHbKOWEwn35w" id="-NONlkR4qiA5gewitAl5JiA" uri="workproducts/chapter_6.xmi"/>
+    <resourceDescriptors xmi:id="_vRIT0OFgEeqHbKOWEwn35w" id="-FEndcAV59wvyWrp2U-K5_Q" uri="workproducts/chapter_7.xmi"/>
+    <resourceDescriptors xmi:id="_3ZRfoOFgEeqHbKOWEwn35w" id="-gub8JE_qcSueJoH-tqxvVQ" uri="workproducts/chapter_8.xmi"/>
+    <resourceDescriptors xmi:id="__lONYOFgEeqHbKOWEwn35w" id="-VRSAY5FZs-pJV8IXLJHq7g" uri="workproducts/chapter_9.xmi"/>
+    <resourceDescriptors xmi:id="_GedWEOFhEeqHbKOWEwn35w" id="-Txhda4_m1UK_1yr8tf1nng" uri="workproducts/chapter_10.xmi"/>
+    <resourceDescriptors xmi:id="_z5sk8OFhEeqHbKOWEwn35w" id="-QLE5HBeGv0Kqznka1fvuFQ" uri="workproducts/chapter_11.xmi"/>
+    <resourceDescriptors xmi:id="_6lu_IOFhEeqHbKOWEwn35w" id="-6x9rWDBufHxaeOFYbDJ0Aw" uri="workproducts/chapter_12.xmi"/>
+    <resourceDescriptors xmi:id="_Apl_AOFiEeqHbKOWEwn35w" id="-53a7X--i4lq9RjM0zmIeVA" uri="workproducts/chapter_13.xmi"/>
+    <resourceDescriptors xmi:id="_RO7kIOFjEeqHbKOWEwn35w" id="-rsplJToWYqtzxf8HGQMtlg" uri="workproducts/chapter_14.xmi"/>
+    <resourceDescriptors xmi:id="_wAoWwOFjEeqHbKOWEwn35w" id="-EnyV7GsupaTO6Hzrwx_wMQ" uri="workproducts/chapter_15.xmi"/>
+    <resourceDescriptors xmi:id="_3ZRYQOFjEeqHbKOWEwn35w" id="-1W4GmxaFLVpVXT0tNHqhNw" uri="workproducts/chapter_16.xmi"/>
+    <resourceDescriptors xmi:id="__jBtoOFjEeqHbKOWEwn35w" id="-2uFYuFN-yXDhrPOta1Ok5g" uri="workproducts/chapter_17.xmi"/>
+    <resourceDescriptors xmi:id="_HNQOYOFkEeqHbKOWEwn35w" id="-iVTIbDyq4zS-w46O5gTRzw" uri="workproducts/chapter_18.xmi"/>
+    <resourceDescriptors xmi:id="_YYGw0OFkEeqHbKOWEwn35w" id="-ed1msN246GecaxB6O_zOOQ" uri="guidances/supportingmaterials/organizational_environments.xmi"/>
+    <resourceDescriptors xmi:id="_kcpgwOFkEeqHbKOWEwn35w" id="-C4lgLn9ey5N0Qi109hjX5g" uri="guidances/guidelines/management_summary.xmi"/>
+    <resourceDescriptors xmi:id="__Hrp4OFtEeqHbKOWEwn35w" id="-B_AbOAhAsbH8tGiaxeymjA" uri="guidances/supportingmaterials/copyright.xmi"/>
+    <resourceDescriptors xmi:id="_fQtd0OirEeqDMdZXCWcO-g" id="-aOOLPL57idjOLCXDtb8svQ" uri="customcategories/pom_tree.xmi"/>
+    <resourceDescriptors xmi:id="_w3XLMOu7EeqGH_E-YtfOxw" id="-O7E5i82bdgMVQYkVKT3o6g" uri="guidances/supportingmaterials/principles_of_management.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_yP1IUOFaEeqHbKOWEwn35w" name="POM" guid="_yP1IUOFaEeqHbKOWEwn35w" briefDescription="Principles of Management (POM) by OpenStax Authors" authors="David S. Bright, Wright State University Anastasia H. Cortes, Virginia Tech University Eva Hartmann, University of Richmond K. Praveen Parboteeah, University of Wisconsin-Whitewater Jon L. Pierce, University of Minnesota-Duluth Monique Reece Amit Shah, Frostburg State University Siri Terjesen, American University Joseph Weiss, Bentley University Margaret A. White, Oklahoma State University Donald G. Gardner, University of Colorado-Colorado Springs Jason Lambert, Texas Woman’s University Laura M. Leduc, James Madison University Joy Leopold, Webster University Jeffrey Muldoon, Emporia State University James S. O’Rourke, University of Notre Dame" changeDate="2020-08-18T12:17:48.492-0400" copyrightStatement="_2Yvj0OFtEeqHbKOWEwn35w">
+    <methodElementProperty xmi:id="_yQG1IOFaEeqHbKOWEwn35w" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_WqZGQOFuEeqHbKOWEwn35w" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IUeFaEeqHbKOWEwn35w" name="Content" guid="_yP1IUeFaEeqHbKOWEwn35w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IUuFaEeqHbKOWEwn35w" name="Categories" guid="_yP1IUuFaEeqHbKOWEwn35w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IU-FaEeqHbKOWEwn35w" name="Domains" guid="_yP1IU-FaEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IVOFaEeqHbKOWEwn35w" name="Disciplines" guid="_yP1IVOFaEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IVeFaEeqHbKOWEwn35w" name="RoleSets" guid="_yP1IVeFaEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IVuFaEeqHbKOWEwn35w" name="WP Types" guid="_yP1IVuFaEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IV-FaEeqHbKOWEwn35w" name="Tools" guid="_yP1IV-FaEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IWOFaEeqHbKOWEwn35w" name="StandardCategories" guid="_yP1IWOFaEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IWeFaEeqHbKOWEwn35w" name="CustomCategories" guid="_yP1IWeFaEeqHbKOWEwn35w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IWuFaEeqHbKOWEwn35w" name="Hidden" guid="_yP1IWuFaEeqHbKOWEwn35w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_yP1IW-FaEeqHbKOWEwn35w" name="Custom Categories" guid="_yP1IW-FaEeqHbKOWEwn35w" categorizedElements="_U7ZP0OirEeqDMdZXCWcO-g"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_U7ZP0OirEeqDMdZXCWcO-g" name="pom_tree" guid="_U7ZP0OirEeqDMdZXCWcO-g" presentationName="POM_Tree" briefDescription="About_OpenStax" categorizedElements="_U5_vYOFdEeqHbKOWEwn35w _vsStMOFdEeqHbKOWEwn35w _756goOFdEeqHbKOWEwn35w _Le870OFeEeqHbKOWEwn35w _JsBTsOFgEeqHbKOWEwn35w _kN8TMOFgEeqHbKOWEwn35w _p498UOFgEeqHbKOWEwn35w _xoJOgOFgEeqHbKOWEwn35w _5HUV0OFgEeqHbKOWEwn35w _BuPIUOFhEeqHbKOWEwn35w _wCdNoOFhEeqHbKOWEwn35w _1f34kOFhEeqHbKOWEwn35w _7fTrcOFhEeqHbKOWEwn35w _C7lPwOFiEeqHbKOWEwn35w _nXZ3IOFjEeqHbKOWEwn35w _yatMgOFjEeqHbKOWEwn35w _8SPSUOFjEeqHbKOWEwn35w _AddVkOFkEeqHbKOWEwn35w _c31EcOFkEeqHbKOWEwn35w _m59KUOFcEeqHbKOWEwn35w _RFzA0OFkEeqHbKOWEwn35w _r-leYOu7EeqGH_E-YtfOxw _2Yvj0OFtEeqHbKOWEwn35w">
+            <methodElementProperty xmi:id="_fQpzcOirEeqDMdZXCWcO-g" name="me_edited" value="true"/>
+            <presentation xmi:id="-aOOLPL57idjOLCXDtb8svQ" href="uma://-aOOLPL57idjOLCXDtb8svQ#-aOOLPL57idjOLCXDtb8svQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yP1IXOFaEeqHbKOWEwn35w" name="CoreContent" guid="_yP1IXOFaEeqHbKOWEwn35w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J0XwsOFbEeqHbKOWEwn35w" name="principles_of_management" guid="_J0XwsOFbEeqHbKOWEwn35w" presentationName="Principles of Management" briefDescription="Principles of Management is designed to meet the scope and sequence requirements of the introductory course on management. ">
+          <methodElementProperty xmi:id="_J0fsgOFbEeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_UXr3EOFeEeqHbKOWEwn35w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_m59KUOFcEeqHbKOWEwn35w" name="openstax" guid="_m59KUOFcEeqHbKOWEwn35w" presentationName="OpenStax" briefDescription="OpenStax is part of Rice University, which is a 501(c)(3) nonprofit.">
+            <methodElementProperty xmi:id="_UKz4sOFeEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-SEotzGsmJ_NFWI0gZ4XhNQ" href="uma://-SEotzGsmJ_NFWI0gZ4XhNQ#-SEotzGsmJ_NFWI0gZ4XhNQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_U5_vYOFdEeqHbKOWEwn35w" name="chapter_1" guid="_U5_vYOFdEeqHbKOWEwn35w" presentationName="Chapter_1" briefDescription="Management and Performing">
+            <methodElementProperty xmi:id="_UXfCwOFeEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-VE-kiZTp9VIMxhXQZlmRew" href="uma://-VE-kiZTp9VIMxhXQZlmRew#-VE-kiZTp9VIMxhXQZlmRew"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vsStMOFdEeqHbKOWEwn35w" name="chapter_2" guid="_vsStMOFdEeqHbKOWEwn35w" presentationName="Chapter_2" briefDescription="Managerial Decision-Making">
+            <methodElementProperty xmi:id="_UXaKQOFeEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-S8CyxIdFYayBjh9-V7fM8g" href="uma://-S8CyxIdFYayBjh9-V7fM8g#-S8CyxIdFYayBjh9-V7fM8g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_756goOFdEeqHbKOWEwn35w" name="chapter_3" guid="_756goOFdEeqHbKOWEwn35w" presentationName="Chapter_3" briefDescription="The History of Management">
+            <methodElementProperty xmi:id="_UXMH0OFeEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-UaA2OOB5o0Hqpwjy4xm_IA" href="uma://-UaA2OOB5o0Hqpwjy4xm_IA#-UaA2OOB5o0Hqpwjy4xm_IA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Le870OFeEeqHbKOWEwn35w" name="chapter_4" guid="_Le870OFeEeqHbKOWEwn35w" presentationName="Chapter_4" briefDescription="External and Internal Organizational Environments and Corporate Culture">
+            <methodElementProperty xmi:id="_UW-FYOFeEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-znEuYS5-1khUxiyhWP-0aQ" href="uma://-znEuYS5-1khUxiyhWP-0aQ#-znEuYS5-1khUxiyhWP-0aQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_JsBTsOFgEeqHbKOWEwn35w" name="chapter_5" guid="_JsBTsOFgEeqHbKOWEwn35w" presentationName="Chapter_5" briefDescription="Ethics, Corporate Responsibility, and Sustainability">
+            <methodElementProperty xmi:id="_T9WZkOFgEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-klFEykKWMROefCVmV9d-Tw" href="uma://-klFEykKWMROefCVmV9d-Tw#-klFEykKWMROefCVmV9d-Tw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_kN8TMOFgEeqHbKOWEwn35w" name="chapter_6" guid="_kN8TMOFgEeqHbKOWEwn35w" presentationName="Chapter_6" briefDescription="International Management">
+            <methodElementProperty xmi:id="_pTHdQOFgEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-NONlkR4qiA5gewitAl5JiA" href="uma://-NONlkR4qiA5gewitAl5JiA#-NONlkR4qiA5gewitAl5JiA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_p498UOFgEeqHbKOWEwn35w" name="chapter_7" guid="_p498UOFgEeqHbKOWEwn35w" presentationName="Chapter_7" briefDescription="Entrepreneurship">
+            <methodElementProperty xmi:id="_vRHFsOFgEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-FEndcAV59wvyWrp2U-K5_Q" href="uma://-FEndcAV59wvyWrp2U-K5_Q#-FEndcAV59wvyWrp2U-K5_Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xoJOgOFgEeqHbKOWEwn35w" name="chapter_8" guid="_xoJOgOFgEeqHbKOWEwn35w" presentationName="Chapter_8" briefDescription="Strategic Analysis-Understanding a Firm's Competitive environment">
+            <methodElementProperty xmi:id="_3ZMnIOFgEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-gub8JE_qcSueJoH-tqxvVQ" href="uma://-gub8JE_qcSueJoH-tqxvVQ#-gub8JE_qcSueJoH-tqxvVQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5HUV0OFgEeqHbKOWEwn35w" name="chapter_9" guid="_5HUV0OFgEeqHbKOWEwn35w" presentationName="Chapter_9" briefDescription="Strategic Management Process-Achieving and Sustaining Competitive Advantage">
+            <methodElementProperty xmi:id="__lM_QOFgEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-VRSAY5FZs-pJV8IXLJHq7g" href="uma://-VRSAY5FZs-pJV8IXLJHq7g#-VRSAY5FZs-pJV8IXLJHq7g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_BuPIUOFhEeqHbKOWEwn35w" name="chapter_10" guid="_BuPIUOFhEeqHbKOWEwn35w" presentationName="Chapter_10" briefDescription="Organizational Structure and Change">
+            <methodElementProperty xmi:id="_Gebg4OFhEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-Txhda4_m1UK_1yr8tf1nng" href="uma://-Txhda4_m1UK_1yr8tf1nng#-Txhda4_m1UK_1yr8tf1nng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wCdNoOFhEeqHbKOWEwn35w" name="chapter_11" guid="_wCdNoOFhEeqHbKOWEwn35w" presentationName="Chapter_11" briefDescription="Human REsource Management">
+            <methodElementProperty xmi:id="_z5phoOFhEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-QLE5HBeGv0Kqznka1fvuFQ" href="uma://-QLE5HBeGv0Kqznka1fvuFQ#-QLE5HBeGv0Kqznka1fvuFQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1f34kOFhEeqHbKOWEwn35w" name="chapter_12" guid="_1f34kOFhEeqHbKOWEwn35w" presentationName="Chapter_12" briefDescription="Diversity in Organizatiions">
+            <methodElementProperty xmi:id="_6ltJ8OFhEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-6x9rWDBufHxaeOFYbDJ0Aw" href="uma://-6x9rWDBufHxaeOFYbDJ0Aw#-6x9rWDBufHxaeOFYbDJ0Aw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_7fTrcOFhEeqHbKOWEwn35w" name="chapter_13" guid="_7fTrcOFhEeqHbKOWEwn35w" presentationName="Chapter_13" briefDescription="Leadership">
+            <methodElementProperty xmi:id="_ApkJ0OFiEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-53a7X--i4lq9RjM0zmIeVA" href="uma://-53a7X--i4lq9RjM0zmIeVA#-53a7X--i4lq9RjM0zmIeVA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_C7lPwOFiEeqHbKOWEwn35w" name="chapter_14" guid="_C7lPwOFiEeqHbKOWEwn35w" presentationName="Chapter_14" briefDescription="Work Motivation for Performance">
+            <methodElementProperty xmi:id="_RO5H4OFjEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-rsplJToWYqtzxf8HGQMtlg" href="uma://-rsplJToWYqtzxf8HGQMtlg#-rsplJToWYqtzxf8HGQMtlg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nXZ3IOFjEeqHbKOWEwn35w" name="chapter_15" guid="_nXZ3IOFjEeqHbKOWEwn35w" presentationName="Chapter_15" briefDescription="Managing Teams">
+            <methodElementProperty xmi:id="_wAl6gOFjEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-EnyV7GsupaTO6Hzrwx_wMQ" href="uma://-EnyV7GsupaTO6Hzrwx_wMQ#-EnyV7GsupaTO6Hzrwx_wMQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yatMgOFjEeqHbKOWEwn35w" name="chapter_16" guid="_yatMgOFjEeqHbKOWEwn35w" presentationName="Chapter_16" briefDescription="Managerial Communication">
+            <methodElementProperty xmi:id="_3ZPjEOFjEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-1W4GmxaFLVpVXT0tNHqhNw" href="uma://-1W4GmxaFLVpVXT0tNHqhNw#-1W4GmxaFLVpVXT0tNHqhNw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8SPSUOFjEeqHbKOWEwn35w" name="chapter_17" guid="_8SPSUOFjEeqHbKOWEwn35w" presentationName="Chapter_17" briefDescription="Organizational Planning and Controlling">
+            <methodElementProperty xmi:id="__i-DQOFjEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-2uFYuFN-yXDhrPOta1Ok5g" href="uma://-2uFYuFN-yXDhrPOta1Ok5g#-2uFYuFN-yXDhrPOta1Ok5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_AddVkOFkEeqHbKOWEwn35w" name="chapter_18" guid="_AddVkOFkEeqHbKOWEwn35w" presentationName="Chapter_18" briefDescription="Management of TEchnology and Innovation">
+            <methodElementProperty xmi:id="_HNOZMOFkEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-iVTIbDyq4zS-w46O5gTRzw" href="uma://-iVTIbDyq4zS-w46O5gTRzw#-iVTIbDyq4zS-w46O5gTRzw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_RFzA0OFkEeqHbKOWEwn35w" name="organizational_environments" guid="_RFzA0OFkEeqHbKOWEwn35w" presentationName="Organizational_Environments" briefDescription="External and Internal Organizational Environments and Corporate Culture">
+            <methodElementProperty xmi:id="_YYEUkOFkEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-ed1msN246GecaxB6O_zOOQ" href="uma://-ed1msN246GecaxB6O_zOOQ#-ed1msN246GecaxB6O_zOOQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_c31EcOFkEeqHbKOWEwn35w" name="management_summary" guid="_c31EcOFkEeqHbKOWEwn35w" presentationName="Management_summary" briefDescription="Principles of Management">
+            <methodElementProperty xmi:id="_kcnEgOFkEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-C4lgLn9ey5N0Qi109hjX5g" href="uma://-C4lgLn9ey5N0Qi109hjX5g#-C4lgLn9ey5N0Qi109hjX5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_2Yvj0OFtEeqHbKOWEwn35w" name="copyright" guid="_2Yvj0OFtEeqHbKOWEwn35w" presentationName="CopyRight" briefDescription="by OpenStax is licensed underCreative Commons Attribution License v4.0">
+            <methodElementProperty xmi:id="__He1kOFtEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-B_AbOAhAsbH8tGiaxeymjA" href="uma://-B_AbOAhAsbH8tGiaxeymjA#-B_AbOAhAsbH8tGiaxeymjA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_r-leYOu7EeqGH_E-YtfOxw" name="principles_of_management" guid="_r-leYOu7EeqGH_E-YtfOxw" presentationName="Principles_of_Management" briefDescription="Principles of Management is designed to meet the scope and sequence requirements of the introductory course on management. ">
+            <methodElementProperty xmi:id="_w3Uu8Ou7EeqGH_E-YtfOxw" name="me_edited" value="true"/>
+            <presentation xmi:id="-O7E5i82bdgMVQYkVKT3o6g" href="uma://-O7E5i82bdgMVQYkVKT3o6g#-O7E5i82bdgMVQYkVKT3o6g"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yP1IXeFaEeqHbKOWEwn35w" name="CapabilityPatterns" guid="_yP1IXeFaEeqHbKOWEwn35w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yP1IXuFaEeqHbKOWEwn35w" name="DeliveryProcesses" guid="_yP1IXuFaEeqHbKOWEwn35w"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yP1IX-FaEeqHbKOWEwn35w" name="ProcessContributions" guid="_yP1IX-FaEeqHbKOWEwn35w"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

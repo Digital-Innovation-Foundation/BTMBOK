@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-e6Jl4i0MskP_dRY4PPUX9A" name="new_supporting_material,_jFDSUOF9EeqHbKOWEwn35w" guid="-e6Jl4i0MskP_dRY4PPUX9A" changeDate="2020-08-18T14:07:17.332-0400">
+  <mainDescription>&lt;p>&#xD;
+    An Introduction to Informative References&lt;br />&#xD;
+    The Informative References are a part of the Framework Core.&amp;nbsp; They are more detailed technical references that are&#xD;
+    meant to provide organizations with a starting point for implementing practices to achieve the Framework's desired&#xD;
+    outcomes described in the associated Subcategory.&amp;nbsp;&amp;nbsp; The image below provides an example of what the&#xD;
+    Informative References look like using the Business Environment Category.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    Each subcategory includes several Informative References, however, they should not be viewed as a checklist that must&#xD;
+    be completed to implement the subcategory outcome. Organizations can use some, none, or all the Informative References&#xD;
+    to inform the activities they undertake to achieve the outcome described by the Subcategory.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Informative References Included in the Framework Core&lt;br />&#xD;
+    Through the early Requests for Information (RFIs) and Framework Workshops, NIST considered a large compendium of&#xD;
+    standards, guidance, and publications consisting of over 450 items. Ultimately, six of these were selected to become&#xD;
+    informative references included in the Framework Core due to being broad references which were widely recognized, and&#xD;
+    had a large adoption rate.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The chart below lists each Informative References included in the Core and provides a link to the associated&#xD;
+    website/document .&lt;br />&#xD;
+    Additional Informative References&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    With the release of the Cybersecurity Framework v1.1, NIST is establishing the Online Informative Reference Program. By&#xD;
+    linking to and spreading awareness of additional Informative References, organizations will have a more robust set of&#xD;
+    tools to achieve Framework Core outcomes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Here is&amp;nbsp; the full Catalog of Informative References, or to learn more about submitting your own Informative&#xD;
+    Reference mapping see the Reference Submission page.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Use of Informative References is non-compulsory for Framework implementation. Organizations have the flexibility to mix&#xD;
+    and match Informative References as best suits their needs. They may use all, some, none, or even choose to map&#xD;
+    additional practices not included in the Informative References catalog.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    For example, a healthcare organization who organizes their existing controls around NIST 800-53 and is seeking to&#xD;
+    become ISO compliant may choose to use the ISO/IEC 27001 and the NIST 800-53 mappings included in the Framework Core&#xD;
+    along with the mapping for HITRUST from the larger Informative References catalog that applies specifically to&#xD;
+    healthcare organizations.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

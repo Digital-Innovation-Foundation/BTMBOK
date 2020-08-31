@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BNBKPTZVv4NUpsQ1d37isQ" name="new_supporting_material,_CW17cOGYEeqxFs6enGkR7A" guid="-BNBKPTZVv4NUpsQ1d37isQ">
+  <mainDescription>&lt;p>&#xD;
+    In the United States, over 10,000 jurisdictions, from townships and cities to counties and states, employ public safety&#xD;
+    personnel to respond to emergency situations. These first responders treat life-threatening injuries, keep natural&#xD;
+    disasters at bay, and combat terrorism. To perform these duties, emergency responders must undergo unique training,&#xD;
+    utilize specialized equipment, and access a variety of information systems. The NCCoE's Public Safety and First&#xD;
+    Responder (PSFR) program is working with the first responder community to implement standards-based solutions to make&#xD;
+    public safety systems resilient against attack and to ensure immediate access to critical assets during incident&#xD;
+    response.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Mobile Application Single Sign-On&lt;br />&#xD;
+    Helps public safety and first responder personnel efficiently and securely gain access to mission data via mobile&#xD;
+    devices and applications during times of emergency. Please download, read, and comment on our recently revised practice&#xD;
+    guide.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

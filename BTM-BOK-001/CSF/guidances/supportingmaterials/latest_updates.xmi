@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PGu2zHT0Bbz12u23S0gWhA" name="new_supporting_material,_VaBTcOGCEeqHbKOWEwn35w" guid="-PGu2zHT0Bbz12u23S0gWhA">
+  <mainDescription>&lt;p>&#xD;
+    NICE is undergoing an update to the NICE Framework. A public request for comments on the update was open November 19,&#xD;
+    2019 – January 13, 2020. Comments received were reviewed and helped inform a new draft of the NICE Framework. The draft&#xD;
+    revision is now available to the public for further review and comment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The public comment period for Draft NIST Special Publication 800-181 is open from July 15 to August 28, 2020. Please&#xD;
+    visit the webpage to view the draft document and instructions on how to submit comments 2020.&lt;br />&#xD;
+    Timeline for Review and Updates to NICE Framework&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zbTBf-m-zPwdgEubKLvAkg" name="new_supporting_material,_KdQwUOGVEeqxFs6enGkR7A" guid="-zbTBf-m-zPwdgEubKLvAkg">
+  <mainDescription>&lt;p>&#xD;
+    The following NCCoE projects are not currently active but may be updated again in the future. Please refer to the&#xD;
+    Building Blocks or Use Cases pages to view all current projects. If you are interested in learning more about any of&#xD;
+    the topics listed below, contact us.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Attribute-Based Access Control (ABAC)&lt;br />&#xD;
+    An attribute exchange platform that provides fine-grained access control to data, systems, and networks— both in and&#xD;
+    among enterprises—based on a person’s title, division, certifications, and other characteristics.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    DNS-Based Secured Email&lt;br />&#xD;
+    Prevents unauthorized parties from reading or modifying an organization's email, or using it as a vector for malware,&#xD;
+    by using the Domain Name System (DNS)-Based Authentication of Named Entities (DANE) protocol.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Privacy-Enhanced Identity Brokers&lt;br />&#xD;
+    Integrates privacy-enhancing technologies into identity broker solutions to meet the privacy objectives of users and&#xD;
+    organizations.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Secure Inter-Domain Routing&lt;br />&#xD;
+    Implementing BGP Route Origin Validation (ROV) based upon the Resource Public Key Infrastructure (RPKI) can mitigate&#xD;
+    accidental and malicious attacks associated with route hijacking.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

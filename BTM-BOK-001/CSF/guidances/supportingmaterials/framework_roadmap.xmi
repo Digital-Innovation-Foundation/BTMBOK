@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-acJYFA6KuGBclIGGREfNwQ" name="new_supporting_material,_aC2SAOF9EeqHbKOWEwn35w" guid="-acJYFA6KuGBclIGGREfNwQ">
+  <mainDescription>&lt;p>&#xD;
+    Overview&lt;br />&#xD;
+    The Introduction to the Framework Roadmap learning module seeks to inform readers about what the Roadmap is, how it&#xD;
+    relates to the Framework for Improving Critical Infrastructure Cybersecurity (&quot;The Framework&quot;), and what the Roadmap&#xD;
+    Areas are.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Introduction to the Roadmap&lt;br />&#xD;
+    The Roadmap is a companion document to the Cybersecurity Framework. The Roadmap, while not exhaustive in describing all&#xD;
+    planned activities within NIST, identifies key activities planned for improving and enhancing the Cybersecurity&#xD;
+    Framework. These activities may be carried out by NIST in conjunction with private and public sector organizations – or&#xD;
+    by those organizations independently. While the Roadmap is focused on activities around the Cybersecurity Framework,&#xD;
+    the results of work described in the Roadmap are expected to be useful to a broader audience to improve cybersecurity&#xD;
+    risk management.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Roadmap Areas for Development&lt;br />&#xD;
+    The Roadmap continues to evolve with the Cybersecurity Framework. Roadmap Version 1.1 identifies 14 high-priority areas&#xD;
+    for development, alignment, and collaboration.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The 14 areas are:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Confidence Mechanisms&lt;br />&#xD;
+    Cyber-Attack Lifecycle&lt;br />&#xD;
+    Cybersecurity Workforce&lt;br />&#xD;
+    Cyber Supply Chain Risk Management&lt;br />&#xD;
+    Federal Agency Cybersecurity Alignment&lt;br />&#xD;
+    Governance and Enterprise Risk Management&lt;br />&#xD;
+    Identity Management&lt;br />&#xD;
+    International Aspects, Impacts, and Alignment&lt;br />&#xD;
+    Measuring Cybersecurity&lt;br />&#xD;
+    Privacy Engineering&lt;br />&#xD;
+    Referencing Techniques&lt;br />&#xD;
+    Small Business Awareness and Resources&lt;br />&#xD;
+    Internet of Things (IoT)&lt;br />&#xD;
+    Secure Software Development&lt;br />&#xD;
+    More information regarding each of these areas is included within the Roadmap located at Framework - Related Efforts.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ADDITIONAL RESOURCES&lt;br />&#xD;
+    Introduction_to_Framework_Roadmap.pptx&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

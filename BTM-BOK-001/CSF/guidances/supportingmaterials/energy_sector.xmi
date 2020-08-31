@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jA2uovfbcJn0rkdAH-a9BQ" name="new_supporting_material,_gsuKMOGXEeqxFs6enGkR7A" guid="-jA2uovfbcJn0rkdAH-a9BQ">
+  <mainDescription>&lt;p>&#xD;
+    When the lights dim due to a disruption in power generation or distribution, our productivity and quality of life do,&#xD;
+    too. Energy is an absolutely critical infrastructure element for the nation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In July 2013, after consultation with energy company IT security professionals, the NCCoE posted drafts of the first of&#xD;
+    several use cases addressing cybersecurity issues that are relevant across the energy sector. Find out more about the&#xD;
+    resulting projects below.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    To stay up to date on our work in the energy sector, sign up for our energy email alerts and join our community of&#xD;
+    interest. Community of Interest meeting presentations and notes can be found in the NCCoE library.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Securing the Industrial Internet of Things (IIoT)&lt;br />&#xD;
+    An approach for improving the overall security of information exchanges between and among distributed energy resource&#xD;
+    systems and electric power distribution facilities. Learn more about this project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Asset Management&lt;br />&#xD;
+    To properly assess cybersecurity risk within the operational technology network, energy companies must be able to&#xD;
+    identify all their assets, especially the most critical. Learn more about this project.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Identity and Access Management (IdAM)&lt;br />&#xD;
+    A centralized system to authenticate individuals' access to IT and operational resources and systems and control their&#xD;
+    access with a high degree of certainty. Learn more about the project and download the NIST Cybersecurity Practice Guide&#xD;
+    1800-2.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Situational Awareness&lt;br />&#xD;
+    Mechanisms to capture, transmit, analyze, and store real-time and near-real-time data across energy companies’&#xD;
+    networked systems. Learn more about the project and download the NIST Cybersecurity Practice Guide 1800-7.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

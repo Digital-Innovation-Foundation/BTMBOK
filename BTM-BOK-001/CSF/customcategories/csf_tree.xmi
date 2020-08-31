@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CU4EzrXSopnaGDQtC0YPjA" name="csf_tree,_nxpbwOsqEeq44bLjAW9hRQ" guid="-CU4EzrXSopnaGDQtC0YPjA" changeDate="2020-08-31T16:59:22.055-0400">
+  <mainDescription>&lt;p>&#xD;
+    Recognizing the national and economic security of the United States depends on the reliable function of critical&#xD;
+    infrastructure, the President issued Executive Order (EO) 13636, Improving Critical Infrastructure Cybersecurity, in&#xD;
+    February 2013. The Order directed NIST to work with stakeholders to develop a voluntary framework – based on existing&#xD;
+    standards, guidelines, and practices - for reducing cyber risks to critical infrastructure. The Cybersecurity&#xD;
+    Enhancement Act of 2014 reinforced NIST’s EO 13636 role.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Created through collaboration between industry and government, the voluntary Framework consists of standards,&#xD;
+    guidelines, and practices to promote the protection of critical infrastructure. The prioritized, flexible, repeatable,&#xD;
+    and cost-effective approach of the Framework helps owners and operators of critical infrastructure to manage&#xD;
+    cybersecurity-related risk.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Framework Core and Informative References are available as separate downloads in three formats: spreadsheet (Excel)&#xD;
+    , alternate view (PDF) , and database (FileMaker Pro).&amp;nbsp;&amp;nbsp; A companion Roadmap discusses future steps and&#xD;
+    identifies key areas of cybersecurity development, alignment, and collaboration.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

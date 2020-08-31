@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AXaz8UrDjzgU_QAeNLguDA" name="new_supporting_material,_RrzvwOGXEeqxFs6enGkR7A" guid="-AXaz8UrDjzgU_QAeNLguDA">
+  <mainDescription>&lt;p>&#xD;
+    Current Status&lt;br />&#xD;
+    The public comment period has closed on the draft project description, Implementing a Zero Trust Architecture. Thank&#xD;
+    you to everyone who shared their feedback with us. We are currently reviewing the comments received, and will share&#xD;
+    information about next steps for this project soon.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    If you have any questions or would like to join our Community of Interest, please email the project team at &lt;a&#xD;
+    href=&quot;mailto:nist-nccoe-zta@list.nist.gov&quot;>nist-nccoe-zta@list.nist.gov&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Summary&lt;br />&#xD;
+    The proliferation of cloud computing, mobile device use, and the Internet of Things has dissolved&amp;nbsp; traditional&#xD;
+    network boundaries. Hardened network perimeters alone are no longer effective for providing enterprise security in a&#xD;
+    world of increasingly sophisticated threats. Zero trust is a design approach to architecting an information technology&#xD;
+    environment that could reduce an organization’s risk exposure in a “perimeter-less” world.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A zero trust architecture treats all users as potential threats and prevents access to data and resources until the&#xD;
+    users can be properly authenticated and their access authorized. In essence, a zero trust architecture allows a user&#xD;
+    full access but only to the bare minimum they need to perform their job. If a device is compromised, zero trust can&#xD;
+    ensure that the damage is contained.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The concept of zero trust has been around for more than a decade, but technology to support it is now moving into the&#xD;
+    mainstream. A zero trust architecture leans heavily on components and capabilities for identity management, asset&#xD;
+    management, application authentication, network segmentation, and threat intelligence. Architecting for zero trust&#xD;
+    should enhance cybersecurity without sacrificing the user experience. The NCCoE is researching ongoing industry&#xD;
+    developments in zero trust and its component technologies that support the goals and objectives of a practical, secure,&#xD;
+    and standards-based zero trust architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Federal CIO Council Efforts&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Since late 2018, National Institute of Standards and Technology (NIST) and NCCoE cybersecurity researchers have had the&#xD;
+    opportunity to work closely with the Federal Chief Information Officer (CIO) Council, federal agencies, and industry to&#xD;
+    address the challenges and opportunities for implementing zero trust architectures across U.S. government networks.&#xD;
+    This work resulted in publication of draft NIST Special Publication (SP) 800-207, Zero Trust Architecture.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In November 2019, the NCCoE and the Federal CIO Council cohosted a Zero Trust Architecture Technical Exchange Meeting&#xD;
+    that brought together zero trust vendors and practitioners from government and industry to share successes, best&#xD;
+    practices, and lessons learned in implementing zero trust in the federal government and the commercial sector.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    An NCCoE project will build on this body of knowledge as we seek to build out and document an example zero trust&#xD;
+    architecture that aligns to the concepts and principles in NIST SP 800-207 and that uses commercially available&#xD;
+    products.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Questions? Comments? Reach us at &lt;a href=&quot;mailto:zta-nccoe@nist.gov&quot;>zta-nccoe@nist.gov&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6V86SB9yQjuhQbrpczRtUw" name="new_guideline,_NZzUkOGCEeqHbKOWEwn35w" guid="-6V86SB9yQjuhQbrpczRtUw">
+  <mainDescription>&lt;p>&#xD;
+    The Reference Spreadsheet for the NICE Framework is supporting documentation that includes a database of the NICE&#xD;
+    Framework and a mapping to Office of Personnel Management codes for Federal use. This spreadsheet is updated on an&#xD;
+    ongoing basis. The current version is as of May 15, 2020.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Pivot Table enabled spreadsheet is a pre-publication, pre-consensus tool to explore competencies and knowledge,&#xD;
+    skills, and abilities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Future Updates&lt;br />&#xD;
+    The NICE Framework is intended to be a living document. NIST will continue to serve in the capacity of convener and&#xD;
+    coordinator to gather lessons learned and ensure that the NICE Framework continues to evolve to meet the needs of&#xD;
+    stakeholders. An update to the NICE Framework is currently in progress and a new version is expected to be released in&#xD;
+    November 2020.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_2Kf6MOFyEeqHbKOWEwn35w" guid="_2Kf6MOFyEeqHbKOWEwn35w">
+    <resourceDescriptors xmi:id="_353h4OF5EeqHbKOWEwn35w" id="-HbDsV8CgrAx2n5nTCv6p5w" uri="guidances/supportingmaterials/nice-overview.xmi"/>
+    <resourceDescriptors xmi:id="_COelQOF6EeqHbKOWEwn35w" id="-wFgarHqy6IFGejnbubVFdw" uri="guidances/guidelines/nice_framework_resource_center.xmi"/>
+    <resourceDescriptors xmi:id="_IHSywOF6EeqHbKOWEwn35w" id="-cYnC5-aGqxo-j1YRgt8HBw" uri="guidances/supportingmaterials/icc.xmi"/>
+    <resourceDescriptors xmi:id="_NnwxsOF6EeqHbKOWEwn35w" id="-YqAQleXbNWuD6t2x74PrYw" uri="guidances/supportingmaterials/strategic_plan.xmi"/>
+    <resourceDescriptors xmi:id="_Rw5xUOF6EeqHbKOWEwn35w" id="-W_TADDuniqxnI_ftBfMYFA" uri="guidances/supportingmaterials/working_group.xmi"/>
+    <resourceDescriptors xmi:id="_mJ98MOF6EeqHbKOWEwn35w" id="-ItOcq2gKxzoA55rHHyFxXQ" uri="guidances/supportingmaterials/cybersecurity_framework_archived_documents.xmi"/>
+    <resourceDescriptors xmi:id="_tf8EMOF6EeqHbKOWEwn35w" id="-WLZ72b0B1RdQHDuNH1UROQ" uri="guidances/supportingmaterials/evolution_framework.xmi"/>
+    <resourceDescriptors xmi:id="_sWsuwOF7EeqHbKOWEwn35w" id="-hjKcEPdw_NhRPZb0qqEFiQ" uri="guidances/supportingmaterials/informative_reference_catalog.xmi"/>
+    <resourceDescriptors xmi:id="_xLvyIOF7EeqHbKOWEwn35w" id="-L2ZLJwsEqsUnox8lIkFNFw" uri="guidances/supportingmaterials/informative_references.xmi"/>
+    <resourceDescriptors xmi:id="_Dt-XMOF8EeqHbKOWEwn35w" id="-TtZqBjLMC0flLv-A5J6IBw" uri="guidances/supportingmaterials/olri.xmi"/>
+    <resourceDescriptors xmi:id="_Jd8KsOF8EeqHbKOWEwn35w" id="-A8pKZMLmmS1VxXCqQb0BBQ" uri="guidances/supportingmaterials/online_informative_references_validation_tool.xmi"/>
+    <resourceDescriptors xmi:id="_VEjogOF8EeqHbKOWEwn35w" id="-psuEddHpsk4hSZShqFuQlA" uri="guidances/examples/national_cybersecurit_informative_references.xmi"/>
+    <resourceDescriptors xmi:id="_M8xMkOF9EeqHbKOWEwn35w" id="-U76llOvpVDJaZIfahaD2eA" uri="guidances/supportingmaterials/framework_update_process.xmi"/>
+    <resourceDescriptors xmi:id="_XJ0PYOF9EeqHbKOWEwn35w" id="-qkX0--pxY_Ax3NKr2RfvCw" uri="guidances/supportingmaterials/history_creation_framework.xmi"/>
+    <resourceDescriptors xmi:id="_d4UuwOF9EeqHbKOWEwn35w" id="-acJYFA6KuGBclIGGREfNwQ" uri="guidances/supportingmaterials/framework_roadmap.xmi"/>
+    <resourceDescriptors xmi:id="_wCHlsOF9EeqHbKOWEwn35w" id="-bNwwX3_HRNArjipejQNyIA" uri="guidances/supportingmaterials/online_learning.xmi"/>
+    <resourceDescriptors xmi:id="_wCKB8OF9EeqHbKOWEwn35w" id="-e6Jl4i0MskP_dRY4PPUX9A" uri="guidances/supportingmaterials/online_learning_informative_references.xmi"/>
+    <resourceDescriptors xmi:id="_wCLQEOF9EeqHbKOWEwn35w" id="-EWE_HnKU3RqtmgvyWs7qFQ" uri="guidances/supportingmaterials/five_functions.xmi"/>
+    <resourceDescriptors xmi:id="_3PsmsOF9EeqHbKOWEwn35w" id="-NIh2MQb417dwxd4bkvUs3g" uri="guidances/supportingmaterials/overview.xmi"/>
+    <resourceDescriptors xmi:id="__Q9HYOF9EeqHbKOWEwn35w" id="-64aaJk-QRKMgQdTAniR3rQ" uri="guidances/supportingmaterials/framework_benefits.xmi"/>
+    <resourceDescriptors xmi:id="_ny8vYOF-EeqHbKOWEwn35w" id="-iPXFcM70vK0bElPKniztpA" uri="guidances/examples/business_environment_category.xmi"/>
+    <resourceDescriptors xmi:id="_06vsEOF-EeqHbKOWEwn35w" id="-hjZXC_ermBzZFQYgzLp5hQ" uri="guidances/examples/customized_tier.xmi"/>
+    <resourceDescriptors xmi:id="_8N-pIOF-EeqHbKOWEwn35w" id="-AYsSe0EuaY0RMEeO-Nc6sw" uri="guidances/examples/feature_list.xmi"/>
+    <resourceDescriptors xmi:id="_IA1MIOF_EeqHbKOWEwn35w" id="-ftuTdRADrwqp4btS67CRPA" uri="guidances/templates/framework_components.xmi"/>
+    <resourceDescriptors xmi:id="_IA2aQOF_EeqHbKOWEwn35w" id="-Jrh2aZ9YQOo1Cu3388E7jw" uri="guidances/templates/framework_core_functions.xmi"/>
+    <resourceDescriptors xmi:id="_d27VsOF_EeqHbKOWEwn35w" id="-K8Nrbu3Qa9jm6MqXh7fj_A" uri="guidances/templates/framework_implementation_tiers.xmi"/>
+    <resourceDescriptors xmi:id="_d2_AEOF_EeqHbKOWEwn35w" id="-BObAE5eBAVxeC5sQhowitA" uri="guidances/examples/framework_profiles.xmi"/>
+    <resourceDescriptors xmi:id="_wtDuMOF_EeqHbKOWEwn35w" id="-0Xhg5fXfDvPWY6PyZZq3Iw" uri="guidances/examples/how_to_use.xmi"/>
+    <resourceDescriptors xmi:id="_wtFjYOF_EeqHbKOWEwn35w" id="-pugYyvAO0RfDXfGpBWtcAw" uri="guidances/templates/implemenetation_approach.xmi"/>
+    <resourceDescriptors xmi:id="_wtGxgOF_EeqHbKOWEwn35w" id="-3sFjdZlumUfe1VP9kqJqEQ" uri="guidances/examples/individual_score.xmi"/>
+    <resourceDescriptors xmi:id="_9CwfkOF_EeqHbKOWEwn35w" id="-y70ckDVPDZ_Yh-865-dT3w" uri="guidances/templates/informative_references.xmi"/>
+    <resourceDescriptors xmi:id="_CcPFsOGAEeqHbKOWEwn35w" id="-VML56xx90XwW886GrWYtLA" uri="guidances/templates/risk_management.xmi"/>
+    <resourceDescriptors xmi:id="_rMWpQOGAEeqHbKOWEwn35w" id="-UYi1lY0HTjwvK7KWwjlDoA" uri="guidances/templates/five_function.xmi"/>
+    <resourceDescriptors xmi:id="_rMZFgOGAEeqHbKOWEwn35w" id="-Rxsy18E0j9UkMEUhnOFj_g" uri="guidances/templates/update_process_flow.xmi"/>
+    <resourceDescriptors xmi:id="_rMa6sOGAEeqHbKOWEwn35w" id="-rLSLlMW3OZMFM0eScqhNYQ" uri="guidances/supportingmaterials/baldrige_cybersecurity_initiative.xmi"/>
+    <resourceDescriptors xmi:id="_DEHvoOGBEeqHbKOWEwn35w" id="-TkvwiiYjD414fNqHsZq5_A" uri="guidances/supportingmaterials/nice_framework_resource_center.xmi"/>
+    <resourceDescriptors xmi:id="_SRvwYOGBEeqHbKOWEwn35w" id="-RSC7OOCrr6244mGKGDyBSw" uri="guidances/supportingmaterials/privacy_framework.xmi"/>
+    <resourceDescriptors xmi:id="_Xn58wOGBEeqHbKOWEwn35w" id="-QF6Teu1bUD4f7Csdiqe2ug" uri="guidances/supportingmaterials/risk_management_framework.xmi"/>
+    <resourceDescriptors xmi:id="_nnCS8OGBEeqHbKOWEwn35w" id="-STSyGO5qbPb5VQpk21VWgQ" uri="guidances/supportingmaterials/framework_resources.xmi"/>
+    <resourceDescriptors xmi:id="_3xoSQOGBEeqHbKOWEwn35w" id="-wdQcRGMkhvRIA4OJ9w5j8w" uri="guidances/supportingmaterials/success_stories.xmi"/>
+    <resourceDescriptors xmi:id="_HLFvkOGCEeqHbKOWEwn35w" id="-5EJHDs8X3d8dJIs-piWsdA" uri="guidances/supportingmaterials/nice_framework_center.xmi"/>
+    <resourceDescriptors xmi:id="_Ps-4IOGCEeqHbKOWEwn35w" id="-6V86SB9yQjuhQbrpczRtUw" uri="guidances/guidelines/current_version.xmi"/>
+    <resourceDescriptors xmi:id="_ToPz0OGCEeqHbKOWEwn35w" id="-N7fv604MR5OKzL1WjVRz0w" uri="guidances/supportingmaterials/history.xmi"/>
+    <resourceDescriptors xmi:id="_XhGUsOGCEeqHbKOWEwn35w" id="-PGu2zHT0Bbz12u23S0gWhA" uri="guidances/supportingmaterials/latest_updates.xmi"/>
+    <resourceDescriptors xmi:id="_h6r-sOGCEeqHbKOWEwn35w" id="-y-HfJZuyxk-U28NGeX6-bg" uri="guidances/supportingmaterials/workforce_framework_revisions.xmi"/>
+    <resourceDescriptors xmi:id="_tgmR4OGCEeqHbKOWEwn35w" id="-OXwl6qGdOiOHbde8vADWqQ" uri="guidances/supportingmaterials/nice_framework_resource_center%202.xmi"/>
+    <resourceDescriptors xmi:id="_3W5ooOGCEeqHbKOWEwn35w" id="-1slEa3J8NDL5vaWw308Rxg" uri="guidances/supportingmaterials/request_for_comments.xmi"/>
+    <resourceDescriptors xmi:id="_8lIoEOGCEeqHbKOWEwn35w" id="-03DQemgn0vBPrZSvZf_oWw" uri="guidances/templates/nice_framework_change_request_process.xmi"/>
+    <resourceDescriptors xmi:id="_AHIvMOGDEeqHbKOWEwn35w" id="-AHREPbEJc1nVgvcoyvC10A" uri="guidances/templates/nice_framework.xmi"/>
+    <resourceDescriptors xmi:id="_ErAjAOGDEeqHbKOWEwn35w" id="-0zqi5NPljbTwN8CUoVOumg" uri="guidances/templates/nice_framework_update_timeline.xmi"/>
+    <resourceDescriptors xmi:id="_YfpLIOGDEeqHbKOWEwn35w" id="-qkHAH6T5fvTtKGJ9kJiqAg" uri="guidances/supportingmaterials/education_training_provider_resources.xmi"/>
+    <resourceDescriptors xmi:id="_eHar8OGDEeqHbKOWEwn35w" id="-nnW-DT2eTM-qAM0HwXdOLw" uri="guidances/supportingmaterials/employer_resources.xmi"/>
+    <resourceDescriptors xmi:id="_i0iiYOGDEeqHbKOWEwn35w" id="-ZxNykDLtn8kx29No-7ZEQw" uri="guidances/supportingmaterials/learner_resources.xmi"/>
+    <resourceDescriptors xmi:id="_o9jvEOGDEeqHbKOWEwn35w" id="-RoygzYQ38Oit2V0STuCVVA" uri="guidances/supportingmaterials/perspectives_framework.xmi"/>
+    <resourceDescriptors xmi:id="_wGIUQOGDEeqHbKOWEwn35w" id="-QTMntdO9vklSJ82rhVsJQQ" uri="guidances/supportingmaterials/related_programs.xmi"/>
+    <resourceDescriptors xmi:id="_zhDjAOGDEeqHbKOWEwn35w" id="-Q2Mqpqt1pB1LYPtld6ULSw" uri="guidances/supportingmaterials/resources.xmi"/>
+    <resourceDescriptors xmi:id="_3JmXAOGDEeqHbKOWEwn35w" id="-N5Vwfawo_f_madJ1mliO6w" uri="guidances/supportingmaterials/uses.xmi"/>
+    <resourceDescriptors xmi:id="_71tN4OGQEeqxFs6enGkR7A" id="-pruU5DoWayuUOMXoCEL7zw" uri="guidances/supportingmaterials/cybersecurity_basics.xmi"/>
+    <resourceDescriptors xmi:id="_CE8XUOGREeqxFs6enGkR7A" id="-2eu0SaAH6h5Y8TST7f9F0w" uri="guidances/supportingmaterials/cybersecurity_risks.xmi"/>
+    <resourceDescriptors xmi:id="_lEYVsOGREeqxFs6enGkR7A" id="-Lwvm1he86Py5nT4_9JMeOA" uri="guidances/supportingmaterials/glossary.xmi"/>
+    <resourceDescriptors xmi:id="_ppWVsOGREeqxFs6enGkR7A" id="-hc2yycfZ7f27CriNdZ7ntg" uri="guidances/supportingmaterials/planning_guides.xmi"/>
+    <resourceDescriptors xmi:id="_xmhAkOGREeqxFs6enGkR7A" id="-8Y06FVFPDhlKqlHd5eS1ng" uri="guidances/supportingmaterials/itl_grant_programs.xmi"/>
+    <resourceDescriptors xmi:id="_3Q1fEOGREeqxFs6enGkR7A" id="-73-6R5D76FBwXyCjj48Yfg" uri="guidances/supportingmaterials/itl_opportunities.xmi"/>
+    <resourceDescriptors xmi:id="_EjEKIOGSEeqxFs6enGkR7A" id="-OIDDbNnAdXspFVB0bBhVIg" uri="guidances/supportingmaterials/nist_nrc.xmi"/>
+    <resourceDescriptors xmi:id="_LVA_EOGSEeqxFs6enGkR7A" id="-WunRUTMF_RcR_0MmlEu4Fg" uri="guidances/supportingmaterials/what_itl_does.xmi"/>
+    <resourceDescriptors xmi:id="_LVPBgOGSEeqxFs6enGkR7A" id="-DaUzHM7Rr1BO51nCZA3nSw" uri="guidances/supportingmaterials/itl_priority_areas.xmi"/>
+    <resourceDescriptors xmi:id="_X8XhIOGSEeqxFs6enGkR7A" id="-YiUg_TLLjcSjn8dYXB1B_w" uri="guidances/supportingmaterials/contributor_directory.xmi"/>
+    <resourceDescriptors xmi:id="_eB9mYOGSEeqxFs6enGkR7A" id="-VqHAztAmsBWmdlOTxtArVw" uri="guidances/supportingmaterials/guidance_by_topic.xmi"/>
+    <resourceDescriptors xmi:id="_l5mRAOGSEeqxFs6enGkR7A" id="-lzDEBxuYSVoO4ap8MrUe2g" uri="guidances/supportingmaterials/planning_guides%202.xmi"/>
+    <resourceDescriptors xmi:id="_s3yyMOGSEeqxFs6enGkR7A" id="-cSJoBoBOV0ozALwAKjtYDQ" uri="guidances/supportingmaterials/responding_cyber_incident.xmi"/>
+    <resourceDescriptors xmi:id="_7n2tMOGSEeqxFs6enGkR7A" id="-KQib7soh5yhbybZaSjlcJA" uri="guidances/supportingmaterials/training.xmi"/>
+    <resourceDescriptors xmi:id="_7oPHsOGSEeqxFs6enGkR7A" id="-r7ZLstcsRv5yXk6aWQT6lw" uri="guidances/supportingmaterials/overview%202.xmi"/>
+    <resourceDescriptors xmi:id="_DvAagOGTEeqxFs6enGkR7A" id="-D9K43ezS6LGhsnouaOhwGQ" uri="guidances/supportingmaterials/focus_areas.xmi"/>
+    <resourceDescriptors xmi:id="_G5h1wOGTEeqxFs6enGkR7A" id="-W6kFH2nODdsWY6-93ypMdA" uri="guidances/supportingmaterials/overview%203.xmi"/>
+    <resourceDescriptors xmi:id="_cQelMOGTEeqxFs6enGkR7A" id="-Gn-W0slyB-qf3UihhChqnA" uri="guidances/supportingmaterials/framework.xmi"/>
+    <resourceDescriptors xmi:id="_zrrEUOGTEeqxFs6enGkR7A" id="-5rK-TTzfAsc6ecegFH4Ndw" uri="guidances/examples/frameworkdocumentv1.1.xmi"/>
+    <resourceDescriptors xmi:id="_8hywcOGTEeqxFs6enGkR7A" id="-ka81iMvTBfvTdSRiW14Ldw" uri="guidances/supportingmaterials/nice.xmi"/>
+    <resourceDescriptors xmi:id="_EAq80OGUEeqxFs6enGkR7A" id="-RrNXepULieLE_mjsPc53bw" uri="guidances/supportingmaterials/background.xmi"/>
+    <resourceDescriptors xmi:id="_PkdwIOGUEeqxFs6enGkR7A" id="-gKyvtsUAs8nU4AFv8yE45Q" uri="guidances/supportingmaterials/cybersecurity_iot.xmi"/>
+    <resourceDescriptors xmi:id="_u-qGIOGUEeqxFs6enGkR7A" id="-7AIShHgHQd_vgizaVrBbDQ" uri="guidances/examples/nist_roadmap.xmi"/>
+    <resourceDescriptors xmi:id="_u-r7UOGUEeqxFs6enGkR7A" id="-5PyejVlj8F8Ir59wtJ7_zA" uri="guidances/supportingmaterials/perspectives.xmi"/>
+    <resourceDescriptors xmi:id="_ISL_4OGVEeqxFs6enGkR7A" id="-fsRVaPwijeJebkZHHd5X2Q" uri="guidances/supportingmaterials/about.xmi"/>
+    <resourceDescriptors xmi:id="_NUPkgOGVEeqxFs6enGkR7A" id="-zbTBf-m-zPwdgEubKLvAkg" uri="guidances/supportingmaterials/archived_projects.xmi"/>
+    <resourceDescriptors xmi:id="_TQLXcOGVEeqxFs6enGkR7A" id="-nNPwTN66p-IJ5_CkAAdTeg" uri="guidances/supportingmaterials/commitments_quotations.xmi"/>
+    <resourceDescriptors xmi:id="_baTgQOGVEeqxFs6enGkR7A" id="-RoEj3mCa2GZG2nQBw-pOiw" uri="guidances/supportingmaterials/strategy.xmi"/>
+    <resourceDescriptors xmi:id="_ghif0OGVEeqxFs6enGkR7A" id="-vylWrXMJjkr6ME_3wJAYVw" uri="guidances/supportingmaterials/work_for_others.xmi"/>
+    <resourceDescriptors xmi:id="_gh2B0OGVEeqxFs6enGkR7A" id="-9NDpHz_B6PoZ1-N4VkURMA" uri="guidances/supportingmaterials/stakeholders.xmi"/>
+    <resourceDescriptors xmi:id="_tG5d0OGVEeqxFs6enGkR7A" id="-JixDU9qP16uIVZfSWd3tIw" uri="guidances/supportingmaterials/ai.xmi"/>
+    <resourceDescriptors xmi:id="_zgHCoOGVEeqxFs6enGkR7A" id="-B9mOWTuT0XDeQs7AmMIcWg" uri="guidances/supportingmaterials/continuous_monitoring.xmi"/>
+    <resourceDescriptors xmi:id="_4z20MOGVEeqxFs6enGkR7A" id="-dXvZYt_SGJXUmUxj0sVDhQ" uri="guidances/supportingmaterials/data_security.xmi"/>
+    <resourceDescriptors xmi:id="_-pzT4OGVEeqxFs6enGkR7A" id="--jULOqtDAzgHp2PGRLMi3Q" uri="guidances/supportingmaterials/derived_piv_credentials.xmi"/>
+    <resourceDescriptors xmi:id="_EQP_AOGWEeqxFs6enGkR7A" id="-2_-LLAtohzfQcYioKP9-5w" uri="guidances/supportingmaterials/iot.xmi"/>
+    <resourceDescriptors xmi:id="_J74FEOGWEeqxFs6enGkR7A" id="-Kijl6Ii8rn5qL69bqSlyxw" uri="guidances/supportingmaterials/managed_service_providers.xmi"/>
+    <resourceDescriptors xmi:id="_R_IJ0OGWEeqxFs6enGkR7A" id="-1Ufzua7muDSKKxOI0up1BA" uri="guidances/supportingmaterials/mobile_device_security.xmi"/>
+    <resourceDescriptors xmi:id="_c_2FQOGWEeqxFs6enGkR7A" id="-iqoZsoPrP4v-EG0twUdVIg" uri="guidances/supportingmaterials/building_blocks.xmi"/>
+    <resourceDescriptors xmi:id="_jH2lUOGWEeqxFs6enGkR7A" id="-qEYxPbd4NdPjrokR8_p9sg" uri="guidances/supportingmaterials/patching_enterprise.xmi"/>
+    <resourceDescriptors xmi:id="_pHLDcOGWEeqxFs6enGkR7A" id="-Fl6NyAAtw82lUkqurCbCzw" uri="guidances/supportingmaterials/post-quantum_cryptographic_algorithms.xmi"/>
+    <resourceDescriptors xmi:id="_wSKDcOGWEeqxFs6enGkR7A" id="-RAuhWz-nYTBuXnltJxgOiQ" uri="guidances/supportingmaterials/secure_evolution_5g.xmi"/>
+    <resourceDescriptors xmi:id="_2bn8EOGWEeqxFs6enGkR7A" id="-Cw3AioCJ_G8TuA4iR0EasA" uri="guidances/supportingmaterials/supply_chain_assurance.xmi"/>
+    <resourceDescriptors xmi:id="_-jKD4OGWEeqxFs6enGkR7A" id="-1X9XkUZ_wAaLaiIKITopnQ" uri="guidances/supportingmaterials/server_certificate_management.xmi"/>
+    <resourceDescriptors xmi:id="_QJ1msOGXEeqxFs6enGkR7A" id="-h468dAmU0k0e5hTEJP5ndQ" uri="guidances/supportingmaterials/trusted_cloud.xmi"/>
+    <resourceDescriptors xmi:id="_XcQEYOGXEeqxFs6enGkR7A" id="-AXaz8UrDjzgU_QAeNLguDA" uri="guidances/supportingmaterials/zero_trust_architecture.xmi"/>
+    <resourceDescriptors xmi:id="_f9JucOGXEeqxFs6enGkR7A" id="-WOaK2MBmkDPe8AwzhNhndg" uri="guidances/supportingmaterials/consumer_retail_sector.xmi"/>
+    <resourceDescriptors xmi:id="_luR_kOGXEeqxFs6enGkR7A" id="-jA2uovfbcJn0rkdAH-a9BQ" uri="guidances/supportingmaterials/energy_sector.xmi"/>
+    <resourceDescriptors xmi:id="_rQj8YOGXEeqxFs6enGkR7A" id="-FgHBhVe6OY9p4VO5x4IE1Q" uri="guidances/supportingmaterials/financial_services_sector.xmi"/>
+    <resourceDescriptors xmi:id="_wFd10OGXEeqxFs6enGkR7A" id="-hB_HJ5qqQkAMcpdtkRZVVA" uri="guidances/supportingmaterials/healthcare_sector.xmi"/>
+    <resourceDescriptors xmi:id="_2VaJ4OGXEeqxFs6enGkR7A" id="-hFVh65fNy9_StpQTy95Emw" uri="guidances/supportingmaterials/hospitality_sector.xmi"/>
+    <resourceDescriptors xmi:id="_7E_ecOGXEeqxFs6enGkR7A" id="-wklaSJjNmDCXXlSaImi-0g" uri="guidances/supportingmaterials/manufacturin_sector.xmi"/>
+    <resourceDescriptors xmi:id="_BdjjAOGYEeqxFs6enGkR7A" id="-kAOoZ9ApKJPX24ESuHzKyw" uri="guidances/supportingmaterials/use_cases.xmi"/>
+    <resourceDescriptors xmi:id="_K9GmoOGYEeqxFs6enGkR7A" id="-BNBKPTZVv4NUpsQ1d37isQ" uri="guidances/supportingmaterials/first_responder_sector.xmi"/>
+    <resourceDescriptors xmi:id="_S8BlAOGYEeqxFs6enGkR7A" id="-5PBmZM6PNxa0UIAoqPS_hQ" uri="guidances/supportingmaterials/transportation_sector.xmi"/>
+    <resourceDescriptors xmi:id="_vzTcQOlBEeqDSrLAH81MEA" id="-EdamWPM0zrzbQ7vKUBjuIw" uri="guidances/examples/nice_specialty_areas_work_rules_tasks.xmi"/>
+    <resourceDescriptors xmi:id="_kJEqAOsTEeq5mfczp4oeQQ" id="-Qd0KcDgwLkn4G7UqWSe9MQ" uri="guidances/supportingmaterials/privacy_policy.xmi"/>
+    <resourceDescriptors xmi:id="_RYKb0OsrEeq44bLjAW9hRQ" id="-tuRyQZPGp9diB8b0PXXwHg" uri="customcategories/cybersecurity_basics.xmi"/>
+    <resourceDescriptors xmi:id="_b7MVsOsrEeq44bLjAW9hRQ" id="-sfTSAhuOxPF6j4ZuDiGUcA" uri="customcategories/itl.xmi"/>
+    <resourceDescriptors xmi:id="_apj5QOssEeq44bLjAW9hRQ" id="-aMCHRvQZX38elImDtCtRZQ" uri="customcategories/nccoe.xmi"/>
+    <resourceDescriptors xmi:id="_bmrzYOstEeq44bLjAW9hRQ" id="-Zu_MbwtGBOISiY3ecrV6iw" uri="customcategories/cyber_framework.xmi"/>
+    <resourceDescriptors xmi:id="_9FGq8OstEeq44bLjAW9hRQ" id="-1R6XlMf2OOLb0_oRKFWypA" uri="customcategories/related_programs.xmi"/>
+    <resourceDescriptors xmi:id="_eko80OsuEeq44bLjAW9hRQ" id="-S-yX-TH7xYoxeT9f5gMqmg" uri="customcategories/resources.xmi"/>
+    <resourceDescriptors xmi:id="_oYpNgOsuEeq44bLjAW9hRQ" id="-yYUQqFZpS6I9C-RVBanG7A" uri="customcategories/smallbusiness_cybersecurity.xmi"/>
+    <resourceDescriptors xmi:id="_hF-dcOu4EeqGH_E-YtfOxw" id="-_8DkNKRRElY-3pcS6xUgUA" uri="guidances/supportingmaterials/copyright.xmi"/>
+    <resourceDescriptors xmi:id="_47tMYOvMEeqhXo29O7vGsA" id="-CU4EzrXSopnaGDQtC0YPjA" uri="customcategories/csf_tree.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_2KZMgOFyEeqHbKOWEwn35w" name="CSF" guid="_2KZMgOFyEeqHbKOWEwn35w" briefDescription="CyberSecurity Framework (CSF) by US-NIST" authors="national Institute of Standards and Technology (NIST)" copyrightStatement="_LascwOu4EeqGH_E-YtfOxw">
+    <methodElementProperty xmi:id="_2Kf6MuFyEeqHbKOWEwn35w" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_8fI18OsTEeq5mfczp4oeQQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMgeFyEeqHbKOWEwn35w" name="Content" guid="_2KZMgeFyEeqHbKOWEwn35w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMguFyEeqHbKOWEwn35w" name="Categories" guid="_2KZMguFyEeqHbKOWEwn35w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMg-FyEeqHbKOWEwn35w" name="Domains" guid="_2KZMg-FyEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMhOFyEeqHbKOWEwn35w" name="Disciplines" guid="_2KZMhOFyEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMheFyEeqHbKOWEwn35w" name="RoleSets" guid="_2KZMheFyEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMhuFyEeqHbKOWEwn35w" name="WP Types" guid="_2KZMhuFyEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMh-FyEeqHbKOWEwn35w" name="Tools" guid="_2KZMh-FyEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMiOFyEeqHbKOWEwn35w" name="StandardCategories" guid="_2KZMiOFyEeqHbKOWEwn35w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMieFyEeqHbKOWEwn35w" name="CustomCategories" guid="_2KZMieFyEeqHbKOWEwn35w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMiuFyEeqHbKOWEwn35w" name="Hidden" guid="_2KZMiuFyEeqHbKOWEwn35w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_2KZMi-FyEeqHbKOWEwn35w" name="Custom Categories" guid="_2KZMi-FyEeqHbKOWEwn35w" categorizedElements="_nxpbwOsqEeq44bLjAW9hRQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_nxpbwOsqEeq44bLjAW9hRQ" name="csf_tree" guid="_nxpbwOsqEeq44bLjAW9hRQ" presentationName="CSF_Tree" briefDescription="CyberSecurity Framework (CSF) by US-NIST" categorizedElements="_stxXgOsqEeq44bLjAW9hRQ _vkjXYOsqEeq44bLjAW9hRQ _zavl0OsqEeq44bLjAW9hRQ _00dx0OsqEeq44bLjAW9hRQ _5S7hMOsqEeq44bLjAW9hRQ _U1fo4OssEeq44bLjAW9hRQ _LascwOu4EeqGH_E-YtfOxw">
+            <methodElementProperty xmi:id="_9_CrAOsqEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-CU4EzrXSopnaGDQtC0YPjA" href="uma://-CU4EzrXSopnaGDQtC0YPjA#-CU4EzrXSopnaGDQtC0YPjA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_stxXgOsqEeq44bLjAW9hRQ" name="cybersecurity_basics" guid="_stxXgOsqEeq44bLjAW9hRQ" presentationName="Cybersecurity_Basics" categorizedElements="_By6r0OGUEeqxFs6enGkR7A _LascwOu4EeqGH_E-YtfOxw _yZSWwOGQEeqxFs6enGkR7A _HhG9sOGUEeqxFs6enGkR7A _8ku3EOGQEeqxFs6enGkR7A _XRW_0OGTEeqxFs6enGkR7A _uv3RoOGTEeqxFs6enGkR7A _f9nQMOGREeqxFs6enGkR7A _0cgEUOGTEeqxFs6enGkR7A _klw_sOGUEeqxFs6enGkR7A _rTIPkOGUEeqxFs6enGkR7A _lrpKAOGREeqxFs6enGkR7A _UixDgOsTEeq5mfczp4oeQQ">
+            <methodElementProperty xmi:id="_9-9ygOsqEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-tuRyQZPGp9diB8b0PXXwHg" href="uma://-tuRyQZPGp9diB8b0PXXwHg#-tuRyQZPGp9diB8b0PXXwHg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_vkjXYOsqEeq44bLjAW9hRQ" name="itl" guid="_vkjXYOsqEeq44bLjAW9hRQ" presentationName="ITL" briefDescription="What ITL does?" categorizedElements="_ubwUwOGREeqxFs6enGkR7A _yWMxEOGREeqxFs6enGkR7A _35Pi4OGREeqxFs6enGkR7A _9zgh4OGREeqxFs6enGkR7A _FMBAgOGSEeqxFs6enGkR7A">
+            <methodElementProperty xmi:id="_9-46AOsqEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-sfTSAhuOxPF6j4ZuDiGUcA" href="uma://-sfTSAhuOxPF6j4ZuDiGUcA#-sfTSAhuOxPF6j4ZuDiGUcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zavl0OsqEeq44bLjAW9hRQ" name="nice" guid="_zavl0OsqEeq44bLjAW9hRQ" presentationName="NICE" briefDescription="National Initiative-Cybersecurity Education_(NICE)" categorizedElements="_DjKwAOstEeq44bLjAW9hRQ _QVhoMOstEeq44bLjAW9hRQ _iOhqEOstEeq44bLjAW9hRQ __ctbgOstEeq44bLjAW9hRQ _iTgj0OGBEeqHbKOWEwn35w _EaE6IOF6EeqHbKOWEwn35w _97no8OF5EeqHbKOWEwn35w _2MPwwOlAEeqDSrLAH81MEA _t00kgOF5EeqHbKOWEwn35w _Iuq70OF6EeqHbKOWEwn35w _x-vtoOGBEeqHbKOWEwn35w _PUjDoOF6EeqHbKOWEwn35w">
+            <methodElementProperty xmi:id="_9-vJAOsqEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_00dx0OsqEeq44bLjAW9hRQ" name="smallbusiness_cybersecurity" guid="_00dx0OsqEeq44bLjAW9hRQ" presentationName="Smallbusiness_Cybersecurity" briefDescription="SMALL BUSINESS CYBERSECURITY CORNER" categorizedElements="_TFstIOGSEeqxFs6enGkR7A _YbqsQOGSEeqxFs6enGkR7A _tqpygOGSEeqxFs6enGkR7A _ek8XoOGSEeqxFs6enGkR7A _mn13EOGSEeqxFs6enGkR7A _3VuJoOGSEeqxFs6enGkR7A">
+            <methodElementProperty xmi:id="_9-lYAOsqEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-yYUQqFZpS6I9C-RVBanG7A" href="uma://-yYUQqFZpS6I9C-RVBanG7A#-yYUQqFZpS6I9C-RVBanG7A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_5S7hMOsqEeq44bLjAW9hRQ" name="trusted_identity_group" guid="_5S7hMOsqEeq44bLjAW9hRQ" presentationName="Trusted_Identity_Group" categorizedElements="_BI1CcOGTEeqxFs6enGkR7A _ENXxgOGTEeqxFs6enGkR7A">
+            <methodElementProperty xmi:id="_9-R2AOsqEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_U1fo4OssEeq44bLjAW9hRQ" name="nccoe" guid="_U1fo4OssEeq44bLjAW9hRQ" presentationName="NCCoE" briefDescription="National Cybersecurity Center of Excellence" categorizedElements="_Biz90OGVEeqxFs6enGkR7A _oPGocOGVEeqxFs6enGkR7A _KdQwUOGVEeqxFs6enGkR7A _SmqD4OGWEeqxFs6enGkR7A _OLptoOGVEeqxFs6enGkR7A _bKX78OGXEeqxFs6enGkR7A _tvgV8OGVEeqxFs6enGkR7A _0LErMOGVEeqxFs6enGkR7A _6wCNAOGVEeqxFs6enGkR7A _gsuKMOGXEeqxFs6enGkR7A _oRfjMOGXEeqxFs6enGkR7A _CW17cOGYEeqxFs6enGkR7A _tOtrIOGXEeqxFs6enGkR7A _0EWtQOGXEeqxFs6enGkR7A __ZvjEOGVEeqxFs6enGkR7A _FBiSAOGWEeqxFs6enGkR7A _4fHBUOGXEeqxFs6enGkR7A _KjsTAOGWEeqxFs6enGkR7A _fAJwIOGWEeqxFs6enGkR7A _js82cOGWEeqxFs6enGkR7A _pxvqcOGWEeqxFs6enGkR7A _3hOSMOGWEeqxFs6enGkR7A _T06cMOGVEeqxFs6enGkR7A _YNJAsOGVEeqxFs6enGkR7A _w8ARsOGWEeqxFs6enGkR7A _M_qUQOGYEeqxFs6enGkR7A __swJMOGWEeqxFs6enGkR7A _7x3LgOGXEeqxFs6enGkR7A _b6A7EOGVEeqxFs6enGkR7A _RrzvwOGXEeqxFs6enGkR7A">
+            <methodElementProperty xmi:id="_apfAwOssEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-aMCHRvQZX38elImDtCtRZQ" href="uma://-aMCHRvQZX38elImDtCtRZQ#-aMCHRvQZX38elImDtCtRZQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_DjKwAOstEeq44bLjAW9hRQ" name="cyber_framework" guid="_DjKwAOstEeq44bLjAW9hRQ" presentationName="Cyber_Framework" briefDescription="An Introduction to the Components of the Framework" categorizedElements="_g9iWwOF-EeqHbKOWEwn35w _uvE0AOF-EeqHbKOWEwn35w _ev1s8OF6EeqHbKOWEwn35w _o37XQOF6EeqHbKOWEwn35w _45NFsOF-EeqHbKOWEwn35w _EMuL4OGAEeqHbKOWEwn35w _qLkpEOF9EeqHbKOWEwn35w _3xJG4OF9EeqHbKOWEwn35w _9lq00OF-EeqHbKOWEwn35w _ErCVAOF_EeqHbKOWEwn35w _KONCoOF_EeqHbKOWEwn35w _Qtk50OF_EeqHbKOWEwn35w _aC2SAOF9EeqHbKOWEwn35w _-easoOF8EeqHbKOWEwn35w _Q-G7EOF9EeqHbKOWEwn35w _gXJPsOF_EeqHbKOWEwn35w _prMN8OF_EeqHbKOWEwn35w _tLqEAOF_EeqHbKOWEwn35w _nwmtYOF7EeqHbKOWEwn35w _tJ9XsOF7EeqHbKOWEwn35w _0GTh8OF_EeqHbKOWEwn35w _MVFW8OF8EeqHbKOWEwn35w _yJnvoOF7EeqHbKOWEwn35w _EWlPUOF8EeqHbKOWEwn35w _gYV0cOF9EeqHbKOWEwn35w _jFDSUOF9EeqHbKOWEwn35w _0P84EOF9EeqHbKOWEwn35w _-K3-MOF_EeqHbKOWEwn35w _Pl0yIOGAEeqHbKOWEwn35w">
+            <methodElementProperty xmi:id="_bnN-4OstEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Zu_MbwtGBOISiY3ecrV6iw" href="uma://-Zu_MbwtGBOISiY3ecrV6iw#-Zu_MbwtGBOISiY3ecrV6iw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_QVhoMOstEeq44bLjAW9hRQ" name="framework_resource_center" guid="_QVhoMOstEeq44bLjAW9hRQ" presentationName="Framework_Resource_Center" categorizedElements="_NZzUkOGCEeqHbKOWEwn35w _R9AaAOGCEeqHbKOWEwn35w _VaBTcOGCEeqHbKOWEwn35w _9Ct78OGCEeqHbKOWEwn35w __uKD8OGBEeqHbKOWEwn35w _4SdR8OGCEeqHbKOWEwn35w _mB650OGCEeqHbKOWEwn35w _AlOZYOGDEeqHbKOWEwn35w _yvpwsOGCEeqHbKOWEwn35w _bMbW8OGCEeqHbKOWEwn35w">
+            <methodElementProperty xmi:id="_bmkeoOstEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_iOhqEOstEeq44bLjAW9hRQ" name="related_programs" guid="_iOhqEOstEeq44bLjAW9hRQ" presentationName="Related_Programs" categorizedElements="_j7Xu8OGAEeqHbKOWEwn35w _-GbGkOGAEeqHbKOWEwn35w _Np1KEOGBEeqHbKOWEwn35w _DnoFUOGBEeqHbKOWEwn35w">
+            <methodElementProperty xmi:id="_9FEOsOstEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-1R6XlMf2OOLb0_oRKFWypA" href="uma://-1R6XlMf2OOLb0_oRKFWypA#-1R6XlMf2OOLb0_oRKFWypA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="__ctbgOstEeq44bLjAW9hRQ" name="resources" guid="__ctbgOstEeq44bLjAW9hRQ" presentationName="Resources" briefDescription="Representations and Warranties" categorizedElements="_RQSBcOGDEeqHbKOWEwn35w _ZFJr8OGDEeqHbKOWEwn35w _er21wOGDEeqHbKOWEwn35w _jiw6UOGDEeqHbKOWEwn35w _tbvKkOGDEeqHbKOWEwn35w _ws6AYOGDEeqHbKOWEwn35w _1aoTwOGDEeqHbKOWEwn35w">
+            <methodElementProperty xmi:id="_ekhoEOsuEeq44bLjAW9hRQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-S-yX-TH7xYoxeT9f5gMqmg" href="uma://-S-yX-TH7xYoxeT9f5gMqmg#-S-yX-TH7xYoxeT9f5gMqmg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2KZMjOFyEeqHbKOWEwn35w" name="CoreContent" guid="_2KZMjOFyEeqHbKOWEwn35w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PYLRUOF4EeqHbKOWEwn35w" name="cybersecurity_basics" guid="_PYLRUOF4EeqHbKOWEwn35w" presentationName="CyberSecurity_Basics">
+          <methodElementProperty xmi:id="_PYLRUeF4EeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_36nIwOF5EeqHbKOWEwn35w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yZSWwOGQEeqxFs6enGkR7A" name="cybersecurity_basics" guid="_yZSWwOGQEeqxFs6enGkR7A" presentationName="Cybersecurity_Basics" briefDescription="Introductory information about cybersecurity">
+            <methodElementProperty xmi:id="_71lSEOGQEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-pruU5DoWayuUOMXoCEL7zw" href="uma://-pruU5DoWayuUOMXoCEL7zw#-pruU5DoWayuUOMXoCEL7zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_8ku3EOGQEeqxFs6enGkR7A" name="cybersecurity_risks" guid="_8ku3EOGQEeqxFs6enGkR7A" presentationName="Cybersecurity_Risks" briefDescription="This page includes resources that provide overviews of cybersecurity risk and threats and how to manage those threats.">
+            <methodElementProperty xmi:id="_CE7JMOGREeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-2eu0SaAH6h5Y8TST7f9F0w" href="uma://-2eu0SaAH6h5Y8TST7f9F0w#-2eu0SaAH6h5Y8TST7f9F0w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_f9nQMOGREeqxFs6enGkR7A" name="glossary" guid="_f9nQMOGREeqxFs6enGkR7A" presentationName="Glossary" briefDescription="This glossary contains brief descriptions of commonly used cybersecurity and related technology terms.">
+            <methodElementProperty xmi:id="_lEXHkOGREeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-Lwvm1he86Py5nT4_9JMeOA" href="uma://-Lwvm1he86Py5nT4_9JMeOA#-Lwvm1he86Py5nT4_9JMeOA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_lrpKAOGREeqxFs6enGkR7A" name="planning_guides" guid="_lrpKAOGREeqxFs6enGkR7A" presentationName="Planning_Guides" briefDescription="This section includes resources to help you create, evaluate, and improve your business’ overall security plan.">
+            <methodElementProperty xmi:id="_ppUggOGREeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-hc2yycfZ7f27CriNdZ7ntg" href="uma://-hc2yycfZ7f27CriNdZ7ntg#-hc2yycfZ7f27CriNdZ7ntg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_XRW_0OGTEeqxFs6enGkR7A" name="framework" guid="_XRW_0OGTEeqxFs6enGkR7A" presentationName="Framework" briefDescription="Framework - Related Efforts">
+            <methodElementProperty xmi:id="_cQcI8OGTEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-Gn-W0slyB-qf3UihhChqnA" href="uma://-Gn-W0slyB-qf3UihhChqnA#-Gn-W0slyB-qf3UihhChqnA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_uv3RoOGTEeqxFs6enGkR7A" name="frameworkdocumentv1.1" guid="_uv3RoOGTEeqxFs6enGkR7A" presentationName="frameworkDocumentV1.1" briefDescription="frameworkDocumentV1.1">
+            <methodElementProperty xmi:id="_zrooEOGTEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-5rK-TTzfAsc6ecegFH4Ndw" href="uma://-5rK-TTzfAsc6ecegFH4Ndw#-5rK-TTzfAsc6ecegFH4Ndw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_0cgEUOGTEeqxFs6enGkR7A" name="nice" guid="_0cgEUOGTEeqxFs6enGkR7A" presentationName="NICE" briefDescription="NATIONAL INITIATIVE FOR CYBERSECURITY EDUCATION (NICE)">
+            <methodElementProperty xmi:id="_8hxiUOGTEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-ka81iMvTBfvTdSRiW14Ldw" href="uma://-ka81iMvTBfvTdSRiW14Ldw#-ka81iMvTBfvTdSRiW14Ldw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_By6r0OGUEeqxFs6enGkR7A" name="background" guid="_By6r0OGUEeqxFs6enGkR7A" presentationName="Background" briefDescription="Background of cybersecurity basics">
+            <methodElementProperty xmi:id="_EApusOGUEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-RrNXepULieLE_mjsPc53bw" href="uma://-RrNXepULieLE_mjsPc53bw#-RrNXepULieLE_mjsPc53bw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_HhG9sOGUEeqxFs6enGkR7A" name="cybersecurity_iot" guid="_HhG9sOGUEeqxFs6enGkR7A" presentationName="Cybersecurity_IoT" briefDescription="NIST Cybersecurity for IoT Program">
+            <methodElementProperty xmi:id="_PkbT4OGUEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-gKyvtsUAs8nU4AFv8yE45Q" href="uma://-gKyvtsUAs8nU4AFv8yE45Q#-gKyvtsUAs8nU4AFv8yE45Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_klw_sOGUEeqxFs6enGkR7A" name="nist_roadmap" guid="_klw_sOGUEeqxFs6enGkR7A" presentationName="NIST_roadMap" briefDescription="NIST roadMap 2019">
+            <methodElementProperty xmi:id="_u-4voOGUEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-7AIShHgHQd_vgizaVrBbDQ" href="uma://-7AIShHgHQd_vgizaVrBbDQ#-7AIShHgHQd_vgizaVrBbDQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_rTIPkOGUEeqxFs6enGkR7A" name="perspectives" guid="_rTIPkOGUEeqxFs6enGkR7A" presentationName="perspectives" briefDescription="Perspectives on the Framework">
+            <methodElementProperty xmi:id="_u-np4OGUEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-5PyejVlj8F8Ir59wtJ7_zA" href="uma://-5PyejVlj8F8Ir59wtJ7_zA#-5PyejVlj8F8Ir59wtJ7_zA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_UixDgOsTEeq5mfczp4oeQQ" name="privacy_policy" guid="_UixDgOsTEeq5mfczp4oeQQ" presentationName="Privacy_Policy" briefDescription="National Institute of Standards and Technology U.S. Department of Commerce&#xD;&#xA;Privacy Statement/Security Notice/Accessibility Statement">
+            <methodElementProperty xmi:id="_kI8HIOsTEeq5mfczp4oeQQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Qd0KcDgwLkn4G7UqWSe9MQ" href="uma://-Qd0KcDgwLkn4G7UqWSe9MQ#-Qd0KcDgwLkn4G7UqWSe9MQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_LascwOu4EeqGH_E-YtfOxw" name="copyright" guid="_LascwOu4EeqGH_E-YtfOxw" presentationName="CopyRight">
+            <methodElementProperty xmi:id="_hF8oQOu4EeqGH_E-YtfOxw" name="me_edited" value="true"/>
+            <presentation xmi:id="-_8DkNKRRElY-3pcS6xUgUA" href="uma://-_8DkNKRRElY-3pcS6xUgUA#-_8DkNKRRElY-3pcS6xUgUA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aPs0gOF4EeqHbKOWEwn35w" name="itl" guid="_aPs0gOF4EeqHbKOWEwn35w" presentationName="ITL" briefDescription="The Information Technology Laboratory (ITL)">
+          <methodElementProperty xmi:id="_aPs0geF4EeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_36el4OF5EeqHbKOWEwn35w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ubwUwOGREeqxFs6enGkR7A" name="itl_grant_programs" guid="_ubwUwOGREeqxFs6enGkR7A" presentationName="ITL_Grant_Programs">
+            <methodElementProperty xmi:id="_xmfycOGREeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-8Y06FVFPDhlKqlHd5eS1ng" href="uma://-8Y06FVFPDhlKqlHd5eS1ng#-8Y06FVFPDhlKqlHd5eS1ng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yWMxEOGREeqxFs6enGkR7A" name="itl_opportunities" guid="_yWMxEOGREeqxFs6enGkR7A" presentationName="ITL_Opportunities" briefDescription="Organization Profile">
+            <methodElementProperty xmi:id="_3Qzp4OGREeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-73-6R5D76FBwXyCjj48Yfg" href="uma://-73-6R5D76FBwXyCjj48Yfg#-73-6R5D76FBwXyCjj48Yfg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_35Pi4OGREeqxFs6enGkR7A" name="itl_priority_areas" guid="_35Pi4OGREeqxFs6enGkR7A" presentationName="ITL_Priority_Areas">
+            <methodElementProperty xmi:id="_LVNzYOGSEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-DaUzHM7Rr1BO51nCZA3nSw" href="uma://-DaUzHM7Rr1BO51nCZA3nSw#-DaUzHM7Rr1BO51nCZA3nSw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_9zgh4OGREeqxFs6enGkR7A" name="nist_nrc" guid="_9zgh4OGREeqxFs6enGkR7A" presentationName="NIST_NRC" briefDescription="NIST NRC Postdoctoral Research Associateships Program">
+            <methodElementProperty xmi:id="_EjC8AOGSEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-OIDDbNnAdXspFVB0bBhVIg" href="uma://-OIDDbNnAdXspFVB0bBhVIg#-OIDDbNnAdXspFVB0bBhVIg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_FMBAgOGSEeqxFs6enGkR7A" name="what_itl_does" guid="_FMBAgOGSEeqxFs6enGkR7A" presentationName="What_ITL_Does" briefDescription="What ITL Does">
+            <methodElementProperty xmi:id="_LU_w8OGSEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-WunRUTMF_RcR_0MmlEu4Fg" href="uma://-WunRUTMF_RcR_0MmlEu4Fg#-WunRUTMF_RcR_0MmlEu4Fg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1-Dx8OF4EeqHbKOWEwn35w" name="nccoe" guid="_1-Dx8OF4EeqHbKOWEwn35w" presentationName="NCCoE" briefDescription="National Cybersecurity Center of Excellence">
+          <methodElementProperty xmi:id="_1-Dx8eF4EeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_36a7gOF5EeqHbKOWEwn35w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_Biz90OGVEeqxFs6enGkR7A" name="about" guid="_Biz90OGVEeqxFs6enGkR7A" presentationName="About" briefDescription="About the Center">
+            <methodElementProperty xmi:id="_ISKKsOGVEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-fsRVaPwijeJebkZHHd5X2Q" href="uma://-fsRVaPwijeJebkZHHd5X2Q#-fsRVaPwijeJebkZHHd5X2Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_KdQwUOGVEeqxFs6enGkR7A" name="archived_projects" guid="_KdQwUOGVEeqxFs6enGkR7A" presentationName="Archived_Projects">
+            <methodElementProperty xmi:id="_NUNIQOGVEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-zbTBf-m-zPwdgEubKLvAkg" href="uma://-zbTBf-m-zPwdgEubKLvAkg#-zbTBf-m-zPwdgEubKLvAkg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_OLptoOGVEeqxFs6enGkR7A" name="commitments_quotations" guid="_OLptoOGVEeqxFs6enGkR7A" presentationName="Commitments_Quotations" briefDescription="Commitments and Quotations">
+            <methodElementProperty xmi:id="_TQJiQOGVEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-nNPwTN66p-IJ5_CkAAdTeg" href="uma://-nNPwTN66p-IJ5_CkAAdTeg#-nNPwTN66p-IJ5_CkAAdTeg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_T06cMOGVEeqxFs6enGkR7A" name="stakeholders" guid="_T06cMOGVEeqxFs6enGkR7A" presentationName="Stakeholders">
+            <methodElementProperty xmi:id="_gh0MoOGVEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-9NDpHz_B6PoZ1-N4VkURMA" href="uma://-9NDpHz_B6PoZ1-N4VkURMA#-9NDpHz_B6PoZ1-N4VkURMA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_YNJAsOGVEeqxFs6enGkR7A" name="strategy" guid="_YNJAsOGVEeqxFs6enGkR7A" presentationName="Strategy">
+            <methodElementProperty xmi:id="_baRrEOGVEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-RoEj3mCa2GZG2nQBw-pOiw" href="uma://-RoEj3mCa2GZG2nQBw-pOiw#-RoEj3mCa2GZG2nQBw-pOiw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_b6A7EOGVEeqxFs6enGkR7A" name="work_for_others" guid="_b6A7EOGVEeqxFs6enGkR7A" presentationName="Work_For_Others" briefDescription="Work For Others">
+            <methodElementProperty xmi:id="_ghfcgOGVEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-vylWrXMJjkr6ME_3wJAYVw" href="uma://-vylWrXMJjkr6ME_3wJAYVw#-vylWrXMJjkr6ME_3wJAYVw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_oPGocOGVEeqxFs6enGkR7A" name="ai" guid="_oPGocOGVEeqxFs6enGkR7A" presentationName="AI" briefDescription="Artificial Intelligence: Adversarial Machine Learning">
+            <methodElementProperty xmi:id="_tG4PsOGVEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-JixDU9qP16uIVZfSWd3tIw" href="uma://-JixDU9qP16uIVZfSWd3tIw#-JixDU9qP16uIVZfSWd3tIw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_tvgV8OGVEeqxFs6enGkR7A" name="continuous_monitoring" guid="_tvgV8OGVEeqxFs6enGkR7A" presentationName="Continuous_Monitoring" briefDescription="Continuous Monitoring for IT Infrastructure">
+            <methodElementProperty xmi:id="_zgFNcOGVEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-B9mOWTuT0XDeQs7AmMIcWg" href="uma://-B9mOWTuT0XDeQs7AmMIcWg#-B9mOWTuT0XDeQs7AmMIcWg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_0LErMOGVEeqxFs6enGkR7A" name="data_security" guid="_0LErMOGVEeqxFs6enGkR7A" presentationName="Data_Security">
+            <methodElementProperty xmi:id="_4z0_AOGVEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-dXvZYt_SGJXUmUxj0sVDhQ" href="uma://-dXvZYt_SGJXUmUxj0sVDhQ#-dXvZYt_SGJXUmUxj0sVDhQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_6wCNAOGVEeqxFs6enGkR7A" name="derived_piv_credentials" guid="_6wCNAOGVEeqxFs6enGkR7A" presentationName="Derived_PIV_Credentials" briefDescription="Derived PIV Credentials">
+            <methodElementProperty xmi:id="_-pwQkOGVEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="--jULOqtDAzgHp2PGRLMi3Q" href="uma://--jULOqtDAzgHp2PGRLMi3Q#--jULOqtDAzgHp2PGRLMi3Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="__ZvjEOGVEeqxFs6enGkR7A" name="iot" guid="__ZvjEOGVEeqxFs6enGkR7A" presentationName="IoT" briefDescription="Internet of Things (IoT)">
+            <methodElementProperty xmi:id="_EQOJ0OGWEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-2_-LLAtohzfQcYioKP9-5w" href="uma://-2_-LLAtohzfQcYioKP9-5w#-2_-LLAtohzfQcYioKP9-5w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_FBiSAOGWEeqxFs6enGkR7A" name="managed_service_providers" guid="_FBiSAOGWEeqxFs6enGkR7A" presentationName="Managed_Service_Providers" briefDescription="Improving Cybersecurity of Managed Service Providers">
+            <methodElementProperty xmi:id="_J72P4OGWEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-Kijl6Ii8rn5qL69bqSlyxw" href="uma://-Kijl6Ii8rn5qL69bqSlyxw#-Kijl6Ii8rn5qL69bqSlyxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_KjsTAOGWEeqxFs6enGkR7A" name="mobile_device_security" guid="_KjsTAOGWEeqxFs6enGkR7A" presentationName="Mobile_Device_Security">
+            <methodElementProperty xmi:id="_R_FGgOGWEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-1Ufzua7muDSKKxOI0up1BA" href="uma://-1Ufzua7muDSKKxOI0up1BA#-1Ufzua7muDSKKxOI0up1BA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_SmqD4OGWEeqxFs6enGkR7A" name="building_blocks" guid="_SmqD4OGWEeqxFs6enGkR7A" presentationName="Building_Blocks" briefDescription="Building Blocks overview">
+            <methodElementProperty xmi:id="_c_0QEOGWEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-iqoZsoPrP4v-EG0twUdVIg" href="uma://-iqoZsoPrP4v-EG0twUdVIg#-iqoZsoPrP4v-EG0twUdVIg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_fAJwIOGWEeqxFs6enGkR7A" name="patching_enterprise" guid="_fAJwIOGWEeqxFs6enGkR7A" presentationName="Patching_Enterprise" briefDescription="Critical Cybersecurity Hygiene: Patching the Enterprise">
+            <methodElementProperty xmi:id="_jH0JEOGWEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-qEYxPbd4NdPjrokR8_p9sg" href="uma://-qEYxPbd4NdPjrokR8_p9sg#-qEYxPbd4NdPjrokR8_p9sg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_js82cOGWEeqxFs6enGkR7A" name="post-quantum_cryptographic_algorithms" guid="_js82cOGWEeqxFs6enGkR7A" presentationName="Post-Quantum_Cryptographic_Algorithms" briefDescription="Post-Quantum Cryptographic AlgorithmsCrypto Agility: Considerations for Migrating to Post-Quantum Cryptographic Algorithms">
+            <methodElementProperty xmi:id="_pHJOQOGWEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-Fl6NyAAtw82lUkqurCbCzw" href="uma://-Fl6NyAAtw82lUkqurCbCzw#-Fl6NyAAtw82lUkqurCbCzw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_pxvqcOGWEeqxFs6enGkR7A" name="secure_evolution_5g" guid="_pxvqcOGWEeqxFs6enGkR7A" presentationName="Secure_Evolution_5G" briefDescription="Preparing a Secure Evolution to 5G">
+            <methodElementProperty xmi:id="_wSHAIOGWEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-RAuhWz-nYTBuXnltJxgOiQ" href="uma://-RAuhWz-nYTBuXnltJxgOiQ#-RAuhWz-nYTBuXnltJxgOiQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_w8ARsOGWEeqxFs6enGkR7A" name="supply_chain_assurance" guid="_w8ARsOGWEeqxFs6enGkR7A" presentationName="Supply_Chain_Assurance" briefDescription="Supply Chain Assurance">
+            <methodElementProperty xmi:id="_2bmG4OGWEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-Cw3AioCJ_G8TuA4iR0EasA" href="uma://-Cw3AioCJ_G8TuA4iR0EasA#-Cw3AioCJ_G8TuA4iR0EasA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_3hOSMOGWEeqxFs6enGkR7A" name="server_certificate_management" guid="_3hOSMOGWEeqxFs6enGkR7A" presentationName="Server_Certificate_Management" briefDescription="TLS Server Certificate Management">
+            <methodElementProperty xmi:id="_-jIOsOGWEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-1X9XkUZ_wAaLaiIKITopnQ" href="uma://-1X9XkUZ_wAaLaiIKITopnQ#-1X9XkUZ_wAaLaiIKITopnQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="__swJMOGWEeqxFs6enGkR7A" name="trusted_cloud" guid="__swJMOGWEeqxFs6enGkR7A" presentationName="Trusted_Cloud">
+            <methodElementProperty xmi:id="_QJx8UOGXEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-h468dAmU0k0e5hTEJP5ndQ" href="uma://-h468dAmU0k0e5hTEJP5ndQ#-h468dAmU0k0e5hTEJP5ndQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_RrzvwOGXEeqxFs6enGkR7A" name="zero_trust_architecture" guid="_RrzvwOGXEeqxFs6enGkR7A" presentationName="Zero_Trust_Architecture" briefDescription="Zero Trust Architecture">
+            <methodElementProperty xmi:id="_XcNBEOGXEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-AXaz8UrDjzgU_QAeNLguDA" href="uma://-AXaz8UrDjzgU_QAeNLguDA#-AXaz8UrDjzgU_QAeNLguDA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_bKX78OGXEeqxFs6enGkR7A" name="consumer_retail_sector" guid="_bKX78OGXEeqxFs6enGkR7A" presentationName="Consumer_Retail_Sector" briefDescription="Consumer/Retail Sector">
+            <methodElementProperty xmi:id="_f9IgUOGXEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-WOaK2MBmkDPe8AwzhNhndg" href="uma://-WOaK2MBmkDPe8AwzhNhndg#-WOaK2MBmkDPe8AwzhNhndg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_gsuKMOGXEeqxFs6enGkR7A" name="energy_sector" guid="_gsuKMOGXEeqxFs6enGkR7A" presentationName="Energy_Sector" briefDescription="Energy Sector">
+            <methodElementProperty xmi:id="_luOVMOGXEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-jA2uovfbcJn0rkdAH-a9BQ" href="uma://-jA2uovfbcJn0rkdAH-a9BQ#-jA2uovfbcJn0rkdAH-a9BQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_oRfjMOGXEeqxFs6enGkR7A" name="financial_services_sector" guid="_oRfjMOGXEeqxFs6enGkR7A" presentationName="Financial_Services_Sector" briefDescription="Financial Services Sector">
+            <methodElementProperty xmi:id="_rQiHMOGXEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-FgHBhVe6OY9p4VO5x4IE1Q" href="uma://-FgHBhVe6OY9p4VO5x4IE1Q#-FgHBhVe6OY9p4VO5x4IE1Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_tOtrIOGXEeqxFs6enGkR7A" name="healthcare_sector" guid="_tOtrIOGXEeqxFs6enGkR7A" presentationName="Healthcare_Sector">
+            <methodElementProperty xmi:id="_wFcAoOGXEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-hB_HJ5qqQkAMcpdtkRZVVA" href="uma://-hB_HJ5qqQkAMcpdtkRZVVA#-hB_HJ5qqQkAMcpdtkRZVVA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_0EWtQOGXEeqxFs6enGkR7A" name="hospitality_sector" guid="_0EWtQOGXEeqxFs6enGkR7A" presentationName="Hospitality_Sector" briefDescription="Hospitality Sector">
+            <methodElementProperty xmi:id="_2VY7wOGXEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-hFVh65fNy9_StpQTy95Emw" href="uma://-hFVh65fNy9_StpQTy95Emw#-hFVh65fNy9_StpQTy95Emw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_4fHBUOGXEeqxFs6enGkR7A" name="manufacturin_sector" guid="_4fHBUOGXEeqxFs6enGkR7A" presentationName="Manufacturin_Sector" briefDescription="Manufacturing Sector">
+            <methodElementProperty xmi:id="_7E9pQOGXEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-wklaSJjNmDCXXlSaImi-0g" href="uma://-wklaSJjNmDCXXlSaImi-0g#-wklaSJjNmDCXXlSaImi-0g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_7x3LgOGXEeqxFs6enGkR7A" name="use_cases" guid="_7x3LgOGXEeqxFs6enGkR7A" presentationName="Use_Cases" briefDescription="Use Cases overview">
+            <methodElementProperty xmi:id="_Bdht0OGYEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-kAOoZ9ApKJPX24ESuHzKyw" href="uma://-kAOoZ9ApKJPX24ESuHzKyw#-kAOoZ9ApKJPX24ESuHzKyw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_CW17cOGYEeqxFs6enGkR7A" name="first_responder_sector" guid="_CW17cOGYEeqxFs6enGkR7A" presentationName="First_Responder_Sector" briefDescription="Public Safety-First Responder Sector">
+            <methodElementProperty xmi:id="_K9CVMOGYEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-BNBKPTZVv4NUpsQ1d37isQ" href="uma://-BNBKPTZVv4NUpsQ1d37isQ#-BNBKPTZVv4NUpsQ1d37isQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_M_qUQOGYEeqxFs6enGkR7A" name="transportation_sector" guid="_M_qUQOGYEeqxFs6enGkR7A" presentationName="Transportation_Sector">
+            <methodElementProperty xmi:id="_S7-hsOGYEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-5PBmZM6PNxa0UIAoqPS_hQ" href="uma://-5PBmZM6PNxa0UIAoqPS_hQ#-5PBmZM6PNxa0UIAoqPS_hQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7KFx8OF4EeqHbKOWEwn35w" name="smallbusiness_cybersecurity" guid="_7KFx8OF4EeqHbKOWEwn35w" presentationName="SmallBusiness_Cybersecurity">
+          <methodElementProperty xmi:id="_7KFx8eF4EeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_36WDAOF5EeqHbKOWEwn35w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_TFstIOGSEeqxFs6enGkR7A" name="contributor_directory" guid="_TFstIOGSEeqxFs6enGkR7A" presentationName="Contributor_Directory" briefDescription="This section includes information and links to our main contributors’ websites for small business cybersecurity.">
+            <methodElementProperty xmi:id="_X8VE4OGSEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-YiUg_TLLjcSjn8dYXB1B_w" href="uma://-YiUg_TLLjcSjn8dYXB1B_w#-YiUg_TLLjcSjn8dYXB1B_w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_YbqsQOGSEeqxFs6enGkR7A" name="guidance_by_topic" guid="_YbqsQOGSEeqxFs6enGkR7A" presentationName="Guidance_by_Topic" briefDescription="In this section, you will find topic-specific guidance on actions to take to address cybersecurity risks and secure your business.">
+            <methodElementProperty xmi:id="_eB8YQOGSEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-VqHAztAmsBWmdlOTxtArVw" href="uma://-VqHAztAmsBWmdlOTxtArVw#-VqHAztAmsBWmdlOTxtArVw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ek8XoOGSEeqxFs6enGkR7A" name="planning_guides" guid="_ek8XoOGSEeqxFs6enGkR7A" presentationName="Planning_Guides" briefDescription="This section includes resources to help you create, evaluate, and improve your business’ overall security plan.">
+            <methodElementProperty xmi:id="_l5lC4OGSEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-lzDEBxuYSVoO4ap8MrUe2g" href="uma://-lzDEBxuYSVoO4ap8MrUe2g#-lzDEBxuYSVoO4ap8MrUe2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_mn13EOGSEeqxFs6enGkR7A" name="responding_cyber_incident" guid="_mn13EOGSEeqxFs6enGkR7A" presentationName="Responding_Cyber_Incident">
+            <methodElementProperty xmi:id="_s3w9AOGSEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-cSJoBoBOV0ozALwAKjtYDQ" href="uma://-cSJoBoBOV0ozALwAKjtYDQ#-cSJoBoBOV0ozALwAKjtYDQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_tqpygOGSEeqxFs6enGkR7A" name="overview" guid="_tqpygOGSEeqxFs6enGkR7A" presentationName="Overview" briefDescription="SMALL BUSINESS CYBERSECURITY CORNER">
+            <methodElementProperty xmi:id="_7oNSgOGSEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-r7ZLstcsRv5yXk6aWQT6lw" href="uma://-r7ZLstcsRv5yXk6aWQT6lw#-r7ZLstcsRv5yXk6aWQT6lw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_3VuJoOGSEeqxFs6enGkR7A" name="training" guid="_3VuJoOGSEeqxFs6enGkR7A" presentationName="Training" briefDescription="This section includes training resources such as educational courses, webinars, and videos.">
+            <methodElementProperty xmi:id="_7n0Q8OGSEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-KQib7soh5yhbybZaSjlcJA" href="uma://-KQib7soh5yhbybZaSjlcJA#-KQib7soh5yhbybZaSjlcJA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H8qskOF5EeqHbKOWEwn35w" name="trusted_identity_group" guid="_H8qskOF5EeqHbKOWEwn35w" presentationName="Trusted_Identity_Group">
+          <methodElementProperty xmi:id="_H8qskeF5EeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_36RxkOF5EeqHbKOWEwn35w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_BI1CcOGTEeqxFs6enGkR7A" name="focus_areas" guid="_BI1CcOGTEeqxFs6enGkR7A" presentationName="Focus_Areas">
+            <methodElementProperty xmi:id="_Du_MYOGTEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-D9K43ezS6LGhsnouaOhwGQ" href="uma://-D9K43ezS6LGhsnouaOhwGQ#-D9K43ezS6LGhsnouaOhwGQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ENXxgOGTEeqxFs6enGkR7A" name="overview" guid="_ENXxgOGTEeqxFs6enGkR7A" presentationName="Overview">
+            <methodElementProperty xmi:id="_G5gAkOGTEeqxFs6enGkR7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-W6kFH2nODdsWY6-93ypMdA" href="uma://-W6kFH2nODdsWY6-93ypMdA#-W6kFH2nODdsWY6-93ypMdA"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_aAVtYOF5EeqHbKOWEwn35w" name="nice" guid="_aAVtYOF5EeqHbKOWEwn35w" presentationName="NICE" briefDescription="National Initiative-Cybersecurity Education_(NICE)">
+          <methodElementProperty xmi:id="_aAVtYeF5EeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_36NgIOF5EeqHbKOWEwn35w" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hNNjwOF5EeqHbKOWEwn35w" name="cyberframework" guid="_hNNjwOF5EeqHbKOWEwn35w" presentationName="CyberFramework">
+            <methodElementProperty xmi:id="_hNOK0OF5EeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_36JOsOF5EeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ev1s8OF6EeqHbKOWEwn35w" name="cybersecurity_framework_archived_documents" guid="_ev1s8OF6EeqHbKOWEwn35w" presentationName="Cybersecurity_Framework_Archived_Documents" briefDescription="Preliminary Cybersecurity Framework">
+              <methodElementProperty xmi:id="_mJ8uEOF6EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-ItOcq2gKxzoA55rHHyFxXQ" href="uma://-ItOcq2gKxzoA55rHHyFxXQ#-ItOcq2gKxzoA55rHHyFxXQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_o37XQOF6EeqHbKOWEwn35w" name="evolution_framework" guid="_o37XQOF6EeqHbKOWEwn35w" presentationName="Evolution_Framework" briefDescription="Evolution of the Framework">
+              <methodElementProperty xmi:id="_tf62EOF6EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-WLZ72b0B1RdQHDuNH1UROQ" href="uma://-WLZ72b0B1RdQHDuNH1UROQ#-WLZ72b0B1RdQHDuNH1UROQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_nwmtYOF7EeqHbKOWEwn35w" name="informative_reference_catalog" guid="_nwmtYOF7EeqHbKOWEwn35w" presentationName="Informative_Reference_Catalog">
+              <methodElementProperty xmi:id="_sWqSgOF7EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-hjKcEPdw_NhRPZb0qqEFiQ" href="uma://-hjKcEPdw_NhRPZb0qqEFiQ#-hjKcEPdw_NhRPZb0qqEFiQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_tJ9XsOF7EeqHbKOWEwn35w" name="informative_references" guid="_tJ9XsOF7EeqHbKOWEwn35w" presentationName="Informative_References">
+              <methodElementProperty xmi:id="_xLukAOF7EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-L2ZLJwsEqsUnox8lIkFNFw" href="uma://-L2ZLJwsEqsUnox8lIkFNFw#-L2ZLJwsEqsUnox8lIkFNFw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yJnvoOF7EeqHbKOWEwn35w" name="olri" guid="_yJnvoOF7EeqHbKOWEwn35w" presentationName="OLRI" briefDescription="National Cybersecurity Online Informative References (OLIR) Program">
+              <methodElementProperty xmi:id="_Dt8iAOF8EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-TtZqBjLMC0flLv-A5J6IBw" href="uma://-TtZqBjLMC0flLv-A5J6IBw#-TtZqBjLMC0flLv-A5J6IBw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_EWlPUOF8EeqHbKOWEwn35w" name="online_informative_references_validation_tool" guid="_EWlPUOF8EeqHbKOWEwn35w" presentationName="Online_Informative_References_Validation_Tool">
+              <methodElementProperty xmi:id="_Jd5ucOF8EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-A8pKZMLmmS1VxXCqQb0BBQ" href="uma://-A8pKZMLmmS1VxXCqQb0BBQ#-A8pKZMLmmS1VxXCqQb0BBQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_MVFW8OF8EeqHbKOWEwn35w" name="national_cybersecurit_informative_references" guid="_MVFW8OF8EeqHbKOWEwn35w" presentationName="National_Cybersecurit_Informative_References">
+              <methodElementProperty xmi:id="_VEhzUOF8EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-psuEddHpsk4hSZShqFuQlA" href="uma://-psuEddHpsk4hSZShqFuQlA#-psuEddHpsk4hSZShqFuQlA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_-easoOF8EeqHbKOWEwn35w" name="framework_update_process" guid="_-easoOF8EeqHbKOWEwn35w" presentationName="Framework_Update_Process" briefDescription="Overview&#xD;&#xA;This online learning module provides readers with insight into how NIST plans to maintain the Framework for Improving Critical Infrastructure Cybersecurity (&quot;The Framework&quot;). This online learning module builds on the History and Creation of the Framework by describing how lessons learned from developing the Framework and preparing for the release of Version 1.1 led to the Framework update process.">
+              <methodElementProperty xmi:id="_M8vXYOF9EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-U76llOvpVDJaZIfahaD2eA" href="uma://-U76llOvpVDJaZIfahaD2eA#-U76llOvpVDJaZIfahaD2eA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_Q-G7EOF9EeqHbKOWEwn35w" name="history_creation_framework" guid="_Q-G7EOF9EeqHbKOWEwn35w" presentationName="History_Creation_Framework" briefDescription="Overview&#xD;&#xA;This online learning module provides readers with insight into how the NIST Framework for Improving Critical Infrastructure Cybersecurity (&quot;The Framework&quot;) was created, describes some of the major milestones during creation, and explains the goals for creating the Framework.&#xD;&#xA;">
+              <methodElementProperty xmi:id="_XJyaMOF9EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-qkX0--pxY_Ax3NKr2RfvCw" href="uma://-qkX0--pxY_Ax3NKr2RfvCw#-qkX0--pxY_Ax3NKr2RfvCw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_aC2SAOF9EeqHbKOWEwn35w" name="framework_roadmap" guid="_aC2SAOF9EeqHbKOWEwn35w" presentationName="Framework_Roadmap" briefDescription="Introduction to the Framework Roadmap">
+              <methodElementProperty xmi:id="_d4SSgOF9EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-acJYFA6KuGBclIGGREfNwQ" href="uma://-acJYFA6KuGBclIGGREfNwQ#-acJYFA6KuGBclIGGREfNwQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_gYV0cOF9EeqHbKOWEwn35w" name="online_learning" guid="_gYV0cOF9EeqHbKOWEwn35w" presentationName="Online_Learning">
+              <methodElementProperty xmi:id="_wCiccOF9EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-bNwwX3_HRNArjipejQNyIA" href="uma://-bNwwX3_HRNArjipejQNyIA#-bNwwX3_HRNArjipejQNyIA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_jFDSUOF9EeqHbKOWEwn35w" name="online_learning_informative_references" guid="_jFDSUOF9EeqHbKOWEwn35w" presentationName="Online_learning_Informative_References" briefDescription="Overview&#xD;&#xA;This online learning module builds upon the introductory material presented in the Components of the Framework module and provides readers with a deeper look at Informative References and how an organization may use them.&#xD;&#xA;">
+              <methodElementProperty xmi:id="_wCYrcOF9EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-e6Jl4i0MskP_dRY4PPUX9A" href="uma://-e6Jl4i0MskP_dRY4PPUX9A#-e6Jl4i0MskP_dRY4PPUX9A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_qLkpEOF9EeqHbKOWEwn35w" name="five_functions" guid="_qLkpEOF9EeqHbKOWEwn35w" presentationName="Five_Functions" briefDescription="Overview&#xD;&#xA;This learning module takes a deeper look at the Cybersecurity Framework's five Functions: Identify, Protect, Detect, Respond, and Recover. The information presented here builds upon the material introduced in the Components of the Framework module. This module explores the value of the Functions within the Framework, and what is included in each Function.&#xD;&#xA;">
+              <methodElementProperty xmi:id="_wCGXkOF9EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-EWE_HnKU3RqtmgvyWs7qFQ" href="uma://-EWE_HnKU3RqtmgvyWs7qFQ#-EWE_HnKU3RqtmgvyWs7qFQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_0P84EOF9EeqHbKOWEwn35w" name="overview" guid="_0P84EOF9EeqHbKOWEwn35w" presentationName="Overview" briefDescription="An Introduction to the Components of the Framework">
+              <methodElementProperty xmi:id="_3PrYkOF9EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-NIh2MQb417dwxd4bkvUs3g" href="uma://-NIh2MQb417dwxd4bkvUs3g#-NIh2MQb417dwxd4bkvUs3g"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_3xJG4OF9EeqHbKOWEwn35w" name="framework_benefits" guid="_3xJG4OF9EeqHbKOWEwn35w" presentationName="Framework_Benefits" briefDescription="Uses and Benefits of the Framework">
+              <methodElementProperty xmi:id="__Q6rIOF9EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-64aaJk-QRKMgQdTAniR3rQ" href="uma://-64aaJk-QRKMgQdTAniR3rQ#-64aaJk-QRKMgQdTAniR3rQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_g9iWwOF-EeqHbKOWEwn35w" name="business_environment_category" guid="_g9iWwOF-EeqHbKOWEwn35w" presentationName="Business_Environment_Category" briefDescription="Business Environment Category">
+              <methodElementProperty xmi:id="_ny6TIOF-EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-iPXFcM70vK0bElPKniztpA" href="uma://-iPXFcM70vK0bElPKniztpA#-iPXFcM70vK0bElPKniztpA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_uvE0AOF-EeqHbKOWEwn35w" name="customized_tier" guid="_uvE0AOF-EeqHbKOWEwn35w" presentationName="Customized_Tier" briefDescription="Customized Tier">
+              <methodElementProperty xmi:id="_06tP0OF-EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-hjZXC_ermBzZFQYgzLp5hQ" href="uma://-hjZXC_ermBzZFQYgzLp5hQ#-hjZXC_ermBzZFQYgzLp5hQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_45NFsOF-EeqHbKOWEwn35w" name="feature_list" guid="_45NFsOF-EeqHbKOWEwn35w" presentationName="Feature_List" briefDescription="Feature List">
+              <methodElementProperty xmi:id="_8N6-wOF-EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-AYsSe0EuaY0RMEeO-Nc6sw" href="uma://-AYsSe0EuaY0RMEeO-Nc6sw#-AYsSe0EuaY0RMEeO-Nc6sw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_9lq00OF-EeqHbKOWEwn35w" name="framework_components" guid="_9lq00OF-EeqHbKOWEwn35w" presentationName="Framework_Components" briefDescription="Framework Components">
+              <methodElementProperty xmi:id="_IBD1oOF_EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-ftuTdRADrwqp4btS67CRPA" href="uma://-ftuTdRADrwqp4btS67CRPA#-ftuTdRADrwqp4btS67CRPA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_ErCVAOF_EeqHbKOWEwn35w" name="framework_core_functions" guid="_ErCVAOF_EeqHbKOWEwn35w" presentationName="Framework_Core_Functions" briefDescription="Framework Core Functions">
+              <methodElementProperty xmi:id="_IAyv4OF_EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-Jrh2aZ9YQOo1Cu3388E7jw" href="uma://-Jrh2aZ9YQOo1Cu3388E7jw#-Jrh2aZ9YQOo1Cu3388E7jw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_KONCoOF_EeqHbKOWEwn35w" name="framework_implementation_tiers" guid="_KONCoOF_EeqHbKOWEwn35w" presentationName="Framework_Implementation_Tiers" briefDescription="Framework Implementation Tiers">
+              <methodElementProperty xmi:id="_wtdW0OF_EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-K8Nrbu3Qa9jm6MqXh7fj_A" href="uma://-K8Nrbu3Qa9jm6MqXh7fj_A#-K8Nrbu3Qa9jm6MqXh7fj_A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_Qtk50OF_EeqHbKOWEwn35w" name="framework_profiles" guid="_Qtk50OF_EeqHbKOWEwn35w" presentationName="Framework_Profiles" briefDescription="Framework Profiles">
+              <methodElementProperty xmi:id="_wtYeUOF_EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-BObAE5eBAVxeC5sQhowitA" href="uma://-BObAE5eBAVxeC5sQhowitA#-BObAE5eBAVxeC5sQhowitA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_gXJPsOF_EeqHbKOWEwn35w" name="how_to_use" guid="_gXJPsOF_EeqHbKOWEwn35w" presentationName="How_to_Use" briefDescription="How to Use">
+              <methodElementProperty xmi:id="_wtTl0OF_EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-0Xhg5fXfDvPWY6PyZZq3Iw" href="uma://-0Xhg5fXfDvPWY6PyZZq3Iw#-0Xhg5fXfDvPWY6PyZZq3Iw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_prMN8OF_EeqHbKOWEwn35w" name="implemenetation_approach" guid="_prMN8OF_EeqHbKOWEwn35w" presentationName="Implemenetation_Approach" briefDescription="Implemenetation Approach">
+              <methodElementProperty xmi:id="_wtOGQOF_EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-pugYyvAO0RfDXfGpBWtcAw" href="uma://-pugYyvAO0RfDXfGpBWtcAw#-pugYyvAO0RfDXfGpBWtcAw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_tLqEAOF_EeqHbKOWEwn35w" name="individual_score" guid="_tLqEAOF_EeqHbKOWEwn35w" presentationName="Individual_Score" briefDescription="Individual Score">
+              <methodElementProperty xmi:id="_wtAD0OF_EeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-3sFjdZlumUfe1VP9kqJqEQ" href="uma://-3sFjdZlumUfe1VP9kqJqEQ#-3sFjdZlumUfe1VP9kqJqEQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_0GTh8OF_EeqHbKOWEwn35w" name="informative_references" guid="_0GTh8OF_EeqHbKOWEwn35w" presentationName="Informative_References" briefDescription="Informative References">
+              <methodElementProperty xmi:id="_CcVzYOGAEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-y70ckDVPDZ_Yh-865-dT3w" href="uma://-y70ckDVPDZ_Yh-865-dT3w#-y70ckDVPDZ_Yh-865-dT3w"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_-K3-MOF_EeqHbKOWEwn35w" name="risk_management" guid="_-K3-MOF_EeqHbKOWEwn35w" presentationName="Risk_Management" briefDescription="Risk Management">
+              <methodElementProperty xmi:id="_CcMCYOGAEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-VML56xx90XwW886GrWYtLA" href="uma://-VML56xx90XwW886GrWYtLA#-VML56xx90XwW886GrWYtLA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_EMuL4OGAEeqHbKOWEwn35w" name="five_function" guid="_EMuL4OGAEeqHbKOWEwn35w" presentationName="Five_Function" briefDescription="The Five Function">
+              <methodElementProperty xmi:id="_rMsAcOGAEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-UYi1lY0HTjwvK7KWwjlDoA" href="uma://-UYi1lY0HTjwvK7KWwjlDoA#-UYi1lY0HTjwvK7KWwjlDoA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_Pl0yIOGAEeqHbKOWEwn35w" name="update_process_flow" guid="_Pl0yIOGAEeqHbKOWEwn35w" presentationName="Update_Process_Flow" briefDescription="Update Process Flow">
+              <methodElementProperty xmi:id="_rMnH8OGAEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-Rxsy18E0j9UkMEUhnOFj_g" href="uma://-Rxsy18E0j9UkMEUhnOFj_g#-Rxsy18E0j9UkMEUhnOFj_g"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_lIWjoOF5EeqHbKOWEwn35w" name="framework_resource_center" guid="_lIWjoOF5EeqHbKOWEwn35w" presentationName="Framework_Resource_Center">
+            <methodElementProperty xmi:id="_lIWjoeF5EeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_36EWMOF5EeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="__uKD8OGBEeqHbKOWEwn35w" name="nice_framework_center" guid="__uKD8OGBEeqHbKOWEwn35w" presentationName="NICE_framework_center" briefDescription="About NICE framework center">
+              <methodElementProperty xmi:id="_HLDTUOGCEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-5EJHDs8X3d8dJIs-piWsdA" href="uma://-5EJHDs8X3d8dJIs-piWsdA#-5EJHDs8X3d8dJIs-piWsdA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_NZzUkOGCEeqHbKOWEwn35w" name="current_version" guid="_NZzUkOGCEeqHbKOWEwn35w" presentationName="Current_Version">
+              <methodElementProperty xmi:id="_Ps9C8OGCEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-6V86SB9yQjuhQbrpczRtUw" href="uma://-6V86SB9yQjuhQbrpczRtUw#-6V86SB9yQjuhQbrpczRtUw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_R9AaAOGCEeqHbKOWEwn35w" name="history" guid="_R9AaAOGCEeqHbKOWEwn35w" presentationName="History">
+              <methodElementProperty xmi:id="_ToMwgOGCEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-N7fv604MR5OKzL1WjVRz0w" href="uma://-N7fv604MR5OKzL1WjVRz0w#-N7fv604MR5OKzL1WjVRz0w"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_VaBTcOGCEeqHbKOWEwn35w" name="latest_updates" guid="_VaBTcOGCEeqHbKOWEwn35w" presentationName="Latest_Updates">
+              <methodElementProperty xmi:id="_XhEfgOGCEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-PGu2zHT0Bbz12u23S0gWhA" href="uma://-PGu2zHT0Bbz12u23S0gWhA#-PGu2zHT0Bbz12u23S0gWhA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_bMbW8OGCEeqHbKOWEwn35w" name="workforce_framework_revisions" guid="_bMbW8OGCEeqHbKOWEwn35w" presentationName="Workforce_Framework_Revisions" briefDescription="NICE Cybersecurity Workforce Framework Revisions">
+              <methodElementProperty xmi:id="_h6o7YOGCEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-y-HfJZuyxk-U28NGeX6-bg" href="uma://-y-HfJZuyxk-U28NGeX6-bg#-y-HfJZuyxk-U28NGeX6-bg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_mB650OGCEeqHbKOWEwn35w" name="nice_framework_resource_center" guid="_mB650OGCEeqHbKOWEwn35w" presentationName="NICE_Framework_Resource_Center">
+              <methodElementProperty xmi:id="_tgingOGCEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-OXwl6qGdOiOHbde8vADWqQ" href="uma://-OXwl6qGdOiOHbde8vADWqQ#-OXwl6qGdOiOHbde8vADWqQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yvpwsOGCEeqHbKOWEwn35w" name="request_for_comments" guid="_yvpwsOGCEeqHbKOWEwn35w" presentationName="Request_for_Comments">
+              <methodElementProperty xmi:id="_3W2lUOGCEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-1slEa3J8NDL5vaWw308Rxg" href="uma://-1slEa3J8NDL5vaWw308Rxg#-1slEa3J8NDL5vaWw308Rxg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_4SdR8OGCEeqHbKOWEwn35w" name="nice_framework_change_request_process" guid="_4SdR8OGCEeqHbKOWEwn35w" presentationName="nice_framework_change_request_process">
+              <methodElementProperty xmi:id="_8lBTUOGCEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-03DQemgn0vBPrZSvZf_oWw" href="uma://-03DQemgn0vBPrZSvZf_oWw#-03DQemgn0vBPrZSvZf_oWw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_9Ct78OGCEeqHbKOWEwn35w" name="nice_framework" guid="_9Ct78OGCEeqHbKOWEwn35w" presentationName="NICE_framework">
+              <methodElementProperty xmi:id="_AHG6AOGDEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-AHREPbEJc1nVgvcoyvC10A" href="uma://-AHREPbEJc1nVgvcoyvC10A#-AHREPbEJc1nVgvcoyvC10A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_AlOZYOGDEeqHbKOWEwn35w" name="nice_framework_update_timeline" guid="_AlOZYOGDEeqHbKOWEwn35w" presentationName="NICE_Framework_Update_Timeline">
+              <methodElementProperty xmi:id="_Eq-t0OGDEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-0zqi5NPljbTwN8CUoVOumg" href="uma://-0zqi5NPljbTwN8CUoVOumg#-0zqi5NPljbTwN8CUoVOumg"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fY5pUOGAEeqHbKOWEwn35w" name="related_programs" guid="_fY5pUOGAEeqHbKOWEwn35w" presentationName="Related_Programs">
+            <methodElementProperty xmi:id="_fY5pUeGAEeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_rMi2gOGAEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_j7Xu8OGAEeqHbKOWEwn35w" name="baldrige_cybersecurity_initiative" guid="_j7Xu8OGAEeqHbKOWEwn35w" presentationName="Baldrige Cybersecurity Initiative" briefDescription="Baldrige Cybersecurity Excellence Builder (BCEB), Version 1.1">
+              <methodElementProperty xmi:id="_rMUNAOGAEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-rLSLlMW3OZMFM0eScqhNYQ" href="uma://-rLSLlMW3OZMFM0eScqhNYQ#-rLSLlMW3OZMFM0eScqhNYQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_-GbGkOGAEeqHbKOWEwn35w" name="nice_framework_resource_center" guid="_-GbGkOGAEeqHbKOWEwn35w" presentationName="NICE_FRAMEWORK_RESOURCE_CENTER" briefDescription="NICE FRAMEWORK RESOURCE CENTER">
+              <methodElementProperty xmi:id="_DEEFQOGBEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-TkvwiiYjD414fNqHsZq5_A" href="uma://-TkvwiiYjD414fNqHsZq5_A#-TkvwiiYjD414fNqHsZq5_A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_DnoFUOGBEeqHbKOWEwn35w" name="risk_management_framework" guid="_DnoFUOGBEeqHbKOWEwn35w" presentationName="Risk_Management_Framework" briefDescription="Risk Management Framework">
+              <methodElementProperty xmi:id="_Xn1rUOGBEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-QF6Teu1bUD4f7Csdiqe2ug" href="uma://-QF6Teu1bUD4f7Csdiqe2ug#-QF6Teu1bUD4f7Csdiqe2ug"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_Np1KEOGBEeqHbKOWEwn35w" name="privacy_framework" guid="_Np1KEOGBEeqHbKOWEwn35w" presentationName="Privacy Framework" briefDescription="Related Programs - PRIVACY FRAMEWORK">
+              <methodElementProperty xmi:id="_SRq34OGBEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-RSC7OOCrr6244mGKGDyBSw" href="uma://-RSC7OOCrr6244mGKGDyBSw#-RSC7OOCrr6244mGKGDyBSw"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_KbLx4OGDEeqHbKOWEwn35w" name="resources" guid="_KbLx4OGDEeqHbKOWEwn35w" presentationName="Resources" briefDescription="Resources">
+            <methodElementProperty xmi:id="_KbLx4eGDEeqHbKOWEwn35w" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_YfxG8OGDEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_RQSBcOGDEeqHbKOWEwn35w" name="education_training_provider_resources" guid="_RQSBcOGDEeqHbKOWEwn35w" presentationName="Education_Training_Provider_Resources">
+              <methodElementProperty xmi:id="_YflgwOGDEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-qkHAH6T5fvTtKGJ9kJiqAg" href="uma://-qkHAH6T5fvTtKGJ9kJiqAg#-qkHAH6T5fvTtKGJ9kJiqAg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ZFJr8OGDEeqHbKOWEwn35w" name="employer_resources" guid="_ZFJr8OGDEeqHbKOWEwn35w" presentationName="Employer_Resources">
+              <methodElementProperty xmi:id="_eHXooOGDEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-nnW-DT2eTM-qAM0HwXdOLw" href="uma://-nnW-DT2eTM-qAM0HwXdOLw#-nnW-DT2eTM-qAM0HwXdOLw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_er21wOGDEeqHbKOWEwn35w" name="learner_resources" guid="_er21wOGDEeqHbKOWEwn35w" presentationName="Learner Resources">
+              <methodElementProperty xmi:id="_i0gtMOGDEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-ZxNykDLtn8kx29No-7ZEQw" href="uma://-ZxNykDLtn8kx29No-7ZEQw#-ZxNykDLtn8kx29No-7ZEQw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_jiw6UOGDEeqHbKOWEwn35w" name="perspectives_framework" guid="_jiw6UOGDEeqHbKOWEwn35w" presentationName="Perspectives_Framework" briefDescription="Perspectives: Framework in Focus">
+              <methodElementProperty xmi:id="_o9gEsOGDEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-RoygzYQ38Oit2V0STuCVVA" href="uma://-RoygzYQ38Oit2V0STuCVVA#-RoygzYQ38Oit2V0STuCVVA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_tbvKkOGDEeqHbKOWEwn35w" name="related_programs" guid="_tbvKkOGDEeqHbKOWEwn35w" presentationName="Related_Programs">
+              <methodElementProperty xmi:id="_wGFQ8OGDEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-QTMntdO9vklSJ82rhVsJQQ" href="uma://-QTMntdO9vklSJ82rhVsJQQ#-QTMntdO9vklSJ82rhVsJQQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ws6AYOGDEeqHbKOWEwn35w" name="resources" guid="_ws6AYOGDEeqHbKOWEwn35w" presentationName="Resources">
+              <methodElementProperty xmi:id="_zhBGwOGDEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-Q2Mqpqt1pB1LYPtld6ULSw" href="uma://-Q2Mqpqt1pB1LYPtld6ULSw#-Q2Mqpqt1pB1LYPtld6ULSw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_1aoTwOGDEeqHbKOWEwn35w" name="uses" guid="_1aoTwOGDEeqHbKOWEwn35w" presentationName="Uses">
+              <methodElementProperty xmi:id="_3JjTsOGDEeqHbKOWEwn35w" name="me_edited" value="true"/>
+              <presentation xmi:id="-N5Vwfawo_f_madJ1mliO6w" href="uma://-N5Vwfawo_f_madJ1mliO6w#-N5Vwfawo_f_madJ1mliO6w"/>
+            </contentElements>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_t00kgOF5EeqHbKOWEwn35w" name="nice-overview" guid="_t00kgOF5EeqHbKOWEwn35w" presentationName="NICE-Overview">
+            <methodElementProperty xmi:id="_35w0MOF5EeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-HbDsV8CgrAx2n5nTCv6p5w" href="uma://-HbDsV8CgrAx2n5nTCv6p5w#-HbDsV8CgrAx2n5nTCv6p5w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_97no8OF5EeqHbKOWEwn35w" name="nice_framework_resource_center" guid="_97no8OF5EeqHbKOWEwn35w" presentationName="NICE FRAMEWORK RESOURCE CENTER">
+            <methodElementProperty xmi:id="_COcwEOF6EeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-wFgarHqy6IFGejnbubVFdw" href="uma://-wFgarHqy6IFGejnbubVFdw#-wFgarHqy6IFGejnbubVFdw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_EaE6IOF6EeqHbKOWEwn35w" name="icc" guid="_EaE6IOF6EeqHbKOWEwn35w" presentationName="ICC" briefDescription="NICE Interagency Coordinating Council (ICC)">
+            <methodElementProperty xmi:id="_IHRkoOF6EeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-cYnC5-aGqxo-j1YRgt8HBw" href="uma://-cYnC5-aGqxo-j1YRgt8HBw#-cYnC5-aGqxo-j1YRgt8HBw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_Iuq70OF6EeqHbKOWEwn35w" name="strategic_plan" guid="_Iuq70OF6EeqHbKOWEwn35w" presentationName="Strategic_Plan">
+            <methodElementProperty xmi:id="_NnvjkOF6EeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-YqAQleXbNWuD6t2x74PrYw" href="uma://-YqAQleXbNWuD6t2x74PrYw#-YqAQleXbNWuD6t2x74PrYw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_PUjDoOF6EeqHbKOWEwn35w" name="working_group" guid="_PUjDoOF6EeqHbKOWEwn35w" presentationName="Working_Group">
+            <methodElementProperty xmi:id="_Rw38IOF6EeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-W_TADDuniqxnI_ftBfMYFA" href="uma://-W_TADDuniqxnI_ftBfMYFA#-W_TADDuniqxnI_ftBfMYFA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_iTgj0OGBEeqHbKOWEwn35w" name="framework_resources" guid="_iTgj0OGBEeqHbKOWEwn35w" presentationName="Framework_Resources" briefDescription="Framework Resources">
+            <methodElementProperty xmi:id="_nnAdwOGBEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-STSyGO5qbPb5VQpk21VWgQ" href="uma://-STSyGO5qbPb5VQpk21VWgQ#-STSyGO5qbPb5VQpk21VWgQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_x-vtoOGBEeqHbKOWEwn35w" name="success_stories" guid="_x-vtoOGBEeqHbKOWEwn35w" presentationName="Success_Stories">
+            <methodElementProperty xmi:id="_3xl2AOGBEeqHbKOWEwn35w" name="me_edited" value="true"/>
+            <presentation xmi:id="-wdQcRGMkhvRIA4OJ9w5j8w" href="uma://-wdQcRGMkhvRIA4OJ9w5j8w#-wdQcRGMkhvRIA4OJ9w5j8w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_2MPwwOlAEeqDSrLAH81MEA" name="nice_specialty_areas_work_rules_tasks" guid="_2MPwwOlAEeqDSrLAH81MEA" presentationName="NICE Specialty Areas_Work Rules_Tasks" briefDescription="NICE Framework Specialty Areas and Work Role Table of Contents">
+            <methodElementProperty xmi:id="_vzHPAOlBEeqDSrLAH81MEA" name="me_edited" value="true"/>
+            <presentation xmi:id="-EdamWPM0zrzbQ7vKUBjuIw" href="uma://-EdamWPM0zrzbQ7vKUBjuIw#-EdamWPM0zrzbQ7vKUBjuIw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2KZzkOFyEeqHbKOWEwn35w" name="CapabilityPatterns" guid="_2KZzkOFyEeqHbKOWEwn35w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2KZzkeFyEeqHbKOWEwn35w" name="DeliveryProcesses" guid="_2KZzkeFyEeqHbKOWEwn35w"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2KZzkuFyEeqHbKOWEwn35w" name="ProcessContributions" guid="_2KZzkuFyEeqHbKOWEwn35w"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

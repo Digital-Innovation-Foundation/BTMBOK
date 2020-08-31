@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B_AbOAhAsbH8tGiaxeymjA" name="new_supporting_material,_2Yvj0OFtEeqHbKOWEwn35w" guid="-B_AbOAhAsbH8tGiaxeymjA" changeDate="2020-08-18T12:14:52.169-0400">
+  <mainDescription>&lt;p>&#xD;
+    CopyRight&lt;br />&#xD;
+    &amp;copy; 1999-2020, Rice University. Except where otherwise noted, textbooks on this site are licensed under a Creative&#xD;
+    Commons Attribution 4.0 International License.&lt;br />&#xD;
+    Advanced Placement&amp;reg; and AP&amp;reg; are trademarks registered and/or owned by the College Board, which is not affiliated with,&#xD;
+    and does not endorse, this site.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

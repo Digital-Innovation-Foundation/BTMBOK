@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cSJoBoBOV0ozALwAKjtYDQ" name="new_supporting_material,_mn13EOGSEeqxFs6enGkR7A" guid="-cSJoBoBOV0ozALwAKjtYDQ">
+  <mainDescription>&lt;p>&#xD;
+    Find out what you should do if you think that you have been a victim of a cyber incident.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Data Breach Response: A Guide for Business – addresses the steps to take once a breach has occurred&lt;br />&#xD;
+    Federal Trade Commission&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Recovering from a Cybersecurity Incident – geared towards small manufacturers; presentation about best practices that&#xD;
+    use the Incident Response Lifecycle to provide guidance on recovering from and preventing cybersecurity incidents&lt;br />&#xD;
+    Manufacturing Extension Partnership&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    FraudSupport - guidance for responding to the most common cyber incidents facing small businesses.&lt;br />&#xD;
+    Cybercrime Support Network&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Content outlined on the Small Business Cybersecurity Corner webpages contain documents and resources submitted directly&#xD;
+    to us from our contributors. These resources were identified by our contributors as information they deemed most&#xD;
+    relevant and timely—and were chosen based on the current needs of the small business community.&amp;nbsp; Certain&#xD;
+    commercial entities may be identified in this Web site or linked Web sites. Such identification is not intended to&#xD;
+    imply recommendation or endorsement by NIST, nor is it intended to imply that the entities, materials, or equipment are&#xD;
+    necessarily the best available for the purpose.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

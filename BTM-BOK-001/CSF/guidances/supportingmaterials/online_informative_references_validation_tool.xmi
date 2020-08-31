@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-A8pKZMLmmS1VxXCqQb0BBQ" name="new_supporting_material,_EWlPUOF8EeqHbKOWEwn35w" guid="-A8pKZMLmmS1VxXCqQb0BBQ">
+  <mainDescription>&lt;p>&#xD;
+    Online Informative References Validation Tool&lt;br />&#xD;
+    SHA3-256:&amp;nbsp; c28ea36409680a200e66927b2735551dba9f432a4950438086bff7533c136b81&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The National Cybersecurity Online Informative References (OLIR) Validation Tool ensures syntactic compliance of three&#xD;
+    Focal Document reference templates (Cybersecurity Framework v1.1, Privacy Framework v1.0, SP 800-53 Rev. 4) to the&#xD;
+    instructions and definitions described within the NIST Interagency Report (IR) 8278A, National Cybersecurity Online&#xD;
+    Informative References (OLIR) Program: Submission Guidance for OLIR Developers.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Prerequisites&lt;br />&#xD;
+    Java must be installed on your machine.&lt;br />&#xD;
+    The Validation Tool requires Java version 8 or higher&lt;br />&#xD;
+    The spreadsheet must be in the .xlsx file format&lt;br />&#xD;
+    IR8278A Validation requires that no new columns are added to the template however, new rows can be added as needed&#xD;
+    detailed in NIST IR 8278A Specification.&lt;br />&#xD;
+    Running the Program&lt;br />&#xD;
+    Option A – Folder View&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Download the jar file to a folder (note the output files will be generated in the same folder as the jar file&#xD;
+    executable.&lt;br />&#xD;
+    Double click on the jar file to run it.&lt;br />&#xD;
+    The program will prompt via pop-up dialog box for the file path of the spreadsheet to test.&lt;br />&#xD;
+    After providing the file path, press ENTER, the dialog box will disappear and the program will begin executing.&lt;br />&#xD;
+    When the program is complete, two results files will be placed in the same directory as the jar executable:&#xD;
+    CompleteValidationReport&amp;lt;FN&amp;gt;YYYY-MM-DDTHH:MM:SS.txt and ErrorFileResults&amp;lt;FN&amp;gt;YYYY-MM-DDTHH:MM:SS.txt&lt;br />&#xD;
+    Two results files will be placed in the same directory as the jar executable named,&#xD;
+    CompleteValidationReport&amp;lt;FN&amp;gt;YYYY-MM-DDTHH:MM:SS.txt which is a more verbose reporting file and&#xD;
+    ErrorFileResults&amp;lt;FN&amp;gt;YYYY-MM-DDTHH:MM:SS.txt containing only compliance violations of the IR8278A&#xD;
+    specification.&lt;br />&#xD;
+    Option B – Command Line Interface (CLI)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Download the jar file to a folder (note the output files will be generated in the same folder as the jar file&#xD;
+    executable.&lt;br />&#xD;
+    Open Terminal or Command Line and navigate to the directory containing the jar file executable.&lt;br />&#xD;
+    Use the command: java -jar [Program Name].jar [Reference Spreadsheet File Path]&lt;br />&#xD;
+    Press ENTER and the program will begin running.&lt;br />&#xD;
+    When the program is finished, the Command Line/Terminal window will display “Program is complete” along with basic&#xD;
+    statistics totals such as passes, errors and warnings.&lt;br />&#xD;
+    Two results files will be placed in the same directory as the jar executable:&#xD;
+    CompleteValidationReport&amp;lt;FN&amp;gt;YYYY-MM-DDTHH:MM:SS.txt which is a more verbose reporting file and&#xD;
+    ErrorFileResults&amp;lt;FN&amp;gt;YYYY-MM-DDTHH:MM:SS.txt containing only compliance violations of the IR8278 specification.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

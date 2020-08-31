@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bNwwX3_HRNArjipejQNyIA" name="new_supporting_material,_gYV0cOF9EeqHbKOWEwn35w" guid="-bNwwX3_HRNArjipejQNyIA" changeDate="2020-08-18T14:06:30.094-0400">
+  <mainDescription>&lt;p>&#xD;
+    The Online Learning content located on this page is broken into a number of small modules. Each module is focused on a&#xD;
+    separate topic relating to the Cybersecurity Framework.&amp;nbsp; These topics will range from introductory material for&#xD;
+    new Framework users, to implementation guidance for more advanced Framework users.&amp;nbsp; The list of available online&#xD;
+    learning modules will continue to grow over time. Topics are added based on community feedback and interest in specific&#xD;
+    topic areas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Didn’t find what you’re looking for? Check out the Framework FAQ page.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Still have questions? Reach out to the Framework team at &lt;a&#xD;
+    href=&quot;mailto:cyberframework@nist.gov&quot;>cyberframework@nist.gov&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
