@@ -26,13 +26,16 @@ We reuse contents from several academic and professional projects, whether from 
 
 **Repo Contents**
 
-[BTM-BOK-001](BTM-BOK-001)
+__[BTM-BOK-001](BTM-BOK-001)__
+
 BTM BOK assets are published using the Eclipse Process Framework (EPF) platform. Contents are published in XMI under this repo folder:
 
-[doc](doc)
+__[doc](doc)__
+
 A general introduction to BTM BOK is being coauthored by several contributors. Contents are published in DOCX and PDF. All figures are provided in either VSDX, PPTX, or PNG/JPG/GIF formats.
 
-[guide](guide)
+__[guide](guide)__
+
 Potential contribtors can learn from BOK editing practices in 5 pages under the guide folder:
 - [Objectives](guide/objectives.md)
 - [Integration](guide/integration.md)
