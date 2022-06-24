@@ -28,7 +28,7 @@ We reuse contents from several academic and professional projects, whether from 
 
 __[BTM-BOK-001](BTM-BOK-001)__
 
-BTM BOK assets are published using the Eclipse Process Framework (EPF) platform. Contents are published in XMI under this repo folder:
+BTM BOK assets are published using the Eclipse Process Framework (EPF) platform. Contents are published in XMI under this repo folder. Each practice integrated is a sub-folder.
 
 __[doc](doc)__
 
