@@ -4,7 +4,7 @@ The BTM BOK project was launched in Fall 2017 [in partnership with ITAC, MITACS 
 
 The _main objective_ of the BTM BOK is to equip the BTM community with a Free, Libre, Open Specification (FLOS) to help guide the digital transformation and fulfill the BTM Forum mission, namely (1) coach digital leaders, (2) develop hybrid acumen, and (3) broaden digital vision.
 
-![Main Objectives](btm_bok_main_objectives_2226x1070.png)
+![Main Objectives](images/btm_bok_main_objectives_2226x1070.png)
 
 In addition, _secondary objectives_ of the BTM BOK relate to supporting various Human Resources Management (HRM) and Talent Management processes.
 
@@ -16,8 +16,8 @@ The BOK can be used for certification of digital leaders at Associate, Professio
 
 The BOK can also serve for accreditation of degree programs, better defining the logic of Learning Outcomes (LOs), and gauge which school is most innovative, and clarify which one is best for each digital leader as per their stage and path of professional growth.
 
-![Secondary Objectives](btm_bok_secondary_objectives_955x616.png)
+![Secondary Objectives](images/btm_bok_secondary_objectives_955x616.png)
 
 The _potential benefits_ of the BTM BOK span all segments of the profession, whether professionals, associations, academia, employers, industry vendors, and the economy and society in general.
 
-![Stakeholders Benefits](btm_bok_benefits_1232x665.png)
+![Stakeholders Benefits](images/btm_bok_benefits_1232x665.png)
