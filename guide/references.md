@@ -1,3 +1,14 @@
+The following table provides a list of the primary Free, Libre, Open Source (FLOS) specifications, methodologies, reference models, and standards within the BTM BOK.
+
+We integrate 58 FLOS references, of which 17 are by vendors such as methods, toolkits, whitepapers, or documentation (VM), 15 are by authors of textbooks (TB), 11 are by open source authors or initiatives (OS), 7 are by research institutions (RI), 4 are by government agencies (GA), and 4 are by professional societies or standards organizations (PS).
+
+This table is only a small part of the BTM BOK bibliography, which also reuses parts of 30+ of academic articles under CC BY or CC BY-SA, and references 100+ other academic references.
+
+Reference points to the FLOS specifications, and indicates the name of the first author, the vendor, or the government agency in the case of a method linked to a book, textbook, toolkit, or whitepaper. We do not indicate the author in the case of open source initiatives, professional associations, non-profit organizations, standards organizations, or research institutions.
+
+License refers to standard identifiers: https://spdx.org/licenses/
+
+
 | Line                 | Practice            | License                  | Type | Acronym     | Reference                                                                                                                                                                                                                                                                                                     |
 |----------------------|---------------------|--------------------------|------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                      | **3.1. Fabric**     |                          |      |             |                                                                                                                                                                                                                                                                                                               |
