@@ -48,8 +48,11 @@ Potential contribtors can learn from BOK editing practices in 5 pages under the 
 Please contact us to get involved:
 
 Stéphane Gagnon, Ph.D.
+
 Associate Professor
+
 Université du Québec en Outaouais (UQO)
+
 Gatineau, QC (near Ottawa, ON), Canada
 
 stephane.gagnon@uqo.ca
