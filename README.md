@@ -52,7 +52,7 @@ Associate Professor
 Université du Québec en Outaouais (UQO)
 Gatineau, QC (near Ottawa, ON), Canada
 
-mailto:stephane.gagnon@uqo.ca
+stephane.gagnon@uqo.ca
 
 https://gagnontech.org
 
