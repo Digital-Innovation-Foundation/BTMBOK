@@ -1,6 +1,6 @@
 The BTM BOK project was launched in Fall 2017 in partnership with ITAC,  MITACS and Université du Québec en Outaouais (UQO).
 
-![Primary Objectives](btm_bok_benefits_1232x665.png)
+![Main Objectives](btm_bok_main_objectives_2226x1070.png)
 
 Secondary objectives of the BTM BOK relate to supporting various Human Resources Management (HRM) and Talent Management processes.
 
