@@ -1,4 +1,6 @@
-The BTM BOK project was launched in Fall 2017 in partnership with ITAC,  MITACS and Université du Québec en Outaouais (UQO).
+# Objectives
+
+The BTM BOK project was launched in Fall 2017 [in partnership with ITAC, MITACS and Université du Québec en Outaouais (UQO)] (https://itac.ca/blog/itac-partnership-receives-funding-mitacs-btm-body-knowledge/).
 
 ![Main Objectives](btm_bok_main_objectives_2226x1070.png)
 
