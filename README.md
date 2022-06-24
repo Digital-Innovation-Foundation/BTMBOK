@@ -18,29 +18,19 @@ It is delivered in a single Eclipse Process Framework (EPF) Method Library and W
 
 BTM BOK doesn't reinvent the wheel, but instead intends to connect readily existing industry certifications and standards. We focus on specifications covering the whole range of Digital Transformation roles and tasks.
 
-![BTM BOK Practices](new-v2-fig-2-flos-sources.png "BTM BOK Practices")
-
 **References**
 
 We reuse contents from several academic and professional projects, whether from vendors, governments, associations, universities, or open source initiatives.
 
-![BTM BOK References](new-v2-fig-1-flos-sources.png "BTM BOK References")
-
-**Participation**
-
-Please join the BTM Forum if you wish to lend support in any way or contribute to the BTM BOK.
-
-Our editorial team is still being recruited, we would greatly appreciate your involvement:
-
 **Contact**
 
-Please contact the project leader for more information:
+Please contact us to get involved:
 
 Stéphane Gagnon, Ph.D., Associate Professor, Université du Québec en Outaouais (UQO), Gatineau, QC (near Ottawa, ON), Canada
 
 stephane.gagnon@uqo.ca
 
-http://gagnontech.org
+https://gagnontech.org
 
 https://www.linkedin.com/in/gagnon/
 
