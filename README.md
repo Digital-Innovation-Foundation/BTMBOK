@@ -22,7 +22,7 @@ BTM BOK doesn't reinvent the wheel, but instead intends to connect readily exist
 
 **References**
 
-We reuse contents from several academic and professional projects, whether from vendors, governments, associations, universities, or open source initiatives.
+We reuse contents from several academic and professional projects, whether from vendors, governments, associations, universities, or open source initiatives. All must be already published under a compatible open-source or open-access license.
 
 **Repo Contents**
 
