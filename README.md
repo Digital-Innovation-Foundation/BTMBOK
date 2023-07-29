@@ -12,7 +12,7 @@ Business Technology Management Body of Knowledge (BTM BOK)
 
 BTM BOK is a guide to the unified professions responsible to lead Digital Innovation, Transformation, and Entrepreneurship (DITE) projects. 
 
-BTM is a broader definition of DITE professional roles. It still includes primarily the traditional IS/IT management practices, generally located within the Chief Information Officer (CIO) branch. But BTM also integrates Out-of-IT roles, such as Chief Digital Officer (CDO), Digital Product Manager, Digital Marketing, Data Scientists, etc. It is also concerned about digital literacy among all other professional roles involved in DITE projects.
+BTM is a broader definition of DITE professional roles. It still includes primarily the traditional IS/IT management practices, generally located within the Chief Information Officer (CIO) branch. But BTM also integrates Out-of-IT roles, such as Chief Digital Officer (CDO), Digital Product Manager, Digital Marketing, Data Scientists, etc. It is also concerned about digital expertise among all other professional roles involved in DITE projects, and all business roles responsible to lead the "transformed" digital organization.
 
 BOK assets are delivered in a single Eclipse Process Framework (EPF) Method Library and Wiki, and reuse primarily 100+ CC BY-SA, EPL 1.0, & EUPL 1.2 references, with some under freer licenses such as CC-BY, Apache, and MIT.
 
