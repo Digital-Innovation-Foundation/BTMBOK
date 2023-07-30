@@ -51,7 +51,7 @@ Please contact us to get involved:
 - Associate Professor
 - Université du Québec en Outaouais (UQO)
 - Gatineau, QC (near Ottawa, ON), Canada
-- stephane.gagnon@uqo.ca
+- btm@gagnontech.org 
 - https://gagnontech.org
 - https://www.linkedin.com/in/gagnon/
 
