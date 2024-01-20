@@ -28,7 +28,7 @@ We reuse contents from several academic and professional projects, whether from 
 
 We are starting a new open-access courseware initiative for "introduction to IS/IT for managers", please consult the relevant page and join our community effort.
 
-[Courseware](courseware.md)
+__[Courseware](courseware/invitation.md)__
 
 **Repo Contents**
 
