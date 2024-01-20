@@ -24,6 +24,12 @@ BTM BOK doesn't reinvent the wheel, but instead intends to connect readily exist
 
 We reuse contents from several academic and professional projects, whether from vendors, governments, associations, universities, or open source initiatives. All must be already published under a compatible open-source or open-access license.
 
+**Courseware**
+
+We are starting a new open-access courseware initiative for "introduction to IS/IT for managers", please consult the relevant page and join our community effort.
+
+[Courseware](courseware.md)
+
 **Repo Contents**
 
 __[BTM-BOK-001](BTM-BOK-001)__
