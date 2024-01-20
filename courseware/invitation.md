@@ -37,7 +37,7 @@ Gagnon, Stéphane. (2022). "Digital Project Leadership and Talent Management in 
 
 https://aisel.aisnet.org/amcis2022/conf_theme/conf_theme/2
 
-![Digital Leadership](BTM-BOK-Outline-v4-diagram.png "Digital Leadership in As-Practice Perspective")
+![Digital Leadership](courseware/BTM-BOK-Outline-v4-diagram.png "Digital Leadership in As-Practice Perspective")
 
 **Outline**
 
