@@ -6,6 +6,8 @@ Teaching faculty and students in higher education require access to a new form o
 
 We invite the academic and practitioner community to work on a new free and open-access BTM courseware, all published under CC BY to ensure widest adoption and customization: 
 
+https://creativecommons.org/licenses/by/4.0/
+
 - Book (12 chapters)
 - Cases (3 per chapter, 2 small and 1 large)
 - Appendices (overviews: technologies, BTM, careers)
