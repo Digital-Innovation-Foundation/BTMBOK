@@ -16,6 +16,8 @@ BTM is a broader definition of DITE professional roles. It still includes primar
 
 BOK assets are delivered in a single Eclipse Process Framework (EPF) Method Library and Wiki, and reuse primarily 100+ CC BY-SA, EPL 1.0, & EUPL 1.2 references, with some under freer licenses such as CC-BY, Apache, and MIT.
 
+__[Please download this presentation for more details on the BTM initiative.](BTM-Intro-2024-01-05.pptx)__
+
 **Practices**
 
 BTM BOK doesn't reinvent the wheel, but instead intends to connect readily existing industry certifications and standards. We focus on specifications covering the whole range of Digital Transformation roles and tasks.
