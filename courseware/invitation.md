@@ -14,6 +14,7 @@ https://creativecommons.org/licenses/by/4.0/
 - Readings (links to resources)
 - Presentations (powerpoints)
 - Tutorials (videos)
+- Exams (samples)
 
 This suite of free and customizable assets will be published as complements to the BTMBOK, which has a different audience, being primarily an open index of BTM competencies, not a pedagogical tool, but valuable free contents to be reused-refactored into courseware.
 
@@ -27,7 +28,7 @@ Instead, we must explore how to improve the learning process and how best to hel
 
 The overall pedagogical philosophy could follow a more "pragmatic" approach to introducing digital leadership to non-IS/IT managers, or specialists of other business disciplines.
 
-Existing textbooks and intro courses tend to present Information Systems primarily as "theory and general knowledged", with practice elements covered in cases, mostly aligned to serve "illustrations of theory" as opposed to "building from practice".
+Existing textbooks and intro courses tend to present Information Systems primarily as "theory and general knowledge", with practice elements covered in cases, mostly aligned to serve "illustrations of theory" as opposed to "building from practice".
 
 This 2022 AMCIS paper proposes to adopt a "Digital-as-Practice" perspective, building upon and integrating other "as-practice" perspectives, e.g., Strategy, Project, Leadership, etc.
 
