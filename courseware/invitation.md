@@ -4,7 +4,7 @@
 
 Teaching faculty and students in higher education require access to a new form of textbook to introduce managers to digital leadership, with different scope of learning at undergrad and grad levels.
 
-We invite the academic and practitioner community to work on a new free and open-access BTM courseware: 
+We invite the academic and practitioner community to work on a new free and open-access BTM courseware, all published under CC BY to ensure widest adoption and customization: 
 
 - Book (12 chapters)
 - Cases (3 per chapter, 2 small and 1 large)
