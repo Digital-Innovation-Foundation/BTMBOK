@@ -63,6 +63,10 @@ Please contact us to get involved:
 - https://gagnontech.org
 - https://www.linkedin.com/in/gagnon/
 
+___
+
+![BTM Definition - Source Disciplines](BTM-definition.png "BTM BOK Outlline")
+
 
 
 
