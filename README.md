@@ -1,6 +1,6 @@
 # BTM BOK
 
-![BTM BOK Outlline](BTM-BOK-Outline-v4-diagram.png "BTM BOK Outlline")
+![BTM BOK Outlline](images/BTM-BOK-Outline-v4-diagram.png "BTM BOK Outlline")
 
 
 
@@ -16,7 +16,7 @@ BTM is a broader definition of DITE professional roles. It still includes primar
 
 BOK assets are delivered in a single Eclipse Process Framework (EPF) Method Library and Wiki, and reuse primarily 100+ CC BY-SA, EPL 1.0, & EUPL 1.2 references, with some under freer licenses such as CC-BY, Apache, and MIT.
 
-__[Please download this presentation for more details on the BTM initiative.](BTM-Intro-2024-01-05.pptx)__
+__[Please download this presentation for more details on the BTM initiative.](BTM-Introduction.pptx)__
 
 **Practices**
 
@@ -65,7 +65,7 @@ Please contact us to get involved:
 
 ___
 
-![BTM Definition - Source Disciplines](BTM-definition.png "BTM BOK Outlline")
+![BTM Definition - Source Disciplines](images/BTM-definition.png "BTM BOK Outlline")
 
 
 
