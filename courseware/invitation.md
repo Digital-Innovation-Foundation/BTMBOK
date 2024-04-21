@@ -1,4 +1,4 @@
-# BTM Courseware - Invitation
+# Open Access BTM Texbook and Courseware: Call to Action
 
 **Proposal**
 
